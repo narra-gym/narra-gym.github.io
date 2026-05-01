@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Narra Gym, train your story, train your form." />
+  <meta property="og:title" content="Narra Gym" />
+  <meta property="og:description" content="Train your story. Forge your form." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://narra-gym.github.io/" />
+  <meta name="theme-color" content="#0b0c10" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <title>Narra Gym</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    :root {
+      --bg: #0b0c10;
+      --bg-elev: #11131a;
+      --surface: #161823;
+      --text: #f3f4f6;
+      --muted: #9ca3af;
+      --subtle: #6b7280;
+      --accent: #ff6a3d;
+      --accent-2: #ffb199;
+      --border: rgba(255, 255, 255, 0.08);
+      --max: 1120px;
+      --radius: 16px;
+      --shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(600px circle at 15% 10%, rgba(255, 106, 61, 0.18), transparent 50%),
+        radial-gradient(700px circle at 85% 30%, rgba(120, 80, 255, 0.12), transparent 55%),
+        radial-gradient(500px circle at 50% 100%, rgba(255, 177, 153, 0.08), transparent 60%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; display: block; }
+
+    .container {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 0 24px;
+      position: relative;
+      z-index: 1;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      background: rgba(11, 12, 16, 0.6);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 0;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 800;
+      letter-spacing: -0.01em;
+      font-size: 1.05rem;
+    }
+
+    .logo-mark {
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      background: linear-gradient(135deg, var(--accent), #ff9469);
+      display: grid;
+      place-items: center;
+      color: #fff;
+      font-family: "Fraunces", serif;
+      font-weight: 700;
+      font-size: 0.95rem;
+      box-shadow: 0 6px 16px rgba(255, 106, 61, 0.4);
+    }
+
+    .nav ul {
+      list-style: none;
+      display: flex;
+      gap: 28px;
+      margin: 0;
+      padding: 0;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    .nav ul a:hover { color: var(--text); }
+
+    .nav-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 9px 16px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      font-size: 0.88rem;
+      color: var(--text);
+      transition: border-color 0.2s ease, background 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      border-color: rgba(255, 255, 255, 0.25);
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+    .hero {
+      padding: 120px 0 100px;
+      text-align: center;
+      position: relative;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: 24px;
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .eyebrow .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 10px var(--accent);
+    }
+
+    .hero h1 {
+      font-family: "Fraunces", serif;
+      font-weight: 700;
+      font-size: clamp(2.5rem, 6vw, 4.75rem);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      margin: 0 0 20px;
+    }
+
+    .hero h1 .grad {
+      background: linear-gradient(135deg, #ff8a63 0%, #ff6a3d 50%, #c9a4ff 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      font-style: italic;
+    }
+
+    .hero p.lede {
+      color: var(--muted);
+      font-size: 1.15rem;
+      max-width: 620px;
+      margin: 0 auto 36px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 13px 24px;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+      border: 1px solid transparent;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--accent), #ff8a63);
+      color: #fff;
+      box-shadow: 0 10px 30px rgba(255, 106, 61, 0.35);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 14px 36px rgba(255, 106, 61, 0.5);
+    }
+
+    .btn-ghost {
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text);
+      border-color: var(--border);
+    }
+
+    .btn-ghost:hover {
+      background: rgba(255, 255, 255, 0.07);
+      border-color: rgba(255, 255, 255, 0.18);
+    }
+
+    .btn svg { width: 16px; height: 16px; }
+
+    .stats {
+      margin-top: 80px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      max-width: 720px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .stat { text-align: center; }
+
+    .stat .num {
+      font-family: "Fraunces", serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .stat .label {
+      font-size: 0.85rem;
+      color: var(--subtle);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    section {
+      padding: 100px 0;
+      position: relative;
+    }
+
+    .section-head {
+      text-align: center;
+      margin-bottom: 56px;
+    }
+
+    .section-head h2 {
+      font-family: "Fraunces", serif;
+      font-weight: 700;
+      font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+      letter-spacing: -0.01em;
+      margin: 0 0 12px;
+    }
+
+    .section-head p {
+      color: var(--muted);
+      max-width: 560px;
+      margin: 0 auto;
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .feature {
+      background: linear-gradient(180deg, var(--surface), var(--bg-elev));
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 28px;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .feature::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(400px circle at var(--mx, 50%) var(--my, 0%), rgba(255, 106, 61, 0.08), transparent 40%);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+    }
+
+    .feature:hover {
+      transform: translateY(-4px);
+      border-color: rgba(255, 255, 255, 0.16);
+    }
+
+    .feature:hover::after { opacity: 1; }
+
+    .feature .icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      background: rgba(255, 106, 61, 0.12);
+      display: grid;
+      place-items: center;
+      color: var(--accent);
+      margin-bottom: 18px;
+    }
+
+    .feature .icon svg { width: 22px; height: 22px; }
+
+    .feature h3 {
+      font-size: 1.1rem;
+      margin: 0 0 8px;
+      font-weight: 600;
+    }
+
+    .feature p {
+      color: var(--muted);
+      margin: 0;
+      font-size: 0.95rem;
+    }
+
+    .showcase {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr;
+      gap: 64px;
+      align-items: center;
+    }
+
+    .showcase h2 {
+      font-family: "Fraunces", serif;
+      font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+      line-height: 1.15;
+      margin: 0 0 18px;
+      letter-spacing: -0.01em;
+    }
+
+    .showcase p {
+      color: var(--muted);
+      margin: 0 0 28px;
+    }
+
+    .checklist {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 14px;
+    }
+
+    .checklist li {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      color: var(--text);
+      font-size: 0.96rem;
+    }
+
+    .checklist svg {
+      width: 18px;
+      height: 18px;
+      color: var(--accent);
+      flex-shrink: 0;
+      margin-top: 4px;
+    }
+
+    .visual {
+      aspect-ratio: 4 / 5;
+      border-radius: 24px;
+      background:
+        linear-gradient(135deg, rgba(255, 106, 61, 0.25), rgba(120, 80, 255, 0.18)),
+        linear-gradient(180deg, #1a1d28, #0e1018);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .visual::before {
+      content: "";
+      position: absolute;
+      inset: -1px;
+      background: radial-gradient(circle at 30% 20%, rgba(255, 106, 61, 0.4), transparent 50%);
+      pointer-events: none;
+    }
+
+    .visual-quote {
+      position: absolute;
+      bottom: 32px;
+      left: 32px;
+      right: 32px;
+      font-family: "Fraunces", serif;
+      font-style: italic;
+      font-size: 1.5rem;
+      line-height: 1.3;
+      color: var(--text);
+    }
+
+    .visual-quote span {
+      display: block;
+      margin-top: 12px;
+      font-family: "Inter", sans-serif;
+      font-style: normal;
+      font-size: 0.85rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .cta-box {
+      background: linear-gradient(135deg, rgba(255, 106, 61, 0.12), rgba(120, 80, 255, 0.08));
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 64px 40px;
+      text-align: center;
+    }
+
+    .cta-box h2 {
+      font-family: "Fraunces", serif;
+      font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+      margin: 0 0 14px;
+    }
+
+    .cta-box p {
+      color: var(--muted);
+      margin: 0 0 28px;
+      max-width: 480px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 40px 0;
+      color: var(--subtle);
+      font-size: 0.88rem;
+    }
+
+    .foot {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .foot a:hover { color: var(--text); }
+
+    .social {
+      display: flex;
+      gap: 14px;
+    }
+
+    .social a {
+      width: 34px;
+      height: 34px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      color: var(--muted);
+      transition: color 0.2s, border-color 0.2s;
+    }
+
+    .social a:hover {
+      color: var(--text);
+      border-color: rgba(255, 255, 255, 0.25);
+    }
+
+    .social svg { width: 16px; height: 16px; }
+
+    @media (max-width: 860px) {
+      .features { grid-template-columns: 1fr; }
+      .showcase { grid-template-columns: 1fr; gap: 40px; }
+      .stats { grid-template-columns: repeat(3, 1fr); gap: 16px; }
+      section { padding: 72px 0; }
+      .hero { padding: 80px 0 60px; }
+      .nav ul { display: none; }
+    }
+
+    @media (max-width: 480px) {
+      .stats { grid-template-columns: 1fr; gap: 24px; }
+      .cta-box { padding: 44px 24px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <a href="#" class="logo">
+        <span class="logo-mark">N</span>
+        <span>Narra Gym</span>
+      </a>
+      <ul>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#story">Story</a></li>
+        <li><a href="#join">Join</a></li>
+      </ul>
+      <a href="#join" class="nav-cta">
+        Get started
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="eyebrow">
+          <span class="dot"></span>
+          Now in open beta
+        </div>
+        <h1>
+          Train your story.<br />
+          <span class="grad">Forge your form.</span>
+        </h1>
+        <p class="lede">
+          Narra Gym is a quiet place for people who treat practice as craft. Build habits worth telling, one rep at a time.
+        </p>
+        <div class="actions">
+          <a href="#join" class="btn btn-primary">
+            Start training
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+              <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+          <a href="#story" class="btn btn-ghost">Read the manifesto</a>
+        </div>
+
+        <div class="stats">
+          <div class="stat">
+            <div class="num">12k+</div>
+            <div class="label">Sessions logged</div>
+          </div>
+          <div class="stat">
+            <div class="num">38</div>
+            <div class="label">Countries</div>
+          </div>
+          <div class="stat">
+            <div class="num">4.9</div>
+            <div class="label">Member rating</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="features">
+      <div class="container">
+        <div class="section-head">
+          <h2>Built for the long arc</h2>
+          <p>A small set of well chosen tools to keep you showing up, week after week.</p>
+        </div>
+
+        <div class="features">
+          <div class="feature">
+            <div class="icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 12h4l3-9 4 18 3-9h4" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <h3>Programmed paths</h3>
+            <p>Curated training arcs that adapt as your capacity grows. No guesswork, no fluff.</p>
+          </div>
+
+          <div class="feature">
+            <div class="icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2M9 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <h3>Quiet community</h3>
+            <p>A small circle of practitioners who care more about the work than the noise around it.</p>
+          </div>
+
+          <div class="feature">
+            <div class="icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z M14 2v6h6 M16 13H8 M16 17H8 M10 9H8" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <h3>Narrative journals</h3>
+            <p>Turn each session into a line in a longer story you can read back months later.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="story">
+      <div class="container">
+        <div class="showcase">
+          <div>
+            <h2>Practice is a kind of writing.</h2>
+            <p>
+              Every set is a sentence. Every week, a paragraph. Narra Gym treats your training log as a manuscript, the kind you would want to revisit a decade from now.
+            </p>
+            <ul class="checklist">
+              <li>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Daily prompts that take less than two minutes
+              </li>
+              <li>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Weekly retrospectives, written by you, prompted by us
+              </li>
+              <li>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                Yearly archives in plain text, yours forever
+              </li>
+            </ul>
+          </div>
+
+          <div class="visual">
+            <div class="visual-quote">
+              "The discipline is the story. The body is the page."
+              <span>Narra Gym, founding note</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="join">
+      <div class="container">
+        <div class="cta-box">
+          <h2>Begin your first chapter.</h2>
+          <p>Free while in beta. No tracking, no ads, no nudges. Just the work.</p>
+          <a href="https://github.com/narra-gym" class="btn btn-primary">
+            Join on GitHub
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+              <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container foot">
+      <div>&copy; 2026 Narra Gym. Crafted with care.</div>
+      <div class="social">
+        <a href="https://github.com/narra-gym" aria-label="GitHub">
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.1.79-.25.79-.56v-2c-3.2.7-3.87-1.37-3.87-1.37-.52-1.33-1.27-1.68-1.27-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.68 1.24 3.34.95.1-.74.4-1.24.72-1.53-2.55-.29-5.24-1.28-5.24-5.69 0-1.26.45-2.28 1.18-3.08-.12-.29-.51-1.46.11-3.04 0 0 .97-.31 3.18 1.18a11 11 0 0 1 5.78 0c2.21-1.49 3.18-1.18 3.18-1.18.62 1.58.23 2.75.11 3.04.74.8 1.18 1.82 1.18 3.08 0 4.42-2.69 5.39-5.25 5.68.41.36.78 1.06.78 2.13v3.16c0 .31.21.67.8.56A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/>
+          </svg>
+        </a>
+        <a href="mailto:hello@narra-gym.com" aria-label="Email">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z M22 6l-10 7L2 6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelectorAll(".feature").forEach((el) => {
+      el.addEventListener("mousemove", (e) => {
+        const r = el.getBoundingClientRect();
+        el.style.setProperty("--mx", `${e.clientX - r.left}px`);
+        el.style.setProperty("--my", `${e.clientY - r.top}px`);
+      });
+    });
+  </script>
+</body>
+</html>
