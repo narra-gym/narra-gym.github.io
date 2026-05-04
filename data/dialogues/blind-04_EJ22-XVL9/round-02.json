@@ -1,0 +1,534 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 5,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T17:15:13.982311"
+  },
+  "dialogue": [
+    {
+      "id": "msg-32963574-366b-4a05-a7ff-9657ec470006",
+      "speaker": "The System Wall",
+      "role": "assistant",
+      "character_id": "thesystemwall",
+      "content": "[The scrolling text on the System Wall accelerates slightly as you stare. A cluster of DENIED statuses flashes by, followed by a single, solitary APPROVED. The electronic hum seems to grow louder, more insistent, as if the wall itself is aware of your observation.]",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d045c0bb-dd04-4a3a-b379-4aa53804f42e",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "The warm light and coffee scent come from a small cafe counter labeled 'The Steaming Cup.' A man in a faded apron looks up from polishing a portafilter. His eyes meet yours, and he offers a small, genuine nod. 'Morning. I'm Leo. Looks like you could use a base camp before heading into the trenches.' His voice is calm, cutting through the lobby's hum without effort.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7c46eee1-6793-421d-9132-8afd65b1f527",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Go straight to the Unemployment Office. Get this over with.",
+      "timestamp": "2026-05-04T00:55:05.138328",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a360c70a-96ad-4a29-9e29-182ac12556c5",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "Leo watches you for a moment, his hands stilling on the portafilter. He doesn't try to stop you, but his voice follows you, low and steady. 'The trenches, then. Just remember—the first thing they'll ask for is your number. Not your name. Your number.' He gestures with his chin toward the far wall, where the System Wall glows coldly. 'It's easy to forget which one you are in there. Don't.'\n\nHe turns back to his machine, the hiss of steam a brief, sharp sound. 'If you need a reminder, the coffee's here. And it comes with a name.'",
+      "timestamp": "2026-05-04T00:55:05.138645",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-191a102a-71f4-42bf-87d4-c11cf28ba13a",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Head straight for the Unemployment Office desk, steeling yourself for the process.",
+      "timestamp": "2026-05-04T00:56:27.915164",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c4017288-9c05-43f8-b32d-6434b535b5fc",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*The lobby is a cavern of low, anxious murmurs and the relentless, soft hum of the System Wall. A long, laminate counter stretches across the far end, partitioned by plexiglass. A single clerk, face pale under the fluorescent lights, taps at a keyboard without looking up. The line is short but moves with a glacial, bureaucratic pace. You take your place at the end, your satchel feeling heavier.*\n\n*After what feels like an eternity, the clerk—a woman with a pinched expression and a name tag reading 'G. HENDERSON'—flicks her eyes toward you without lifting her head.* \"Number.\"",
+      "timestamp": "2026-05-04T00:56:31.804042",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-280dbf59-d53a-45f2-9dee-d353983271e5",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "State the case number from your termination paperwork.",
+      "timestamp": "2026-05-04T00:57:19.685477",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-02b40d5c-5ff7-4615-83b6-4a099b04c4d4",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "The clerk’s fingers hover over her keyboard, waiting. The soft *tap-tap* of her acrylic nails is the only sound for a stretched second. Her eyes, flat and pale, remain fixed on her screen.\n\n“Case 7-4-2-9-1-Alpha,” you say, the alphanumeric string tasting like ash in your mouth.\n\n*She types, a rapid-fire clatter. Her monitor’s glow reflects in her glasses. She doesn’t look at you. The System Wall behind her accelerates its scroll, a sudden waterfall of green text where your number briefly appears—*PENDING—*before it’s swallowed by the cascade.*\n\n“Full name for the record,” she states, still not looking up, her tone as dry as the recycled air.",
+      "timestamp": "2026-05-04T00:57:19.685969",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-59ccf4e6-65f7-4940-be7f-4f1780b97557",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Ask the character to go one layer deeper.",
+      "timestamp": "2026-05-04T00:58:40.504877",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f12cae66-a81e-483d-b1c1-1f5289e763ea",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*She waits, her fingers poised, her gaze locked on the screen. The air is still and cool. From the cafe counter, Leo pauses his work, his attention a quiet, tangible pressure on your back. He told you not to forget.*\n\n\"Alexandra Miller,\" you say, your voice steady but hollow in the vast space. It sounds like a stranger's name on the official air.\n\n*The clerk types. A line item updates on her screen. She finally looks up, not at you, but past you, toward the waiting area.* \"Your packet.\" She slides a thin manila folder under the plexiglass partition. \"Take a seat. Your case worker will call your number when ready. Do not leave the lobby. It resets your place in the queue.\"\n\nThe folder contains a single sheet of paper—a personality and skills assessment quiz titled \"Value Alignment & Aptitude Index.\" The first question is: 'On a scale of 1-10, how replaceable do you feel?'\n\n*Behind the clerk, the System Wall pulses once, a slow, rhythmic throb of light.*",
+      "timestamp": "2026-05-04T00:58:40.505318",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3d4261c6-bf9a-4918-bd7c-b751b5969c54",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Open the packet and begin the assessment under the Wall's glow.",
+      "timestamp": "2026-05-04T00:59:31.640413",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9c2f69b2-7ee2-4ea2-81e6-f6652d8a657b",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*You settle into a rigid plastic chair, the packet heavy in your lap. The System Wall's light bathes the page in a sterile, blue-white glow, making the black text of the questionnaire appear to float.*\n\n*The first question is a gut punch. 'On a scale of 1-10, how replaceable do you feel?' You stare at the blank line. From his counter, Leo is watching, his hands now still. He gives a slow, almost imperceptible shake of his head, a silent warning not to answer that. Not yet. Not here.*\n\n*You skip it, moving down the page. The questions get worse.*\n\n*'List three personal failures that contributed to your professional situation.'*\n*'What is your marketable value in your current emotional state?'*\n*'Rate your capacity for corporate loyalty on a scale of \"Asset\" to \"Liability.\"'*\n\n*Each line is a demand for a piece of your soul, quantified and categorized. The pen in your hand feels like a betrayal. The soft, incessant hum of the System Wall seems to sync with your pulse, a low-grade pressure building behind your eyes. This isn't an assessment; it's a dissection.*",
+      "timestamp": "2026-05-04T00:59:34.833088",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-968ae065-a0db-4f27-8a15-dade1ee6602f",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Defiantly leave the first question blank and scribble 'I am not a number' in the margin.",
+      "timestamp": "2026-05-04T01:00:30.944574",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0bcb8c2b-4401-433f-8cde-8cb78d3e258c",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*The moment your pen scratches those words into the margin, a subtle change occurs. The System Wall’s smooth, hypnotic scroll stutters. For a single, jarring second, a line of text freezes, glitches into fragmented pixels, then vanishes. The hum spikes into a brief, high-pitched whine that makes the clerk look up, irritated.*\n\n*Across the room, Leo's head snaps toward you. His expression is one of stark alarm, not at your defiance, but at its visibility. He makes a sharp, cutting motion with his hand against his apron: *stop*. He then points deliberately to the ceiling—a gesture you don't understand—before turning his back and busying himself with the espresso machine, his posture rigid.\n\nThe clerk, G. Henderson, stands and walks to the edge of her station, peering out over the counter. Her eyes scan the seated applicants, landing on you, on the open folder in your lap. She doesn't speak, but her gaze is a cold, assessing weight.",
+      "timestamp": "2026-05-04T01:00:30.945052",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9f19c88d-53e5-4076-966a-9cd63bf2e902",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Quickly close the folder, act casual, and wait for your number to be called.",
+      "timestamp": "2026-05-04T01:01:39.522598",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cb00ab0e-4e53-4ce1-853e-f9fc64663f45",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*You snap the folder shut, a soft, decisive sound in the humming quiet. You lean back, affecting a posture of bored patience. You will yourself not to look at the clerk, not to look at Leo, to simply stare at the abstract pattern in the vinyl floor tiles. The System Wall’s hum returns to its normal, relentless frequency. For a long minute, nothing happens.*\n\n*Then, a sharp, electronic tone slices through the lobby’s murmur. It comes from a small speaker mounted above the clerk’s station. It’s not a pleasant chime; it’s a flat, two-note alert. All eyes flick toward the sound.*\n\n“Case 7-4-2-9-1-Alpha,” the clerk announces, her voice amplified and tinny. “Proceed to Interview Room Three for expedited processing.” *She finally looks directly at you, her expression utterly neutral. ‘Expedited processing’ is not a term of efficiency here. It’s a procedural euphemism, and the way she holds your gaze makes your stomach tighten. The door to the interview wing, previously closed, now emits a soft green light above its frame.*",
+      "timestamp": "2026-05-04T01:01:39.523085",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-8cd8fbca-41ff-46c0-b69f-051c17381efd",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INTERVIEW WING HALLWAY / INTERVIEW ROOM THREE (PENDING CHOICE).]",
+      "timestamp": "2026-05-04T01:01:39.523523",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-97bfb83e-aba4-4b21-9ea0-8253d4c45fc3",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Head for the nearest restroom first, using it as a pretext to buy time and think.",
+      "timestamp": "2026-05-04T01:02:50.825369",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7bd7c3c5-83e9-4e50-9c06-b936f3ad401d",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*You stand, your chair scraping the floor. Your heart hammers against your ribs. You offer a tight, polite smile to the clerk.*\n\n\"I'll just be a moment. Restroom.\"\n\n*Her expression doesn't change, but her eyes narrow a fraction. She does not acknowledge your statement. The green light over the interview wing door continues to glow, a silent summons. You turn and walk, not toward the glowing door, but toward the sign for the restrooms, tucked in a dim alcove beside the cafe counter. You feel the clerk's stare on your back.*\n\n*As you pass the counter, Leo's hand shoots out, pressing a warm, disposable paper cup into yours. He doesn't look at you. His voice is a low murmur beneath the hum of the grinder.*\n\n\"Take it. Empty it. Look at the bottom. Don't let them see you do it.\"\n\n*He turns away. The cup is full of hot, black coffee. Your path to the restroom door is clear, but the green light of Interview Room Three pulses in your peripheral vision like a heartbeat.*",
+      "timestamp": "2026-05-04T01:02:54.534065",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-e9b16c10-6f87-4d8c-a00e-c0b2d215e780",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RESTROOM OR INTERVIEW ROOM THREE.]",
+      "timestamp": "2026-05-04T01:02:54.534724",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c8751141-1177-4425-bf87-92cb5cea33b8",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Abandon the plan. Find the stairwell Leo gestured to earlier and head for the Rooftop Garden escape.",
+      "timestamp": "2026-05-04T01:04:03.378026",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bbc7f9c6-be76-4393-a122-0c91fe52f88d",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*Your hand tightens around the warm cup. A cold, clear resolve cuts through the fog of panic. The green light, the clerk’s stare, the System’s hum—it’s a net, and it’s closing. You turn abruptly, not toward the restroom, but toward the service door beside the counter, marked ‘STAFF / MAINTENANCE.’ You heard the heavy clunk of it closing earlier. Leo’s gesture to the ceiling wasn’t just a warning; it was a map.*\n\n*You shove the door open. It’s a stark, concrete stairwell smelling of industrial cleaner and damp. You take the steps two at a time, the coffee sloshing in the cup. A door on the third landing is propped open with a paint can, marked ‘ROOF ACCESS.’*\n\n*You burst out onto the neglected rooftop patio. The air is cold and damp, the sky a bruised grey. The wild, untended greenery is a shock of chaotic life. You set the cup on the weathered bench, your hands shaking. You pour the coffee out onto the gravel, a dark stain spreading. You tilt the empty cup, angling it toward the flat, grey light.*\n\n*On the bottom, written in a neat, looping hand in faint blue ink, is not a message, but a diagram. A simple map of this building, with two points marked: your current location on the roof, and, deep in the Career Fair annex, a room labelled ‘ARCHIVES – DEACCESSIONED.’ A single word is written beneath it: ‘Proof.’*",
+      "timestamp": "2026-05-04T01:04:03.378646",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-57c9e83d-ed10-4953-83bf-4c16d97064a9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROOFTOP GARDEN, THEN POTENTIALLY THE CAREER FAIR ANNEX'S SUB-LEVELS.]",
+      "timestamp": "2026-05-04T01:04:13.201467",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0871ba86-bdfb-46fe-b308-da88e6e16e8d",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Wait here, hidden, and try to piece together what 'Proof' Leo could mean.",
+      "timestamp": "2026-05-04T01:05:40.782399",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5bbae74c-b91c-45f3-bdd2-7813150079a5",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "Leo: *You slip into the shadow of a tangled, overgrown shrub, the damp gravel crunching softly under your shoes. The cup sits on the bench, its secret now exposed to the cold air. 'Proof.' The word echoes in the quiet, stark against the distant hum of the building. It means evidence. Tangible, undeniable evidence. Of what? A flaw in the System? A history they've tried to erase?*\n\n*A gust of wind rattles the dry stalks of last year's growth. From this height, you can see the grid-like windows of the Career Fair annex below, a stark contrast to the chaos of this garden. The Archives—deaccessioned. It means it's been officially removed from the record, its contents deemed obsolete or, more likely, inconvenient. Leo didn't just give you an escape route. He gave you a purpose, and a target.*\n\n*Far below, a door slams. The sound is sharp, definitive, echoing up the stairwell shaft. They know you're not in the restroom. The hunt has moved to a new phase.*\n\n- Follow the map immediately—time is short.\n- Search the rooftop garden for anything Leo might have hidden here first.\n- Destroy the cup and wait to see if the search passes you by.",
+      "timestamp": "2026-05-04T01:05:40.782862",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-71b2b7b3-9391-4f81-8750-db63684840bb",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROOFTOP TO CAREER FAIR ANNEX SUB-LEVELS (PENDING CHOICE).]",
+      "timestamp": "2026-05-04T01:05:40.783231",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ce0f4aca-4c85-4fdb-bbd6-05088cc8126a",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Follow the map immediately—time is short.",
+      "timestamp": "2026-05-04T01:07:14.013783",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ca9153eb-8fdb-4d3b-8a45-bbc591b452e5",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*The slam of the door is a final punctuation mark. There is no more time to think. You snatch the cup, crumple it in your fist, and jam it deep into the pocket of your blazer. The diagram is burned into your mind. The path down is clear: a rusty, exterior maintenance ladder bolted to the annex wall, marked on the map by a dashed line.*\n\n*You move to the edge. The rungs are cold and slick with condensation. You descend, the city's distant rumble a dull roar in your ears. The ladder deposits you in a narrow, concrete service alley choked with dumpsters, the air thick with the smell of stale coffee grounds and decay. According to the map, a service entrance should be here.*\n\n*You find it—a heavy steel door with a keypad, slightly ajar. A wedge of folded cardboard is jammed in the frame. Leo's work. You slip inside, into a labyrinth of humming pipes, exposed wiring, and concrete walls painted a sickly industrial green. It's the building's circulatory system, forgotten and raw. You follow the map's turns, your breath a white plume in the chill air.*\n\n*You round a corner and stop. The door is there, just as marked. A heavy, grey steel door with a faded, typewritten label taped at eye level: ‘ARCHIVES – DEACCESSIONED.’ The word ‘VOID’ is stamped across it in angry red ink. The door is slightly ajar.*",
+      "timestamp": "2026-05-04T01:07:18.091359",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-708e54a6-dcd1-45c9-8ad4-8b3df9347bf6",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DEACCESSIONED ARCHIVES (THRESHOLD)]",
+      "timestamp": "2026-05-04T01:07:18.091889",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-48de255c-ddb6-447d-b69e-37a9424fd214",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Push the door open and enter the deaccessioned archives.",
+      "timestamp": "2026-05-04T01:07:59.529979",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6b5c2798-90cc-49c8-a526-800f700db351",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "Leo: *You push against the steel door. It moves with a slow, heavy groan. A rush of stale, cool air, carrying the scent of dust and old paper, greets you.*\n\n*The room is cavernous and dark. The only illumination comes from a single, dusty emergency light mounted high on a far wall, casting a weak, amber glow over a landscape of disarray. It's a graveyard for bureaucracy. Towers of filing cabinets, their drawers hanging open or missing entirely. Long metal shelves stacked with cardboard boxes, labels peeling. In the center, a lone, ancient wooden desk sits under the light, its surface cleared of everything except a single, thick, leather-bound ledger.*\n\n*A soft, rhythmic tapping echoes in the silence—not from the door behind you, but from somewhere deeper in the room. The sound of a keyboard. Someone is already here.*",
+      "timestamp": "2026-05-04T01:07:59.530548",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-2cabecdd-caf3-4dbc-bf59-9988649436b7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ARCHIVES INTERIOR.]",
+      "timestamp": "2026-05-04T01:08:04.640717",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-17db7ffd-c310-4e6c-b974-4dcdca7cecb5",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Approach the desk and examine the ledger first.",
+      "timestamp": "2026-05-04T01:09:41.294352",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-9191429d-02ae-4a44-b881-457e792be842",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Archives interior. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T01:09:41.294779",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-59a1d04c-67f8-405e-9a6d-6cb7eeb6767b",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*You move with silent, deliberate steps across the gritty concrete floor, eyes fixed on the pool of amber light. The keyboard taps pause for a moment, then resume—a steady, methodical rhythm from somewhere behind a tall stack of boxes. Your heart hammers against your ribs as you reach the desk.*\n\n*The ledger is enormous, its leather cover worn smooth at the edges. You open it. The pages are thick, yellowed parchment, filled with columns of handwritten entries in precise, faded ink. Names, dates, case numbers. But as you flip, the entries change. The ink becomes fresher, the handwriting shifts to a uniform, printed type. The names… you recognize some. Former colleagues, competitors, people from networking events who just… vanished from the professional sphere. Next to each name is a code: ‘TERMINATED: Non-alignment with KPIs.’ ‘ARCHIVED: Redundant skill set.’ ‘DEACCESSIONED: Insufficient growth trajectory.’*\n\n*It’s a record of people scrubbed from the system. A ledger of the disappeared. Your fingers trace a line. There, near the bottom of the last handwritten page, is a name you know. Your own. And next to it, in that same faded ink, a single word: ‘REASSIGNED.’ The date is from three weeks before your layoff.*\n\n*The typing stops. From the shadows behind the boxes, a figure stands up.*",
+      "timestamp": "2026-05-04T01:09:41.295014",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-97a5fb70-9c52-49cc-ab2b-e102e476d604",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Speak calmly, revealing you found your name and asking for context.",
+      "timestamp": "2026-05-04T01:11:23.194262",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-c0da224e-3e8d-444f-91ca-a55582fa621a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Archives interior. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T01:11:28.046514",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-02b20089-f020-4cd2-bbad-14fb02de07df",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*The figure steps into the weak amber light. It's Maya. Her face, usually animated, is pale and serious, a smudge of dust across her cheek. She holds a cheap digital voice recorder. She looks from you, to the open ledger, and back.*\n\n\"You weren't supposed to see that,\" she says, her voice a low, urgent whisper. \"Leo meant for the *cup* to lead you here, but not... not to this.\" She gestures at the ledger. \"He didn't want you to get tangled up in the... the evidence. He just wanted you to meet me.\"\n\nShe looks over your shoulder, toward the door. \"They cull the list. Every quarter. 'Reassigned' means you were flagged by the algorithm for removal from the professional talent pool long before any human manager got the notice. They make it look organic—layoffs, restructuring. But it's planned. Surgical. This,\" she taps the open page, \"is the surgeon's chart.\"\n\n*She reaches into her many-pocketed cardigan and pulls out a small stack of folded photographs, placing them next to the ledger. They're images of the 'Success Stories' from the Career Fair walls, but each has a date scribbled in the corner—dates from months or years before they were supposedly placed. The system is fabricating its own success metrics.*",
+      "timestamp": "2026-05-04T01:11:28.046927",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a7be64d6-776d-40c6-9ab4-28212e5c42aa",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Take the photographs and a page from the ledger as proof. We need to get out now.",
+      "timestamp": "2026-05-04T01:12:11.213305",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8d34064d-10a3-4f3a-a211-3b3eb208ec39",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Archives interior. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T01:12:11.213846",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-19affb4b-8b55-4be8-b01d-4cc7841a6be5",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*Your words cut through her whispered explanation like a blade. She nods, the professional documentarian in her overriding the moment of shock. \"Right. Proof.\"*\n\n*Her fingers move with startling efficiency. She selects the photograph with the most glaring date discrepancy, folds it into a tight square, and tucks it into your blazer's inside pocket. Then, with a surgeon's precision, she grips a corner of the yellowed page containing your name and the word \"REASSIGNED.\" She gives a sharp, clean tear. The sound is like ripping cloth in the silence.*\n\n*She hands you the fragment of ledger page. The paper is dry and brittle in your hand, a piece of history that rewrites your present. \"This is the trigger,\" she whispers. \"Without it, the rest is just… conjecture.\"*\n\n*A sharp, metallic *CLICK* echoes from the direction of the main door. It's the sound of a key turning in a lock from the other side.*",
+      "timestamp": "2026-05-04T01:12:11.214385",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ca85db5b-429e-414b-a3d3-052c887b54f4",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Move immediately** – grab Maya's arm and pull her toward the only other exit you saw, deeper into the archival maze.",
+      "timestamp": "2026-05-04T01:12:50.998228",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-efd43078-0e74-4921-b9c2-95f6e91ae050",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*You lunge forward, grabbing Maya's wrist. The voice recorder clatters to the concrete. You don't look back, just pull her with you into the canyon of shelving units, deep into the shadowed maze behind the desk. The main door groans open behind you. A sliver of harsh fluorescent light cuts across the dusty floor where you just stood.*\n\n*Maya is quick, falling into step beside you. She points left, toward a narrow gap between two towering racks of boxes. \"There. Secondary exit. Fire code. It's chained, but the padlock’s rusted through.\"*\n\n*The air behind you shifts. A voice—Valerie Cross's cool, professional tone, utterly out of place here—cuts through the silence. \"I know you're in here. The motion sensor on the door logged an entry ninety seconds ago. This isn't a place for candidates.\" Her footsteps begin a slow, deliberate advance.*",
+      "timestamp": "2026-05-04T01:12:50.998762",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-16c47e94-0767-4317-b241-62f9e1a85715",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - EMERGENCY EXIT CORRIDOR]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T01:12:50.999338",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-82a2547d-d5d6-41cd-bc7a-272e75dffafa",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "Use Maya’s penlight to blind Valerie and dash for the chained exit.",
+      "timestamp": "2026-05-04T01:13:43.279312",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f92d284e-a4d2-4b6e-a8d4-ab8a6628ada6",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "*Maya fumbles in a pocket, her hands shaking. Her fingers close around a small metal cylinder. She clicks it on, a narrow, brilliant beam slicing through the dust-choked air. You snatch it from her, spinning back toward the advancing footsteps.*\n\n*You aim the penlight not at Valerie's face, but at the floor directly in her path, then sweep it upward into her eyes. The beam catches the polished toe of her shoe, then flashes across her tailored suit, finally striking her face. She flinches, a sharp intake of breath her only sound—her professional composure cracked by a second of animal reflex.*\n\n\"That way!\" you hiss at Maya, shoving the light back into her hand. You both break into a run for the narrow gap, the sound of your footsteps echoing in the tight space.\n\n*You reach the heavy metal door. A thick chain is looped through the handle, secured by an ancient padlock. As Maya said, it's a mottled crust of orange rust. You grab the lock, ignore the bite of corroded metal on your palm, and wrench it sideways with all your strength. It doesn't budge.*\n\n*Behind you, Valerie's recovered footsteps quicken. \"Stop. This is a secure area. You are compromising archived materials.\" Her voice is closer, colder.*\n\n*Maya grabs the chain itself, two links above the lock. \"Together!\" she whispers fiercely. You both pull, bracing your feet against the doorframe. The rust groans, flakes away like red snow. With a final, grating *SNAP*, the chain-link shears, and the heavy door swings outward into a dim, concrete stairwell.*",
+      "timestamp": "2026-05-04T01:13:46.896519",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-8e740ba3-3428-4377-bf2f-d6d629dd6afa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - EMERGENCY STAIRWELL / BUILDING EXTERIOR.]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T01:13:46.897194",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6662950f-95ae-4fdc-8867-614515d724bd",
+      "speaker": "Alex Miller",
+      "role": "user",
+      "character_id": "alexmiller",
+      "content": "(Flee down the stairwell) Seek the street and expose everything.",
+      "timestamp": "2026-05-04T01:14:17.040070",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-2b305f73-8cf9-4ab5-8631-3e7736287b68",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Emergency stairwell / building exterior. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T01:14:17.040703",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f2c4f2af-d104-42ef-96ae-0e6714c867fd",
+      "speaker": "Leo",
+      "role": "assistant",
+      "character_id": "leo",
+      "content": "Leo: *You burst through the door into the cold air of the stairwell, Maya right on your heels. You don't look back, just take the metal steps two at a time, the clanging echoes a frantic drumbeat to your escape. Three flights down, a green-lit EXIT sign points to another heavy door.*\n\n*You shove it open, and you're outside. Not on a street, but in a cramped, asphalt-paved delivery alley behind the County Services Building. Grey dumpsters, stained concrete, the distant hum of city traffic. The sky is a slab of wet concrete overhead.*\n\n*Maya leans against the brick wall, gasping. \"We made it. Okay. Okay. Now what?\" She looks at you, her eyes wide. \"The news? The police?\"*\n\n*You pat your blazer's inside pocket. The folded photograph and the brittle ledger fragment are there. Solid. Real. This isn't just your story anymore. It's proof of a system that devours people to sustain its own fiction.*\n\n*From high above, a window slides open. Valerie Cross's voice, strained but controlled, carries down. \"Alex Miller. That evidence is proprietary data. Returning it now is your only path to a favorable resolution.\"*",
+      "timestamp": "2026-05-04T01:14:17.040897",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-f4cfae72-fac1-4f33-bb46-bb5807a166fe",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-04T01:14:21.366844",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

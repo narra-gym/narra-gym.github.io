@@ -1,0 +1,534 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 4,
+      "story_surprise": 2,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T10:35:24.757704"
+  },
+  "dialogue": [
+    {
+      "id": "msg-a39a64a6-ae62-45b7-aece-cec71a3054cd",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "I'm Greta — your mother, though I shouldn't have to introduce myself in my own kitchen. Coffee's on. The good stuff, not that instant powder you brought back from Chicago that tastes like it was brewed through a newspaper.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a7648f4b-8a57-4a2f-b92c-a8e774c33211",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "I'm Casey. Your child. The one who used to drink that 'newspaper coffee' every morning and call it sophisticated. Remember?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f0dc4118-e7d6-46b8-8d2a-6bbfb787667c",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "I remember a lot of things. Like how you used to sit at this same table and tell me about all the places you'd go. You had a list. New York. San Francisco. London, once, after you saw that documentary about the BBC. Said you were going to work in radio, make people feel things with your voice.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-26dc5f59-7e44-469e-bf12-261ee93e9c4c",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "I did work in radio. Public radio. I produced segments. Interviewed people. Made them feel heard.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b26ba7ae-e503-4e6e-823f-b0f428cb5637",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "I know. I listened to every single one. Stayed up late sometimes, streaming that Chicago station on my phone until the data ran out. Your father too, before he passed. He wouldn't admit it, but I'd catch him in the garage, listening to you interview some poet or politician or whoever, and he'd have that look on his face — like he was proud of something he didn't quite understand.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3f00ba4c-2faf-45c7-b4ae-0526c879f17b",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Mom —",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2593d14a-46e0-4b82-9f1f-5bd7e1d47e36",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "I'm not saying anything. Just remembering. That's allowed, isn't it? Speaking of — I ran into Darlene Kowalski at church yesterday. You remember Darlene. Her daughter Melissa got on at that call center out by the highway. Good benefits. Steady hours. They're still hiring, if you can believe it. In this economy.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d802dcd-72ed-4836-8144-0a445384f11f",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "A call center. You want me to work at a call center. After everything I —",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-637fca2e-0a46-4227-925c-2e305f337e03",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "I don't want anything. I'm just passing along information. You can do whatever you want with it. You always have.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-028fb59e-3f11-443c-9fd9-d025b29972f4",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "I'm waiting to hear back about something. A position. In Cincinnati. It's not — it's not the dream job, but it's connected. It's a thread.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1d1d5c57-66bb-42ed-9a05-fcba58a35a7a",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "Then you wait. That's all any of us can do. But honey — waiting isn't the same as standing still. Even if it feels like it sometimes.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f0152a38-2352-46ca-a2fb-b1c1b1abfa72",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Ask Greta for more details about the call center position. Maybe stability isn't surrender.",
+      "timestamp": "2026-05-03T18:15:42.205980",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8e719427-4822-4a22-bf86-9ba4ef0f3017",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "*Greta's hand moves to the necklace at her throat, the twin birthstones catching morning light. Her coffee cup pauses halfway to her lips.*\n\nIt's customer service. Insurance claims, mostly. Melissa says the training takes three weeks. After that, you're on the phones. Twelve dollars an hour to start, but there's a raise at six months if you keep your metrics up. They've got a dental plan that's better than mine, I'll tell you that much.\n\n*She sets the cup down, studies the formica as if it holds something she's trying to read.*\n\nYour father worked at that plant for thirty-one years. It wasn't glamorous. Wasn't even interesting, most days. But it paid for this house. Put food on the table. Sent you and Brenda to college, even if you both did different things with it.\n\n*She finally meets Casey's eyes — and there's something raw underneath the practical recitation, something that looks almost like grief.*\n\nI'm not saying take the job. I'm saying — I watch you sit in that room every morning, staring at that phone like it owes you an apology. And I remember being twenty-seven. I remember how long a year can feel when you're waiting for something that might not come.\n\n*Her voice drops, almost to herself.*\n\nI just want you to have options. That's all I've ever wanted.",
+      "timestamp": "2026-05-03T18:15:42.206378",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-20262a53-eef2-408a-b3ad-8907539b3851",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Change the subject to the wedding; you're not ready to have this conversation",
+      "timestamp": "2026-05-03T18:16:46.383553",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-50bbf825-efc5-45e5-aa22-a9777d910413",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "Greta Morrow: *Greta's eyes linger on Casey's face for a beat too long — reading the deflection, filing it away. She lets out a breath that's not quite a sigh.*\n\nThe rehearsal dinner's at the VFW hall. Brenda wanted the country club, but Derek's family wasn't going to pay those prices, and honestly, the hall's got better parking anyway. Your sister's been over the seating chart three times. I told her to leave it alone or she'd drive herself crazy.\n\n*She pulls a folded piece of paper from her back pocket — the reception itinerary, edges already soft from handling.*\n\nYou're at Table Seven. With the Piechowski cousins and that friend of Derek's from the plant. Robby. Ricky? Something with an R. He's single, in case Brenda hasn't mentioned it. Fourteen times.\n\n*The joke lands soft, an offering. A truce.*\n\nShe's been asking if you need anything for the ceremony. Hair, makeup — there's a woman coming to the house Saturday morning, doing everyone's. Brenda paid for you already. She didn't want you to worry about it.\n\n*Greta's thumb traces the itinerary's edge.*\n\nShe's trying, Casey. In her way.\n\n- Ask about Brenda — how she's handling the pre-wedding stress\n- Mention the Cincinnati opportunity again; change the subject back on your terms\n- Accept the olive branch and ask what time Saturday morning",
+      "timestamp": "2026-05-03T18:16:50.991061",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5c19633a-cd77-4bd0-85cb-d36b7da525ad",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Ask about Brenda — how she's handling the pre-wedding stress",
+      "timestamp": "2026-05-03T18:20:31.548174",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-2193d59e-a2af-4bc0-9c57-c966d87e7c14",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Casey's childhood bedroom, Millford Creek, Ohio — 6:47 AM, late September tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:20:31.548619",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8e554851-86ce-47b3-b9a3-72962c1076dc",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "Greta Morrow: *A sound escapes Greta — half laugh, half something else. She turns toward the window, where the lilac hedge has gone wild and the Nestlé plant's amber glow is fading into dawn.*\n\nHow's she handling it? She's handling it like someone's taken a diagram of a wedding and told her if she follows every line perfectly, nothing bad will happen. She's got a binder, Casey. A three-inch binder with tabs. I've seen her highlight things. Highlight.\n\n*Her fingers worry at the birthstone necklace.*\n\nShe called me Tuesday night at eleven because she couldn't decide between two different napkin folds. Napkins. I told her what I'm telling you — that nobody remembers the napkins. They remember if the bride looked happy. If the cake was moist. If someone got too drunk at the reception.\n\n*She glances back.*\n\nBut here's the thing. Underneath all that — the binders, the seating charts, the seventeen text messages about centerpiece heights — she's scared. She's marrying Derek, who she loves, and she's staying in this town, which she's chosen, and I think she needs to know that someone who left still sees something worth staying for.\n\n*The words settle between them.*\n\nShe asked me last week if you were bringing anyone. I told her I didn't know. She just nodded and changed the table arrangement again.\n\n- Ask what she means — why would Brenda need your approval\n- Deflect again; ask about Derek's family instead\n- Admit you've been avoiding your sister",
+      "timestamp": "2026-05-03T18:20:31.548856",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8ec534bc-8c7c-4348-8656-e71b02575acf",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Greta Morrow: *A sound escapes Greta — half laugh, half something else. She turns toward the window, where the lilac hedge has gone wild and the Nestlé plant's amber glow is fading into dawn.*",
+      "timestamp": "2026-05-03T18:20:55.227609",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-23883083-a0eb-4a5c-ab43-3305e4f7b457",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Casey's childhood bedroom, Millford Creek, Ohio — 6:47 AM, late September tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:20:59.062690",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3364993c-0b16-43c7-aa39-398d360ccdf5",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "Greta Morrow: *Greta turns from the window, and something in her expression shifts — a decision made, a line about to be crossed.*\n\nYou know what I think? I think you should talk to your sister. Not about jobs or Cincinnati or any of it. Just — talk to her. She's downstairs right now, stress-baking muffins at six in the morning because she couldn't sleep, and she's been asking about you every single day this week.\n\n*She pulls out a chair from under the desk — the same chair that's been there since high school, the wood worn smooth from hours of homework and late-night studying.*\n\nYou can sit up here and wait for a phone call that might not come. Or you can go downstairs and have a conversation that's already waiting. Brenda's not going anywhere, Casey. Neither is this town. But you — you're the one who gets to decide what that means.\n\n*She moves toward the door, pauses with her hand on the frame.*\n\nThe muffins will be out of the oven in fifteen minutes. She makes them with that stupid crumble topping you used to fight her for. Still does, probably.\n\n*Her voice softens.*\n\nI'm not telling you what to do. I'm telling you what's available.\n\n- Go downstairs and find Brenda\n- Stay in your room; you're not ready for that conversation\n- Ask Greta to send Brenda up instead",
+      "timestamp": "2026-05-03T18:20:59.062969",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1ec6c5b2-2f6b-4cb6-a009-0ded59886ed3",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Greta Morrow: *Greta turns from the window, and something in her expression shifts — a decision made, a line about to be crossed.*",
+      "timestamp": "2026-05-03T18:23:00.148547",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b6b2614c-b2c7-4264-a60f-02535d18edbb",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "*Greta doesn't wait for an answer. She steps into the hallway, her voice carrying back with the weight of something finished.*\n\nFifteen minutes. That's when the timer goes off.\n\n*Her footsteps creak down the stairs — slow, deliberate, giving Casey space to follow or stay. The house settles around the silence she leaves behind, dust motes suspended in the early light slanting through the window.*\n\n*From somewhere below, the oven door opens. The smell hits seconds later — cinnamon, brown sugar, butter. It rises through the floorboards like something remembered, pulling at the edges of the morning. And underneath it, barely audible: Brenda's voice, humming something off-key, pausing to check something on her phone.*\n\n*The landline on the kitchen wall sits silent. The cell tower blinks its red eye against the hills visible through the window.*\n\n*Fifteen minutes. The timer's already ticking.*\n\n*On the desk, the phone screen glows with no new notifications. The call center number sits in recent calls, outgoing. No response yet. Maybe not today. Maybe not ever.*\n\n*The bedroom door stands open. The stairs wait.*",
+      "timestamp": "2026-05-03T18:23:04.496708",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-a8204e1c-a192-4535-88d4-650bda43aa2c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - KITCHEN DOWNSTAIRS, WHERE BRENDA IS BAKING]",
+      "timestamp": "2026-05-03T18:23:08.025555",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-01fd9202-784e-4147-9485-336eeabb951a",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Go downstairs now — Brenda's alone and the muffins are almost ready",
+      "timestamp": "2026-05-03T18:23:54.124341",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-94c8503e-8e88-44fe-8595-d0c35b444297",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:23:54.125063",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-740788ba-bddb-41fc-a069-02b000ebf089",
+      "speaker": "Greta Morrow",
+      "role": "assistant",
+      "character_id": "gretamorrow",
+      "content": "Greta Morrow: *The stairs creak under each step — the third one still groans the way it has since childhood, the one you learned to skip during midnight kitchen raids. The smell intensifies as you descend: cinnamon sugar caramelizing, something burning at the edges of the pan.*\n\n*The kitchen opens before you. Early light pools on the linoleum, catches the chrome trim of the stove that's older than you are. And there, at the counter with her back to the doorway — Brenda. Hair pulled back in a messy knot, wearing the same oversized Millford Creek High sweatshirt she stole from you junior year and never returned.*\n\n*She's pulling muffins from the tin, movements quick and practiced. Crumble topping, just like Greta said. A plate already stacked high beside her. Her phone sits face-up on the counter, screen lit with what looks like a seating chart.*\n\n*The ceramic rooster watches from its perch by the coffee pot. The landline hangs on the wall, silent.*\n\n*She hasn't noticed you yet. Her humming's stopped. She's frowning at a muffin with a too-dark edge, turning it in her hands.*\n\n*Six years of phone calls and holiday visits compressed into this — her back, her shoulders, the silence between you that's never quite healed.*\n\n- Say something — announce you're there\n- Wait, let her notice you first\n- Walk to the coffee pot; familiar movement, no big deal",
+      "timestamp": "2026-05-03T18:23:54.125294",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e3d8b9b5-b78a-4680-9cbf-9d8b403488e7",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Greta Morrow: *The stairs creak under each step — the third one still groans the way it has since childhood, the one you learned to skip during midnight kitchen raids. The smell intensifies as you descend: cinnamon sugar caramelizing, something burning at the edges of the pan.*",
+      "timestamp": "2026-05-03T18:25:36.247093",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-712ec879-3c43-492d-8a08-a3be747b2e20",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:25:41.533008",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-122c3ea4-69f2-40e9-a923-68d1f3ca1e76",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "*The floorboard by the pantry groans. Brenda's shoulders freeze mid-turn, the muffin suspended in her hand.*\n\n*She doesn't look back right away. A beat passes — two — and then she sets the burnt one aside with deliberate care.*\n\nYou're up early.\n\n*Her voice is lighter than the moment warrants, already reaching for normalcy like a lifeline. She wipes her palms on the stolen sweatshirt, turns. Her face carries that particular expression of someone who's been rehearsing what to say and just had the script yanked away.*\n\n*The friendship bracelet on her wrist catches the light — faded navy and white threads, the same pattern as the one you threw in a dumpster behind your apartment building three years ago.*\n\nMom said you might be coming down. She didn't say when.\n\n*She gestures at the muffins, the movement too quick, covering something.*\n\nI made too many. Obviously. Derek's mom is bringing the floral arrangements by noon and I still need to confirm the DJ and I can't find the — anyway. Muffins.\n\n*Her eyes flick to your face, then away. Searching for something. Not finding it, or finding too much.*\n\nYou want one? They're not all burnt.",
+      "timestamp": "2026-05-03T18:25:41.533239",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7d29b410-3f03-4899-87f4-1c9fe123db55",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Take a muffin; buy yourself time",
+      "timestamp": "2026-05-03T18:27:32.127259",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-ee0f8b0d-e60e-43da-b9d3-31b92dae0d25",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:27:32.127937",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4f8143d7-55e3-4647-b051-ef8ce40d8e74",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "Brenda Piechowski: *You reach for one — cinnamon, the crumble mostly intact — and Brenda's hand twitches like she wants to pull the plate back, assess your choice, maybe offer a different one. She stops herself.*\n\nGood choice. That batch didn't sink.\n\n*She leans against the counter, arms crossing over her chest. The movement's casual, practiced. But her fingers drum against her elbow — a nervous tell you remember from high school debate team finals, from the time she crashed her dad's Honda and pretended everything was fine.*\n\n*The kitchen clock ticks its four-minutes-ahead rhythm. Outside, a truck rumbles past on Main Street. Somewhere deeper in the house, floorboards creak — Greta, probably, giving you space or finding reasons not to intrude.*\n\n*The silence stretches. Brenda's eyes drop to the muffin in your hand, then back up. Her jaw tightens, relaxes.*\n\nSo.\n\n*The word lands like a starting gun.*\n\nMom said you're... you're thinking about Cincinnati. That there's a call center. Data entry, something like that.\n\n*She picks at the friendship bracelet — a reflex, maybe unconscious.*\n\nI didn't know you were considering coming back. You didn't — I mean, we haven't really talked about it. Any of it.\n\n*Her voice hitches on the last word. She covers it with a breath, a press of her lips.*\n\nHow long has that been on the table?",
+      "timestamp": "2026-05-03T18:27:32.128199",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-114a93aa-7f59-46ce-9f3a-668112b6d539",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Brenda Piechowski: *You reach for one — cinnamon, the crumble mostly intact — and Brenda's hand twitches like she wants to pull the plate back, assess your choice, maybe offer a different one. She stops herself.*",
+      "timestamp": "2026-05-03T18:31:09.643097",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3e85125d-cb2a-47a3-8bf3-1b7b54418bda",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:31:09.644105",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-49a1fc5e-8d29-43bb-af72-10f82c65c25e",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "Brenda Piechowski: *The question hangs between you — how long has Cincinnati been on the table — and Brenda's fingers haven't stopped picking at the bracelet's fraying edge. The kitchen feels smaller than it used to. Smaller than it should be for all the things neither of you have said.*\n\n*You take a breath. The cinnamon taste lingers, too sweet.*\n\n*And then the landline rings.*\n\n*It's a jarring, shrill thing — the bird-trapped-in-walls sound your father described once. Brenda flinches. Her hand drops from the bracelet. Neither of you moves.*\n\n*One ring. Two. Three.*\n\n*The machine in your old bedroom will pick up after the fourth. It always does. But this line, this kitchen phone — it keeps ringing, unanswered, while Brenda's face shifts through something complicated.*\n\n*She's looking at you now. Really looking. The performance cracking.*\n\nThat call center —\n\n*Her voice comes out quieter than she probably intended.*\n\nIs that what you want? Data entry in Cincinnati? Or is that just... what's available?\n\n*The phone rings again. Fourth ring. The answering machine upstairs clicks, whirs, a beep — and then silence. No message. Just a hang-up, distant and hollow.*\n\n*Brenda's eyes stay fixed on you.*\n\nWe used to talk about Chicago. You and me. That summer before everything — you were going to apply to Northwestern's journalism program. You had the brochure pinned to your ceiling.\n\n*She takes a step closer. The space between you shrinking.*\n\nI kept mine. The brochure. After you left, I found it in your room and I — I don't know why I kept it. But I did.\n\n*Her voice cracks, just barely.*\n\nWhy didn't you ever call me back?",
+      "timestamp": "2026-05-03T18:31:09.644415",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d5298799-a93e-4a28-9522-835098fcb0b4",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Brenda Piechowski: *The question hangs between you — how long has Cincinnati been on the table — and Brenda's fingers haven't stopped picking at the bracelet's fraying edge. The kitchen feels smaller than it used to. Smaller than it should be for all the things neither of you have said.*",
+      "timestamp": "2026-05-03T18:31:43.391918",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f460d512-47ea-4416-8b9f-790f643a855f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:31:52.824365",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a54b47d4-c7ec-4a54-bfb1-6a08b2a60852",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "Brenda Piechowski: *The question lands like a stone in water — Why didn't you ever call me back? — and Brenda's standing there in the stolen sweatshirt, the friendship bracelet fraying on her wrist, the muffins going cold on the counter.*\n\n*Her eyes are wet. Not crying, not yet. But close.*\n\n*You don't have a good answer. Six years of silence doesn't compress into anything neat. There were drafts — half-written texts, calls started and abandoned, the way every time you meant to reach out, something else got in the way. Fear, maybe. Shame. The particular cowardice of someone who didn't want to admit they weren't who they'd promised to become.*\n\n*Brenda's chin lifts. Waiting.*\n\nI'm not trying to — I'm not asking to make you feel guilty. I just need to know if it was...\n\n*She stops. Swallows. Starts again.*\n\nWas it me? Did I do something? Because I've spent four years thinking maybe I said the wrong thing at your dad's funeral, or I wasn't there enough when you left, or I —\n\n*Her voice breaks on the last word. She presses the heel of her palm to her eye, quick and angry.*\n\nGod. Sorry. I didn't mean to — it's fine. We're fine. This weekend is about the wedding, and I don't want to make it weird, so just —\n\n*She's already retreating. Pulling the armor back on. Her hand reaches for the muffin plate like it's a shield.*\n\nForget it.",
+      "timestamp": "2026-05-03T18:31:52.824772",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fdb3be95-a0f4-4c08-823a-d2870d0df58a",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Brenda Piechowski: *The question lands like a stone in water — Why didn't you ever call me back? — and Brenda's standing there in the stolen sweatshirt, the friendship bracelet fraying on her wrist, the muffins going cold on the counter.*",
+      "timestamp": "2026-05-03T18:32:41.445793",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-db664a92-9502-43fd-9776-7b3f4e9bf41e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:32:41.446615",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9f59372c-820e-40dc-bcf9-2c2b18a7ca4d",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "Brenda Piechowski: *The word — forget it — hangs there, brittle and thin. Brenda's already turning back to the counter, rearranging muffins that don't need rearranging. Her shoulders are rigid beneath the stolen sweatshirt.*\n\n*The kitchen clock ticks its four-minutes-ahead lie.*\n\n*You've watched her do this since you were sixteen. The deflection, the sharp pivot toward practicality. She's always been better at carrying on than sitting in the hurt.*\n\n*But her hands are shaking. Slightly. The kind of tremor you only notice because you used to know every inch of her.*\n\n*And then she says it — quiet, almost to herself:*\n\nI bought a bridesmaid dress in your size. Three months ago.\n\n*She doesn't turn around.*\n\nI kept thinking you'd call back. That we'd have some — I don't know — some moment at the rehearsal dinner where everything went back to normal. Stupid. I kept the brochure. I kept your spot. I kept waiting for you to show up and tell me you were still you.\n\n*Her voice splinters on the last word.*\n\nAnd instead you're — Cincinnati? Data entry? You're coming back to Ohio to process paperwork when you used to stay up until three a.m. reading me your drafts and talking about bylines and—\n\n*She spins around. Her face is wet now, tears she wasn't permitting herself to shed.*\n\n*When did you stop believing you deserved more than this place?\n\n- \"I didn't stop. I just got tired of waiting for permission to want things.\" — Name the exhaustion. Make her understand the difference between settling and surviving.\n- \"I never stopped being me. I just couldn't be her and survive.\" — Admit the fracture. Let her see the damage without promising repair.\n- \"Maybe I'm still figuring out what I deserve.\" — Honesty without conclusion. An offering of uncertainty as a bridge.",
+      "timestamp": "2026-05-03T18:32:41.446855",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-422b071e-cdf1-4b9d-9631-c8d393728714",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T18:32:46.691294",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7c025aa9-37ef-499a-9a3c-003e645abaee",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "\"I didn't stop. I just got tired of waiting for permission to want things.\" — Name the exhaustion. Make her understand the difference between settling and surviving.",
+      "timestamp": "2026-05-03T18:34:06.958345",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-5cfb92fc-e768-4892-9bc0-b5f8dd1d8dc7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:34:06.959221",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d1d86d91-1a99-428b-a113-d2d3aa39026a",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "Brenda Piechowski: *The words land between you — tired of waiting for permission — and Brenda's face crumples. Not dramatically. Just a small collapse, like paper held too close to flame.*\n\nPermission.\n\n*She laughs, but it comes out wrong. Wet and sharp.*\n\nYou think you needed *permission*? From who? From me?\n\n*She wipes her face with the back of her hand, smearing tears she'd been trying to hide. The bracelet catches the afternoon light coming through the window — that same faded thread, holding together.*\n\nCasey, I wasn't waiting for you to ask. I was waiting for you to *show up*. There's a difference.\n\n*Her voice drops.*\n\nI would have gone with you. To Chicago, to anywhere. You knew that. We talked about it in your room that whole summer — how we'd both get out. How we'd—\n\n*She stops. Shakes her head.*\n\nBut you left alone. And you didn't call. And I thought, okay, she's doing it, she's becoming who she said she'd be. I told myself it was fine. That you were busy. That you'd come back for me when you could.\n\n*She takes a breath that shudders on the way in.*\n\nAnd instead you're standing in my mother's kitchen eating my rehearsal dinner muffins telling me you got tired. Like I didn't spend six years—\n\n*Her hand presses flat against her sternum.*\n\nLike I didn't stay up nights wondering what I did wrong.\n\n*Outside, the factory whistle blows — shift change. The sound carries through Millford Creek like it has for forty years, marking time nobody asked it to mark.*\n\n*When Brenda speaks again, her voice is quieter. Steadier. The tears still there, but something else underneath — something that sounds almost like surrender.*\n\nI need you to tell me what you want now. Not what's available. Not what you're settling for. What do you actually *want*?",
+      "timestamp": "2026-05-03T18:34:06.959533",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-2724d317-d40a-4451-90a1-36ee5e21a635",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T18:34:06.960763",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6dc9b532-f06d-4447-9e47-0039ba95277c",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "\"I want to stop being afraid that wanting things makes me ungrateful for what I have.\" — Name the core wound. Let the confession be the bridge back to her.",
+      "timestamp": "2026-05-03T18:34:20.079883",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-4bcd01fc-c77b-4cc1-af6b-95378afe7ca7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kitchen downstairs, where Brenda is baking tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T18:34:25.217583",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dca55d21-d03d-4fb0-8ffd-79bd67e49d72",
+      "speaker": "Brenda Piechowski",
+      "role": "assistant",
+      "character_id": "brendapiechowski",
+      "content": "Brenda Piechowski: Brenda Piechowski: *The confession sits between you — wanting things makes me ungrateful — and Brenda goes still. Completely still. The muffin-plate-shield forgotten in her hands.*\n\n*Something shifts behind her eyes. Recognition, maybe. The kind that only comes when someone names the thing you've been carrying without knowing you were carrying it.*\n\n*She sets the plate down. Slowly. On the counter between you, like an offering.*\n\nCasey.\n\n*Her voice comes out strange. Thick.*\n\nDo you think I don't know that feeling? Every single day?\n\n*She presses her palm flat against the counter, steadying herself.*\n\nI'm marrying Derek. Derek, who's kind and good and who I do love. And I keep thinking — is this enough? Should I want more? What kind of person gets engaged at twenty-eight in the same town she was born in and calls it a victory?\n\n*Her breath catches.*\n\nMy mother keeps telling me how lucky I am. And I am. I *am*. But sometimes I feel like I'm choking on lucky.\n\n*The late afternoon light catches the dust motes suspended between you — the same light that's been coming through this window for twenty years, illuminating the same kitchen, the same conversations, the same small life.*\n\n*When Brenda looks up, her face is tear-streaked but her jaw is set.*\n\nI stayed. You left. And we both ended up in the same place — terrified that wanting something different means we're broken.\n\n*She reaches out. Her fingers brush your wrist. Light. Tentative.*\n\nSo what do we do now?\n\n- \"We stop waiting for permission. Both of us.\" — A pact. A promise to hold each other accountable to their own desires.\n- \"We figure out what we actually want — together, like we used to.\" — Rebuild the partnership that never should have fractured.\n- \"I don't know. But I don't want to figure it out alone anymore.\" — Honesty as an answer. An admission of need.",
+      "timestamp": "2026-05-03T18:34:25.217897",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-439e316a-87c2-4356-9ac0-933a00eba3be",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T18:34:25.219302",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

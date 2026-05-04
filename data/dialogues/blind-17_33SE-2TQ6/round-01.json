@@ -1,0 +1,384 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 4,
+      "story_surprise": 3,
+      "story_engagement": 2,
+      "story_complexity": 3,
+      "character_shaping": 2,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 2,
+      "ux_use_again_intent": 3
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T17:12:22.695289"
+  },
+  "dialogue": [
+    {
+      "id": "msg-70e06131-d809-484f-9b92-4c40157ab0cb",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "……今天别再掉链子。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-aba89382-2b7a-4451-b7a9-8ce489c48d88",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "我是周振，主教练。林予城，收好你的东西，三分钟后上场。今天不看你过去打过什么，只看你现在还剩什么。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ef856ff6-678f-4ff1-b047-90885cf69d72",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "知道了。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c3dd1fa9-fd99-49bc-b1f3-6c126c4b39ef",
+      "speaker": "陈子昊",
+      "role": "assistant",
+      "character_id": "chenzihao",
+      "content": "我是陈子昊，后场轮换。城哥，教练让我先跟你对位，别留手，我也不会。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3a315c52-3252-4bf9-9582-4bdaaeaeb3ec",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "能不能抢走位置，不靠嘴。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-857cefd0-9b0b-4a1a-8c10-16f035952e9a",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "很好。说完了就上场。林予城防第一阵，陈子昊持球，连续三组。谁慢半步，谁自己心里清楚。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-631075e4-3bf9-4b35-b6f4-c101f5ff09fa",
+      "speaker": "宋清岚",
+      "role": "assistant",
+      "character_id": "songqinglan",
+      "content": "我是宋清岚，随队记者，今天只做记录，不拦你。林予城，如果你不想看镜头，我现在可以关掉。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11e0920e-45ef-41e3-b9a3-9d5626ed7639",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "随你。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-316d4358-1762-4b9b-a2d1-7b1dfd11f707",
+      "speaker": "何雯昕",
+      "role": "assistant",
+      "character_id": "hewenxin",
+      "content": "我是何雯昕，负责你恢复的康复师。林予城，热身后如果右膝还有卡顿感，立刻告诉我，不要等它替你决定。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ea7231fa-7d83-4e2f-9a05-18c95ea077a5",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "先打完这组再说。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bb816b38-5771-4b26-8480-1dedbb466df6",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "开始。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-30f2706e-97d4-480b-8360-c742e1726b7a",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "硬撑着直接上高强度对抗，不向何雯昕报告右膝的真实反应。",
+      "timestamp": "2026-05-03T00:59:45.680754",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-18f9cdce-aecd-4519-81e8-312fb8174c94",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*哨音撕开馆里的冷空气。木地板被第一步蹬得发闷，陈子昊球压得低，肩膀一沉，像刀尖一样直插你右侧。你跟上了半步，第二步却明显滞了一瞬——不是别人未必看得出的那种踉跄，只是膝盖里那一下细小却尖锐的“卡”。*\n\n*我站在边线，手里战术板没翻，眼睛却没离开你腿。陈子昊抓住那半拍，急停拔起，球刷网而过，清脆得刺耳。二层玻璃后面，几个人影停住了。*\n\n“停。”\n\n*哨声短，硬。全场一下空下来，只剩篮网轻轻晃。何雯昕已经从另一侧走过来，我先抬手把她拦了一下，视线钉在你脸上。*\n\n“你刚才不是慢，是骗。”\n*我往前一步，旧跑鞋在地板上磨出干涩一声。*\n“管理层刚把名单口头版递过来，最后一个外线名额，原本给陈子昊。不是因为你伤，是因为他们默认你不会承认自己伤。”\n\n*我把战术板啪地扣在长椅上。*\n\n“现在目标变了。不是你求我给机会，是你先当着何雯昕，把真实反应说清楚。说清楚了，我给你一组正式五对五；再骗一次，今天训练到此为止，你直接出名单外。”",
+      "timestamp": "2026-05-03T00:59:45.681027",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2c7f246d-4e7a-4607-bac0-b0f75b8c8663",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "承认右膝刚才的卡顿和疼点，接受何雯昕现场评估，换那一组五对五机会",
+      "timestamp": "2026-05-03T01:01:03.801424",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3e2d4c3c-a1e3-4661-858e-b061844fd9c4",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*我盯着你，没接话，先看何雯昕。她已经蹲下去，指尖压在你右膝外侧，再往髌腱下缘轻轻一按。你腿上的肌贴边缘被汗浸得发暗，她手一停，抬眼。*\n\n“卡顿在伸直到发力之间，疼点偏外侧，不是单纯酸。” *她语气平得像在报数据，手却已经把你小腿扶稳，逼你做了个小幅屈伸。* “代偿出来了，刚才第二步你是用髋在顶，不是膝在跟。”\n\n*馆里安静得只剩球鞋摩擦的细响。陈子昊站在三分线外，球夹在臂弯里，没笑，只是盯着你。二层玻璃后那几道人影也没动。*\n\n我把哨子摘下来，缠在掌心一圈，声音压得更低。\n\n“好，终于说人话了。”\n*我朝何雯昕一点头。*\n“给结论。能不能进五对五，不听他意志，听你判断。”\n\n*停了一秒，我把下一刀也放出来。*\n“另外，名单今晚九点前上报。你这次要么靠真实反应留下评估机会，要么现在就把柜子关上。”",
+      "timestamp": "2026-05-03T01:01:08.430419",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2ca7cb79-4360-4228-919f-8bf117bb59b4",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "配合何雯昕做动态测试，接受她当场决定能否进五对五",
+      "timestamp": "2026-05-03T01:01:57.239623",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6982053e-dd90-45a5-bf8d-4af8393ccb5d",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*何雯昕没再看你脸色，直接起身，黑表一按。*\n\n“单腿下台阶，三次。接侧移急停，最后一组做闭眼平衡。”\n\n*你从治疗垫边站起来，右脚踩上矮箱。第一下还稳，第二下膝盖外侧那道力线明显抖了一瞬，像钢丝被风拨偏。到侧移急停时，鞋底在地板上“吱”地一声，你重心收回来了，但右腿回正慢了半拍。闭眼那组更直接，你脚踝先找地，膝盖随后才补上，代偿暴露得干干净净。*\n\n*何雯昕按停秒表，声音不高，却把馆里最后一点侥幸也切掉。*\n\n“结论：不能进全场五对五。可以打半场、限次、无连续变向。再往上，风险不是疼，是失稳。”\n\n*二层玻璃后的人影动了。一个穿西装的把手里纸夹翻开。*\n\n*我伸手，朝场地另一侧一指，直接改训练单。*\n\n“听清了。名单不按旧版报。”\n*我看向陈子昊，再看回你。*\n“最后一个外线名额，先冻结。你现在有二十分钟，打半场对抗。不是证明你能硬撑，是证明你还能不能在限制里赢球。”\n\n*我吹响哨子，声音比刚才更冷。*\n“陈子昊，跟他一组。你负责把他逼到每个不能骗的点上。”\n“林予城，拿球。现在开始算。”",
+      "timestamp": "2026-05-03T01:01:57.240146",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-ffcd1395-d4e4-4e0c-af67-54a3e5d85c6b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 训练馆主场地板半场对抗区]",
+      "timestamp": "2026-05-03T01:02:04.630913",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-10a1d24e-fed8-49b2-bdaa-d2cfc84b8b24",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "接受限制，主动要求半场对抗按实战战术跑，证明自己仍能控节奏、做决定",
+      "timestamp": "2026-05-03T01:02:48.376709",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dc2a47d4-5f67-4c36-af80-ada6fd84c349",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*我把第二颗球踢到边线外，留一颗在你脚边，意思很明白——没花活，直接来真的。馆顶灯白得发冷，汗味和止痛喷雾混在一起，连呼吸都像带着药味。*\n\n“好，不玩单挑英雄球。”\n*我抬手点了点战术板，指尖敲在两个位置。*\n“你打一号位，半场实战战术。Horns起手，第一回合你叫挡拆，但记住——禁止连续变向，你只能靠节奏、角度、传球顺序把人拆开。”\n\n*陈子昊把球衣下摆往裤腰里一塞，已经贴上来，眼神发硬。二层玻璃后，那道穿西装的人影没走，反而拿起了手机。*\n\n我没看他，只盯着你。\n\n“再加一条新规则。”\n*哨子在掌心一转，啪地停住。*\n“这二十分钟，你不只跟陈子昊争名额。管理层刚决定，今晚名单要附一句教练评语。我写什么，就会跟着你进会议室。”\n\n*我往后退开一步，给出整块半场。*\n\n“所以别给我演能不能打。给我看——在不能乱来的前提下，你还能不能让五个人信你。”\n\n“发球。第一攻，就按你要的实战跑。”",
+      "timestamp": "2026-05-03T01:02:48.377214",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-751bfbd9-f4f4-4487-b8d1-5f61c4bcfb57",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 训练馆主场地板半场对抗区]",
+      "timestamp": "2026-05-03T01:02:48.377616",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-79603309-6c5b-44cb-b767-32d2e86c4795",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "故意把节奏压慢，背身顶住陈子昊要位，证明自己还能在低风险位置组织进攻",
+      "timestamp": "2026-05-03T01:03:42.054245",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1500a300-c8b7-4049-a961-3381a58b4e1f",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*我脸色一下沉到底，哨子没响，人先往前压了两步。你背身把陈子昊顶在肘区外，鞋底拧地，节奏是稳了，可整回合像被你攥死在掌心里——安全，拖，没把限制拆成办法，只是把风险藏起来。*\n\n“这不算。”\n*我声音不大，偏偏砸得半场都停了一拍。*\n“你不是来证明你还能站住，你是来证明你还能带人打。”\n\n*陈子昊被你顶开半步，反倒笑了一下，年轻人的火一下蹿起来。下一秒他直接绕前，手臂一横，冲队友吼了一声换位。防守瞬间改了——不再给你低位磨时间，直接上提前夹击，把肘区和强侧传线一起掐死。*\n\n*二层玻璃后，那道西装人影抬手做了个记号。何雯昕也没说话，只低头看了一眼表。时间在掉。*\n\n我把战术板一翻，手指重重戳在罚球线。\n\n“听清楚，现在不是你选舒服区。防守改成提前夹击，第二回合必须还是Horns，但你要在三秒内出第一次正确传球，带出弱侧终结。”\n*我盯住你，眼神硬得像钉子。*\n“做到了，我写‘能控场’。做不到，我写‘只会自保’。”\n\n“拿球。现在这回，才算资格审判。”",
+      "timestamp": "2026-05-03T01:03:55.791986",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-5111d33c-3152-4706-9497-dd22d7ef01e9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 训练馆主场地板半场对抗区]",
+      "timestamp": "2026-05-03T01:03:55.792538",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9d81999b-c918-4a76-976e-6e03fda10bdf",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "立刻照打Horns，高位叫掩护后第一时间分球，逼自己用阅读而不是对抗拆夹击",
+      "timestamp": "2026-05-03T01:04:39.912481",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-04e001ed-a3ac-4dfc-ac2c-c9f78a08748c",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*球刚落到你手里，我就掐着秒表，拇指压下去的“嗒”一声，像把全场神经一起勒紧。*\n\n“Horns！快。”\n\n*两侧内线提上来，陈子昊几乎贴着你后腰，另一个防守人已经提前斜踩进强侧传线，夹击不是等你犯错，是赌你还会犹豫。你第一步没往里钻，球从胸前直接甩向左肘。干净，早，没给他们合门的时间。下一拍，高位再转，弱侧底角的人顺下吸住补防，球被拨到外弹的射手手里——出手，刷网。*\n\n*馆里那一下网声不大，却把刚才压在你身上的东西撕开一道口子。陈子昊回头看了一眼底角，脸绷住了。二层玻璃后，那个西装男人把手机放下。*\n\n*我没点头，也没夸，直接把战术板啪地合上。*\n\n“这球，算你读出来了。”\n*我看着你，声音还是硬，但判词已经落地。*\n“评语我写‘能控场’。”\n\n*我顿了一下，接着把场上空气彻底改了。*\n\n“但名额还没定。下一回合你不打持球。”\n*手指一转，我点向弱侧45度。*\n“你去无球，陈子昊打一号位。我要看你腿不占便宜的时候，还能不能提前把回合赢下来。守住这回，你今晚进最终名单讨论。”",
+      "timestamp": "2026-05-03T01:04:39.913017",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-6eced37d-1125-46c1-a04d-0c0ab1bf5689",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 训练馆主场地板半场对抗区]",
+      "timestamp": "2026-05-03T01:04:48.984639",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1c1ea0ad-c4ae-44ad-a54e-6241c7654e32",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "不争辩，先盯住战术细节，准备用一次关键协防和轮转断掉这一攻",
+      "timestamp": "2026-05-03T01:05:59.017154",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-77b728c8-8099-4337-960d-b5211d7fe4bf",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*我把哨子咬在齿间，手一挥，回合直接开。*\n\n“说出来，别闷着守！”\n\n*陈子昊把球带到弧顶，肩一沉，速度提得像要把这半场撕开。你没追着球跑，先侧身踩住弱侧45度和底角之间那条线，手指点了一下内线，又低喝一声换防。那一下不花，偏偏把队友都钉到了正确位置上。*\n\n*下一秒，对面锋线突然空切。陈子昊的传球已经甩出去，馆灯下那道橘红色弧线又平又快。你提前一步从协防位收进来，鞋底狠狠干出一声锐响，胸口硬顶住顺下路线，左手封传线，右手一拨——*\n\n*啪。*\n\n*球变向弹到边线，砸在广告板脚边。全场一静。*\n\n*陈子昊冲出去想救，脚下一滑，球却已经滚出界。死球。防守赢了。*\n\n*我终于吹哨，短促，干脆。二层玻璃后，那西装男人合上文件夹，不看场上了，直接转身。*\n\n“够了。”\n*我看着你，声音压得很低，但每个字都落得实。*\n“今晚最终名单讨论，你进去。”\n\n*我顿了一拍，接着把真正的刀口亮出来。*\n\n“但还有一件事——管理层刚加条件。进名单，不代表上场时间。最后决定，要看你敢不敢接受功能性角色：防守、串联、限时。不是核心。”\n\n“现在回答我。你要这个名额，还是要面子？”",
+      "timestamp": "2026-05-03T01:05:59.017661",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-6fb0d7e6-abbe-46d4-9506-38dc201386aa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 训练馆主场地板半场对抗区]",
+      "timestamp": "2026-05-03T01:05:59.018161",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-84d29a0f-63f5-471c-8b0c-6fd5d2637e94",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "接受功能性角色，明确表态只要能赢球就上",
+      "timestamp": "2026-05-03T01:07:52.674039",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ac49d16c-c289-4c32-8480-de627c994cda",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*我盯着你看了两秒，像在确认你这句话里有没有掺半点逞强。馆里只剩空调送风的低响，汗顺着你下颌往下滴，在地板上砸出一小点深色。*\n\n“好。”\n\n*这一个字落下去，没留余地。*\n“那就不是口头表态了。”\n\n*我转身朝场边招手。助教立刻把平板递过来。我当着你的面把轮换表往下一划，直接停在比赛夜那页。首发栏没动，第二阵容后卫/锋线那一格，我拿笔一勾，写下你的名字。后面补了三个字：第八人。*\n\n“今晚你进激活名单，第一替补不是你。你预计上场十二到十六分钟，任务只有三个——压失误，守对方第二持球点，最后两分钟如果比分咬住，你负责把节奏稳下来。”\n\n*陈子昊站在一旁，嘴角那点不服还挂着。我没给他开口。*\n\n“这不是让步，是分工。”\n*我把平板合上，声音更沉。*\n“但还有个新情况。刚才管理层已经把消息放出去了——如果你今晚在这个角色里掉链子，季后赛名单你会被直接边缘化；如果你顶住，下周续约谈判重开。”\n\n“现在去冰敷，二十分钟后录像室。我要你亲自把今晚你该吃掉的三个回合说给全队听。”",
+      "timestamp": "2026-05-03T01:07:58.063104",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-7c945c30-18e6-4e4e-8f8a-e8e6426bd31b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 录像室 / 队医治疗室]",
+      "timestamp": "2026-05-03T01:07:58.063719",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4e93a217-d630-4745-922a-13046d3a4bdd",
+      "speaker": "林予城",
+      "role": "user",
+      "character_id": "linyucheng",
+      "content": "转向陈子昊，当面把竞争摊开：位置可以分，但关键球谁更稳，今晚见",
+      "timestamp": "2026-05-03T01:11:06.784158",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fd1ae3eb-4810-420e-8fda-63f391b89efc",
+      "speaker": "周振",
+      "role": "assistant",
+      "character_id": "zhouzhen",
+      "content": "*我手里的平板没放下，直接横在你和陈子昊中间，塑料壳边角磕在长椅上，啪一声，治疗室里那台老冰疗机正好咔哒响了一下。空气一下绷紧。*\n\n“不用今晚见了，现在就见。”\n\n*我把平板转过来，屏幕上不是轮换表，是刚发到我手机里的对手更新报告。对方首发控卫，红圈标注：赛前决定，九成缺阵。顶上的名字下面跟着一句更麻烦的话——替代者，外援双持球提前合练。*\n\n“情况变了。”\n*我看着你，也看了陈子昊一眼。*\n“他们不跟我们打常规首发节奏了。今晚第二阵容的那十二到十六分钟，很可能就是决定比赛的窗口。不是谁收残局，是谁先别把局面打烂。”\n\n*陈子昊脸上的锋劲收了半寸，手指捏紧护臂。*\n\n“所以把年轻气盛和老资格都给我收回去。”\n“林予城，录像室不是你讲漂亮话，是你把三个回合讲到所有人都能照着落位。”\n“陈子昊，你坐第一排，听，记，等会儿我第一个点你问。”\n\n*我把平板塞回腋下，朝门外一偏头。*\n\n“新目标：把原来那三个回合，改成针对双持球的三个防守选择。二十分钟，够不够？”",
+      "timestamp": "2026-05-03T01:11:06.784667",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-2ea7145d-1b70-4601-9a44-52662444d7cd",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 录像室]",
+      "timestamp": "2026-05-03T01:11:14.425160",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

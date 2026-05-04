@@ -1,0 +1,23 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 4,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 4,
+      "story_engagement": 4,
+      "story_complexity": 3,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 5,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T10:42:35.401588"
+  },
+  "dialogue": []
+}

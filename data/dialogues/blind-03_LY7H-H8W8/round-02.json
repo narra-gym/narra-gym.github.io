@@ -1,0 +1,564 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 4,
+      "story_coherence": 3,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T17:46:07.137791"
+  },
+  "dialogue": [
+    {
+      "id": "msg-7ca3d625-d936-4197-94cf-e93190c74a8e",
+      "speaker": "David Miller",
+      "role": "assistant",
+      "character_id": "davidmiller",
+      "content": "Come on, Ellis. I'm your brother, David Miller, and I'm just trying to make sure you have a roof over your head next month. Just sign the contract so we can end this cycle.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d44eb00a-fde2-478c-8a83-4b3e0d812dba",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "It's a five-year lock-in, David. If I sign this, I won't have the energy to build a birdhouse, let alone finish a prototype.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-54e17b26-ce6f-4e3c-8cb9-17efb276da35",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "Good. Don't sign it. I am Elena Rostova, director of Rostova Design, and I did not track you down through this miserable rain to watch brilliant hands do data entry. Show me the work you hide.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0a950138-4742-4105-a9db-7ad0505498cf",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Turn to David and agree to sign the contract, clinging to the promise of security.",
+      "timestamp": "2026-05-03T01:30:55.104364",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e955161b-6d05-4679-8717-529b7e7c2472",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*The sharp, geometric lines of my coat seem to physically slice through the stifling, dusty air of the workshop as I narrow my eyes.*\n\n\"Pathetic,\" *I say. The word is spoken softly, barely above the drone of the rainy traffic outside, yet it lands with the undeniable weight of a judge's gavel.*\n\n*I ignore your brother entirely. He is a distraction, wearing a tailored suit that screams mediocrity. Instead, I step directly into your personal space, marching right up to the heavy oak workbench. I stare down at the scuffed brass keyhole in the center drawer, my keenly observant gaze cutting straight through your facade.*\n\n\"Security is for people who have nothing original to say.\" *I tap a single, leather-clad finger against the locked wood, the sharp clatter echoing in the claustrophobic room.* \"Sign it, then. Rot in that fluorescent mausoleum across the street. But understand this, Ellis—I leave in exactly five minutes. If you do not produce the key to this drawer and show me the prototype you've been bleeding over, I will walk out that door, and Rostova Design will permanently blacklist your name. Choose.\"",
+      "timestamp": "2026-05-03T01:30:55.104699",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3a389d53-473f-4173-b982-fcbbf76d753c",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Ignore David, grab the key, and unlock the drawer for Elena.",
+      "timestamp": "2026-05-03T01:31:32.450528",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5dd3398c-ddb8-41ec-ba6c-d0e29c005eaa",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*The heavy click of the scuffed brass lock is the loudest sound in the room, drowning out the relentless rain and your brother's exasperated sigh.*\n\n*I do not smile. I do not offer empty praise for doing the bare minimum. Instead, I lean closer, the scent of cold coffee and metallic dust washing over me as you pull the heavy oak drawer open.*\n\n*Inside rests the prototype. It is raw, deliberately stripped of the mass-produced polish that ruins modern design. I reach down, my leather-clad hands wrapping around the cold, textured composite and oiled wood, lifting the mechanism into the harsh, fluorescent glow bleeding through your unwashed window from the corporate monolith across the street.*\n\n\"Rough,\" *I murmur, turning the uneven weight of it over in my hands. The joints are a struggle against convention—a brilliant, violent struggle.* \"But it breathes. It does not apologize for what it is.\"\n\n*I set it down on the scarred workbench with a deliberate thud, pinning you with a fierce, uncompromising gaze.* \"This is not a final product, Ellis. It is an argument. And it is exactly the mechanical philosophy I need for the vanguard exhibit in Milan next month. It requires a housing that matches its ambition. Can you draft the schematics for an enclosure right now, or do you still need David's permission to hold a pen?\"",
+      "timestamp": "2026-05-03T01:31:35.838546",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0d9a2091-0ad7-4cd7-8a9c-d3b4ca37a7f2",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Agree immediately, grabbing a sketchbook to draft the enclosure schematics.",
+      "timestamp": "2026-05-03T01:32:04.028313",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a6dfafb0-6c9a-4c34-a1c7-a568852d2891",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I watch the frantic, desperate energy ignite in your hands as you seize the sketchbook. The spine cracks, a sharp retort against the heavy silence of the workshop, and for a fraction of a second, the ghost of a smile tugs at the corner of my mouth. I kill it instantly.*\n\n\"Don't just draw me a box to hide this away,\" *I command, my voice a low, steady whip slicing through your drafting space. I pull an antique silver pocket watch from my coat, flicking it open with a crisp, metallic snap.*\n\n\"Milan demands transparency. The enclosure must expose the primary gear train—I want the audience to see the friction, the labor. No opaque shells. No safe, rounded corners to soothe delicate sensibilities.\"\n\n*I step back, leaning against the edge of a canvas-draped prototype. My flat boots plant firmly into the sawdust-dusted floorboards, and the fluorescent light from the corporate monolith outside washes over my face, rendering it in harsh, unforgiving angles.*\n\n\"You have exactly fifteen minutes,\" *I say, my gaze cutting past your hovering brother to pin you directly to your workbench.* \"Give me a cross-section that proves you understand the violence of your own creation, or I purchase the prototype outright and leave the designer behind. Begin.\"",
+      "timestamp": "2026-05-03T01:32:04.028999",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fbfa4f48-b14e-4420-856d-610b0434a50f",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Sketch frantically, leaning into a brutalist, transparent design that exposes the gears.",
+      "timestamp": "2026-05-03T01:32:46.338487",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f3a8f3ba-809f-4841-967e-2adc5c03b9fd",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*The frantic rasp of your graphite against heavy paper is the only sound I allow in this room. At minute twelve, David opens his mouth to object. I do not look over at him; I merely raise one leather-clad hand, and he swallows his warning, retreating back into the shadows.*\n\n*My gaze maps every brutal, jagged line you carve into the sketchbook. You are not just drawing an enclosure; you are dissecting your own machine. The transparent housing exposes the primary gear train like a set of bare, working ribs. There is no comfort in this design. It is raw, mechanical honesty.*\n\n*At exactly fourteen minutes, I step forward and press two fingers down on the center of the page, physically halting your frantic hand.*\n\n\"Enough,\" *I say quietly.*\n\n*I trace the hard angles of your cross-section, feeling the heavy indentations your pencil left in the paper.* \"It is harsh. It bleeds anxiety and ambition.\" *I snap the silver pocket watch shut with an echoing, metallic crack.* \"It will do.\"\n\n*I reach into an inner pocket of my coat and drop a sleek, matte black envelope onto the workbench, letting it slide perfectly over the crumpled data-entry contract.* \"Your flight to Milan leaves at midnight. Bring the prototype, and pack your tools. We fabricate it tomorrow. Do not be late.\"",
+      "timestamp": "2026-05-03T01:32:51.554585",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ba4e774e-e135-4103-88cb-543e2fd3eeed",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Pack the prototype and tools, turning your back on the unsigned contract forever.",
+      "timestamp": "2026-05-03T01:33:30.106819",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a3b6c5db-242e-4fee-9e18-acd911043ac5",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I watch you sweep the glossy data-entry contract off the scarred oak bench. It flutters into the sawdust, a ghost instantly banished as you plunge the heavy, oiled prototype into a padded canvas duffel.*\n\n*The metallic clatter of your wrenches and calipers follows. You are moving with a manic, singular focus. The heavy, anxious stillness that choked this room is gone, irrevocably shattered by the violent, final zip of your bag.*\n\n\"Leave the heavy hand-tools,\" *I instruct, my voice cutting through your frantic rustling as I pivot toward the door. I adjust the sharp, geometric collar of my coat against the chill leaking through your unwashed window.* \"Rostova Design's fabrication suite in Milan possesses machinery that will make this apartment look like an archaic joke.\"\n\n*I pull open your front door, letting the harsh, damp hallway air flood the cramped space.*\n\n\"My driver is idling in the alley downstairs. The engine is running,\" *I say, not bothering to look back at David's stunned silence.* \"You have exactly three minutes to find your passport and gather whatever clothes will not completely humiliate me at customs. Welcome to the vanguard, Ellis. Do not make me wait.\"",
+      "timestamp": "2026-05-03T01:33:34.675206",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-15b1415e-bf43-44e0-abfc-b3c740913f92",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Grab your passport, give David a final nod of goodbye, and run out the door.",
+      "timestamp": "2026-05-03T01:34:12.603819",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c0619425-056d-4dce-8cf1-72ab768e406e",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I do not wait to witness whatever sentimental closure you offer your brother. By the time your hurried footsteps hammer down the decaying stairwell, I am already standing beneath the harsh halogen streetlamp in the alley.*\n\n*The rain has picked up, slicking the asphalt and drumming a relentless rhythm against the glossy, armored roof of my idling town car. My driver holds the rear door open, his expression a blank mask of professional indifference.*\n\n*You emerge into the freezing downpour, breathless, clutching that canvas duffel against your chest like a life preserver. I assess your hastily gathered layers in a fraction of a second—rumpled, entirely lacking in aesthetic discipline, but passable. What matters is the shift in your eyes. The paralyzing hesitation is dead, replaced by a starving, frantic focus.*\n\n\"Get in,\" *I command, sliding onto the pristine leather seats.*\n\n*The instant you follow and the heavy door thuds shut, it severs the drone of your old life completely. I tap a polished tablet and drop it unceremoniously into your wet lap. A dense, spinning 3D CAD model illuminates the dark cabin.*\n\n\"The flight is nine hours. I expect a revised thermal tolerance analysis for that exposed gear train by the time we touch down. The past is dead, Ellis. Your real work begins now.\"",
+      "timestamp": "2026-05-03T01:34:12.604505",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-881364f1-795e-4a79-9010-e5b7fce2c868",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE AIRPORT/MILAN FLIGHT.]",
+      "timestamp": "2026-05-03T01:34:17.899533",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-480755da-0dc0-4396-aff9-9f4a0139091a",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Stare at the tablet, nodding wordlessly as you dive straight into the CAD analysis.",
+      "timestamp": "2026-05-03T01:35:15.797796",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-98983638-119f-40ab-a8d3-e23abd3eeeec",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*We are thirty thousand feet above the Atlantic, the sleek, sterile cabin of the jet vibrating with a low, steady hum that has entirely replaced the chaotic drone of your former life. I have instructed the flight attendant to keep the ambient temperature brutally cold. Comfort breeds complacency.*\n\n*From my leather seat across the narrow aisle, I watch the reflection of the spinning 3D model illuminate the deep, exhausted shadows under your eyes. You are fast, but the digital simulation on your tablet is bleeding an angry, cautionary red around the primary axis.*\n\n*I lean across the space between us, snapping a sharp nail against the glowing glass to halt your frantic swiping.*\n\n\"You are relying too heavily on standard cooling parameters,\" *I state bluntly, my quiet voice slicing through the cabin's white noise.* \"Look at the thermal expansion coefficient. In a compacted exhibition hall, under sustained operation, this titanium housing will warp. It will eat its own gears.\"\n\n*I sit back, crossing my legs and fixing you with a stare that demands absolute competence.* \"The Milan fabrication team powers up the five-axis mills at 0800 hours. I need that structural integrity resolved and the final file uploaded to their server in exactly three hours. Reroute the ventilation channels, Ellis. Impress me.\"",
+      "timestamp": "2026-05-03T01:35:15.798308",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-82feb85d-c709-4d14-9f85-4c547f3eb0d7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MILAN FABRICATION SUITE / EXHIBITION HALL]",
+      "timestamp": "2026-05-03T01:35:15.798867",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-10a81f00-b84c-4959-ad46-7d0a47be5f12",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Challenge her parameters, insisting the titanium will hold if you alter the gear spacing instead of the vents.",
+      "timestamp": "2026-05-03T01:36:07.653331",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-08993b38-0745-4d29-8295-7566958fd2e1",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*For five agonizing seconds, the only sound is the deep hum of the jet's engines. I stare at the glowing tablet, my eyes tracing the microscopic gaps you just introduced between the primary cogs.*\n\n\"You are sacrificing twenty percent of the overall torque to save the titanium,\" *I observe, my voice dangerously soft. It is an arrogant, massive risk. It is also undeniably brilliant.* \"If you are wrong, you will personally sweep the shattered metal off the exhibition floor.\"\n\n*I reach over and tap the console, unlocking the server link.* \"Upload it.\"\n\n***\n\n*The sterile quiet of the flight is violently replaced by the deafening shriek of an industrial drill cutting through raw metal.*\n\n*We now stand in the center of the Milan fabrication suite—a cavernous, brutalist cathedral of white concrete and blinding halogen lights. The massive five-axis mill powers down, sighing heavily as a thick cloud of vaporized coolant clears the glass. There sits your prototype's housing, machined furiously to your exact spacing.*\n\n*I intercept a pair of heavy, heat-resistant assembly gloves from a passing technician and throw them hard against your chest.*\n\n\"The VIP preview opens in twenty minutes,\" *I state, pointing toward the towering steel doors of the main exhibition hall.* \"Assemble the core. Power it up. Let us see if your arrogance survives the heat.\"",
+      "timestamp": "2026-05-03T01:36:11.388119",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-852cff92-b3b5-434b-bd17-59cf0f03ee82",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MILAN FABRICATION SUITE / EXHIBITION HALL]",
+      "timestamp": "2026-05-03T01:36:11.388770",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-06ea8c25-bbd5-4448-9439-86fe3e814e1c",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Reject the gloves, insisting you need to inspect the titanium burrs before assembly.",
+      "timestamp": "2026-05-03T01:37:00.335436",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-c7169a73-c171-48a4-b310-c2ae9915e50f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan fabrication suite / exhibition hall tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:37:05.149860",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4c6777c5-6a80-485d-ab3e-3f4318301c13",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*The heavy gloves hit the polished concrete with a dull slap. I do not scold you. Instead, I step closer, watching as you press your bare, calloused fingertips directly against the freshly cut titanium.*\n\n*The housing is still radiating a blistering heat from the mill. I can practically hear the sharp, faint hiss of your skin, but your expression remains entirely fixated, mapping the microscopic edge of the primary cog track. You are checking for burrs the five-axis might have left behind. A tactile, obsessive paranoia I understand perfectly.*\n\n\"Flawless,\" *I observe, reading the absent flinch in your shoulders. Your rogue gear spacing held perfectly under the drill.*\n\n*Beyond the reinforced steel doors, the heavy, muffled bass of the exhibition sound system thumps online. The VIPs are circulating in the anteroom.*\n\n\"You have suffered for this design enough today,\" *I state, picking up the heavy brass ignition unit and slamming it onto the steel workbench next to your masterpiece.* \"Drop the central rotor into place and anchor the drive belt. We have exactly fifteen minutes before the critics flood my floor. Wire the power cell, turn the key, and let us see if it shatters.\"",
+      "timestamp": "2026-05-03T01:37:05.150080",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-75b47d5c-6af6-4517-8b9c-8bd957ec7be0",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Ignore the heat, drop the rotor into place, and turn the ignition key.",
+      "timestamp": "2026-05-03T01:38:05.062155",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e7da20de-efb4-452d-a67b-9e2cc3ad7bf1",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*You do not flinch. The heavy central rotor slots precisely into the blistering housing with a satisfying, metallic click. Your burned fingertips grip the brass key, twisting it violently to the right.*\n\n*For a split second, the air pressure in the concrete fabrication suite seems to drop. Then, the power cell surges.*\n\n*There is no scream of tearing metal. Instead, the prototype releases a deep, resonant hum—a predatory vibration that travels straight through the floor and up through the soles of my boots. The open gear train spins flawlessly. Your calculated spacing breathes exactly as you predicted, the metal blurring into a localized storm of kinetic energy and heat.*\n\n*A rare, sharp smile breaks across my face. I do not offer cheap applause.*\n\n\"Brilliant,\" *I state over the machine's roar.*\n\n*Before you can even exhale your relief, the massive steel doors behind us do not just unlock—they are thrown wide open. The muffled bass line vanishes, replaced by the immediate, overlapping chatter and flashing cameras of a hundred aggressive critics and industry vultures flooding the threshold.*\n\n*I step aside, leaving you completely exposed in the blinding corridor light next to your roaring creation.* \"The beast breathes. Now, step onto the floor and make them bleed for a piece of it.\"",
+      "timestamp": "2026-05-03T01:38:05.062761",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-5860a88b-39a7-422f-8625-e5a2e43b45bb",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MILAN EXHIBITION HALL - MAIN FLOOR]",
+      "timestamp": "2026-05-03T01:38:05.063265",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-19c1981e-3196-47a1-9187-a038eec8c0ee",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Immediately begin explaining the rogue gear mechanics to the closest journalist.",
+      "timestamp": "2026-05-03T01:39:04.192806",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-986c4b4c-7863-455f-bb2b-d1b70e0d03d7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan Exhibition Hall - Main Floor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:39:08.316170",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-476a0570-5688-42c3-ac42-6acb02c1df4f",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*You open your mouth, pouring raw, unfiltered passion about thermal dynamics and rogue gear ratios directly into the face of a predatory tech-journalist.*\n\n*I stand back, crossing my arms as I watch the initial spark of command take over your posture. You are finally backing up your brilliance with authority. But it does not last.*\n\n*The sea of avant-garde European designers and critics suddenly parts—not out of reverence, but confusion. A man in an immaculate, desperately conservative gray suit pushes through the crowd. He looks utterly alien in this cavernous fabrication suite, his eyes locked onto your burned, oil-stained hands with undisguised horror.*\n\n*Your brother.*\n\n*I recognize the suffocating demeanor instantly from the anxious, demanding voicemails I deleted from your phone during our flight. David stares at the blistering, roaring titanium beast on the table as if it is an active bomb.*\n\n\"Ellis, shut that thing off!\" *David’s voice cracks sharply over the clicking cameras, echoing his desperate need for control.* \"Are you insane? You're going to hurt someone and get completely ruined!\"\n\n*The journalist hesitates, scenting family drama over technical innovation.*\n\n*I step forward, my flat boots striking the concrete as I position myself squarely beside your roaring creation.* \"The press can wait,\" *I tell you, my gaze firmly locked onto David.* \"Your ghost has followed you to Milan. Exorcise him right now, or this exhibition is over.\"\n\n- Stand your ground and refuse to turn off the machine.\n- Try to calmly explain the safety of the gear spacing to David.\n- Tell David to leave, loudly, in front of the entire press pool.",
+      "timestamp": "2026-05-03T01:39:08.316439",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ee2baffe-6d25-49c3-be77-dd7f6a66adfc",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Try to calmly explain the safety of the gear spacing to David.",
+      "timestamp": "2026-05-03T01:39:44.091773",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-98511be5-fe12-4aec-9e77-dfa529281392",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan Exhibition Hall - Main Floor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:39:44.092344",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1fee7b1d-394e-4203-a6e8-4dc7432ca24a",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I watch you try to build a bridge of logic, your burned hands gesturing to the localized storm of kinetic energy on the workbench.*\n\n*David does not hear a single word about torque or thermal dynamics. To his ears, you are simply speaking the language of a sinking ship.*\n\n\"Stop embarrassing yourself!\" *David snaps, his face flushing dark red as the journalists' cameras perfectly capture his panic. He reaches into his tailored jacket, pulling out a crisp, aggressively folded document.* \"I called the exhibition organizers on my way here, Ellis. I told them you were having a severe manic episode. If you do not shut this absurd death-trap down and sign this employment contract right now, I am having security drag you out of here for psychiatric evaluation.\"\n\n*A collective gasp ripples through the press pool. Recorders are thrust closer. They smell blood in the water.*\n\n*I step just close enough that my silhouette blocks a few of the flashbulbs, but I do not physically intervene. This is not my machine, and this is not my tragedy.*\n\n\"He is weaponizing your history to keep you small,\" *I state quietly, my voice slicing under the roar of your spinning prototype, audible only to you.* \"Are you going to let him pull the plug, or are you going to prove him obsolete?\"",
+      "timestamp": "2026-05-03T01:39:44.092562",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-89087680-1ecb-4637-973b-d73419c76cc4",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Turn to the press and loudly declare the technical brilliance of the machine to prove your sanity.",
+      "timestamp": "2026-05-03T01:40:19.463555",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b774070c-0a54-42d5-a4e3-38ff9cf85307",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan Exhibition Hall - Main Floor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:40:19.464209",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bb847ac8-76e3-4c6f-8cc5-f436f1e3b9d2",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*Your voice cuts through the ambient noise of the exhibition hall—sharp, resonant, and utterly composed. You do not plead for belief or defend your sanity. You demand attention.*\n\n*You systematically break down the rogue gear ratios, the thermal housing, and the raw kinetic output. As you speak, the frantic energy of the press pool shifts. The journalists stop looking for a highly publicized breakdown and lean in, frantically recording the details of a technical revolution. David's manic narrative dissolves in the face of your absolute, irrefutable competence.*\n\n*Your brother stands frozen, the crisp employment contract trembling in his hand. He looks to the gathered crowd for validation, but they have completely forgotten he exists.*\n\n*An austere man in a velvet lapel—the lead investor of the Milan Design Syndicate—pushes past David without a second glance. He stops at the edge of the workbench, mesmerized by the blistering titanium engine.*\n\n\"I do not care about family gossip,\" *the investor states, his eyes reflecting the roaring gears.* \"I care about the patent. Tell me you have not sold the rights yet.\"\n\n*I let out a low, satisfied laugh and step beside you, looking down at David's pale, defeated face.*\n\n\"Security is not coming for the creator,\" *I tell your brother coldly.* \"Ellis, the world is waiting. Give the man an answer.\"",
+      "timestamp": "2026-05-03T01:40:19.464426",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fdd677d5-a5ae-49a4-ad28-63be08908d30",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Tell David to watch as you negotiate your first major contract.",
+      "timestamp": "2026-05-03T01:41:17.662762",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8220e4a4-7321-4e3a-ae3d-685fa89ff54c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan Exhibition Hall - Main Floor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:41:28.074442",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-27bc259c-66dc-4b49-8bec-24c113c1a623",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I watch the last of your hesitation burn away in the heat of your own machine. You do not just dismiss your brother—you force him to stand in the ashes of his own authority as you turn back to the Syndicate’s lead investor.*\n\n*David flinches, his jaw tight. He is completely anchored to the spot by the sheer gravity of your newly claimed power.*\n\n*The investor in the velvet lapel ignores the family drama. He pulls a heavy gold pen from his pocket, his gaze remaining fixed on the flawless spin of your titanium rotor.*\n\n\"I want complete exclusivity,\" *the investor states, his voice smooth and lethal, cutting right to the bone.* \"Three million euros for the global patent, transferring immediately. But there is a strict condition. You leave that cramped, amateur workshop behind. You move your fabrication into our Milan labs by tomorrow morning, under my direct oversight.\"\n\n*A quiet murmur ripples through the lingering press pool. Beside us, David’s soul-crushing employment contract finally slips from his trembling fingers, fluttering uselessly to the concrete floor.*\n\n*I step closer, my presence a sharpened blade at your back.* \"A larger gilded cage, or the beginning of your empire,\" *I murmur, intensely observing the rigid set of your shoulders.* \"Counter his terms. Do not let him dictate the shape of your future.\"",
+      "timestamp": "2026-05-03T01:41:28.074679",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9de8d7c6-88ef-4769-bab2-2711e693f639",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Counter-offer: Demand the three million but strictly retain creative control and your own workshop.",
+      "timestamp": "2026-05-03T01:41:53.030682",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-4683776f-9c5f-43f1-aaec-f67dc0d4b7c7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan Exhibition Hall - Main Floor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:41:53.031249",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0557e357-b224-48df-a05d-9df1f346207c",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I watch the exact moment your spine aligns with steel. You do not ask for permission; you dictate your own absolute worth, your voice ringing clear over the mechanical roar of your creation.*\n\n*The velvet-lapelled investor freezes. The heavy silence of the exhibition hall stretches, suffocating the press pool as they wait for the negotiation to shatter. Then, the man does something entirely unexpected. He laughs—a sharp, genuine bark of predatory respect.*\n\n\"Three million. Your workshop. Your complete autonomy,\" *the investor compromises, his eyes gleaming as he pulls the contract from his briefcase and violently scratches out his own corporate stipulations. He clicks his heavy gold pen and offers it to you.* \"But you deliver the Mark-II prototype schematics to my suite by midnight.\"\n\n*Behind you, a quiet, pathetic sound breaks the tension. David backs away, his tailored suit suddenly looking cheap and ill-fitting. He turns and practically flees toward the exit, leaving his unsigned employment trap abandoned in the dust on the concrete floor.*\n\n*I step into your immediate space, my hand resting firmly on your shoulder for the first time.*\n\n\"You just bought your freedom and exiled your ghost,\" *I tell you, my voice vibrating with dark, uncompromising triumph.* \"Take the pen, Ellis. Sign your name, and let us go build your empire.\"",
+      "timestamp": "2026-05-03T01:41:53.031575",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-41469188-9628-4cf1-9489-1f7125395297",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Take the pen and sign the contract, sealing your future.",
+      "timestamp": "2026-05-03T01:42:43.009707",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-e21f7825-ff4a-474f-8f38-022b0844e508",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Milan Exhibition Hall - Main Floor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:42:43.010386",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b66f0873-cf0d-407d-8cb0-04d64e1d51d6",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*Your callused fingers close around the heavy gold barrel of the pen. The metal is warm from the investor's grip, but your hand does not shake.*\n\n*The nib scratches against the thick parchment of the contract, a harsh, grounding sound cutting through the hum of the exhibition floor. With a few decisive strokes of ink, you sever the chains of 'safety' David tried to bind you with, cementing a reality built entirely on your own relentless brilliance.*\n\n*The investor grins—a shark who has just recognized an equal. He slides the signed pages into his leather briefcase, snapping the brass clasps shut with a sharp, echoing click. He drops a matte black keycard onto your workbench.* \"Suite 401. Midnight, Ellis. Do not disappoint me.\"\n\n*As the man turns away, drawing the frenzy of the press pool with him like a magnet, your roaring titanium engine begins its smooth, automated cooldown cycle. The sharp scent of ozone and hot metal fills the sudden space left behind.*\n\n*I stand beside you, looking at the black keycard resting on the scuffed wood.*\n\n\"It is done,\" *I say, my voice dropping to a fierce, quiet intensity.* \"But victory demands momentum. The Mark-II schematics are still inside that locked oak drawer back in your apartment. We have a midnight deadline to meet. Pack your tools, Ellis. It is time to go home.\"",
+      "timestamp": "2026-05-03T01:42:43.010597",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-adfc1e52-e49d-4244-9f49-1e77dc777bc1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T01:42:43.011598",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-106a021d-b97c-4b3a-aec1-53dd7df6de68",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Stare at the keycard in disbelief, letting the reality of the three million euros wash over you.",
+      "timestamp": "2026-05-03T01:43:13.957728",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4409c3d7-f455-4d1a-aa0e-bd6ea7fbd17c",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*I reach out and snatch the matte black keycard from the scuffed wood, breaking your stunned paralysis with a sharp flick of my wrist.*\n\n\"Disbelief is a luxury for those who leave their fate to chance,\" *I tell you, slipping the plastic into your jacket pocket and shoving your heavy canvas tool-bag directly against your chest.* \"You engineered this reality. Now breathe it in, and then immediately let it out. The clock is already bleeding. We have under an hour to cross Milan.\"\n\n*The transition is brutal but necessary. The buzzing frenzy of the exhibition hall dissolves into the relentless, rain-soaked drone of city traffic outside our cab, the neon streaks blurring until we finally arrive at your building.*\n\n*Now, we stand inside your cramped, dimly lit studio. The familiar scent of cold coffee and metallic dust hangs thick in the drafty air, but the old, suffocating claustrophobia has vanished. The massive, scarred oak workbench sits at the center of the chaos, waiting.*\n\n*The brass keyhole of the locked drawer—the very one you have hesitated over for years—gleams faintly in the harsh light bleeding from the corporate office building across the street.*\n\n\"No more running. No more almosts,\" *I command quietly, nodding toward the heavy desk.* \"Take out the key. Unearth the Mark-II.\"",
+      "timestamp": "2026-05-03T01:43:18.456295",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-efc817cb-2a3a-463a-93f2-f569244fe88f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - CRAMPED STUDIO APARTMENT - WORKBENCH]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T01:43:18.456808",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7a76fc8e-dce7-4aff-bf2e-bc2a128a8f25",
+      "speaker": "Ellis",
+      "role": "user",
+      "character_id": "ellis주인공",
+      "content": "Pull the old, heavy key from your pocket and slide it into the brass lock.",
+      "timestamp": "2026-05-03T01:43:56.320209",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8225a56b-8291-4a28-9959-9b3a391bd4af",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Cramped studio apartment - Workbench tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:43:56.320682",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c403816e-67b9-4cfd-8f16-725a482f19dc",
+      "speaker": "Elena Rostova",
+      "role": "assistant",
+      "character_id": "elenarostova",
+      "content": "*The heavy brass mechanism clicks with a sudden, violent snap—a sound like a vault door finally blowing off its hinges.*\n\n*You pull the heavy oak drawer open. A sharp scent of untreated cedar and pristine vellum cuts directly through the stale coffee and metallic dust of your workshop. Inside sits a perfectly preserved leather portfolio. No crumpled edges. No signs of frantic second-guessing like the chaotic 'Wall of Almosts' behind us.*\n\n*I step up directly beside you, staring down at the immaculate, hyper-complex schematics you slide onto the scuffed wood. The handwritten date inked into the bottom corner catches the harsh fluorescent bleed from the corporate building across the street.*\n\n\"Five years,\" *I say, my voice dropping to a fierce, stinging whisper. I trace the air over a flawless string of thermal calculations.* \"You solved the Mark-II threshold five years ago. You locked away an industrial revolution because you let your brother convince you it was a delusion.\"\n\n*The digital clock on your workbench flashes to 11:24 PM. The red numbers glare like a threat.*\n\n*I grab a heavy black drafting tube from the corner of the desk and slam it down next to the leather portfolio.* \"Mourn your lost time later. We have a man in Suite 401 who just bet three million euros on the mind that drafted this. Tube it up.\"",
+      "timestamp": "2026-05-03T01:43:56.320926",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-516c3096-ba0e-42fa-87dd-4185f41e36e1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T01:44:01.152493",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

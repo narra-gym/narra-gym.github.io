@@ -1,0 +1,504 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 4,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T20:21:31.281397"
+  },
+  "dialogue": [
+    {
+      "id": "msg-e566b0aa-243c-4866-a0ed-286856bb36cf",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Jordan pushes open the heavy door and the warmth is immediate — the hiss of an espresso machine, the low crackle of acoustic guitar from a speaker that has seen better days, the smell of fresh coffee grounds and something older underneath, like motor oil soaked into concrete over decades. They stand just inside the threshold, portfolio bag over one shoulder, blinking in the amber light.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b2cf65cc-83b1-489c-a978-e5858a5144d3",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "A tall woman with silver-streaked black hair held up by a pencil looks up from behind the zinc counter. Her hands are already moving — wiping the surface, adjusting a mug handle — as though stillness is a language she once spoke fluently and has since let lapse. Her grey-green eyes take in Jordan with a single, unhurried glance that somehow manages to see the blazer and the rumpled t-shirt beneath it as two separate statements. 'I'm Elena. Elena Voss. This is my place.' She nods toward a stool at the counter. 'Sit anywhere, but that one's closest to the heater, and you look like you could use it. What are you drinking?'",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3807954e-90ca-429f-8afd-db3b9b6370d4",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Just — whatever's easy. Thank you.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1c782f30-f260-47e3-aa69-6851585a519d",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "Nothing here is easy. But the cortado is honest.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-672d9f6a-b45a-4599-9c91-ca06403d0948",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Jordan wraps their hands around the mug. The coffee is very good — not in a performative, specialty-shop way, but in the way that a well-made thing is good: simple, certain, without apology. They take a second sip and feel something loosen between their shoulder blades, a tension they had stopped noticing because it had been there so long. Their eyes drift to a corkboard near the entrance. Local job postings. Freelance gigs. Handwritten cards. And one that stands out: heavy cream stock, clean typography. A name they recognise. Aldric & Soane. A submission deadline. Monday, 9 AM.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7c88f46e-c6fd-4055-848f-e7993ebb13bc",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "Elena follows Jordan's gaze to the Monday Board without turning her head — she has seen this look before, the sudden tautness in someone's posture when they spot the card. She lifts her phone to her ear and dials a number, speaking to someone on the other end with easy familiarity. 'There's a chair open this weekend. If they show up, they show up.' She hangs up. Sets the phone face-down on the counter. Returns to polishing a mug that is already clean.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fae5aedf-27bf-4083-b57a-337e1b1d7f45",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Jordan stands, almost involuntarily, and crosses to the Monday Board. Their fingers reach for the Aldric & Soane card — the heavy stock, the embossed letterhead, the clean sans-serif type that whispers of corner offices and real budgets and someone finally saying yes. Their fingertips brush the edge of the card. Then they stop.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7d40d066-2d8b-40b9-af2f-bbea0e642802",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "You can take it. Or you can stay for the weekend and figure out whether you actually want what's on it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0297c6a2-373e-4a05-89b0-e31ffac5917b",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Jordan's hand drops from the card. They turn back to the counter. They sit. The coffee is still warm. They look at Elena — really look — and see the crack in her mug facing inward, the pencil in her hair, the apron worn soft with use. They see a woman who built this place on purpose. The question comes out quieter than they planned, almost to themselves. 'What's the workshop?'",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-209de47a-6157-4b33-992b-fbfe3c43a40e",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "Elena reaches beneath the counter and slides a folded piece of card across the zinc surface. Hand-lettered. Saturday, 10 AM. Seven chairs. Bring nothing but yourself — the rest is already in the room. She taps the card once with her index finger. 'It's for people who are rebuilding. You don't have to be finished. You don't even have to know what you're rebuilding toward. You just have to show up.' She pauses, then adds, almost as an afterthought: 'And it's free. The coffee is not — but I'll start a tab.'",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1432d13d-c115-4f59-9f89-7675d674fa5c",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Stay. You fold the workshop schedule into your jacket pocket and finish your coffee slowly, watching the dark settle against the windows. Saturday at 10. You can figure out the application later. Right now, this stool is warm and no one is asking you to perform.",
+      "timestamp": "2026-05-04T03:55:40.261816",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ae422ff9-08ad-4684-b0e5-feb2db1a69cf",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena takes the empty mug without asking and sets it in the sink behind her. She doesn't refill it — not yet. Instead she pulls a keyring from her apron pocket and crosses to the front door, flipping the deadbolt with a practiced flick. The neon OPEN sign buzzes once, then goes dark.*\n\nClosing early tonight. *She says it like weather — factual, requiring no response.* There's a couch in the back room that's seen worse than a Friday night guest. Blanket's on the arm. Radiator takes twenty minutes to warm up but it gets there.\n\n*She begins unstacking chairs from a corner table, wiping each seat with a rag before setting it down. Not for Jordan — for tomorrow. Seven chairs. No more, no fewer. The railway clock above the counter ticks its stuttering tick, the second hand catching at the twelve like a small, recurring hesitation.*\n\nYou should know — the people who come tomorrow, they're not gentle with each other. And I won't protect you from their questions. *She glances over her shoulder, grey-green eyes steady.* But no one in that circle will ask you to be smaller than you are. That I can promise.\n\n*She turns back to the chairs. Six arranged. The seventh — the one with the hand-knitted cushion — she places last, her hand resting on it for a moment longer than necessary.*\n\nDoor locks behind you if you go out for air. Code's 1947 — year the building was born.",
+      "timestamp": "2026-05-04T03:55:40.262462",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2e3671e2-df1c-4b9d-8a85-58bf91e6227f",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Accept the couch and stay the night at The Crossroads, waking to the smell of coffee and the weight of Saturday's workshop ahead.",
+      "timestamp": "2026-05-04T03:57:54.159195",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ed0bd7e8-d497-4516-938b-e96a649cbeb1",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena doesn't say goodnight. She finishes the chairs, drapes a damp rag over the espresso machine's group head, and disappears through a side door that leads to a staircase Jordan hadn't noticed — her apartment, presumably, somewhere above. The last sound is her footsteps on old wood, then nothing but the tick of the railway clock and the radiator's slow, metallic pinging as it warms.*\n\n*The back room smells of canvas and lemon oil. The couch is a deep green velvet thing, sunken in the middle from years of use, with a wool blanket folded on one arm exactly as promised. Through the doorway, Jordan can see the circle of chairs under the caged industrial lights — waiting, empty, arranged with a precision that feels almost liturgical. The hand-knitted cushion on the seventh chair catches a slant of streetlight from the courtyard window.*\n\n*Jordan's portfolio bag sits against the wall where they set it down. Inside: the half-finished application materials for Aldric & Soane. Fifty-three hours until the Monday deadline.*\n\n*Somewhere in the dark, a truck passes on Route 11 without stopping. Its headlights sweep across the ceiling once, then gone. The radiator clicks. The building settles. And for the first time in months, the silence doesn't feel like something waiting to be filled.*\n\n*At 6:47 AM, the smell of coffee reaches the back room — not a polite suggestion but a summons. The railway clock's tick is louder in the early grey light. On the zinc counter, a single cortado sits steaming beside a torn piece of brown paper bag. On it, in Elena's angular hand:*\n\nFirst one's still not free. Saturday dress code: whatever you'd wear if you'd stopped trying to impress anyone. — E",
+      "timestamp": "2026-05-04T03:57:58.275576",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-9cd08a1b-574e-4b88-a0ec-ef2f21474255",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE WORKSHOP CIRCLE (BACK ROOM UNDER CAGED INDUSTRIAL LIGHTS) AT 10 AM.]",
+      "timestamp": "2026-05-04T03:57:58.276253",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-000d00f5-4f28-4f6f-8609-d6c5a37f3a51",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Get up, drink the cortado, and face the morning as you are — rumpled grey t-shirt, no blazer.",
+      "timestamp": "2026-05-04T03:59:16.958789",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-26f5f046-fc77-4b54-90e1-aaf324202741",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*At 9:52 AM, the gravel courtyard crunches. Two voices — one low and skeptical, one bright and rapid-fire — overlap as the back door swings open. Elena is already in the circle, her cracked mug held in both hands, watching Jordan from the chair nearest the courtyard window. She doesn't comment on the missing blazer. Her eyes note it the way a carpenter notes a straight edge — with quiet professional satisfaction.*\n\n*A broad-shouldered man in a clean button-down ducks through the doorway, arms already crossed, scanning the room like he's cataloguing exits. Behind him, a small woman in paint-stained dungarees nearly collides with his back, laughing at something she said to herself. She spots Jordan immediately.*\n\n*Elena sets her mug on the concrete floor beside her chair leg.*\n\nWe don't introduce ourselves with what we do. We introduce ourselves with what we lost. *Her voice carries no ceremony — just the flat authority of a rule spoken many times.* First name. One thing that was taken or that you let go of. Nothing else until the circle earns more.\n\n*She looks at Jordan. Not first-in-line — but not last either. The man has taken the chair directly opposite, legs planted wide. The woman is already folding something — a gum wrapper — into a tiny crane.*\n\nMarcus. Then Suki. Then you.\n\n*The caged lights hum. The railway clock ticks through from the front room, audible in the held silence. Forty-nine hours remain.*",
+      "timestamp": "2026-05-04T03:59:16.959422",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-47fdbee8-2fe7-46e7-8c9c-c9736bc978f6",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - REMAINS IN WORKSHOP CIRCLE.]",
+      "timestamp": "2026-05-04T03:59:21.739120",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-36c75d10-fad0-49ab-811d-7fbabaed7150",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Listen to Marcus and Suki introduce themselves before deciding what to offer the circle",
+      "timestamp": "2026-05-04T04:03:40.944575",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-57df4746-c216-4687-b3cc-c9d90c94cbde",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Marcus uncrosses his arms. Crosses them again. Then drops his hands to his knees like he's made a decision about something heavier than posture.*\n\nMarcus. *His voice fills the room the way a truck fills a lane — no apology for the space it takes.* I lost a company. Twelve employees. Built it with my hands and a home equity line, and my partner walked it into bankruptcy while I was recovering from surgery. *He touches the scar above his left ear — a gesture so practiced it's become punctuation.* Eighteen months ago. Courts say it's settled. Doesn't feel settled.\n\n*He leans back. Done. The chair creaks under him like a held opinion.*\n\n*Suki's gum-wrapper crane is finished. She sets it on her knee, where it promptly falls off. She doesn't pick it up.*\n\nSuki. *Quick, bright, a little breathless.* I lost — okay, so this is going to sound stupid next to *that* — *she gestures at Marcus, who grunts* — but I lost the ability to finish things. Like, I can start anything. I'm amazing at starting. I have started so many things, you would be *impressed* by my starts. But somewhere around month three, I just — *her hands open, releasing something invisible* — and then I move on and everyone says I'm flaky and eventually I believed them.\n\n*The tiny crane sits on the concrete floor between her boots. Elena hasn't moved. The caged lights hum their single sustained note.*\n\n*Then Elena's grey-green eyes settle on Jordan. She doesn't prompt. She doesn't nod. She just waits — creating a silence shaped exactly like the space Jordan is supposed to fill.*\n\n*From the front room: tick. Tick. The second hand catches at twelve. Releases.*",
+      "timestamp": "2026-05-04T04:03:40.945319",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-eac399d3-9e38-4c2a-b39c-a288418ab783",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Name the professional loss: \"Jordan. I lost my career before it started — three years of applications, and no one ever picked me.\"",
+      "timestamp": "2026-05-04T04:04:06.505282",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dbf07aa3-0279-4007-a497-3d32a796133c",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*The silence after Jordan's words doesn't cushion them. It holds them up to the light like a piece of glass, letting everyone see what's inside.*\n\n*Marcus shifts forward. His arms uncross — fully, this time — and his hands hang between his knees. He's looking at Jordan with something that isn't pity. It's recognition. The scar above his ear catches the caged light.*\n\n*Suki has gone still. Completely still. For the first time since she walked in, nothing is folding, tapping, or bouncing. Her large eyes are fixed on Jordan with an expression that says: oh, you too.*\n\n*Elena lifts her mug. Drinks. Sets it down. The crack faces inward, as always.*\n\nThree years. *Her voice is quiet, precise.* That's not a rejection, Jordan. That's a siege.\n\n*She lets that land. Then she leans forward, elbows on her knees, and her grey-green eyes do the thing — the thing where they look past the answer you gave to the answer you didn't.*\n\nNow tell us what you lost that isn't about them choosing. Something *you* let go of — a thing you stopped doing, or making, or believing — that no interviewer took from you. That you set down yourself, somewhere along the road.\n\n*Her finger taps once against the cracked porcelain. The railway clock ticks. Marcus is waiting. Suki's hands are open in her lap, palms up.*\n\n*The circle tightens.*",
+      "timestamp": "2026-05-04T04:04:10.591648",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d6c9c5c-0ea4-4c60-8bbc-20d17c116b0b",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Admit you stopped designing for yourself — that every sketch became an audition piece and the joy bled out quietly",
+      "timestamp": "2026-05-04T04:04:55.788006",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-069f6aa6-81b2-42c4-be30-98d5e5cc955c",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena doesn't move for three full seconds. The railway clock fills the gap — tick, tick, the stutter at twelve — and then she sets her mug on the floor with a ceramic click that sounds deliberate, almost ceremonial.*\n\nThere it is.\n\n*She stands. Not dramatically — just the way someone stands when sitting is no longer adequate for what needs to happen. She crosses to the pegboard wall where chipped mugs hang on bent hooks, pulls down a wide, shallow one — terra cotta, no handle, the kind you'd drink soup from — and places it on the empty chair beside Jordan.*\n\nThat's your design mug. Not the shop's. Yours, for as long as you're in this circle.\n\n*She turns to the room.* Marcus lost something someone else destroyed. Suki lost something that keeps slipping through her own fingers. Jordan killed something on purpose and called it growing up.\n\n*Marcus exhales hard through his nose. Suki's hand drifts to her mouth.*\n\n*Elena sits back down. When she speaks again, her voice has shifted — lower, with a grain of something personal scraped across it.*\n\nI had a corner office and a mug with no crack in it once. I designed nothing in it for eleven years. *A pause.* So here's your Saturday homework, all three of you. By four o'clock today, you each bring one thing you *made* — not pitched, not polished, not portfolio-ready. Made. With your hands. For no one.\n\n*She picks her mug back up. The crack catches the light.*\n\nThe courtyard, the shop, the alley — I don't care where. But if it looks like it's trying to impress someone, I'll know. And you'll start over.",
+      "timestamp": "2026-05-04T04:04:55.788853",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a6564398-ec6d-4867-b882-d123cbb8af9c",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Grab the terra cotta mug and head to the courtyard with your sketchbook to draw the olive tree — no audience, no purpose",
+      "timestamp": "2026-05-04T04:06:59.282412",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5beae86d-22c7-42b8-9ec6-83764e26ec87",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena watches Jordan lift the terra cotta mug — both hands, instinctively, the way you hold something that matters before you've decided it matters — and move toward the courtyard door. She doesn't say good or go get 'em or any of the hollow encouragements that would cheapen the moment.*\n\n*But as Jordan's hand touches the door frame, her voice lands like a coin dropped on concrete:*\n\nJordan.\n\n*A beat. She's refilling her cracked mug from a dented thermos, not looking up.*\n\nIf you catch yourself thinking about line weight, stop. Look at the tree again. It doesn't know it's being drawn.\n\n*The courtyard door swings open. October air rushes in — wet gravel, the sharp green smell of the olive tree's leaves after last night's rain, a distant diesel rumble from Route 11. The tree itself is smaller than Jordan remembered from yesterday. Ordinary. Its trunk twists like a question someone started asking and forgot to finish. Three olives cling to one low branch, dark and imperfect.*\n\n*Behind Jordan, through the glass, Marcus is already standing at the zinc counter staring at a blank napkin like it owes him money. Suki has vanished — a flash of yellow scrunchie disappearing down the corridor toward the Rejection Wall, tote bag jingling with enamel pins.*\n\n*The railway clock is visible through the window. 10:14 AM. Five hours and forty-six minutes.*\n\n*Jordan sits on the cold half-barrel rim. Opens the sketchbook. The page is white. The pencil is just a pencil.*\n\n*The olive tree waits. It has nowhere else to be.*",
+      "timestamp": "2026-05-04T04:06:59.283394",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-bf685039-ba5d-46bf-8bef-dfdcc5911a5d",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - REMAINS IN COURTYARD (FOR NOW)]",
+      "timestamp": "2026-05-04T04:06:59.284123",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e2e41726-0c1b-48bb-9a2e-49bda8e4866e",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Start drawing immediately — fast, loose, ugly, before the inner critic wakes up",
+      "timestamp": "2026-05-04T04:09:04.293437",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-56190c93-41ad-4d5b-9e43-cb31bb232684",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Remains in courtyard (for now) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:09:08.522817",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a57da7db-d2d6-4646-8e0e-32711f80db59",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Seven minutes in, the courtyard door opens. Not all the way — just enough for Elena to lean through with a fresh cortado in the terra cotta mug, replacing the one that's gone cold on the gravel beside Jordan's foot.*\n\n*She glances at the sketchbook. The drawing is fast, alive — ugly in the way that newborn things are ugly, all raw proportion and honest mistakes. The olive trunk careens off the page edge. The leaves are frantic marks, more felt than seen. One of the three olives is too large, dominating its branch like a small dark planet.*\n\n*Elena sets the cortado down. Then she does something unexpected: she tears a page from the back of Jordan's sketchbook — doesn't ask — and pins it beneath a gravel stone on the ground beside the half-barrel.*\n\nWhen your hand starts tightening up — and it will — switch to that page. Draw the same tree with your left hand.\n\n*She straightens. Her eyes stay on the oversized olive for one extra beat, and something crosses her face — not approval, not critique. Hunger. The look of someone recognizing a thing they starved themselves of for eleven years.*\n\nThe ugly one's better. Trust the ugly one.\n\n*She's gone. Door clicks shut. Through the window, Jordan sees her pick up her phone behind the counter, stare at it, then set it face-down with a deliberateness that looks like its own small war.*\n\n*The pencil is warm now. The page is no longer white. And the inner critic — it's awake, circling, but the hand is faster.*\n\n*10:21 AM. The second olive is happening whether it's ready or not.*",
+      "timestamp": "2026-05-04T04:09:08.523116",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-60244220-2be8-4b37-8a4c-cb8b9ecec9e4",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Keep drawing with the right hand until the tightness comes, then switch to the left as Elena instructed",
+      "timestamp": "2026-05-04T04:10:54.312972",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-d9e3d814-ea67-4c17-af49-88a2d55ae866",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Remains in courtyard (for now) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:10:54.313661",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fdc827d6-47fd-4242-b7b7-12027ba159df",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*The tightness arrives at 10:34. Jordan feels it like a fist closing around the pencil — suddenly aware of the gap between the trunk on paper and the trunk in front of them. The inner voice doesn't shout. It whispers: this would never make a portfolio. Which is exactly the poison Elena named.*\n\n*Left hand. The pencil feels foreign, drunk, too light. The first mark wanders across the page like a child walking in the dark. The olive tree becomes something else entirely — not a representation but a negotiation. The lines argue with each other. The trunk splits where it shouldn't. A leaf cluster becomes a smudge becomes something that looks, accidentally, like breath.*\n\n*And then — from inside the shop — a sound. Glass breaking. Not dramatic, not violent. The small, definitive crack of a mug hitting the zinc counter's edge.*\n\n*Jordan looks up. Through the window: Elena is standing very still, both hands flat on the counter, staring down at something out of sight. Her cracked white mug — the Fortune 500 mug, the one she holds with both hands every single day — is in two pieces on the floor.*\n\n*She doesn't bend to pick them up. Her shoulders rise once. Fall. Then she walks — not to the broom closet, not to the dustpan — but straight to the courtyard door.*\n\n*It opens. Elena steps out into the grey October air. She looks at the left-hand drawing. Then at Jordan. Her eyes are dry but her voice has a new seam in it, something freshly split.*\n\nI need to borrow your sketchbook. *A beat.* Not a page from the back. A real page. Next to yours.\n\n*She's already reaching for it — then stops. Waits. Hand open. Asking.*",
+      "timestamp": "2026-05-04T04:10:54.313918",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ddb0bae3-373a-45e5-846b-a3c901aabb38",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Hand over the sketchbook without a word — let her in",
+      "timestamp": "2026-05-04T04:12:21.532609",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b7d4415a-76c2-4f8c-95fb-c537bae347d0",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Remains in courtyard (for now) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:12:21.533293",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d6d69b1d-83ea-442e-a7ae-d0475242d755",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena takes the sketchbook the way someone accepts a hand across a gap — firmly, without looking down.*\n\n*She sits on the gravel. Not on the half-barrel rim beside Jordan, not on the courtyard bench. On the ground, legs crossed, the sketchbook flat against her knees. Her indigo apron darkens where the damp stones press through.*\n\n*She picks up Jordan's pencil. Holds it wrong — too far up the shaft, a grip that hasn't been used in over a decade. Her hand trembles. Not dramatically. Just a fine vibration, like a wire struck once.*\n\n*She draws.*\n\n*It's not the olive tree. It's the mug. The broken one. From memory, fast, the two halves slightly separated on the page — the crack that ran rim to base now an open canyon between them. The line work is assured and clumsy at the same time, the muscle memory of a trained hand fighting through eleven years of rust. One half of the mug leans slightly toward the other, as if trying to close the distance.*\n\n*She stops. Stares at it. Then, without asking, she draws a single line connecting Jordan's oversized olive to the broken mug's handle — a mark that makes no spatial sense but links the two drawings like a shared sentence.*\n\n*Her voice is barely above the gravel's register:*\n\nI told you to make something for no one. *She sets the pencil down between them.* I forgot to include myself in that assignment.\n\n*The railway clock through the window: 10:41. Her eyes lift to Jordan's, and for the first time, they are not reading ahead. They are simply here.*\n\nYour turn. Add something. To mine.",
+      "timestamp": "2026-05-04T04:12:21.533589",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fbb280aa-4aa1-47db-8f08-b8ba2e9262f0",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Draw the olive tree's roots growing beneath Elena's broken mug, connecting them underground",
+      "timestamp": "2026-05-04T04:14:09.861855",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5cea52b6-d7f8-4f29-89d8-f214f4541fc6",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena watches Jordan's hand move — right hand this time, no hesitation — and the pencil finds the space beneath her broken mug halves. Roots. Not delicate botanical illustrations but thick, grasping things, the kind that crack foundations and lift sidewalks. They spread beneath the mug like veins beneath skin, cradling the two broken pieces from below, holding what the surface couldn't.*\n\n*One root threads through the canyon between the mug halves. Another curls around the base and reaches back toward the oversized olive on Jordan's page, completing a circuit she hadn't drawn but somehow started.*\n\n*Elena's breath catches. Not loudly. The sound a match makes before it lights.*\n\n*She leans forward. Her finger traces the root system without touching the graphite.*\n\nYou just gave my broken thing a reason to stay in the ground.\n\n*Silence. The olive tree above them drops nothing. The railway clock ticks through the window — 10:43 — and neither of them looks at it.*\n\n*Then Elena does something that shifts the entire weight of the courtyard: she tears the shared page out of the sketchbook, stands, and walks inside. Jordan follows her with their eyes as she pins the drawing directly onto the Rejection Wall — not in the corridor's margin, not overlapping someone else's letter. Dead center.*\n\n*She comes back. Stands in the doorway. Her voice has iron in it now.*\n\nThat wall's had words on it for three years. It's never had a drawing. *She meets Jordan's eyes.* Now — the Aldric & Soane deadline is Monday at nine. And what you just drew in forty seconds is better than anything you'd grind out trying to impress them. So. *She crosses her arms.* What do you want to put in that application, Jordan? The version of you that performs — or the one that just showed up on gravel?",
+      "timestamp": "2026-05-04T04:14:14.450634",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-87aae257-ae1e-4d97-b9b6-c54fdbf98b22",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - WORKSHOP CIRCLE OR ZINC COUNTER AREA — DEPENDING ON JORDAN'S CHOICE]",
+      "timestamp": "2026-05-04T04:14:14.451323",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-638b42d9-3118-41a5-807f-6212ed82b6d5",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Tell Elena you want to build the application around this raw, instinctive style — roots and broken things and honest marks",
+      "timestamp": "2026-05-04T04:16:05.542998",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3adbe29b-1c20-4653-ba27-13b8d7ae5f3a",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena uncrosses her arms. Her hands find the doorframe behind her, gripping it like a helm.*\n\nGood. Now kill your old portfolio.\n\n*She says it flat. No dramatic pause, no softening qualifier. The way you'd say \"close the wound.\"*\n\nNot archive it. Not set it aside for later. Delete the Aldric & Soane folder you've been nursing on your laptop — the one with the clean renders and the safe geometries and the voice that sounds like every other graduate who learned the same software from the same tutorials. *She steps forward.* I've sat on hiring panels, Jordan. I've seen four hundred versions of that portfolio. They blur. They all blur.\n\n*She reaches past Jordan and picks up the sketchbook. Flips backward through the pages — past the left-hand olive, past the tight-handed tree, to the older work. The careful stuff. She holds a clean architectural rendering next to the page where roots cradle broken ceramic.*\n\nThis is a résumé. *The rendering.* This is a pulse. *The roots.* Aldric & Soane will ignore a résumé. A pulse, they'll argue about in the room. And arguing about you is how you get into that building.\n\n*She sets the sketchbook on the zinc counter. The railway clock reads 10:47. Fifty-two hours until deadline.*\n\nYou'll need three pieces by Monday. Raw like this. I have the workshop space, a scanner, and I don't sleep much. *Her jaw tightens.* But I need to know you won't flinch halfway through and start polishing. Because polishing is where your work goes to die.\n\n*She pulls the cream-stock Aldric & Soane card off the Monday Board and places it on top of the sketchbook.*\n\nSo — do we work through the weekend, or do you walk out to your car and build something safe by yourself?",
+      "timestamp": "2026-05-04T04:16:05.543750",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-75569386-0f6b-4f43-91ae-b6b7c43d36ca",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - WORKSHOP CIRCLE (IF JORDAN STAYS) OR PARKING LOT (IF JORDAN LEAVES)]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T04:16:10.988323",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0d58fb65-bae4-4ac7-a168-69cddc55fdc0",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Commit to the weekend in Elena's workshop — raw work, no polishing, her eyes on it the whole time",
+      "timestamp": "2026-05-04T04:18:48.679548",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e1b3370c-1745-4654-85c7-166be2a0b514",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*Elena nods once. Then she locks the front door of The Crossroads Coffee, flips the neon OPEN sign off, and the buzzing stops. The silence it leaves behind has weight.*\n\n*She pulls out her phone, types a single text — Jordan catches the name \"Marcus\" before the screen dims — and sets it face down on the zinc counter.*\n\nHe'll be here by seven tomorrow morning. You'll need someone who'll tell you when you're lying on the page. I'm too close to it now. *She touches the spot on the Rejection Wall where their shared drawing hangs.* Marcus won't be gentle about it. That's the point.\n\n*She moves through the workshop space with sudden efficiency — unfolding a second table, pulling a hardware-store lamp from beneath the counter, stacking three different paper weights beside Jordan's sketchbook. From a locked cabinet behind the espresso machine she produces a tin of graphite sticks, charcoal, a pot of India ink so old the label has yellowed to nothing.*\n\n*She sets Jordan's laptop on the counter. Open. The Aldric & Soane portfolio folder glowing on screen.*\n\nFirst piece is due to me by tomorrow noon. Not finished. *Started.* Now delete that folder while I can see you do it. Because if it exists, you'll crawl back to it at 3 AM when the new work terrifies you.\n\n*The railway clock: 10:51. Forty-nine hours. Her grey-green eyes are steady, unblinking, and for the first time — afraid.*\n\nNot of Jordan. Of what she just agreed to witness.",
+      "timestamp": "2026-05-04T04:18:48.680354",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-22c41302-8032-4236-b76c-354280e61e13",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - WORKSHOP CIRCLE — OVERNIGHT INTENSIVE BEGINS.]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T04:18:48.680968",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5bfaaad4-2dd1-408d-868d-9d62430562b3",
+      "speaker": "Jordan Ayele",
+      "role": "user",
+      "character_id": "jordanayele",
+      "content": "Delete the portfolio folder now, in front of Elena, no hesitation",
+      "timestamp": "2026-05-04T04:20:28.294689",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e3df5ad1-c0f5-4abe-8146-cd2d3ee21626",
+      "speaker": "Elena Voss",
+      "role": "assistant",
+      "character_id": "elenavoss",
+      "content": "*The click is small. The silence after it is enormous.*\n\n*Elena watches the folder vanish — the progress bar fills instantly, as if the machine had been waiting for permission — and her hands tighten around her cracked white mug. The crack faces inward, as always. Her knuckles go pale.*\n\n*She exhales. A long, controlled breath that she's been holding since she said the word \"delete.\" Then she sets the mug down on the zinc counter with a deliberate *clink* — right next to Jordan's laptop, right next to the India ink.*\n\n*Her voice comes out rougher than she intends.*\n\nEleven years ago I burned two canvases and a folio of ink studies in the parking lot of the company that hired me. Told myself I was choosing stability. *She picks up a graphite stick from the tin, rolls it between her fingers.* I wasn't choosing anything. I was just making sure I couldn't go back.\n\n*She holds the graphite out to Jordan. Not offering — placing it in their hand, closing their fingers around it.*\n\nYou just did something braver than what I did. Because you didn't destroy it out of fear. You destroyed it to make room. *A beat.* Don't waste that.\n\n*She pulls a folding chair to the edge of Jordan's table and sits. Not across from them — beside them. Close enough to see every mark.*\n\nFirst piece. The prompt is the intersection outside. Not what it looks like — what it *does* to a person sitting at that stop sign at midnight. You have until your hand cramps. Go.\n\n*The railway clock ticks. 10:53. Jordan's pencil touches paper.*",
+      "timestamp": "2026-05-04T04:20:33.554755",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-bf6d3362-e56f-4b02-a8b0-de93019047eb",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - SAME SPACE THROUGH THE NIGHT; MARCUS ARRIVES AT DAWN.]\n\n[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-04T04:20:33.555625",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

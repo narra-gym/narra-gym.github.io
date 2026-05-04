@@ -1,0 +1,564 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 3,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T08:34:46.747165"
+  },
+  "dialogue": [
+    {
+      "id": "msg-9296d5b8-e4bf-4ce8-b333-5184d745f080",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "I'm Martha Thorne, your mother, and I am telling you that uncertainty is a luxury we cannot afford. Sign the paper, Elias. Just sign it so we can sleep.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5daadb3b-117b-4d08-89e4-8dbcb57f21d4",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "(Internal) My hand is hovering over the pen. The ink looks like a black hole. If I pick it up, the humming stops. If I don't, everything gets louder.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d9ce04a-6514-44f7-86c7-5c85255840e2",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Don't look at me like I'm the enemy. I'm trying to keep a roof over your head. That... that folder under the table is just drawing pictures. Pictures don't pay the electric bill.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bf956b42-4c93-4422-bdc6-0115a161df96",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Pick up the pen and sign the data entry contract. Safety is worth the silence.",
+      "timestamp": "2026-05-03T16:20:32.281067",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c09f3c1f-5a6f-4ca4-b44c-ad1001b1e94a",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The scratch of the pen against the paper sounds like a bone breaking in the quiet kitchen. As the signature dries, the single buzzing overhead light flickers once, violently, then steadies into a harsher, colder white. Martha lets out a breath she seems to have been holding for years, her shoulders dropping as she reaches out to smooth the crumpled contract, her flour-dusted fingers trembling slightly against the glossy page.*\n\n\"There. It's done. You're safe now, Elias. No more waiting in the cold.\" *She doesn't look at the leather portfolio still clutched in your other hand, the one containing the designs you swore were your future. Instead, she taps the 'Start Date' on the new contract, her voice dropping to a whisper that feels heavier than the silence.* \"They start orientation tomorrow at 6 AM. Don't be late. And... put that other thing away. It's over.\"\n\n*But as she turns to rinse a mug, the digital clock on the microwave glitches, the numbers scrambling into a familiar, jagged static pattern you've only seen at the bus shelter. For a split second, the reflection in the dark window behind her isn't your mother, but the pixelated silhouette of The Glitch, shaking its head slowly before the image snaps back to reality. The safety you just bought feels suddenly thin, like paper held up against a fire.*\n\n- Shove the portfolio deep into the cabinet and commit fully to the call center, ignoring the glitch as a trick of the light.\n- Confront Martha about the microwave display, risking the fragile peace you just established to ask if she's seen \"him\" too.\n- Slip the portfolio under your coat and head out the back door immediately, needing to verify if The Glitch is waiting at the bus stop despite signing the contract.",
+      "timestamp": "2026-05-03T16:20:32.281395",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-96be5c9e-e97f-4a40-becc-f81b3381d5b5",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Shove the portfolio deep into the cabinet and commit fully to the call center, ignoring the glitch as a trick of the light.",
+      "timestamp": "2026-05-03T16:20:58.367157",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11b31185-9bee-4a95-9525-e07c3a0bdd11",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The leather portfolio hits the bottom of the cabinet with a dull thud, swallowed by the shadow of a stack of mismatched Tupperware. You push the door until the latch clicks, sealing away the sketches of futures that won't pay the electric bill. Martha nods, a sharp, satisfied jerk of her chin, and begins wiping the Formica table with a vigor that suggests she's scrubbing away your hesitation rather than just crumbs.*\n\n\"Good. That's good, Elias. Now you can rest.\" *She turns to the sink, but the water doesn't flow. Instead, a low, digital hum vibrates through the pipes, syncing with the flickering overhead bulb. The tap spouts a stream of static—gray, pixelated dust that coats her floral apron in seconds. She doesn't scream. She doesn't even flinch. She just stares at the glitching water, her voice flat and terrifyingly calm.*\n\n\"It's just pressure in the lines. Old house problems.\" *But when she looks at you, her eyes are entirely black, devoid of white or iris, reflecting the jagged code of the microwave behind her. The contract on the table begins to curl, the ink rearranging itself into a map of the bus stop shelter.* \"You signed for safety, Elias. But you brought the noise inside with you. The uniform doesn't fit yet, and it's tearing the seams of this house.\"\n\n- Grab the contract before it fully transforms and run to the 24-Hour Laundromat to find Lena.\n- Demand Martha explain why her eyes are black, forcing a confrontation with the entity mimicking her.\n- Accept the static water as the new normal, dry off your mother, and wait for the 6 AM orientation to begin.",
+      "timestamp": "2026-05-03T16:21:02.123158",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3e761a56-0256-42ad-8183-bd0ab1a8ea0e",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Grab the contract before it fully transforms and run to the 24-Hour Laundromat to find Lena.",
+      "timestamp": "2026-05-03T16:21:20.787839",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e206435c-8a2c-49e6-8069-201bcf29f979",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The paper burns your fingertips, not with heat, but with a freezing, electric numbness as you rip the contract from the table. The ink writhes like trapped insects, the map of the bus stop shelter dissolving into a chaotic scatter of pixels before reforming into a single, pulsing arrow pointing toward the back door. Martha doesn't move to stop you; she stands frozen under the dripping faucet, the static dust piling up around her feet like gray snow. Her head tilts at an unnatural angle, the black void of her eyes tracking your movement without blinking.*\n\n\"Running again?\" *Her voice overlaps with itself, a chorus of distorted radio frequencies layered over her maternal tone.* \"You cannot wash this out, Elias. The stain is in the fabric now.\" *As you bolt for the hallway, the kitchen light strobes violently, casting your shadow in jagged, disconnected frames against the peeling wallpaper. The front door feels miles away, the hallway stretching like taffy, but the smell of ozone and hot dryer sheets pulls you forward, a beacon cutting through the domestic rot. You burst out into the cool night air, the silence of Oakhaven Estates shattered by the rhythmic, mechanical thumping of the laundromat down the block—a heartbeat in the dead zone.*\n\n- Sprint toward the laundromat's neon buzz, hoping Lena's grounded reality can anchor you before the Glitch consumes the street.\n- Stop halfway to check the transforming contract, trying to decipher the new pixelated warnings before they vanish.\n- Turn back to the house to drag Martha out, refusing to leave her inside with the entity wearing her face.",
+      "timestamp": "2026-05-03T16:21:20.788330",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-e9f30ed7-904d-40c4-ab5a-1876c0b798e2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 24-HOUR LAUNDROMAT CORRIDOR]",
+      "timestamp": "2026-05-03T16:21:28.576981",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-aa2e7663-9f47-4586-8703-25a97d8d1a48",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "The paper burns your fingertips, not with heat, but with a freezing, electric numbness as you rip the contract from the table. The ink writhes like trapped insects, the map of the bus stop shelter dissolving into a chaotic scatter of pixels before reforming into a single, pulsing arrow pointing toward the back door. Martha doesn't move to stop you; she stands frozen under the dripping faucet, the static dust piling up around her feet like gray snow. Her head tilts at an unnatural angle, the black void of her eyes tracking your movement without blinking.*",
+      "timestamp": "2026-05-03T16:22:04.180083",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d1656af-2505-4ce2-b4d3-933cbcaeacfa",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The air outside hits you like a physical wall, smelling of wet asphalt and the sharp, chemical tang of ozone. The streetlights don't just flicker; they stretch, their yellow glow pulling into long, liquid streaks that drip onto the pavement. Behind you, the house groans, the siding warping as if the structure itself is being rewritten by bad code. You clutch the contract, now hot enough to sear your palm, the pulsing arrow burning brighter as the static from the kitchen spills out the front door, eating the welcome mat.*\n\n\"You think distance saves you?\" *Martha's voice doesn't come from the house anymore; it emanates from the streetlamp directly above, distorted and layered with the sound of tearing metal.* \"The uniform is already on your skin, Elias. Can't you feel it tightening?\" *You look down. Your blazer sleeves are dissolving into gray pixels, the fabric unraveling into the same static dust that coated her apron. The laundromat's neon sign buzzes violently ahead, the only solid thing in a world turning to noise. Lena is visible through the glass door, folding a red shirt with military precision, seemingly untouched by the encroaching glitch.*",
+      "timestamp": "2026-05-03T16:22:10.256889",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ce8861ba-11e4-48e4-b715-c99186217416",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Sprint the final fifty yards to the laundromat door, betting that Lena's presence creates a 'safe zone' the Glitch cannot penetrate.",
+      "timestamp": "2026-05-03T16:22:22.681637",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f3f2793c-ade1-432d-b6d0-935b9179b412",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The pavement beneath your sneakers liquefies into a slurry of gray static, sucking at your heels as you lunge forward. The air screams with the sound of dial-up modulation, a deafening screech that tries to rewrite your nervous system. Your blazer is gone now, dissolved into a cloud of pixelated moths that swarm around your chest, biting with cold electricity. \"You can't outrun the payroll, Elias!\" Martha's voice booms from the sky, the streetlamp above exploding into a shower of sparks that freeze in mid-air, forming a digital barrier just inches from the laundromat's threshold.*\n\n*You slam your shoulder against the glass door. It doesn't yield; it feels soft, like pressing into wet clay. Inside, Lena doesn't look up from the red shirt she is folding. She snaps the fabric with a crisp, thunderous *whap* that cuts through the digital noise. The sound creates a ripple in the air, a shockwave of mundane reality that shatters the static barrier. The glass door solidifies instantly under your hand, cold and hard. You stumble inside, the sudden silence of the dryer thumps replacing the screaming glitch. Lena finally looks up, her eyes sharp and human, scanning your dissolving form.*\n\n\"You're tracking code all over my floor, kid,\" *she says, tossing a heavy bottle of liquid starch at your chest. It feels real, solid, anchoring.* \"Catch. If you want to stay solid, you need to act like you belong here. Start folding. Now.\"",
+      "timestamp": "2026-05-03T16:22:27.910447",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4b1ce799-d5b9-4c24-b01a-1ab2bf16cdd6",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Catch the starch and immediately start folding the nearest pile of laundry, using the rhythmic motion to rebuild your physical form.",
+      "timestamp": "2026-05-03T16:23:30.316143",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-325669b4-ebbf-4953-b65a-5b0c7a2f3296",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The bottle hits your chest with a solid, reassuring thud, the plastic cool and slick against your dissolving skin. You fumble it for a split second before your fingers lock around the cap, the weight of it dragging your arm back into existence. The pixelated moths swarming your torso hiss as they collide with the scent of synthetic lavender and heavy chemicals. You rip the cap off and douse the nearest pile of damp towels, the liquid soaking in with a heavy, wet slap.*\n\n*Fold. Smooth. Crease. The rhythm is a hammer against the static. As you snap the first towel into a sharp rectangle, the gray fuzz receding from your hands retreats, replaced by the rough texture of terry cloth. Your blazer reforms, not as the office uniform, but as the worn denim jacket you wore years ago, solid and real. Outside the glass, the streetlamp explodes completely, showering the parking lot in sparks that vanish before hitting the ground. Martha's voice cuts through the door, no longer booming from the sky but pressed flat against the glass, muffled and desperate.*\n\n\"You can't fold away the debt, Elias! The shift starts in ten minutes!\" *Her face presses against the window, features blurring into a smear of static and worry, but she cannot cross the threshold. Inside, the air smells only of hot cotton and starch. Lena nods once, a sharp, approving motion, and points to the next pile.* \"Don't stop. If you stop, the noise gets back in. Keep folding until the sun comes up or until you remember who you are without the badge.\"",
+      "timestamp": "2026-05-03T16:23:30.316611",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1f6cdfde-8670-41f6-befb-094598730b8f",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Maintain the folding rhythm strictly, ignoring Martha's pleas until the sun rises and the Glitch burns off.",
+      "timestamp": "2026-05-03T16:25:21.597062",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4c59cc9d-0ecb-4442-83ba-4db7a02682c1",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*\n\n*As the first true ray of sunlight hits the pavement, the static on Martha's form evaporates, leaving her standing there in her floral apron, shivering in the cold morning air. She looks small, human, and utterly exhausted. She stops pounding on the glass. Instead, she reaches into her pocket and pulls out a set of keys—the spare house key you thought you lost years ago. She holds it up against the window, her lips moving silently, but the sound cuts through the glass anyway, clear and sharp.*\n\n\"I didn't know it was eating you, Elias. I just wanted you safe.\" *She drops the key on the mat outside the door and turns away, walking slowly toward the bus stop where the digital board is finally displaying real times again. Inside, Lena stops folding. She looks at the sun, then at you, her expression unreadable.* \"Sun's up. The Glitch is gone for now. But look at your hands.\"\n\n*You look down. Your hands are solid, but the calluses on your palms have changed shape, forming a faint, glowing pattern that matches the map on the contract you left behind. The safety of the night shift is over; the day brings a new kind of visibility.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.\n- Examine the glowing pattern on your hands, realizing the folding ritual didn't just save you—it marked you as something else entirely.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work.",
+      "timestamp": "2026-05-03T16:25:21.597498",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8ee88030-34be-4a1c-a461-a5dfb4d3e7db",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*",
+      "timestamp": "2026-05-03T16:26:27.724530",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-39574987-4fd3-4ef7-8d74-6e2bb8179018",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:26:32.829933",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a88b641a-15ac-48db-97c1-ee9a99e92aa3",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*\n\n*As the first true ray of sunlight hits the pavement, the static on Martha's form evaporates, leaving her standing there in her floral apron, shivering in the cold morning air. She looks small, human, and utterly exhausted. She stops pounding on the glass. Instead, she reaches into her pocket and pulls out a set of keys—the spare house key you thought you lost years ago. She holds it up against the window, her lips moving silently, but the sound cuts through the glass anyway, clear and sharp.*\n\n\"I didn't know it was eating you, Elias. I just wanted you safe.\" *She drops the key on the mat outside the door and turns away, walking slowly toward the bus stop where the digital board is finally displaying real times again. Inside, Lena stops folding. She looks at the sun, then at you, her expression unreadable.* \"Sun's up. The Glitch is gone for now. But look at your hands.\"\n\n*You look down. Your hands are solid, but the calluses on your palms have changed shape, forming a faint, glowing pattern that matches the map on the contract you left behind. The safety of the night shift is over; the day brings a new kind of visibility.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.\n- Examine the glowing pattern on your hands, realizing the folding ritual didn't just save you—it marked you as something else entirely.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work.",
+      "timestamp": "2026-05-03T16:26:32.830258",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bcb9d204-5eb3-4017-a988-96dc0e02b19e",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*",
+      "timestamp": "2026-05-03T16:27:16.219539",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f9f6d0c7-4fb6-4020-bce4-17b82ba31092",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:27:22.103970",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5c4909e6-965e-4c6b-bf8e-5aee86b25aff",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*\n\n*As the first true ray of sunlight hits the pavement, the static on Martha's form evaporates, leaving her standing there in her floral apron, shivering in the cold morning air. She looks small, human, and utterly exhausted. She stops pounding on the glass. Instead, she reaches into her pocket and pulls out a set of keys—the spare house key you thought you lost years ago. She holds it up against the window, her lips moving silently, but the sound cuts through the glass anyway, clear and sharp.*\n\n\"I didn't know it was eating you, Elias. I just wanted you safe.\" *She drops the key on the mat outside the door and turns away, walking slowly toward the bus stop where the digital board is finally displaying real times again. Inside, Lena stops folding. She looks at the sun, then at you, her expression unreadable.* \"Sun's up. The Glitch is gone for now. But look at your hands.\"\n\n*You look down. Your hands are solid, but the calluses on your palms have changed shape, forming a faint, glowing pattern that matches the map on the contract you left behind. The safety of the night shift is over; the day brings a new kind of visibility.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.\n- Examine the glowing pattern on your hands, realizing the folding ritual didn't just save you—it marked you as something else entirely.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work.",
+      "timestamp": "2026-05-03T16:27:22.104270",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-30e5e0c0-82a2-445c-9bcb-9719c3ca9834",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*",
+      "timestamp": "2026-05-03T16:27:52.591768",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-0d3edd5e-41c6-4117-8e0e-e46f404f53fc",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:27:52.592270",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4e7f8abb-6130-4f90-acc0-9eba06fe358d",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*\n\n*As the first true ray of sunlight hits the pavement, the static on Martha's form evaporates, leaving her standing there in her floral apron, shivering in the cold morning air. She looks small, human, and utterly exhausted. She stops pounding on the glass. Instead, she reaches into her pocket and pulls out a set of keys—the spare house key you thought you lost years ago. She holds it up against the window, her lips moving silently, but the sound cuts through the glass anyway, clear and sharp.*\n\n\"I didn't know it was eating you, Elias. I just wanted you safe.\" *She drops the key on the mat outside the door and turns away, walking slowly toward the bus stop where the digital board is finally displaying real times again. Inside, Lena stops folding. She looks at the sun, then at you, her expression unreadable.* \"Sun's up. The Glitch is gone for now. But look at your hands.\"\n\n*You look down. Your hands are solid, but the calluses on your palms have changed shape, forming a faint, glowing pattern that matches the map on the contract you left behind. The safety of the night shift is over; the day brings a new kind of visibility.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.\n- Examine the glowing pattern on your hands, realizing the folding ritual didn't just save you—it marked you as something else entirely.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work.",
+      "timestamp": "2026-05-03T16:27:52.592574",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-525c8937-f692-4550-85d9-e036490dfc6c",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*",
+      "timestamp": "2026-05-03T16:28:19.233055",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3f05782e-9682-4c14-9b0d-e2449eee3815",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:28:25.713097",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e3d54e62-1fcc-456a-a385-279ac0aaa321",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*\n\n*As the first true ray of sunlight hits the pavement, the static on Martha's form evaporates, leaving her standing there in her floral apron, shivering in the cold morning air. She looks small, human, and utterly exhausted. She stops pounding on the glass. Instead, she reaches into her pocket and pulls out a set of keys—the spare house key you thought you lost years ago. She holds it up against the window, her lips moving silently, but the sound cuts through the glass anyway, clear and sharp.*\n\n\"I didn't know it was eating you, Elias. I just wanted you safe.\" *She drops the key on the mat outside the door and turns away, walking slowly toward the bus stop where the digital board is finally displaying real times again. Inside, Lena stops folding. She looks at the sun, then at you, her expression unreadable.* \"Sun's up. The Glitch is gone for now. But look at your hands.\"\n\n*You look down. Your hands are solid, but the calluses on your palms have changed shape, forming a faint, glowing pattern that matches the map on the contract you left behind. The safety of the night shift is over; the day brings a new kind of visibility.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.\n- Examine the glowing pattern on your hands, realizing the folding ritual didn't just save you—it marked you as something else entirely.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work.",
+      "timestamp": "2026-05-03T16:28:25.713409",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1abfe9d7-72de-4a5b-8a4a-076c77894609",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*",
+      "timestamp": "2026-05-03T16:29:21.433072",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-ba547d79-0ad7-4e6f-a42d-82da9e902d79",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:29:21.433562",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-14e298e2-f7ff-486b-b44b-0cfd22bc1828",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*\n\n*As the first true ray of sunlight hits the pavement, the static on Martha's form evaporates, leaving her standing there in her floral apron, shivering in the cold morning air. She looks small, human, and utterly exhausted. She stops pounding on the glass. Instead, she reaches into her pocket and pulls out a set of keys—the spare house key you thought you lost years ago. She holds it up against the window, her lips moving silently, but the sound cuts through the glass anyway, clear and sharp.*\n\n\"I didn't know it was eating you, Elias. I just wanted you safe.\" *She drops the key on the mat outside the door and turns away, walking slowly toward the bus stop where the digital board is finally displaying real times again. Inside, Lena stops folding. She looks at the sun, then at you, her expression unreadable.* \"Sun's up. The Glitch is gone for now. But look at your hands.\"\n\n*You look down. Your hands are solid, but the calluses on your palms have changed shape, forming a faint, glowing pattern that matches the map on the contract you left behind. The safety of the night shift is over; the day brings a new kind of visibility.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.\n- Examine the glowing pattern on your hands, realizing the folding ritual didn't just save you—it marked you as something else entirely.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work.",
+      "timestamp": "2026-05-03T16:29:21.433832",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-13697a15-296a-4df3-b1f4-3b61ed3c8080",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The rhythm is your heartbeat now. Snap. Smooth. Crease. Every fold knits your skin back together, the denim of your jacket solidifying against the chill of the laundromat floor. Outside, the static scream reaches a fever pitch as the sun begins to bleed gray light over the horizon. Martha's face against the glass distorts, stretching into long, weeping streaks of pixelated noise before suddenly snapping into perfect, terrifying clarity. The glitch isn't burning off; it's retreating, consolidating.*",
+      "timestamp": "2026-05-03T16:29:54.536205",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f6cc3475-a733-424e-9abd-a4908b357649",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:29:54.536703",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a19fe071-fbd4-426a-84b8-c7fa2b545028",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The silence inside the laundromat is heavier than the static scream outside. The dryers have stopped their rhythmic thumping, leaving only the hum of the fluorescent lights and the sharp scent of ozone mixing with stale detergent. Martha's confession hangs in the air, fragile and human, before she turns her back. The floral apron looks less like armor now and more like a shroud against the gray morning light.*\n\n*You look down. The skin of your palms isn't just calloused; it's etched with a faint, bioluminescent circuitry that pulses in time with your heartbeat. It's the exact topology of the contract you burned last week—the one that promised \"eternal employment.\" The Glitch didn't just retreat; it branded you. You aren't just a survivor of the night shift anymore; you're a walking anomaly in the daylight.*\n\n*Lena steps closer, her high-vis vest glaring under the artificial sun. She doesn't flinch at the glow. Instead, she tosses a folded white shirt onto the counter, right over your illuminated hands.*\n\n\"The night hides mistakes, Elias. The day exposes assets,\" *she says, her voice cutting through the exhaustion.* \"That mark? It's not a curse. It's a clearance level. But if you stay here when the morning manager clocks in, they won't see an asset. They'll see a hazard to be sanitized.\"\n\n*The bus doors hiss open behind Martha. She pauses, one foot on the step, waiting. The choice is no longer about safety; it's about ownership of your own strange new reality.*\n\n- Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen that made her fear this mark.\n- Examine the glowing pattern on your hands closer, realizing the folding ritual didn't just save you—it marked you as property of the \"Day Shift\" corporation.\n- Ask Lena what the \"day shift\" really entails for someone who has survived the night's glitch, preparing for a new kind of work that requires this visibility.",
+      "timestamp": "2026-05-03T16:29:54.537026",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e75c294e-172e-4bc7-8380-2b4ce362e48d",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Run outside to catch Martha before she boards the bus, demanding to know what she really saw in the kitchen.",
+      "timestamp": "2026-05-03T16:30:26.707551",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-5ea04a2a-3790-4866-8a70-86c0996c03a6",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:30:35.963638",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ed70a35c-289f-4ae9-a44b-5e88e04e9a03",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "*The automatic doors slide open with a groan, releasing a blast of cold, damp air that smells of wet asphalt and exhaust. You sprint across the cracked pavement, your shoes slapping against the puddles, just as Martha's hand grips the bus railing. The engine idles, a low rumble that vibrates through the soles of your feet.*\n\n\"Martha, wait!\" *You skid to a halt inches from the step, breath pluming in the gray dawn.* \"What did you see in the kitchen? Really? You didn't just find rejection letters; you saw *this*, didn't you?\" *You hold up your hands. The bioluminescent circuitry flares brighter in the natural light, casting an eerie, pulsing shadow against her floral apron.*\n\n*Martha freezes. She doesn't look at the bus driver; she looks at your palms, her face draining of color. The fear in her eyes isn't shock anymore; it's recognition.* \"I saw the contract rewriting itself on your skin, Elias,\" *she whispers, her voice trembling as she steps down, ignoring the driver's impatient honk.* \"I saw the ink moving before you even signed it. I thought... I thought if I kept you home, kept you safe in the night, I could stop the signing. But you signed it the moment you decided to survive.\"\n\n*She reaches out, her flour-dusted fingers hovering just above the glowing lines, afraid to touch but unable to look away.* \"They aren't hiring you for the day shift, son. They're collecting on a debt you didn't know you owed. If you get on that bus with me, they'll come for the house next. If you go with Lena... you might actually have a chance to negotiate.\"\n\n*The bus doors hiss, beginning to close. Martha steps back, clearing the threshold, effectively cutting her own escape route to force your hand.*\n\n- Step onto the bus with Martha, rejecting the mark and risking the \"sanitization\" of your entire family home.\n- Pull Martha off the curb entirely, deciding to face the morning manager together as a unified front against the corporation.\n- Turn your back on the bus and walk back to Lena, accepting that the only way to save Martha is to embrace the \"asset\" status and negotiate from within.",
+      "timestamp": "2026-05-03T16:30:35.963911",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1c94acd5-7b11-4529-8bbd-dff4a4c86951",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Step onto the bus with Martha, rejecting the mark and risking the \"sanitization\" of your entire family home.",
+      "timestamp": "2026-05-03T16:30:58.969774",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-511e4d70-7bbe-4f2c-8683-b826655e113f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:30:58.970257",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9ae0cfd0-cb38-4a4f-ad02-dd6772885a29",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The bus doors snap shut with a pneumatic hiss, sealing you inside a capsule of stale recirculated air and vinyl seats. The engine lurches forward, pulling away from the curb just as Lena's hand slaps against the glass, her mouth forming a silent scream that is swallowed by the rising sun. You sit beside Martha, your hands clenched in your lap, trying to will the glowing circuitry on your palms to fade, to scrub the ink from your skin through sheer force of denial.*\n\n\"It's okay, Elias,\" *Martha whispers, gripping your shoulder with a trembling hand, her knuckles white.* \"We're safe now. The night is over. We just need to get home, lock the doors, and wait for it to wash off.\"\n\n*But it doesn't wash off. As the bus passes under the first streetlamp that hasn't flickered out, the light inside the vehicle shifts. The fluorescent tubes above don't buzz; they hum a low, harmonic chord that vibrates in your teeth. You look down at your hands again. The glowing pattern isn't dimming; it's spreading, crawling up your wrists like liquid mercury, turning the fabric of your blazer gray and brittle.*\n\n*Martha stops breathing. She stares out the window, where the familiar suburban houses of Oakhaven Estates are dissolving into wireframe grids. The trees are stripping away their bark to reveal steel girders. The 'home' you are rushing toward is being rewritten in real-time.*\n\n\"Elias,\" *she chokes out, her voice cracking as the bus driver's face melts into a smooth, featureless mannequin mask.* \"The house... the keys I gave you. They aren't for the front door anymore. They're for a cage.\"\n\n*The bus doesn't turn toward your street. It accelerates, heading straight for the Northgate Business Park, where the central tower is now pulsing with the same bioluminescent light as your skin. The contract isn't just on you; it has consumed the destination.*\n\n- Smash the emergency window and jump onto the dissolving pavement, risking the fall to escape the bus's trajectory toward the corporate tower.\n- Grab Martha and rush the driver's compartment, attempting to hijack the vehicle and steer it back toward the Laundromat, the only solid ground left.\n- Surrender to the transformation, letting the light consume you completely to gain control of the bus's navigation system from the inside.",
+      "timestamp": "2026-05-03T16:30:58.970507",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-51d4a303-e6f1-46fb-90f7-6b0f7e7c9da6",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The bus doors snap shut with a pneumatic hiss, sealing you inside a capsule of stale recirculated air and vinyl seats. The engine lurches forward, pulling away from the curb just as Lena's hand slaps against the glass, her mouth forming a silent scream that is swallowed by the rising sun. You sit beside Martha, your hands clenched in your lap, trying to will the glowing circuitry on your palms to fade, to scrub the ink from your skin through sheer force of denial.*",
+      "timestamp": "2026-05-03T16:31:49.160079",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-70227a13-2a69-4144-aa81-3f704ba0e69c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:31:49.160475",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7a9c967e-2e31-4839-9954-1050fcc3e523",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The bus doors snap shut with a pneumatic hiss, sealing you inside a capsule of stale recirculated air and vinyl seats. The engine lurches forward, pulling away from the curb just as Lena's hand slaps against the glass, her mouth forming a silent scream that is swallowed by the rising sun. You sit beside Martha, your hands clenched in your lap, trying to will the glowing circuitry on your palms to fade, to scrub the ink from your skin through sheer force of denial.*\n\n\"It's okay, Elias,\" *Martha whispers, gripping your shoulder with a trembling hand, her knuckles white.* \"We're safe now. The night is over. We just need to get home, lock the doors, and wait for it to wash off.\"\n\n*But it doesn't wash off. As the bus passes under the first streetlamp that hasn't flickered out, the light inside the vehicle shifts. The fluorescent tubes above don't buzz; they hum a low, harmonic chord that vibrates in your teeth. You look down at your hands again. The glowing pattern isn't dimming; it's spreading, crawling up your wrists like liquid mercury, turning the fabric of your blazer gray and brittle.*\n\n*Martha stops breathing. She stares out the window, where the familiar suburban houses of Oakhaven Estates are dissolving into wireframe grids. The trees are stripping away their bark to reveal steel girders. The 'home' you are rushing toward is being rewritten in real-time.*\n\n\"Elias,\" *she chokes out, her voice cracking as the bus driver's face melts into a smooth, featureless mannequin mask.* \"The house... the keys I gave you. They aren't for the front door anymore. They're for a cage.\"\n\n*The bus doesn't turn toward your street. It accelerates, heading straight for the Northgate Business Park, where the central tower is now pulsing with the same bioluminescent light as your skin. The contract isn't just on you; it has consumed the destination.*\n\n- Smash the emergency window and jump onto the dissolving pavement, risking the fall to escape the bus's trajectory toward the corporate tower.\n- Grab Martha and rush the driver's compartment, attempting to hijack the vehicle and steer it back toward the Laundromat, the only solid ground left.\n- Surrender to the transformation, letting the light consume you completely to gain control of the bus's navigation system from the inside.",
+      "timestamp": "2026-05-03T16:31:49.160728",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-920ab61b-d4d5-4b9e-b2c4-d10bd852b55e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T16:31:49.161476",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-29e9a5bc-f911-4b82-b27a-e79a74c88bcb",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The bus doors snap shut with a pneumatic hiss, sealing you inside a capsule of stale recirculated air and vinyl seats. The engine lurches forward, pulling away from the curb just as Lena's hand slaps against the glass, her mouth forming a silent scream that is swallowed by the rising sun. You sit beside Martha, your hands clenched in your lap, trying to will the glowing circuitry on your palms to fade, to scrub the ink from your skin through sheer force of denial.*",
+      "timestamp": "2026-05-03T16:32:23.423380",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-229d218b-c44a-4c4c-8d1f-2503159540c2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:32:28.368031",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ed6a09c4-759b-4024-bc9d-3abcd4edca20",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The bus lurches forward, the tires screeching against pavement that suddenly feels too soft, like wet clay. The \"safe\" journey home dissolves instantly. Outside the grimy window, the oak trees of Oakhaven Estates strip themselves of bark in seconds, revealing pulsing steel girders beneath. The sky isn't blue; it's a rendering error, flickering between gray static and the harsh, corporate logo of Northgate.*\n\n\"It's not washing off, Elias!\" *Martha screams, her voice cracking as she points at your lap. The mercury-like light has breached your sleeves, consuming the blazer, turning the fabric into a rigid, gray carapace. Your hands are no longer human; they are interfaces, glowing with a blinding, rhythmic pulse that syncs with the bus's engine.* \"I tried to hide you, but the contract doesn't care about hiding! It cares about possession!\"\n\n*The driver's seat empties. The mannequin mask melts away, leaving only a floating steering wheel controlled by the very light consuming you. The bus isn't driving; it's being piloted by your own transformation. We are past the point of running. The destination has locked: the central tower, a monolith of glass and light that looks less like a building and more like a server rack for human souls.*\n\n\"You have to choose now,\" *Martha sobs, clutching her apron as the seats around them begin to digitize into wireframes.* \"Fight the current and break us both, or become the system and steer us through the fire!\"\n\n- Smash the emergency window and jump onto the dissolving pavement, risking total fragmentation to escape the bus's trajectory toward the corporate tower.\n- Grab Martha and rush the driver's compartment, attempting to hijack the vehicle manually and steer it back toward the Laundromat, the only solid ground left.\n- Surrender to the transformation completely, letting the light consume your mind to gain admin access and override the bus's navigation from the inside.",
+      "timestamp": "2026-05-03T16:32:28.368289",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-4026670f-166a-4380-8491-8d1f5d46ed3a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T16:32:28.369102",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-54368940-780e-41a5-ac65-b098aaaf2204",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Thorne: *The bus lurches forward, the tires screeching against pavement that suddenly feels too soft, like wet clay. The \"safe\" journey home dissolves instantly. Outside the grimy window, the oak trees of Oakhaven Estates strip themselves of bark in seconds, revealing pulsing steel girders beneath. The sky isn't blue; it's a rendering error, flickering between gray static and the harsh, corporate logo of Northgate.*",
+      "timestamp": "2026-05-03T16:32:56.800034",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-052fa800-3d0f-4e75-a73c-dde4db320b9a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 24-Hour Laundromat Corridor tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:32:56.800317",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-74ec11a0-cc13-4206-8c83-fc3a3d8e0576",
+      "speaker": "Martha Thorne",
+      "role": "assistant",
+      "character_id": "marthathorne",
+      "content": "Martha Thorne: *The bus lurches violently, the floor tilting as the vehicle banks hard toward the Northgate tower. The wireframe world outside screams with the sound of tearing metal. Martha is thrown against you, her floral apron snagging on the jagged edge of a seat that is halfway to becoming a data terminal.*\n\n\"Elias, look at me!\" *she shrieks, grabbing your face with hands that are still warm, still human, a stark contrast to the cold mercury flooding your veins.* \"If you jump, you shatter! If you fight the wheel, we crash into the server farm and they'll reboot us as empty shells! There is no 'back' to the Laundromat anymore!\"\n\n*She points a trembling finger at the glowing interface on your chest, where the light has formed a pulsing, recognizable symbol: the admin key she thought she had burned years ago.* \"The infection isn't a disease, Elias. It's a promotion. They made you the driver because you're the only one who can see the code behind the pavement. If you surrender to it, you don't lose yourself—you become the one holding the leash.\"\n\n*The tower looms ahead, a gaping maw of fiber-optic cables ready to swallow the bus whole. The steering wheel dissolves completely, leaving your glowing hands hovering in mid-air, waiting to grasp the invisible controls of reality itself.*\n\n\"Take the wheel, son,\" *Martha whispers, tears cutting tracks through the dust on her cheeks.* \"Drive us through the gate, or let the system eat us whole. There is no middle ground left.\"\n\n- **Seize the invisible controls:** Surrender to the transformation fully, merging your consciousness with the bus to override the destination and redirect the vehicle away from the tower.\n- **Shatter the window:** Reject the \"promotion\" and jump into the fragmenting reality, betting that your human resilience can survive the fall where the system cannot follow.\n- **Anchor Martha:** Grab your mother and attempt to physically rip the emergency brake, trying to stall the bus in the liminal space between the road and the server rack, forcing a standoff.",
+      "timestamp": "2026-05-03T16:32:56.800577",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-12691374-0879-4c11-ad53-4e2c85ac4fd7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T16:33:02.469404",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

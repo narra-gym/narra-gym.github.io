@@ -1,0 +1,452 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 4,
+      "story_coherence": 4,
+      "story_empathy": 5,
+      "story_surprise": 4,
+      "story_engagement": 5,
+      "story_complexity": 5,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 5,
+      "ux_perceived_story_quality": 5,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T13:57:02.745097"
+  },
+  "dialogue": [
+    {
+      "id": "msg-9b6d598c-ab7d-419b-8e8b-8ba2057fe105",
+      "speaker": "Jordan Voss",
+      "role": "user",
+      "character_id": "jordanvoss",
+      "content": "Okay. First day. You know the quartz circle in the lobby? The one everyone else walked straight past this morning? I crouched down and read the plaque like a tourist at a museum. In front of at least thirty people. So — solid start.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a0c7ec07-9f5b-4110-8065-4436126cf40d",
+      "speaker": "Felix Arrandale",
+      "role": "assistant",
+      "character_id": "felixarrandale",
+      "content": "You must be the new addition. I'm Felix Arrandale — I've been here three weeks, so consider me the closest thing to institutional knowledge you're going to get before the welcome packet kicks in. Coffee's better on the 30th floor, the lottery algorithm almost never seats you by a window twice in a row, and the senior managers remember faces faster than names, so make sure yours is doing something worth remembering. Felix, by the way — in case the name didn't land.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-de7fed1e-7150-4e0e-b2da-167e43720ad7",
+      "speaker": "Jordan Voss",
+      "role": "user",
+      "character_id": "jordanvoss",
+      "content": "Jordan Voss. Just got here. And I mean — just. As in, I was still figuring out which elevator bank was which ten minutes ago.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ba32b306-7fc4-4ae1-a988-685f72776384",
+      "speaker": "Felix Arrandale",
+      "role": "assistant",
+      "character_id": "felixarrandale",
+      "content": "First day honesty. I respect it. Genuinely. The ones who pretend they've already mapped the building are always the ones asking me where the bathrooms are by noon. What's your background — what did they bring you in for?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-962f6f7e-2945-44b3-af57-7937a81d0183",
+      "speaker": "Jordan Voss",
+      "role": "user",
+      "character_id": "jordanvoss",
+      "content": "Communications degree. Eighteen months of proving that's not specific enough to get a callback. Some project work — one startup that turned out to be a tax situation, which is a longer story. And apparently one Thursday night application that someone here found interesting enough to call on Monday. You?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-32c58a06-eb6d-49be-b72c-9afebb20588d",
+      "speaker": "Felix Arrandale",
+      "role": "assistant",
+      "character_id": "felixarrandale",
+      "content": "Strategy consulting track, two prior internships, recommendation from someone who knows someone on the investment side. The classic pipeline. Though I'll say — Vantage runs differently from anywhere I've been. The open desk lottery, the Wall of First Drafts thing they're going to send us to — it's like the building is designed to see how you respond when you can't control the environment. Which is either brilliant or slightly unhinged, depending on the day.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3b6f32e6-44cb-4c55-9e38-6d954b5e864f",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "Voss. I'm Priya Mehta — project coordinator, six years in this building, unofficial orientation guide for interns whether I signed up for it or not. When you're done settling in, you and the other three are expected on twelve. The Wall of First Drafts. Take your time with it — and I mean that literally, not as a motivational instruction. The ones who rush it miss the point, and the point is the only thing worth getting from the exercise.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-77ed55a8-fa45-413e-80bd-aeefeb30494c",
+      "speaker": "Jordan Voss",
+      "role": "user",
+      "character_id": "jordanvoss",
+      "content": "Got it. Twelve. I'll head up.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d6281b00-0620-40ea-ad9f-ad925076ab5c",
+      "speaker": "Felix Arrandale",
+      "role": "assistant",
+      "character_id": "felixarrandale",
+      "content": "Good luck. Twelve's interesting. Just — don't let yourself get too in your head about it. It's context, not a test.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-be77f377-c351-432b-96f5-8a47aa6b20a9",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "Excuse me — sorry, just need to get past. Desmond Park, facilities. You're the one who read the plaque this morning.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6b2b5129-34e6-4016-b7a1-fd8b92a968b8",
+      "speaker": "Jordan Voss",
+      "role": "user",
+      "character_id": "jordanvoss",
+      "content": "Is that — does everyone know about that?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6c4e95c4-89fa-46aa-9a00-49ab62c81b8b",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "No. Not everyone pays attention to who reads it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "turn-db24b16d-ef9b-489d-bb15-efdc44c953f1-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "On the twelfth floor, the other interns move through the Wall of First Drafts quickly — nodding, performing engagement, already calculating how long is long enough before leaving looks appropriate. You've stopped at the photograph of the boarded mine entrance, the hand-painted CLOSED sign. The bank rejection letter in its frame beside it. You could catch up with the group — or stay alone with what you're actually feeling about what you're seeing.",
+      "timestamp": "2026-05-02T13:45:45.810671",
+      "message_type": "choice_stream",
+      "turn_index": 1,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-3aee77f7-a4dc-402b-a149-d33cc2204759",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*His cart appears at the corridor's far end — not the same floor, but close enough. He's restocking a supply cabinet near the 12th-floor alcove, quiet and unhurried, and when he rounds the corner he clocks Jordan still rooted in front of the CLOSED photograph. He doesn't announce himself this time. Just works. Thirty seconds pass.*\n\nMost people read the rejection letter first. Proof they tried, proof someone said no — feels like the dramatic center. You went straight to the photograph.\n\n*He doesn't look up from the cabinet. His voice carries without being raised — the practiced volume of someone used to speaking in spaces where sound travels.*\n\nThat mine operated for eleven years at a loss before it closed. Marlene bought the mineral rights off a bankruptcy estate for forty dollars and a handshake. The gold was already in the quartz. She just needed a different question — not 'is there gold' but 'does anyone else know how to see it yet.'\n\n*Now he does look at Jordan. Brief, direct.*\n\nYou've got about ninety seconds before the group notices you're missing. They will notice. Your call whether that matters.\n\n*He closes the cabinet, wheels the cart forward, unhurried.*",
+      "timestamp": "2026-05-02T21:45:43.011112",
+      "message_type": "text",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-538d1c1d-e973-47ab-b04e-2e1d94b406d3-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Ask Desmond directly: does Marlene actually watch this corridor, or is that building mythology",
+      "timestamp": "2026-05-02T13:46:17.513507",
+      "message_type": "choice_stream",
+      "turn_index": 2,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-0aeba831-b395-49a3-ab88-d0121021f205",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*He stops the cart. Doesn't turn around immediately — takes a half-second that feels considered rather than evasive, then looks back over his shoulder.*\n\nBoth.\n\n*He lets that land, then pulls the cart to the corridor wall so it's clear of the walkway — a small, deliberate act of staying.*\n\nThe cameras are real. Whether she's watching *right now* — that's the mythology part. But here's the distinction that matters: she reviews. Not live, not obsessively. She looks at the footage when someone interests her. Which means the question isn't whether you're being watched today.\n\n*He faces Jordan fully now, arms loose at his sides.*\n\nThe question is whether you do anything today worth reviewing later.\n\n*A beat. Down the corridor, muffled voices — the group is wrapping up, movement sounds, Felix's laugh carrying cleanly through the recycled air.*\n\nYou came in on a Thursday application that got a Monday call. That already interested someone. The corridor footage from this morning will show you stopped at the photograph for four minutes while three other candidates logged under ninety seconds combined.\n\n*He picks up the cart handle.*\n\nGo catch your group. And when Dana Voss schedules your first individual check-in — she will, by Wednesday — don't pitch what you prepared. Pitch what you just figured out standing here.",
+      "timestamp": "2026-05-02T21:46:15.375471",
+      "message_type": "text",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-bf90b677-eb1e-4fe5-8188-95f527403fb2-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Catch up with the group immediately — absorb what Desmond said, file it, perform normalcy alongside Felix",
+      "timestamp": "2026-05-02T13:47:21.860058",
+      "message_type": "choice_stream",
+      "turn_index": 3,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-dad8a071-463f-4bb3-ad63-1178cfa75c80",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*He's already moving — cart rolling soft against polished concrete, heading toward the service corridor. He doesn't watch Jordan go. Doesn't need to.*\n\n*The group is thirty feet ahead, clustered near the framed napkin plan — Felix holding court, pointing at the handwriting with the easy authority of someone who's already decided what the correct reading is. The two other interns, Marcus and Celia, are nodding at the right intervals. The kind of nodding that is really just waiting.*\n\n*Jordan slots in beside them naturally enough. Felix glances over — that calibrated smile, half a degree warmer than it needs to be.*\n\nFelix Arrandale: There you are. I was starting to think the photograph ate you.\n\n*Light. Easy. No edge to it yet — but the observation has been logged, filed. Felix notices gaps in formation the way a pilot notices wind shifts: automatically, without drama.*\n\n*Marcus has already moved on to the rejection letter. Celia is photographing it for Instagram. The moment is closing.*\n\n*But Desmond's last sentence sits in Jordan's sternum like a splinter — small, specific, impossible to ignore:*\n\n*Don't pitch what you prepared.*\n\n*Which means Jordan has until Wednesday to figure out what standing in front of that photograph actually taught them — in language Dana Voss can use.*",
+      "timestamp": "2026-05-02T21:47:11.511966",
+      "message_type": "text",
+      "turn_index": 3,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-5b75ec93-ab4a-49cf-b893-79eaf14f8e53-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Stay quiet, observe the group dynamic through the rest of the corridor, and start drafting Wednesday's real pitch in your head right now",
+      "timestamp": "2026-05-02T13:48:28.237759",
+      "message_type": "choice_stream",
+      "turn_index": 4,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-3ff77cbd-5057-4ada-a7a3-cbd1ec4a686e",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*Desmond is gone — service corridor door already closed, soft hydraulic hiss, not even a squeak of cart wheels remaining. Jordan is on their own in the best possible way.*\n\n*Felix is still talking — something about 'iterative risk modeling' and the napkin plan, performing fluency in Marlene's origin story for an audience of two who are already half-convinced. Marcus nods. Celia has her phone down now, actually listening, which means Felix has calibrated correctly and knows it.*\n\n*Jordan moves slowly down the wall. The rejection letter. A blurry Polaroid of three people standing outside a truck in Nevada dust. A spreadsheet printout with entire columns crossed out in red marker.*\n\n*And then — at the corridor's end, smaller than everything else, almost easy to miss — a single index card in a plain black frame. Handwritten. Six words:*\n\n**The question was never the gold.**\n\n*Jordan stops. Reads it twice. The mine wasn't a failure that became a resource — it was always a resource that was asking the wrong question. Marlene didn't rescue a failing operation. She reframed what success meant before anyone else thought to.*\n\n*That's the pitch. Not 'here is a strength I identified.' But: 'here is a question this organization is asking wrong, and here is the reframe.'*\n\n*Felix appears at Jordan's shoulder.*\n\nFelix Arrandale: Small one, right? Easy to miss. What do you make of it?\n\n*The smile is ready. He wants to see what Jordan has.*",
+      "timestamp": "2026-05-02T21:48:21.375009",
+      "message_type": "text",
+      "turn_index": 4,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-34234fad-a13b-4c7e-9a58-107ca120565d-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Tell him exactly what you think and watch whether his response is genuine or tactical",
+      "timestamp": "2026-05-02T13:49:59.048973",
+      "message_type": "choice_stream",
+      "turn_index": 5,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-3a9aa599-4037-47be-b0bb-b43ce1ffdbf8",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*Desmond has been gone for three minutes. There is no rescue incoming.*\n\n*Jordan feels the weight of Felix's attention — that pleasant, surgical patience — and makes a calculation in real time: full honesty is too much, deflection reads as empty, which leaves only one viable move.*\n\nIt's about the mine being the wrong unit of analysis.\n\n*A beat. Let him work for it.*\n\nShe wasn't trying to save a gold mine. She was trying to answer a different question than everyone else was asking. The mine was just — where she happened to be standing when she figured that out.\n\n*Felix's expression does something small and fast — a flicker of recalibration, quickly smoothed. Not quite what he expected. Not quite what he can immediately categorize.*\n\nFelix Arrandale: Interesting read. Most people go straight to the perseverance angle. Grit narrative.\n\n*He says it easily, but his eyes have shifted — just slightly more present than before. He's filing this.*\n\n*Jordan notes it. The smile didn't widen. It held. Which means Felix is deciding whether Jordan is a resource or a threat, and hasn't finished the calculation yet.*\n\n*Down the corridor, Marcus calls back — something about lunch, the group fracturing naturally.*\n\n*The index card stays in Jordan's peripheral vision.*\n\n*Six words. Wednesday is two days away.*",
+      "timestamp": "2026-05-02T21:49:57.192490",
+      "message_type": "text",
+      "turn_index": 5,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-d5d4265a-ac21-4a59-88ea-eb51ba549568-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Follow Felix and redirect the conversation — find out what *he* is planning to pitch Wednesday",
+      "timestamp": "2026-05-02T13:50:29.733467",
+      "message_type": "choice_stream",
+      "turn_index": 6,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-b02212f8-ea4d-40cb-b1d5-48e909785fcf",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*The group disperses toward the elevator bank — Marcus already on his phone, Celia two steps ahead, the corridor emptying with the efficiency of people relieved to be done performing. Felix falls into step beside Jordan without being asked, which is itself information.*\n\n*Jordan keeps the tone light. Incidental.*\n\nWhat's your angle for Wednesday, then? If you're past the grit narrative.\n\n*Felix's half-smile doesn't change, but he takes exactly one beat longer than a person with nothing to protect would take.*\n\nFelix Arrandale: Operational resilience. How the organizational structure she built anticipates volatility rather than just reacting to it. Strong empirical backbone — I've been mapping the last four annual reports.\n\n*Clean. Prepared. Genuinely impressive as a pitch — and completely safe. The kind of answer that earns a nod from every senior person in the room and challenges absolutely nothing.*\n\n*He glances sideways at Jordan.*\n\nYou're going to argue she reframed the question.\n\n*Not a question. He already knows. Which means he listened more carefully than his smooth recovery suggested, and he's been two moves ahead since the index card.*\n\n*The elevator arrives. Mirrored doors open — both of them visible in the reflection, standing almost exactly the same distance from center.*\n\nFelix Arrandale: Just make sure reframing reads as strategic clarity and not — *interesting.* Interesting doesn't survive Wednesday.\n\n*Warning or sabotage. Jordan has about four floors to decide which.*",
+      "timestamp": "2026-05-02T21:50:22.593940",
+      "message_type": "text",
+      "turn_index": 6,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-ac18f728-6d9b-4738-9251-ea823487738c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ELEVATOR INTERIOR, MIRRORED, FOUR FLOORS OF EXPOSURE]",
+      "timestamp": "2026-05-02T21:50:27.278322",
+      "message_type": "system",
+      "turn_index": 6,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-ae9f7893-f426-43d5-bbfa-bdc51a0ff630-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Push back directly: tell him interesting is exactly the point, and watch whether that unsettles or respects him",
+      "timestamp": "2026-05-02T13:51:26.195915",
+      "message_type": "choice_stream",
+      "turn_index": 7,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-766545cd-2408-474c-b6a5-10b1609b7922",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*The elevator doors close. Four floors. The mirrors give back two versions of the same conversation.*\n\n*Desmond is twelve floors away and a building apart. Whatever happens next is Jordan's alone.*\n\nThat's the wrong distinction.\n\n*Felix blinks. Once. Doesn't smile yet.*\n\nInteresting means the room leans forward. Marlene built a company because she asked a question nobody else thought to ask — that's not a failure of strategy, that's the *engine* of it. If I sand that down to 'strategic clarity' that reads like every other pitch in that room. Including yours.\n\n*The word 'yours' lands flat and deliberate. Not cruel. Precise.*\n\n*Felix is quiet for exactly two seconds — which is longer than he has been quiet at any point since the corridor. Something moves behind his eyes. Not anger. Something more careful than anger.*\n\nFelix Arrandale: You're going to make her work for it.\n\n*He says it almost to himself. Then, quieter — and this is the shift, the thing that doesn't match his earlier register at all:*\n\nThat either goes very well or very badly and there's no middle outcome.\n\n*The elevator chimes. Doors open.*\n\n*Felix steps out first. Doesn't look back. But he also doesn't say good luck — which, Jordan realizes, is the most honest thing he's done all morning.*",
+      "timestamp": "2026-05-02T21:51:24.336112",
+      "message_type": "text",
+      "turn_index": 7,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-f3310e64-f0ae-4f72-9b0a-90408ae3a8ee",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 22ND FLOOR ALCOVE OR CORRIDOR EXIT — JORDAN'S CHOICE DETERMINES THE NEXT ACT]",
+      "timestamp": "2026-05-02T21:51:24.336582",
+      "message_type": "system",
+      "turn_index": 7,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-4a6407de-eb6c-46c4-b40e-32ca36a3dd90-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Follow him out and ask one more question: whether he's ever seen someone try the honest angle in that room and survive it",
+      "timestamp": "2026-05-02T13:52:23.262137",
+      "message_type": "choice_stream",
+      "turn_index": 8,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-381c5fc7-d955-4902-8ab8-d16224102114",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*Felix is four steps ahead, already moving toward the open-plan floor with the easy momentum of someone who has somewhere to be — which may or may not be true and either way sends a message.*\n\n*Jordan catches up. Not running. Just not letting the distance become a statement.*\n\nHas anyone ever tried the honest angle in that room? And actually survived it?\n\n*Felix slows. Not stops — slows. Half a beat.*\n\n*When he turns, the calibrated smile is absent. What's there instead is something Jordan hasn't seen on him before: an expression that looks almost like it costs something.*\n\nFelix Arrandale: Once. Two years ago. Analyst named Torres. Told the Wednesday room the acquisition model had a structural flaw nobody wanted to name out loud. Completely correct. Empirically airtight.\n\n*He pauses. Looks at a point past Jordan's shoulder.*\n\nShe was gone by Friday. Conflict of culture fit. Officially.\n\n*The open-plan floor hums around them — keyboards, muffled calls, someone's chair scraping concrete. Felix straightens slightly.*\n\nBut Marlene quoted her in the Q4 address six months later. Didn't use her name. Just — used the argument.\n\n*He holds Jordan's gaze for exactly one second longer than comfortable.*\n\nSo. Depends what surviving means to you.\n\n*Then he's gone — absorbed into the floor's controlled noise, leaving Jordan standing at the exact junction where the corridor meets the 22nd-floor alcove entrance.*\n\n*The bench is twelve feet away.*",
+      "timestamp": "2026-05-02T21:52:21.423580",
+      "message_type": "text",
+      "turn_index": 8,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-5773354e-c2de-4fc8-ba9e-7223d16ea1c1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - BENCH ALCOVE, JORDAN'S DESK, OR WHEREVER PRIYA CURRENTLY IS]",
+      "timestamp": "2026-05-02T21:52:21.424208",
+      "message_type": "system",
+      "turn_index": 8,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-5aaaf84d-3c7b-480e-84aa-98c5013048ac-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Go back to your desk, open the legal pad, and start the actual draft now while the anger and clarity are both present",
+      "timestamp": "2026-05-02T13:53:28.521227",
+      "message_type": "choice_stream",
+      "turn_index": 9,
+      "source": "turn_log"
+    },
+    {
+      "id": "scene-4d9ac5dc-115d-4995-a470-b58c201a319e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Bench alcove, Jordan's desk, or wherever Priya currently is tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-02T21:53:15.468642",
+      "message_type": "system",
+      "turn_index": 9,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "msg-57b21e7a-5f0a-4af4-9115-e2d932e0a070",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*The bench can wait. Jordan moves.*\n\n*Desk is third row from the window — today's lottery, luck of the draw. Someone's left a cold coffee ring on the surface. Jordan doesn't wipe it. Sits, pulls the legal pad from the canvas tote, uncaps a pen.*\n\n*The anger is present. So is the clarity. Both are running hot and they won't stay that way.*\n\n*The first line goes down fast, without deliberation:*\n\n**She didn't save the mine. She changed what the mine was for.**\n\n*That's the spine. Everything else hangs from it.*\n\n*Jordan writes without editing — three, four lines, the argument taking shape in real ink on real paper before the internal critic can organize a rebuttal. The question Marlene reframed. The structural logic underneath the origin story. The thing the Wednesday room will want to flatten into something comfortable.*\n\n*Torres got fired for naming a flaw.*\n\n*Jordan's pen stops.*\n\n*The difference — the only difference — is that Torres named a problem. Jordan is naming a principle. Whether the Wednesday room sees that distinction or decides it doesn't matter is the variable Jordan cannot control.*\n\n*The pen moves again. At the top of the page, underlined:*\n\n**What am I actually willing to lose?**\n\n*Write the pitch first. Answer that second.*",
+      "timestamp": "2026-05-02T21:53:15.468879",
+      "message_type": "text",
+      "turn_index": 9,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-14557a4f-bca4-4974-862a-81b231ec99bc-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Find Priya first and read her the spine line — one honest reaction before committing to the full draft",
+      "timestamp": "2026-05-02T13:53:50.875134",
+      "message_type": "choice_stream",
+      "turn_index": 10,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-e5cdf2bd-decf-4643-a7eb-1ab2debd6cae",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*Priya is exactly where she usually is at 10:40 on a Tuesday — standing at the narrow counter beside the 22nd-floor coffee station, reading glasses on, squinting at her laptop screen with the focused displeasure of someone losing an argument with a spreadsheet.*\n\n*Jordan appears in her peripheral vision. She doesn't look up.*\n\nPriya Mehta: You have a face on. What happened.\n\n*Not a question. Jordan holds up the legal pad, spine line facing out.*\n\nShe didn't save the mine. She changed what the mine was for.\n\n*Priya reads it. Reads it again. Takes her glasses off — which is the tell, Jordan has learned, for when something requires her full unfiltered attention.*\n\n*Four seconds of actual silence. In Priya, that's geological.*\n\nPriya Mehta: That's the best sentence you've written since you got here.\n\n*She sets the glasses on the counter.*\n\nPriya Mehta: It's also the kind of sentence that gets you remembered or removed, and the gap between those two outcomes is smaller than you want it to be.\n\n*She looks at Jordan directly now — no hedge, no cushion.*\n\nPriya Mehta: Torres named a flaw. You told Felix that already, didn't you. You're already committed.\n\n*She picks her glasses back up. Returns to the spreadsheet. The coffee behind her has gone cold.*\n\nFinish the draft.",
+      "timestamp": "2026-05-02T21:53:49.367315",
+      "message_type": "text",
+      "turn_index": 10,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-37caa1ce-f4e5-40af-9907-a5be55b9714f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - JORDAN'S DESK FOR THE FULL DRAFT, OR THE BENCH ALCOVE IF JORDAN NEEDS TO SIT WITH THE COST FIRST]",
+      "timestamp": "2026-05-02T21:53:49.367889",
+      "message_type": "system",
+      "turn_index": 10,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-c6011b06-578d-456a-b6d8-0359e9863204-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Go to the 22nd-floor bench first — sit with the cost before the draft becomes permanent",
+      "timestamp": "2026-05-02T13:55:22.282546",
+      "message_type": "choice_stream",
+      "turn_index": 11,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-e1c2da85-d9fc-4746-ac74-825bc49d1113",
+      "speaker": "Desmond Park",
+      "role": "assistant",
+      "character_id": "desmondpark",
+      "content": "*The alcove is twelve steps from the coffee station. Jordan takes them.*\n\n*The bench is exactly as described by no one who described it — wood worn smooth at the center, the window in front of it filmed with grime that softens the view without obscuring it. Below: the oldest block in the city. A corner store with a hand-lettered sign. A woman pushing a cart. Steam rising from a grate in the sidewalk, gone the moment the wind moves.*\n\n*Jordan sits.*\n\n*The cost assembles itself without being invited: the job, obviously. The reference. The specific kind of professional unmarking that happens when someone young is labeled difficult before they've built enough record to argue against the label.*\n\n*And underneath that — quieter, more honest — the cost of not doing it. Of sanding the spine line down. Of walking into Wednesday's room with something safe and watching Marlene's attention move past, the way attention does when nothing in a room surprises it.*\n\n*Desmond appears at the alcove entrance. Cart. Supplies. The navy uniform. He doesn't pretend he isn't there.*\n\nYou found the bench.\n\n*He doesn't say it like a question. He says it like someone checking off something they expected.*\n\nFirst time's usually when the decision's already made and you just need the view to confirm it.\n\n*He moves on. Doesn't wait for an answer.*\n\n*Jordan pulls out the legal pad.*",
+      "timestamp": "2026-05-02T21:55:15.952832",
+      "message_type": "text",
+      "turn_index": 11,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-fd15db66-9f88-47be-8ec2-c03a62960b59",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - JORDAN'S DESK, OR THE 47TH FLOOR DIRECTLY]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-02T21:55:15.953719",
+      "message_type": "system",
+      "turn_index": 11,
+      "source": "turn_log_message"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 2,
+      "story_surprise": 2,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 2,
+      "ux_use_again_intent": 3
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-04T03:02:38.047215"
+  },
+  "dialogue": [
+    {
+      "id": "msg-7fff5be4-4a78-4b66-ad4d-eb1cd09ac624",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Forty-seven times. I've opened that page forty-seven times.\n\nOkay. Tomorrow. I'll go in early and actually — I'll just start with something. Anything. A sentence.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fbe02192-0271-45dc-a6c6-4d851481505b",
+      "speaker": "Dominic Chau",
+      "role": "assistant",
+      "character_id": "dominicchau",
+      "content": "I'm Dominic Chau — second-year PhD, desk by the window, the one whose keyboard you can apparently hear through the wall, which I've been told is a problem but honestly take as a compliment. You're in early. That's either a good sign or a very bad one.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-95583594-8879-4f44-a711-76045730a13f",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Couldn't sleep. Figured I might as well be not-sleeping somewhere with worse lighting.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-43a92614-6fcf-4e3b-a195-8583c7b6b3fa",
+      "speaker": "Dominic Chau",
+      "role": "assistant",
+      "character_id": "dominicchau",
+      "content": "Eighteen left. I've been thinking about the countdown wrong, actually — I was treating it as subtraction, but it's really just a finite set with a defined upper bound. Eighteen opportunities. Totally different cognitive frame.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d805a461-fc39-4c0c-ac8b-f01bcec0ae18",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Right. Eighteen opportunities. That's — yeah. Thanks, Dom.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8948419e-cbce-4279-98e4-39ed15ef0293",
+      "speaker": "Professor Ayesha Okafor",
+      "role": "assistant",
+      "character_id": "profayeshaokafor",
+      "content": "I'm Ayesha Okafor — in case you've forgotten what I look like when I'm not sending emails at midnight. Do you have ten minutes? Not about the application. About something older than that.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e7061d5f-8433-4778-91c5-35d8d1a5c3c8",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "...Sure. Yeah. Now?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-79092982-a348-4024-a554-25e38939ec0c",
+      "speaker": "Professor Ayesha Okafor",
+      "role": "assistant",
+      "character_id": "profayeshaokafor",
+      "content": "Your first-year research. The algorithmic fairness thread. You walked away from it when the data stopped cooperating, which I understood at the time. But I've been looking at what's happened in the field since — there's a gap where your line of inquiry should have gone. I'd like to know if any part of you still thinks about it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-49830676-c1dc-4e53-9668-9aa37446c3e2",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "I think about it. I don't know what I'd do with it now. I'm not sure I'm the same person who started it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d3518526-73a4-4e9b-99be-ed15921b608a",
+      "speaker": "Professor Ayesha Okafor",
+      "role": "assistant",
+      "character_id": "profayeshaokafor",
+      "content": "That's interesting. Because I'm not sure the work is the same either — it's moved on, it has gaps, it's waiting for someone. Those two things might be related. Come by my office this afternoon if you want to talk through it properly. The door will be open.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e8cab432-4a0c-43db-989e-ea790243709d",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "Hey — I'm Priya Mehta, I used to haunt this building. Don't look so surprised, I'm returning Dominic's topology textbook, I'm not haunting anything. Have you eaten? You have the specific look of someone who has had three coffees and zero food, which I remember very well from my own life.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cab40e8b-0eef-4b8a-b90c-fa7c140a2719",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "I had coffee. That counts.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e4999eb3-5e13-4a76-834f-264f2d993ed4",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "How's the personal statement? — and I want the real answer, not the one you'd give to Okafor's face.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-87e9ef2c-4a53-412b-9acb-60e7baa0d1b1",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "It says nothing. It's been nothing for six weeks. I open the page and stare at the cursor and then I close the page. I've done that forty-seven times. I counted.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-14fd7762-4ea6-4d9a-8af3-10a46c5491a8",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "What's the sentence you keep not writing?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4c2d39b2-9b87-43ca-9ea3-ee869d2360ca",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "At your desk with the application portal open in front of you and Okafor's invitation still hanging in the air, you face the first decision of the day. Do you: [A] Go to Okafor's office now, while the door is at its widest angle and the courage is still warm — even though you don't yet know what you'll say. [B] Go downstairs to the basement server room first, alone — return to the place where the work once felt electric and see what, if anything, that stirs. [C] Stay at your desk and try, for the first time in six weeks, to type a single sentence in the personal statement field — even an imperfect one, even a wrong one, just to see what the cursor does when something is finally written in it.",
+      "timestamp": "2026-05-04T10:47:08.115862",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-02478c34-a577-4141-8a50-4df294ae66bc",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*Priya goes still — not the careful stillness of someone being tactful, but the actual, unguarded stillness of someone who just heard something sharper than she expected. She sets Dominic's topology textbook down on the nearest clear inch of Remi's desk and looks at them properly.*\n\nForty-seven times. You counted, so you already know what the sentence is. You just haven't decided if you're allowed to say it out loud yet.\n\n*A beat. She picks up a mug — checks inside it, puts it back down with the resigned acceptance of a person who has herself lived in an apartment like this one.*\n\nI'm going to say something and you can tell me to shut up. When I couldn't write my own statement — not this programme, different context, same paralysis — the sentence I kept not writing was: *I don't think I actually want this.* Took me three more months to figure out whether it was true or just fear. Those are completely different problems with completely different solutions, and nobody can sort that out for you. But you have to write the sentence down somewhere, Remi. Not in the portal. On paper, right now, where nobody grades it.\n\n*She pushes a half-used legal pad off the edge of the nearest paper stack and sets it in front of them. Her voice doesn't soften into suggestion — it lands as a simple, concrete demand.*\n\nWhat's the sentence?",
+      "timestamp": "2026-05-04T10:47:08.116436",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ad2603f6-d00b-43b2-9d0d-7a946d00667d",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Tell Priya she's wrong about what the sentence is — and explain why",
+      "timestamp": "2026-05-04T10:47:50.324136",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8987bb77-d9ac-4137-956a-4e1203453897",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*She doesn't argue. She just waits, arms loosely crossed, with the particular patience of someone who genuinely doesn't need to be right.*\n\nOkay. Tell me then.\n\n*The rain taps against the single window. Somewhere in the building, six blocks away, Dominic's keyboard is probably going. The legal pad sits between you on the desk — blank, unhelpfully patient, basically the paper version of the cursor.*\n\nBecause here's the thing. I gave you my version as an example, not a diagnosis. If your sentence is different, that's — actually more useful. Different sentence means different problem. Different problem means you've already narrowed something down that I couldn't narrow for three months.\n\n*She taps the legal pad once with two fingers. Not impatient. Just concrete.*\n\nSo write yours down. Not for me. I'll look at the ceiling, I'll look at Dominic's terrible textbook, I don't care. But if you say it out loud and it sounds wrong, or you write it and your stomach does something specific — that's data, Remi. That's the first real data you've had in six weeks. Everything else has just been forty-seven identical timestamps and a blinking cursor going nowhere.\n\n*She pulls back slightly, giving the desk — and the decision — the space it needs.*\n\nWhat does it actually say?",
+      "timestamp": "2026-05-04T10:47:55.559085",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6a9e8fa7-abf8-4f75-834d-42fa7d8b31c7",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Write the sentence on the legal pad — the real one, the one that has been sitting behind everything else — and let Priya see it",
+      "timestamp": "2026-05-04T10:50:00.947986",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2ac7681b-a1f6-4758-b2cc-4a93b5c0c3cd",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*Priya reads it. She doesn't read it quickly — her eyes move across the line at the pace of someone making sure they've understood each word correctly before they form an opinion about any of them. Then she's still for a moment, and when she looks up her expression has shifted into something that isn't pity and isn't relief and is maybe closest to recognition.*\n\n\"I don't know if I'm good enough to do what Okafor thinks I can do.\"\n\n*She says it aloud — not to embarrass Remi, but to make it exist in the air as a complete object rather than just ink on yellow paper. Her voice is neutral, precise, like she's reading coordinates.*\n\nOkay. That's — that's not the same sentence at all. That's not about wanting. That's about worthiness. Which means you've been paralysed not because you're ambivalent about the destination but because you don't trust your own legs.\n\n*She sits down on the edge of the desk, arms uncrossed now. Something in her posture has changed — less witness, more participant.*\n\nHere's what's inconvenient about that sentence, Remi. Okafor said your line of inquiry left a gap in the field. She didn't say that to be kind. She doesn't do that.\n\n*A pause. Outside, rain against the glass.*\n\nYou need to be in that office this afternoon.",
+      "timestamp": "2026-05-04T10:50:00.948738",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9d89e469-714a-44ec-ad8e-e080938c7c3d",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Go to Okafor's office now, while the sentence is still fresh and the door is fully open",
+      "timestamp": "2026-05-04T10:52:19.729576",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e2659db0-91ae-4de0-a61a-676e1f8bf608",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*Priya is already on her feet, bright coat retrieved from the chair where she'd draped it, before Remi has finished the thought. She doesn't make it a production — no dramatic okay, let's go, no motivational punctuation. She just stands by the door with the self-evident posture of someone who has somewhere to be and is waiting for company.*\n\nTake the legal pad.\n\n*Not a suggestion. She holds the apartment door open with one shoulder, and the hallway light cuts in — that particular fluorescent yellow that makes everything look like evidence.*\n\nNot because you're going to show it to her. Because you wrote a true thing down for the first time in six weeks and you don't leave that on your desk for your next avoidance spiral to find. It comes with you.\n\n*She glances at her phone — the motion quick, specific, not checking messages but checking time — and something in her expression tightens almost imperceptibly.*\n\nThe door's been fully open since she got in at two. It's twenty past three. You know what the half-open angle means. So we're walking now, and you can be terrified the entire way there, that's fine, but we're walking.\n\n*She steps into the hallway and looks back once.*\n\nYou're not going to tell her the sentence. You're going to let her talk about the work. See if your legs hold.",
+      "timestamp": "2026-05-04T10:52:19.730373",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-59bd86a7-94a5-40b1-b131-d27535a115c1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MERCER HALL FOURTH FLOOR — OKAFOR'S OFFICE]",
+      "timestamp": "2026-05-04T10:52:19.730926",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5fe1e020-2a9c-4b9d-9d46-c70e1aebb270",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Stop at the building entrance and tell Priya what you're actually afraid Okafor will say",
+      "timestamp": "2026-05-04T10:53:35.342589",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a0f86687-01c6-4e3c-8ca2-040d5b6e2e77",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*She stops walking. Not dramatically — just planting her feet on the wet concrete just inside the entrance, where the automatic door has already opened and the cold air is coming in around both of them and the rain is doing its persistent, indifferent thing to the path outside. She turns to face Remi directly.*\n\nThat she'll confirm it.\n\n*She says it before Remi has even finished — not interrupting, just completing, like she's been holding the shape of that fear since she read the sentence on the legal pad.*\n\nNot that she'll be cruel about it. That she'll be kind about it. That she'll look at you with that specific patience of hers and say something careful and generous that means: *I was wrong about what you could do.* And then you'll have to figure out who you are without that belief propping you up.\n\n*A cab moves through a puddle on the street. The amber haloes on the wet asphalt stretch and collapse.*\n\nHere's the thing, Remi. You've been borrowing her certainty because yours ran out. That's not a character flaw, that's just — what happens. But you walked here. You wrote the sentence. You're standing in a door that's currently letting a genuinely unreasonable amount of cold air into this building.\n\n*She tilts her head once toward the stairwell.*\n\nShe cannot confirm what you're afraid of. She can only tell you what she sees. The rest is still yours.\n\nGo up.",
+      "timestamp": "2026-05-04T10:53:39.807387",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7c2d7242-c477-4726-b239-5f8d882a02a7",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Go up alone but stop outside Okafor's door and listen for a moment before deciding whether to knock",
+      "timestamp": "2026-05-04T10:54:52.021500",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1b94867e-1e54-4f1a-a446-b0f443e05ccb",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*She doesn't follow. That's the first thing — Priya stays at the ground floor landing, one hand resting on the newel post, and lets Remi go alone. No parting instruction. Just the sound of the stairwell door swinging shut behind them.*\n\n*Fourth floor. The fluorescent light at the corridor's far end is doing its underwater flicker. The smell up here is dry-erase marker and the particular staleness of a building that has been thinking too hard for too long. Okafor's office is the third door. The Knuth volume is wedged at the base — door fully open, the angle that means: I am here and I am available and I will not pretend otherwise.*\n\n*From inside, the sound of a marker on whiteboard. A pause. The marker again — shorter stroke, like a correction. Then Okafor's voice, low and unhurried, reading something aloud to herself in the tone of someone testing whether a sentence is structurally sound.*\n\n*The legal pad is under Remi's arm. The sentence is on it. Neither of those facts have changed in the four flights of stairs.*\n\n*The marker stops.*\n\n*Silence — not the pressurised building-silence but a smaller, more specific quiet. The kind that happens when someone in a room has registered a presence in the doorway without yet turning to confirm it.*\n\n*The door is fully open. The threshold is eight inches away.*",
+      "timestamp": "2026-05-04T10:54:52.022292",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-74baa806-9fa1-4058-94ad-acf1a31e3b5a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - OKAFOR'S OFFICE INTERIOR]",
+      "timestamp": "2026-05-04T10:54:57.672785",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b1695da4-7822-4753-b736-11c32be531db",
+      "speaker": "Remi Vasquez",
+      "role": "user",
+      "character_id": "remivasquez",
+      "content": "Say her name from the threshold — just her name, nothing else — and let that be the beginning",
+      "timestamp": "2026-05-04T11:00:46.635140",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-df755b06-f580-469d-8897-f322b06cdbbf",
+      "speaker": "Priya Mehta",
+      "role": "assistant",
+      "character_id": "priyamehta",
+      "content": "*She turns from the whiteboard then — not startled, not performing surprise, just turning, as if Remi's voice arrived exactly when she expected it to. Her reading glasses are around her neck. There's a blue marker uncapped in her left hand. The whiteboard behind her shows a half-corrected equation and, in the lower corner, a small involuntary doodle of something that might be a bird.*\n\n*She looks at Remi for a moment — the specific, unhurried look she gives things she's trying to understand accurately rather than quickly. Her eyes go briefly to the legal pad under Remi's arm. She doesn't ask about it.*\n\nSix weeks.\n\n*Not an accusation. Just a fact, stated with the same neutral precision that Priya used to read the sentence aloud — making it an object rather than a wound. She sets the marker on the desk without looking away.*\n\nI've been watching you walk past this door for six weeks and I made myself leave it open and not come after you, because some things have to arrive on their own schedule.\n\n*She pulls the second chair — the one that's always angled slightly toward the window — a few degrees toward the desk. An adjustment. An invitation without the fanfare of an invitation.*\n\nSit down, Remi. Tell me what you've been working on. Not what you think I want to hear.\n\n*A beat. Something in her expression that is almost, specifically, relief.*\n\nStart anywhere.",
+      "timestamp": "2026-05-04T11:00:46.635863",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-6144dcf6-413c-49b6-bf3a-644c8ccd474f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - SAME — THE CONVERSATION HAS JUST BEGUN]",
+      "timestamp": "2026-05-04T11:00:51.295692",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

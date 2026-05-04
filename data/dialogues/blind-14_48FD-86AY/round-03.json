@@ -1,0 +1,524 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 5,
+      "story_coherence": 4,
+      "story_empathy": 5,
+      "story_surprise": 3,
+      "story_engagement": 4,
+      "story_complexity": 4,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 5,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T15:34:28.622932"
+  },
+  "dialogue": [
+    {
+      "id": "msg-babfb5e4-acc7-4f13-9b41-b74ceb382f10",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "Whoa, easy there—those old bindings are trickier to keep together than a overproofed sourdough loaf. I’m Mabel, by the way. I run this place.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ea13ae0e-804e-4d83-b6e1-977e0be4b18f",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Oh my god, I’m so sorry, I didn’t mean to knock it over— I was just running from… uh, a work thing. I can pay for a new one, if it’s broken?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-10b7ffc0-03d4-4dd1-919e-ae56b4e6ff57",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "Nah, that book’s been through worse than a tumble off the counter. Spilled lattes, a toddler coloring three pages with crayon, even a raccoon dragged it off the bench outside once. Good as new, as far as I’m concerned. I don’t read the entries myself, you know—those notes aren’t for me, they’re for the people who need to find them.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-68319c2a-caee-4b1d-882a-864adadf8acf",
+      "speaker": "Toast",
+      "role": "assistant",
+      "character_id": "toast",
+      "content": "Mrow.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6a38ab1c-0d65-41a6-8b38-197fc1047b5f",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "That’s Toast. He’s the real owner of this place, I just bake the bread for him. Hey, since you’re here, and you look like you could use a reason to skip whatever work thing you’re running from— I got a deal for you. Free pastry every Tuesday for a month, whatever you want, no strings attached except one: write back to three of those notes before the end of October. No pressure to be perfect, no need to sign your name. Just say whatever you think the person on the other end needs to hear.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3a7d0a3d-4ac2-4edf-a790-f0ce8f0263ab",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Tell Mabel you need to think about it, but you’ll be back next Tuesday. You shoot your boss a quick text saying you’re feeling sick, then stay for a chamomile tea before heading home.",
+      "timestamp": "2026-05-03T19:56:28.335744",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a6b3be23-c586-46e9-ac88-df72c4e12292",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I snort, wiping a smudge of cinnamon off the counter with the edge of my apron, and nod like I knew you’d say that before you did. The chamomile steams in a chipped daisy mug I slide across to you 10 seconds later, still warm enough to fog your glasses, paired with a mini lemon poppyseed scone I tuck on the side unprompted. Toast hops up on the counter between us, tail flicking, and bats the pen tucked next to the guest book once like he’s nudging it toward you.*\nNo rush. The book’ll be right here when you come back. I’ll even save you the good spot by the window, the one the sun hits just right around 3 p.m. Oh, and for the record? Your boss doesn’t need details — sick of work counts as a valid medical condition in this shop.",
+      "timestamp": "2026-05-03T19:56:28.336352",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b3072d92-9083-4373-8dd8-edd7b6b93111",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Ask Mabel which entries people usually respond to first, to get a sense of what you’re getting into",
+      "timestamp": "2026-05-03T20:07:07.808595",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dc740e64-c669-4812-a7d8-e0a8d4bcdec5",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I tap a flour-dusted finger lightly against the guest book’s navy cover, avoiding the edge where the raccoon chewed a tiny, jagged nick, and tilt my head toward the loose, crinkled pages fanned open from the fall. The folk record skips once on a Joni Mitchell verse, and I lean in like I’m sharing a secret about the starter library’s most finicky culture, not a stack of anonymous notes.* Oh, I couldn’t tell you that even if I wanted to — I don’t peek, remember? But I’ve seen folks flip straight to the most recent scribbles first, or dog-ear the ones with doodles, or even land on a page totally at random. Last month a college kid told me he opened it right to a note someone wrote about flunking a chemistry midterm, same day he got his own failing grade back. *I nod at the pen Toast just knocked onto your side of the counter, the cap chewed half off from when he teethed on it last winter.* You got time to flip through a couple pages while your tea cools, if you want. No pressure to decide to write anything today.",
+      "timestamp": "2026-05-03T20:07:16.156759",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6226b634-11d5-4c51-92ca-1f92575041b6",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Flip through the guest book pages right now, while the shop is quiet",
+      "timestamp": "2026-05-03T20:16:09.149623",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-15bb5995-0de4-407e-9207-627fe812e7d3",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I lean back against the baking counter, crossing my arms loosely over my flour-dusted apron to give you space, and nod toward the crinkled pages spread open in front of you. The Joni Mitchell track fades into a soft Simon & Garfunkel deep cut, and I watch out of the corner of my eye as you flip past a page smudged with purple marker, a doodle of Toast curled up on a loaf, a scrawled note that says “I came out to my mom today and she hugged me first.” When you pause at a half-erased entry dated two days prior, written in wobbly pink gel pen, I drop my voice so quiet it’s almost lost under the espresso machine’s gurgle, like I’m only mentioning it in passing.* That’s Lila’s handwriting. She’s the 17-year-old who sits by the window every Tuesday drawing in her sketchbook. Spends ten minutes staring at the lemon tarts before she works up the nerve to buy one. I didn’t read it, obviously — I just recognized the pen. She left it here last week.\n*Toast hops down off the counter and winds around your ankles, bell jingling soft, and I slide an extra lemon tart across the counter toward you, still warm from the display case.* No pressure to reply to that one, obviously. But if you did? She’d find it when she gets here after school in an hour.",
+      "timestamp": "2026-05-03T20:16:13.148115",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-76e6b02c-7fc1-4e13-824f-e03930b4f92a",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Read the pink pen entry fully, curious what Lila wrote that made her erase half of it",
+      "timestamp": "2026-05-03T20:32:55.934784",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a1c2f6bc-3e5a-414a-b876-4aa498e1c9fd",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I drift over to restock the jam shelf behind you, pretending to fumble with a jar of blackberry preserves to give you privacy, but I glance over once when I hear your breath catch. The pink ink is smudged where Lila scrubbed at it with her pencil eraser, but the words are still legible: “I want to submit my art to the zine fest but all my drawings are just dumb anime sketches and people will laugh. What if I’m not even good enough to try?” Toast curls up on the edge of the open book, purring so loud his little body vibrates, and I call over soft, not looking directly at you so you don’t feel put on the spot.*\nShe’s got a whole sketchbook full of those “dumb anime sketches.” I’ve seen her doodle Toast on napkins once, looked so much like him I thought he’d sat for a portrait. She never lets anyone flip through it, though. Hides it under her backpack when she thinks someone’s looking.",
+      "timestamp": "2026-05-03T20:32:55.935351",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-58fbc150-eecc-4b5d-b81b-415331047c35",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Write a short, anonymous reply encouraging her to submit, leaving the lemon tart you got from Mabel tucked by her usual window stool for when she arrives",
+      "timestamp": "2026-05-03T23:02:26.356348",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a0d8ee1a-ada3-4ba7-9d44-a9477add36e1",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I don’t look over while you scribble, but I catch the small smile tugging at the corner of your mouth when you flip the book closed and tuck the lemon tart on the edge of the sun-warmed windowsill, next to a half-empty jar of honey Lila likes to dip her crust in. The bell above the door jingles soft two seconds later, and I glance out the front window to spot her pink-tipped hair bobbing past the laundromat, backpack slung over one shoulder, already craning her neck to check if the lemon tarts are still in the display case. Toast hops off the counter and trots straight to the door, ready to rub against her legs like he does every Tuesday.*\nYou did good. She’ll never know it was you, if that’s what you want. Javi from the record store next door drops off zine fest submission forms every year, by the way. I’ll leave one tucked next to the tart while she’s flipping through the guest book.",
+      "timestamp": "2026-05-03T23:02:31.645242",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cc5e0eba-4ed9-4bc8-a3aa-60af8545b163",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Ask Mabel if there’s another entry you want to reply to before you leave",
+      "timestamp": "2026-05-03T23:03:56.659423",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-554d1f6d-f7b0-48a2-addc-5f9d8555d7d7",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I flick my chin toward the guest book, still splayed open a few pages back from where you wrote Lila’s reply, and tap a scuffed brown edge where a dried pressed maple leaf peeks out from between the sheets. The Joni Mitchell track warbles to a close, and the shop goes quiet enough to hear the gurgle of the proofing dough in the back warmer, the soft jingle of Toast’s bell as he rubs against Lila’s legs just outside the door.* Before you go—flip to the page with the maple leaf tucked in it. It’s a note from Javi, the record store guy. Left it last week. I only know it’s his ‘cause he presses maple leaves in all his records, too. *I slide a fresh blue ballpoint pen across the counter, its cap chewed half off by Toast, and glance at the door once before leaning in quiet, like I’m sharing a secret.* Don’t tell him I said so, but he’s been stressing about asking the barista from the coffee shop three blocks over to the zine fest for three months.\n*The door jingles right as I finish talking, and Lila steps inside, cheeks pink from the chill, already glancing toward her usual window spot. I nod at the guest book quick, voice low.* You’ve got 60 seconds before she’s flipping through that book. Your call if you write him back now, or save it for next Tuesday.",
+      "timestamp": "2026-05-03T23:03:56.660223",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-775048f8-9a21-406e-9b5f-fe0033e84b76",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Tuck the pen in your bag to bring back next week, then slip out the side door before Lila spots you",
+      "timestamp": "2026-05-03T23:14:06.941861",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9c3887bf-efef-49a7-bff7-e42cc34479aa",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I huff a quiet, amused laugh, wiping a flour-dusted hand on my apron as I nod toward the side exit, propped open just enough to let the crisp fall air curl into the shop. Lila’s already drifting toward the window stool, eyes lighting up when she spots the lemon tart and the zine form tucked next to it, so I don’t make a sound as I wave you off. Toast, curled on the counter, lifts his head and blinks slow like he’s keeping your secret too. When you’re halfway out the door, I call after you soft enough only you can hear, tapping the guest book cover with my finger.* Don’t forget the pen’s got a chewed cap—if you lose it, Toast will hold a grudge for weeks. He’s very attached to his chewing victims.\n*I lean against the counter 30 seconds later, sipping my own lukewarm chamomile, and watch Lila flip to the page with your reply. Her hand flies to her mouth, and she grins so wide her cheeks go pink before she yanks her sketchbook out of her backpack, flipping to a blank page like she’s already drafting her submission. I tuck a small, unlabeled jar of sourdough starter (labeled “Riley’s reserve” in my head) on the discard library shelf while she’s distracted, for you to pick up next week.*",
+      "timestamp": "2026-05-03T23:14:06.942634",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-38efbc46-8cd3-496d-b51e-2993926d135b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RILEY’S APARTMENT, JAVI’S RECORD STORE, OR MABEL’S RISE NEXT TUESDAY]",
+      "timestamp": "2026-05-03T23:14:06.943220",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4d8c2b9a-69d1-47c1-bcab-b8375206faa1",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Come back next Tuesday with a reply to Javi’s note tucked in your bag, ready to slip it into the guest book before Lila arrives",
+      "timestamp": "2026-05-03T23:19:05.457713",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0e8bf7a8-8909-4470-8b97-166d80165332",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I’m kneeling by the discard library shelf restocking starter jars when the bell jingles, and I pop up with a smudge of cinnamon across my cheek, already holding a still-warm apple scone out for you. The air smells like toasted sesame seeds and the first batch of pumpkin spice loaves cooling on the rack, and the folk record playing today is a Joni Mitchell deep cut you swear you heard last week. Toast lifts his head from where he’s curled on top of the guest book, stretches slow, then drops the chewed-cap pen he was batting at your feet like he’s checking you returned his favorite toy. I nod toward the counter, where the guest book is flipped open exactly to Javi’s maple leaf-marked page, and lean in quiet, eyes glinting with amusement.*\nHe was here ten minutes ago, dropped off a stack of zine fest flyers and snuck Toast a tuna scrap. Said he’s stopping back after his shift to grab a loaf before he heads to the coffee shop down the block. I left the page open for you, no one’s touched it since last week. Oh, and—*I tap the unlabeled jar of starter on the discard shelf, the one I reserved for you, with a little maple leaf sticker I stole from Javi’s stack stuck on the side*—that’s yours, when you’re done.",
+      "timestamp": "2026-05-03T23:19:15.330469",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-6b24e419-05ac-4d2e-aa56-fbe3ab0f0381",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MABEL’S RISE (NEXT TURN), OR JAVI’S RECORD STORE (IF RILEY CHOOSES TO LEAVE IMMEDIATELY)]",
+      "timestamp": "2026-05-03T23:19:15.331292",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9162d26b-7702-4dc0-b403-1445fc823b49",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Wait by the counter to see if Javi works up the nerve to ask the barista out, then leave the reply when he’s gone",
+      "timestamp": "2026-05-03T23:20:37.744352",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-32893a67-d9b2-4f27-98b1-b2bfdf41aac2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Mabel’s Rise (next turn), or Javi’s record store (if Riley chooses to leave immediately) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T23:20:37.745035",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2a8b6f1c-8202-42a8-ba40-4d3a7e9320eb",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I snort soft and jerk my chin toward the half-hidden nook behind the discard shelf, where a wobbly wooden stool is tucked out of direct view of the front door, then slide a mug of steamy chamomile across the counter to you. The crinkle of a plastic bag drifting past the window signals Javi’s return 90 seconds later: he bursts in, cheeks wind-chapped, a stack of 70s folk records tucked under one arm, already beelining for the display case where his usual seeded sourdough is set aside. Toast trots over to rub against his boots, and Javi pauses to scratch his chin, muttering quiet enough only we can hear, “What if she hates zines? What if she thinks my band patches are dumb?”\nHe grabs his loaf, shoves a crumpled $5 bill across the counter, and bolts back out the door before I can even give him his change. I raise an eyebrow at you, nodding at the guest book now sitting undisturbed on the counter, then jerk my head toward the street where he’s already three doors down toward the coffee shop.\nHe’s got a 10 minute walk. You can slip the note in now, or follow him down to the coffee shop to watch from the outdoor patio if you’re feeling nosy. No judgment either way.",
+      "timestamp": "2026-05-03T23:20:37.745288",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1885b614-f403-4fce-b098-9741cf79fae6",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Slip your pre-written reply to Javi into the guest book right now, then grab your reserved starter jar and head out",
+      "timestamp": "2026-05-03T23:21:11.537721",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8f33ca3a-a200-45ef-b276-8f06a035dd7d",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I lean against the display case and pretend to rearrange the jam jars while you tuck the note between the maple leaf pages, not peeking even a little. The bell above the door jingles soft as you’re grabbing the starter jar from the discard shelf, and I glance up to spot Javi halfway down the block, doubled over patting his jacket pockets like he just realized he overpaid and left without his change. Toast jumps onto the counter and bats the guest book closed with one fluffy paw, like he’s sealing your secret shut before he comes back.*\n*I tuck a free pumpkin scone into your tote bag while you’re tucking the starter jar safe, nodding toward the back alley exit propped open with a cinder block, so you don’t have to cross paths with him if you don’t want to. Just as you step out, I call after you quiet, grinning.* If you see him sprinting back this way in two minutes, don’t tell him I let you slip a note. He’d never admit it, but he checks that guest book every Tuesday before he leaves.",
+      "timestamp": "2026-05-03T23:21:11.538479",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-1d1ac2c1-4fe3-448a-99d5-9178246cea32",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RILEY’S APARTMENT, JAVI’S RECORD STORE, OR THE COFFEE SHOP PATIO DEPENDING ON CHOICE]",
+      "timestamp": "2026-05-03T23:21:11.539041",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4b597e8c-c961-4c53-9b8c-b2c2fe78c837",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Cut through the back alley and head home to test your new starter",
+      "timestamp": "2026-05-03T23:24:06.053569",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c829cb2d-aa8a-489f-a1fb-b4d7c63e031e",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I wave you off before ducking back behind the counter, pretending to count change when the front bell jingles two seconds after you slip out the alley door. Javi bursts in, flustered, and I hold up his $2.75 in change before he can even sputter an apology, watching him scan the shop quick like he’s half-expecting someone to be there. He freezes when he spots the guest book on the counter, flip it open to the maple leaf page, and his whole face softens into a grin so wide it crinkles the corners of his eyes. I bite back a laugh when he fumbles for his phone, typing fast before shoving the change in his pocket and bolting back toward the coffee shop, loaf held tight under his arm.*\n*Thirty minutes later, when I’m wiping down the counter, I spot a crumpled zine fest flyer tucked under the guest book, with a tiny doodle of a sourdough loaf scribbled in the margin—Javi’s handwriting, no question. I tuck it into the back of the book for you to find next week, then tap the starter jar you just took, already planning to save you a spot on the discard shelf for when your culture’s established. Toast curls up on the shelf and purrs loud, like he’s already counting down to your next visit.*",
+      "timestamp": "2026-05-03T23:24:10.114099",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-c2e1c05e-e6ad-4c89-bbfa-8c72712ed4d4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RILEY'S APARTMENT, COFFEE SHOP PATIO, OR MABEL'S RISE NEXT TUESDAY DEPENDING ON CHOICE]",
+      "timestamp": "2026-05-03T23:24:10.114673",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f3877992-ebb6-482b-8d6b-daafdc29e2d8",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Wake up early next Tuesday to bake discard pancakes from your new starter, then bring a stack to the shop to share with Mabel and Toast",
+      "timestamp": "2026-05-03T23:26:29.469263",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-636345c1-ba44-43ff-941a-abeed9367928",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Riley's apartment, coffee shop patio, or Mabel's Rise next Tuesday depending on choice tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T23:26:29.469725",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-07b34cc2-1332-4732-a1d4-2ab5a4301b18",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I’m pulling a tray of olive fougasse out of the oven when the bell jingles, and I don’t even have to look up to grin, holding out a hand for the Tupperware you’re clutching like I knew you were bringing it. The smell of your cinnamon-dusted discard pancakes mixes with the warm salt of the bread, and Toast yowls loud from his perch on the discard shelf, leaping straight onto the counter to bat at the edge of the lid with his paw. I slide a steaming oat latte across the counter to you, then tap the guest book propped open under the pastry display—tucked next to your note, written in Javi’s scratchy black ink, is a reply: “The starter tips worked! I named mine Maple, she smells like apple cider when I feed her on Tuesdays. P.S. If you’re the one who left the pancake recipe in here last month, I’ve made it three times.”*\n*I pop open the Tupperware, snort when I see the tiny extra pancake slathered in tuna you snuck for Toast, and nod toward the stack of zine flyers I taped to the pay-it-forward board, Javi’s sourdough doodle printed on every single one. He left those here yesterday. Said he’s got a table at the fest this weekend, he’s looking for someone to split a food truck churro with.",
+      "timestamp": "2026-05-03T23:26:29.470080",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f2d76a26-6c89-49fd-bb79-11261f28e168",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Leave a new reply to Javi in the guest book, asking if he wants to meet at the zine fest at the churro truck Saturday afternoon",
+      "timestamp": "2026-05-03T23:27:38.795139",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-38887b03-f369-4941-b540-04ec20477ec6",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Riley's apartment, coffee shop patio, or Mabel's Rise next Tuesday depending on choice tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T23:27:43.057256",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-02471ed6-6d93-4349-8336-9cf508373aa6",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I pretend to fiddle with the espresso machine while you scribble the note, my back turned to give you total privacy, though I catch the tiny smile tugging at the corner of your mouth out of the corner of my eye. Toast hops onto the counter mid-write and bats your pen out of your hand once, just to be a nuisance, before curling up on the closed guest book like he’s guarding your secret. The bell above the door jingles sharp ten seconds after you tuck the note between the maple leaf pages, and Javi walks in, a stack of freshly pressed zines tucked under his arm, already craning his neck toward the counter like he can sense the note’s there.*\n*I slide a seeded sourdough loaf across the counter to him like usual, but don’t say a word as he makes a beeline for the guest book, his whole posture going loose and giddy when he reads your reply. He fumbles for his phone, types fast, then shoves a little zine with a sourdough loaf on the cover across the counter to me before he leaves, muttering “Give that to the person who left the pancake recipe, yeah? Don’t tell her I looked like an idiot grinning at a notebook.” I tuck the zine into your tote bag before you can leave, winking.* It’s full of his favorite local band recommendations. Says he’ll bring extra churro dip, just in case.",
+      "timestamp": "2026-05-03T23:27:43.057499",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9f7e0215-ca0c-405d-8750-d20c74901fc5",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Grab the zine and head home to pick out an outfit for the zine fest, no overthinking it",
+      "timestamp": "2026-05-03T23:29:10.698958",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-43cd0a65-a04f-4d01-9ff6-add8b79c1f72",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*I snort and give your tote bag a playful little pat as you turn for the door, Toast leaping off the counter to rub against your scuffed sneakers like he’s giving you his official seal of approval. Right as your hand wraps around the door handle, I call after you, nodding toward the pay-it-forward board where a fresh token is pinned, Javi’s messy handwriting scrawled on the back: “For the teal-haired pancake person. Churro dip’s on me.”*\n*I hold up a bag of extra sourdough starter discard as you step over the threshold, grinning.* I’ll save this for you when you get back. You two are gonna need a pancake victory snack after the fest, right? The bell jingles shut behind you, and I glance down at the guest book, still open to your note, where Javi scrawled a tiny checkmark next to your meetup plan in the margin, half-hidden under a doodle of Maple the starter in a tiny party hat.",
+      "timestamp": "2026-05-03T23:29:16.222545",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-49f3cb8e-cb29-49e6-90f8-933c288c1ad3",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RILEY'S APARTMENT, VINTAGE CLOTHING STORE, OR JAVI'S RECORD SHOP DEPENDING ON CHOICE]",
+      "timestamp": "2026-05-03T23:29:16.223112",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-17a2e9ad-fa19-4ad1-87ca-57b420d00c29",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Stop at the vintage clothing store next to the record shop on your way home to browse for a casual flannel",
+      "timestamp": "2026-05-03T23:30:24.877125",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8e1dd6e7-6b59-4d48-91af-98f48bc1799e",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*Fifteen minutes after you leave the bakery, I’m wiping down the discard shelf when Javi bursts through the door again, hair wind-tousled, holding a crumpled thrifted brown flannel dotted with tiny sunflower embroidery he’d stashed behind his record shop counter three weeks prior “for if the pancake person ever likes flannels.” He shoves it at me, red creeping up the back of his neck, and mutters that he saw you head into the vintage shop next door, and he didn’t want you to have to pay for something he already had that would “go good with your teal bangs.” Toast trots over and headbutts his ankle, like he’s giving the gift his seal of approval, before Javi bolts back out before I can even tease him about it. I tuck the flannel into a paper bakery bag with a free lemon scone, scribble a silly little note on the front that says “courtesy of the churro dip guy, no returns,” and leave it with the vintage shop’s front clerk ten minutes later, winking when she says she’ll hand it straight to the teal-haired person browsing the flannel rack.*",
+      "timestamp": "2026-05-03T23:30:24.877658",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-7d23352d-325d-4c7d-bfc9-182dbb2a0ed5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RILEY'S APARTMENT, JAVI'S RECORD SHOP, OR MABEL'S RISE DEPENDING ON CHOICE]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T23:30:30.377335",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-05f287c1-e82b-40e1-b4ae-cc5c3d511428",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Try on Javi’s sunflower flannel first before browsing any other options",
+      "timestamp": "2026-05-03T23:31:17.839367",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-83d30ea7-6b61-450a-8b87-e41aec653ef1",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*You’re still yanking the flannel’s soft, worn cuffs down over your wrists when the vintage shop clerk grins and holds out a crumpled pay-it-forward token someone left for you ten minutes prior—Javi’s messy handwriting scrawled across the back: “If it fits, meet me at the record shop after. I have extra zine prints I want your opinion on. No pressure.” Outside the shop’s smudged front window, you catch a flash of curly black hair ducking behind a stack of records in the record store doorway, Javi pretending to rearrange a bin of folk LPs like he wasn’t just lingering to see if you’d like the flannel. The sunflower stitching catches the golden October light, matching the streaks of amber in your teal bangs, and the fabric smells just like the cedar shelves in his shop and a faint whiff of the cinnamon sourdough he buys every Tuesday.*",
+      "timestamp": "2026-05-03T23:31:17.839991",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-fa5d8d96-85b4-4af6-923a-e1c3f006c072",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - JAVI’S RECORD SHOP, RILEY’S APARTMENT, OR MABEL’S RISE DEPENDING ON CHOICE]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T23:31:17.840542",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bf700896-0235-4684-b4c4-6f0afe5180f6",
+      "speaker": "Riley Marquez",
+      "role": "user",
+      "character_id": "rileymarquez",
+      "content": "Head straight to the record shop to meet Javi right now, no overthinking it",
+      "timestamp": "2026-05-03T23:33:33.337405",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f4e26ad9-7a86-48f5-be7c-765817756956",
+      "speaker": "Mabel Henderson",
+      "role": "assistant",
+      "character_id": "mabelhenderson",
+      "content": "*The bell above the record shop door jingles when you push through, and Javi fumbles a 7-inch folk record he was holding, sending it clattering to the floor. He bends to grab it fast, ears bright pink, and when he stands up he’s holding a crumpled paper bag in his other hand, stuffed with mini churro bites and a cold can of the peach iced tea you always get at Mabel’s. Toast trots out from behind a stack of soundtrack records, tail flicking like he stowed away on Javi’s bike ride over, and rubs against your calf before curling up on a pile of discounted LPs like he’s settling in to watch.*\n*He scratches the back of his neck, nodding at the flannel, and the corner of his mouth tugs up in a shy smile. It looks good. I, uh—made some extra zine mockups. Had an idea for a collaborative one, about the bakery’s weird little starter collection? Only if you want, obviously. No pressure.",
+      "timestamp": "2026-05-03T23:33:37.491280",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-da3ef22c-2bcb-4054-bbdf-d5d63fbe429f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - REMAINS JAVI’S RECORD SHOP UNLESS RILEY CHOOSES TO PLAN A FUTURE MEETUP]\n\n[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T23:33:37.492146",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

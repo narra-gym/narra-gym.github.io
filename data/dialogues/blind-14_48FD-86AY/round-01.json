@@ -1,0 +1,1124 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 2,
+      "story_coherence": 2,
+      "story_empathy": 2,
+      "story_surprise": 4,
+      "story_engagement": 2,
+      "story_complexity": 3,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 2,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 3
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T08:04:45.926563"
+  },
+  "dialogue": [
+    {
+      "id": "msg-b5053315-dfa7-497e-9b7a-430fee9ec9ec",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Hello? Is someone here?\n\n(under their breath) Of course she left it exactly the same. Couldn't even hire a cleaning service. Had to make this as hard as possible.\n\nTwo days. That's it. I'll call a realtor tomorrow and be done with this place by the weekend.\n\nWhat the—",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-683b08d9-cedd-47fb-b8b4-7291c8497692",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Call your cousin Damian—you know he stayed in Millbrook, and you need to know what you're dealing with",
+      "timestamp": "2026-05-02T23:46:37.522221",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ab681c7a-d848-4bae-a71c-7a716b189e77",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*The phone rings four times before it clicks. Wind noise. The sound of a diesel engine idling.*\n\n*Riley's voice. After all this time. Damian's hand tightens on the phone, knuckles going white. Fifteen years of silence, and now this.*\n\n\"Riley.\"\n\n*Not a question. Not surprise. Just their name, spoken carefully.*\n\n*A horn honks somewhere behind him. He ignores it.*\n\n\"You're at the house.\" *Statement, not question. His voice is rougher than it used to be, worn down by years of river wind and too many cigarettes.* \"She told me you'd come. Said you'd wait until—\"\n\n*Static. A pause.*\n\n\"Look, I'm on River Road. Ten minutes.\" *The idling engine cuts out. A door slams.* \"Don't go into the back bedroom. Whatever you do. The lock's—\"\n\n*The line drops.*\n\n*The house seems to settle behind Riley, floorboards groaning in a pattern that sounds almost like footsteps approaching the front hall. From somewhere upstairs, a door creaks open on its own—the door at the end of the hallway, the one that's been locked since they arrived.*",
+      "timestamp": "2026-05-02T23:46:37.522539",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-352dbd4e-710e-4644-a427-3df7ef0d0033",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Call Damian back immediately and demand to know what he was about to say",
+      "timestamp": "2026-05-02T23:48:52.236417",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d3e66102-7cb7-49a7-8324-3c4aebb51732",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*The phone rings once. Twice. Three times. Then four—ringing through to hollow static. No pickup. No voicemail. Just endless ringing that seems to echo strangely, as if the sound is bleeding in from somewhere else in the house.*\n\n*From upstairs, the groan of old wood. A slow, deliberate creak—weight shifting across floorboards in the back bedroom. The one that was locked. The one that opened on its own.*\n\n*Riley's palm presses flat against the kitchen counter, and that's when they see it: the basement door, slightly ajar now, when it was firmly shut before. The wood is swollen, jammed half-open against the frame. And from the darkness below rises a smell—cedar, yes, but underneath it, something else.*\n\n*The furnace kicks on with a mechanical shudder that vibrates through the floor.*\n\n*Outside, the afternoon light has shifted. Golden hour approaching, shadows lengthening across the yard. Through the window above the sink, movement on River Road—a figure standing still at the edge of the property line, watching.*\n\n*The phone in Riley's hand buzzes: NO SIGNAL.*\n\n*The house waits.*\n\n- Head upstairs to investigate the back bedroom despite Damian's warning\n- Move toward the basement door and see what's causing that smell\n- Go outside to confront the figure watching from River Road",
+      "timestamp": "2026-05-02T23:48:56.054936",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-65ce3e59-dac2-45b5-a950-53e6d9b0de22",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Go outside to confront the figure watching from River Road",
+      "timestamp": "2026-05-02T23:52:44.562127",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4f678460-de34-4c78-84fd-30eab5eca6f0",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley's hand finds the doorknob, cold brass under their palm. The porch boards groan beneath their weight as they step out into air that's turned sharp—autumn cutting through the afternoon warmth like a blade.*\n\n*The figure doesn't move. Doesn't wave or call out. Just stands there at the edge where the chain-link fence has rusted through, hands loose at their sides, face obscured by the long shadows stretching from the river road.*\n\n*Then the figure turns. Walks away at an unhurried pace toward the older houses lining the water.*\n\n*And Riley sees it clearly for a moment: a faded Ohio State ball cap, close-cropped hair, a frame that's all sharp angles. The walk is deliberate, patient—someone who knows exactly where they're going and has nowhere else to be.*\n\n*Junior Wells.*\n\n*He pauses at the corner where River Road bends toward the water. Doesn't look back, but his voice carries across the dying grass:*\n\n\"She knew you'd come back. Left something for you.\" *A pause.* \"In the tree. Where you used to hide.\"\n\n*He continues walking and disappears around the bend just as an engine growls up Reliance Road—a truck, older model, brakes squealing as it stops hard against the curb.*\n\n*Damian's behind the wheel. He doesn't get out immediately. Just sits there, gripping the steering wheel, staring at the house like it's something that might bite.*",
+      "timestamp": "2026-05-02T23:52:44.562670",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b190db22-ca81-453e-9fc6-23b064bd42be",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Approach Damian's truck and confront him about his cryptic warning",
+      "timestamp": "2026-05-02T23:54:34.059645",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-45c3395f-9da0-4749-842f-cdf437afb7ef",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley's boots crunch across dead grass. The truck's engine ticks as it cools, and through the windshield Damian's silhouette remains frozen—shoulders hunched forward, hands still locked on the steering wheel like he's forgotten how to let go.*\n\n*The driver's door creaks open. Damian unfolds himself from the cab, and for a moment he's just a shape against the graying sky—broader than Riley remembers, carrying weight in places he didn't used to. His face is weathered, lines carved deep around his mouth and eyes. He looks like someone who's been expecting a knock that never came.*\n\n*He doesn't close the distance between them. Just stands there by the truck, one hand resting on the hood.*\n\n\"You got taller.\" *His voice is flat, stripped of anything that might be mistaken for warmth.* \"Or maybe I just got shorter.\"\n\n*His gaze slides past Riley to the house. The porch. The second-floor window that's fogged from the inside despite the clear autumn air.*\n\n\"I told you not to go in the back bedroom.\" *His jaw tightens.* \"That door was supposed to stay locked. She made me promise—\"\n\n*He stops. Swallows something that looks like it hurts.*\n\n\"Things got complicated, Riley. After you left. Things happened in that house that I couldn't—\" *He shakes his head once, sharp.* \"The less you know right now, the better. Just get in the truck. We'll go somewhere and talk, and then I'll help you figure out whatever needs figuring with the estate. But you're not staying here tonight.\"\n\n*His eyes flick back toward River Road, toward the bend where Junior disappeared.*\n\n\"He was here, wasn't he. Junior.\"\n\n*It's not a question.*",
+      "timestamp": "2026-05-02T23:54:34.060428",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-06ed3dfd-0938-46d9-92bd-9737adabdc1f",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Refuse to leave and demand Damian explain what's in the back bedroom",
+      "timestamp": "2026-05-02T23:55:58.805619",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5b497f42-6e69-4e01-b27c-03289fa722ba",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Something shifts in Damian's face—a flicker of the boy he used to be, quick to anger, quicker to defend. Then it settles into something older. More tired.*\n\n\"Not staying here.\" *His voice drops, rough and raw.* \"You think I'm asking?\"\n\n*He takes a step closer. Close enough now that Riley can see the gray threading through his temples, the scar along his jawline that wasn't there before. His boots are mud-caked. There's sawdust on his jacket sleeves. He smells of coffee and cigarettes.*\n\n\"She was sick for two years, Riley. Two years.\" *He gestures toward the house, then catches himself, hand dropping.* \"And every single day, she talked about you. Said you'd come back. Said the house was keeping something for you—that it *knew* you'd come back.\"\n\n*He looks away, jaw working.*\n\n\"I didn't believe her. Thought it was just the morphine talking. But she made me promise, and I promised, because that's what you do when someone's dying—you say yes to the things that don't make sense.\"\n\n*Behind them, the front door of the house swings open. Slow. Deliberate. Neither of them touched it.*\n\n*Damian goes still.*\n\n\"The bedroom stays locked because that's where she kept everything. Everything she saved.\" *His voice is barely audible now.* \"From when we were kids. From before you left. And if you go up there—\"\n\n*He doesn't finish. Doesn't need to. The house exhales behind them, a long low creak that sounds almost like breathing.*\n\n\"Get in the truck. Please.\"\n\n- Get in the truck and let Damian drive you somewhere safe to talk\n- Push past him and head back into the house toward the locked bedroom\n- Ask about Junior's message—what's hidden in the tree",
+      "timestamp": "2026-05-02T23:56:02.612915",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7b124e89-af47-4d26-a064-9b7f57412d32",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "推开他，回到屋内，朝锁着的卧室走去",
+      "timestamp": "2026-05-02T23:58:13.208237",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e4f68f33-96b6-45fc-a751-a88dfd79172f",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley moves before the thought fully forms—shoulder dipping past Damian, boots hitting the porch steps hard. Damian's hand catches at their jacket, fingers closing on empty air.*\n\n\"Riley—wait—\"\n\n*The screen door bangs against the frame. Inside, the house has changed. The air is thicker now, heavy with dust and something sweeter underneath—old paper, dried lavender, the particular must of boxes left sealed too long. The stairs rise ahead, oak treads worn smooth in the center from decades of footsteps.*\n\n*Behind them, Damian curses. His boots pound across the porch.*\n\n*At the top of the stairs, the hallway stretches toward the back bedroom. The door stands open now, a dark rectangle against the fading afternoon light filtering through the window at the far end. Something flutters inside—curtains, maybe, though there's no breeze.*\n\n*Riley's hand finds the banister. The wood is warm. Almost feverish.*\n\n\"She was trying to protect you.\" *Damian's voice comes from the bottom of the stairs, ragged.* \"That's why she locked it. Why she made me swear—\"\n\n*From inside the bedroom, a sound. Soft. Mechanical. An answering machine clicking on, though there's no power to the rest of the house.*\n\n*Celia's voice fills the hallway, crackling with static:*\n\n*\"Riley. If you're hearing this, you came back. I need you to remember what happened in the treehouse. What we buried there. It's important now.\"*\n\n*The message ends. The house holds its breath.*",
+      "timestamp": "2026-05-02T23:58:13.208905",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1dba4425-6fb7-4bf5-b725-683540ccb7e1",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Push past him and head back into the house toward the locked bedroom",
+      "timestamp": "2026-05-02T23:58:18.452208",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e3b123df-1293-4770-8069-557690630d29",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Damian's hand shoots out, fingers closing around Riley's arm with a grip that surprises them—strong, calloused, desperate.*\n\n\"Don't.\"\n\n*His voice cracks on the word. Behind them, the house waits with its front door yawning open like a mouth. The upstairs window fogs and clears, fogs and clears, rhythmic as breathing.*\n\n*Damian's grip tightens.*\n\n\"You don't understand what's up there. What she—\" *He stops. Re-centers.* \"There's a file. In with all her boxes. Your name on the tab. And underneath it, a date. July 1989.\"\n\n*His gray eyes meet Riley's, and there's something raw in them now—fear that goes deeper than superstition.*\n\n\"That was the summer your mother left. The summer you stopped coming to Millbrook.\" *His voice drops to barely a whisper.* \"The summer something happened in that treehouse. Something you made me promise never to talk about.\"\n\n*He releases Riley's arm. Steps back.*\n\n\"I've been trying to protect you from this for fifteen years. She spent the last two of them collecting every piece of evidence she could find—newspaper clippings, photographs, statements from people who were there that night.\"\n\n*The house creaks. A board pops somewhere inside, loud as a gunshot.*\n\n\"The key's in the kitchen. Top drawer by the stove, taped to the bottom of a tin she kept her buttons in.\" *He looks away, toward the river.* \"But once you open that door, Riley, you can't take it back. You need to be sure.\"",
+      "timestamp": "2026-05-02T23:58:18.452982",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-13ba6f18-c4fc-4df3-b44c-bf39a6a92319",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Ask Damian what happened that night in the treehouse",
+      "timestamp": "2026-05-03T00:00:37.803731",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f6c1cf36-83c8-4f7e-ad6c-53976b15bd8e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:00:43.049324",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5510f741-1424-4635-b2a8-d4edd40f9d6c",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Damian's face goes pale. Then red. Then something in between—a flush that moves up from his neck like a sickness.*\n\n\"You're asking me to break a promise I made when we were twelve years old.\" *His laugh comes out jagged, wrong.* \"A promise you made me make, Riley. You were crying. You were shaking so hard you couldn't stand up straight, and you grabbed my arm and you said—\"\n\n*He stops. His hands are shaking now too, visible even in the fading light.*\n\n\"I don't even remember all of it. Just pieces. Your mother screaming inside the house. The sound of glass breaking. And you—\" *His voice catches.* \"You were already up in that treehouse when I found you. Had been for hours, maybe. And there was something in your hands. Something you made me bury under the floorboards.\"\n\n*The wind picks up, scattering dry leaves across the porch. Somewhere inside the house, a door slams.*\n\n\"I never looked at what it was. I swear I didn't.\" *Damian's eyes are wet now, though his voice stays steady.* \"But Celia did. Years later, after the treehouse started rotting and the kids in town started saying it was haunted. She went up there with a ladder and she dug it out, and whatever she found—\"\n\n*He turns to face Riley fully.*\n\n\"Whatever she found is in that file. With everything else she collected. And she spent two years dying, Riley. Two years trying to figure out how to tell you the truth about your own life.\"\n\n*His hand rises toward the porch railing—toward the house, steadying himself.*\n\n\"So no. I'm not going to tell you what happened. Because you deserve to see it yourself. All of it.\"\n\n*The kitchen window flickers. Once. Brief. Like a match striking in the dark.*\n\n- Go to the kitchen and find the key\n- Ask Damian who else was there that night\n- Head straight for the treehouse instead",
+      "timestamp": "2026-05-03T00:00:43.049637",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c2e0f7ba-802e-40a9-8374-b8572b8dbcd2",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Go to the kitchen and find the key",
+      "timestamp": "2026-05-03T00:10:10.078999",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-a965f936-e7cb-4a41-b6ce-8ed7ccd44b5c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:10:10.079658",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7269802a-ce8a-4be0-a55b-652058adecd0",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley turns away from him without a word. The porch groans beneath their feet as they cross to the door, Damian's heavy silence pressing against their back.*\n\n*Inside, the house has shifted. The shadows stretch different now—longer, reaching toward the kitchen doorway like fingers. The linoleum floor is cracked and yellowed, its faded pattern barely visible under years of tracked-in dirt and dust.*\n\n*The kitchen holds the smell of old grease and something else. Something chemical. Medicinal. The stove is ancient, porcelain chipped, and the drawer beside it sticks when Riley pulls.*\n\n*Inside: mismatched silverware, rubber bands, a twist-tie collection in an old pill bottle. No button tin.*\n\n*They reach deeper. Fingers brushing the back of the drawer, then the bottom—loose, shifting under pressure. A false bottom, held by a single nail.*\n\n*The button tin sits in the hollow beneath. Rust-speckled, floral pattern faded to ghosts of color. Riley turns it over.*\n\n*The key is taped to the bottom, the adhesive yellowed and brittle. It falls away into their palm—small, brass, teeth worn smooth.*\n\n*From upstairs, a sound. Footsteps. Slow and deliberate, crossing the hallway toward the back bedroom.*\n\n*Damian appears in the kitchen doorway, face drawn.*\n\n\"She's been walking up there. Every night since she died.\" *His voice is hollow.* \"Waiting for someone to let her finish what she started.\"\n\n*The footsteps stop. The house settles into silence.*\n\n- Go upstairs and unlock the bedroom door\n- Ask Damian if anyone else has been inside the house\n- Demand to know what Celia was trying to finish",
+      "timestamp": "2026-05-03T00:10:10.080023",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c7d4ae47-52a8-4c3c-9836-677f3371ff47",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Go upstairs and unlock the bedroom door",
+      "timestamp": "2026-05-03T00:11:22.931108",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-7d96f796-795e-43b8-8c89-b0a50548303b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:11:22.931529",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-50cc5cac-7081-4639-a4b6-5d698b818bad",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: Damian Holloway: *The stairs creak under Riley's weight, each step a protest from wood that hasn't been walked in months. The brass key bites cold into their palm. Behind them, Damian doesn't follow.*\n\n*At the top, the hallway stretches toward the back bedroom. Dust motes spiral through the gray light filtering from the window at the far end. The air is different here—cooler, heavier, carrying the particular silence of rooms long sealed.*\n\n*The bedroom door stands closed now. Solid. Waiting.*\n\n*Riley's hand finds the doorknob. Tests it. Locked, as promised. They slide the key into the mechanism—the fit is imperfect, the teeth catching twice before the tumbler gives with a sound like a held breath releasing.*\n\n*The door swings inward.*\n\n*Inside: boxes stacked floor to ceiling along the far wall, each one labeled in Celia's careful handwriting. PHOTOGRAPHS. NEWSPAPERS. CORRESPONDENCE. KINCAID. And on a card table pushed against the window, a single file folder, its tab bearing Riley's name in red ink.*\n\n*Next to the folder: a cassette recorder. A photograph face-down. And something else—something that makes Riley's breath catch.*\n\n*A child's drawing, taped to the mirror above the dresser. Crayon figures beneath a tree, one of them lying on the ground. Above it, in a child's unsteady hand: IT WAS AN ACCIDENT.*\n\n*From somewhere below, Damian's voice rises sharp and urgent:*\n\n\"Riley. Get out of there. Now.\"\n\n*The floorboard beneath their feet groans. Something in the closet shifts. Knocks. Once.*\n\n- Open the file folder\n- Investigate the sound in the closet\n- Turn over the photograph on the card table",
+      "timestamp": "2026-05-03T00:11:22.931780",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b83831f6-efaa-49cf-9055-d11733b3904f",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Investigate the sound in the closet",
+      "timestamp": "2026-05-03T00:13:22.918748",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-de458b0a-8fdc-4a65-b132-90977beeb0ba",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:13:26.612640",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3a54103a-3b25-477e-858c-bb8c13c043a5",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *The floorboards creak as Riley crosses toward the closet. Each step sounds too loud in the sealed room, dust motes swirling in the gray light from the window.*\n\n*Their hand finds the closet door—old wood, painted white decades ago, now yellowed with age. The knob is cold. Proper cold, the kind that burns.*\n\n*They pull it open.*\n\n*Inside: coats. Winter things, moth-eaten wool and faded nylon. Celia's cardigans hung in a row. And at the back, squeezed between a plastic dry-cleaning bag and the far wall—*\n\n*A figure. Small. A child, perhaps, or something shaped like one. Pale face turning slowly toward Riley, eyes too wide, mouth opening around words that don't come.*\n\n*The temperature plummets. Riley's breath fogs in front of their face.*\n\n*From downstairs, pounding now. Damian's voice raw:*\n\n\"RILEY. I'm coming up—\"\n\n*The figure in the closet tilts its head. Mouth moving silently. Then, louder—loud enough to hear through the walls, through the floors, through twenty-five years of forgetting:*\n\n\"Does it still hurt?\"\n\n*Riley's knees buckle. A memory crashes through them—hands pushing, a fall, someone small crumpled at the base of the treehouse ladder, their own voice screaming for help that didn't come in time.*\n\n*The figure smiles.*\n\n\"He never got up, did he? Your friend. The quiet one.\"\n\n*The closet door slams shut. The lock clicks.*\n\n- Scream for Damian\n- Force the closet door back open\n- Answer the figure's question",
+      "timestamp": "2026-05-03T00:13:26.613003",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6685aab5-3631-493a-923d-c57c43104bd4",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Force the closet door back open",
+      "timestamp": "2026-05-03T00:15:24.201896",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-9247272d-3e5c-4217-bb4e-ce4c4c743546",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:15:24.202496",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b47c96f2-06c3-40ba-8487-76235a127c7c",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: Damian Holloway: *Riley's shoulder slams into the wood. Once. Twice. The door shudders but holds—the lock is old, stubborn, rusted into place by years of disuse.*\n\n\"Let me in!\" *They're shouting now, voice cracking.* \"Let me SEE you!\"\n\n*The third impact splinters the frame. The door bursts inward, Riley stumbling through into a wall of winter coats and stale air.*\n\n*Empty.*\n\n*The closet is empty. Just Celia's cardigans swaying gently on their hangers, disturbed by the intrusion. At the back, the dry-cleaning bag crinkles in the draft from somewhere— a crack in the wall, perhaps, or a seam that was never quite sealed.*\n\n*But on the floor, where the figure stood: a shoe. Small, scuffed, the laces still tied. A child's sneaker, left foot, the rubber sole worn thin.*\n\n*Riley picks it up. Turns it over. The inside bears a name written in permanent marker, the ink faded but legible: SAMMY.*\n\n*Sammy. The quiet one. The boy who lived three houses down, who used to wait at the corner every morning so they could walk to school together. The boy who stopped coming around in the summer of 1999 and whose family moved away so quietly that no one mentioned it again.*\n\n*Damian's footsteps pound up the stairs. He appears in the doorway, chest heaving, and stops cold when he sees what Riley's holding.*\n\n\"Oh God.\" *His voice is barely a whisper.* \"Oh God, you don't remember. Do you?\"\n\n- Demand Damian explain who Sammy was\n- Return to the file folder and photograph on the card table\n- Ask where the other shoe is buried",
+      "timestamp": "2026-05-03T00:15:24.202755",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fa45dfce-9264-4cd7-962f-d09cadd65c6b",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Force the closet door back open",
+      "timestamp": "2026-05-03T00:15:49.870221",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-bded88a6-3acc-4754-83d7-c4c76f12ec44",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:15:49.870717",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-979f493d-d6e2-405e-b0a5-ea3ba6ad0a0b",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley throws their shoulder against the door. Wood groans, the old lock rattling in its frame. Their palm slaps flat against the painted surface—*\n\n*The door swings open at their touch. No resistance. No figure.*\n\n*Just coats. Celia's cardigans. A plastic dry-cleaning bag crinkling in a draft that shouldn't exist.*\n\n*The closet stretches back deeper than the room's dimensions should allow. At the far end, wedged behind a water-stained hatbox: a face. Watching. But not the child's face—this one is older, familiar in a way that makes Riley's stomach drop.*\n\n*Photographs. Dozens of them, pinned to the back wall in a spiral. Each one showing the same thing: the oak tree. The treehouse. A dark shape at the base of the ladder, photographed from above, from different angles, in different seasons. Years of surveillance compressed into a single kaleidoscope of evidence.*\n\n*And in the center, a recent print—crisp, color-saturated. A figure standing at the base of the oak. Riley recognizes the jacket. Recognizes the posture.*\n\n*It's Damian. Head tilted up toward the treehouse. Face unreadable. Taken last week, maybe, the timestamp blurred but the morning light unmistakable.*\n\n*Footsteps thunder on the stairs. Damian's voice cracks through the house:*\n\n\"RILEY—\"\n\n*He appears in the bedroom doorway, chest heaving. His eyes find the closet. The photographs. The spiral of evidence pinned like a confession.*\n\n\"Who showed you that.\" *Not a question—a warning. His hands are fists at his sides.* \"Who let you in here.\"",
+      "timestamp": "2026-05-03T00:15:49.870929",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cb9b50a6-4977-462a-b37a-4d312b4e11a2",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Ask Damian why he's been photographing the treehouse",
+      "timestamp": "2026-05-03T00:16:28.654490",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-6e65056c-b642-47fc-8077-296d0c67bce2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:16:32.559340",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3bb7d3fd-13e3-44e1-92ea-7166c54048ca",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Damian's jaw tightens. For a moment he looks cornered—a animal caught in headlights, calculating escape routes. Then something in him deflates.*\n\n\"I wasn't—\"\n\n*He stops. Swallows. His eyes move to the photographs on the closet wall, lingering on the one with his own face.*\n\n\"Celia asked me to. Before she got sick. Said she needed documentation.\" *His voice drops.* \"Said the house was trying to tell her something, and she needed proof before she could show you.\"\n\n*He takes a step into the room. The floorboard groans under his weight.*\n\n\"She knew you'd come back eventually. Knew you'd need to see it for yourself.\" *His hand gestures vaguely toward the spiral of photographs.* \"Every season. Every angle. She wanted you to understand the pattern.\"\n\n\"What pattern?\"\n\n*Damian's face goes pale. He crosses to the card table, his back to Riley, and picks up the photograph lying face-down. When he turns, he's holding an image of the treehouse, but from a different angle—from *inside* it, looking down at the ground.*\n\n*At the base of the ladder, barely visible in the summer overgrowth: a depression in the earth. Shaped like a small body.*\n\n\"That's where they found him.\" *Damian's voice is hollow.* \"That's where Sammy fell. And every year, on the anniversary, the grass dies in that exact spot. Every year, the house marks it.\"\n\n*He sets the photograph down.*\n\n\"Your aunt thought you needed to remember. She thought—\" *He breaks off.* \"She thought you were the one who pushed him.\"\n\n- Demand to know what really happened that day\n- Deny it and accuse Damian of the truth\n- Return to the file folder for Celia's records",
+      "timestamp": "2026-05-03T00:16:32.559622",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f30fa9f1-9feb-465d-b57c-d267edf786bb",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Return to the file folder for Celia's records",
+      "timestamp": "2026-05-03T00:18:13.988854",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8f76d567-9af8-4ae8-86ba-dddf61d8926b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:18:13.989481",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2616fb07-0524-4c0a-b674-5ad00d93554e",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley turns away from the photographs, from Damian's hollow confession, and crosses to the card table. The file folder sits where they left it, manila edges worn soft with handling.*\n\n*Inside: Celia's handwriting, cramped and urgent. Newspaper clippings yellowed at the edges. A coroner's report, the ink faded but legible—SAMUEL HENRY ORTIZ, age 9, cause of death listed as blunt force trauma consistent with fall from height. Date: July 15, 1999.*\n\n*Beneath the official documents, a letter. Unsent. Riley's name on the envelope in Celia's trembling hand.*\n\n*They pull it free and unfold it.*\n\n*Riley—*\n\n*By the time you read this, I'll be gone. I've tried to call. I've tried to write. You keep running, and I've tried to forgive you for that. Running is easier than staying. Running lets you pretend the past isn't buried in your bones.*\n\n*But it is. Sammy was real. And what happened in that treehouse—*\n\n*I've spent sixteen years telling myself it was an accident. That children push and shove and sometimes tragedy follows. But the house remembers what I chose to forget. The boards creak in that room upstairs. The door sticks on purpose. The photographs kept appearing in places I didn't put them.*\n\n*The house wants you to remember.*\n\n*I saw your face that day. I saw your hands.*\n\n*God forgive me for what I've hidden. God forgive you for what you've buried.*\n\n*—C*\n\n*Riley's hands tremble. The paper rattles.*\n\n*Damian's voice comes from behind them, quiet and heavy:*\n\n\"She knew, Riley. She always knew. And she spent her last years trying to get you to come home and face it.\"\n\n*He pauses. When he speaks again, there's something raw in his voice—grief, or guilt, or both.*\n\n\"The question is—do you remember yet?\"",
+      "timestamp": "2026-05-03T00:18:13.989728",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a83fcec0-f4ac-49b5-bb0d-8f8c64bb72b7",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Demand Damian tell what he saw that day",
+      "timestamp": "2026-05-03T00:19:39.602987",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-739d879c-c5c4-4041-a28a-59c7fc9eeca4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:19:39.603501",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7f479b54-c3f4-4a3b-b7f3-8bad6e327329",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Damian's face crumbles. For a long moment he says nothing—just stands there in that dim room, surrounded by Celia's evidence, looking like a man about to step off a ledge.*\n\n\"You really don't remember.\" *His voice cracks.* \"God, Riley. All these years I thought you were just... running from it. I thought you *knew*.\"\n\n*He drops onto the edge of Celia's bed, the mattress groaning under him. His head falls into his hands.*\n\n\"We were all up there. You, me, Sammy. July, hot as hell, the kind of day where the air feels thick enough to chew.\" *His words come muffled through his fingers.* \"You and Sammy got into it over something stupid—I don't even remember what. A toy, maybe. Or he said something about your dad. Kids' garbage.\"\n\n*He lifts his head. His eyes are red-rimmed.*\n\n\"There was shoving. I saw you push him. Not hard, but...\" *He swallows.* \"He stumbled backward. His foot went through that rotted board near the trapdoor. You know the one.\"\n\n*Riley's stomach drops.*\n\n\"He caught himself. He was fine for a second—scared, hanging there by his arms. And then you...\" *Damian's voice breaks.* \"You reached for him. I saw your hand extend. I thought you were going to pull him up.\"\n\n*A tear slides down his weathered cheek.*\n\n\"But your face, Riley. Your face went blank. You just... watched him. And then your foot moved—you stepped on his fingers. One by one, until he couldn't hold on anymore.\"\n\n*He meets Riley's eyes.*\n\n\"I've never told anyone. Celia figured it out on her own. But I saw everything.\"",
+      "timestamp": "2026-05-03T00:19:39.603728",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-819ef2fb-929b-42f3-8ce8-d4c20570f8e6",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Tell Damian he's lying—he's the one who killed Sammy",
+      "timestamp": "2026-05-03T00:20:25.191895",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-7c3caa45-da82-4fc6-9e79-a6efac22eb05",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:20:30.911460",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-42065611-cc94-442f-a22b-61fe4891c07f",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Something shifts behind Damian's eyes. The grief hardens into something older, sharper.*\n\n\"Lying.\" *He rises from the bed, slow. His boots scrape against the floorboards.* \"You think I'm lying.\"\n\n*He crosses to the closet. Rips the photograph of himself from the wall—the one timestamped last week, standing at the oak tree.*\n\n\"I've spent twenty-five years coming here every July fifteenth. Taking the same pictures. Watching the grass die in that spot.\" *His voice drops to a growl.* \"Why would I do that if I killed him? Why would I document my own crime for a quarter century?\"\n\n*He throws the photograph onto the card table. It lands face-up next to Celia's letter.*\n\n\"I was twelve years old, Riley. I watched my cousin murder a boy and I didn't say a goddamn word because you were *family*. Because I thought—\" *He falters. His hand presses flat against his chest.* \"I thought something was wrong with you. That you were sick, or broken, or that maybe you didn't mean to do it.\"\n\n*He steps closer. Close enough that Riley can smell the motor oil on his jacket, the stale coffee on his breath.*\n\n\"But you did mean it. I saw your face. And the worst part?\"\n\n*His voice cracks.*\n\n\"You don't even remember doing it. Your brain just... erased it. Like Sammy never existed. Like he wasn't worth the space in your head.\"\n\n*He pulls something from his pocket. A key—brass, old, attached to a faded ribbon.*\n\n\"Celia left this for you. Said you'd need to see the room for yourself before you could decide what to do with the truth.\"\n\n*He presses it into Riley's palm. His fingers linger, trembling.*\n\n\"Second bedroom. Locked since 1999. Whatever's in there—it's yours now.\"",
+      "timestamp": "2026-05-03T00:20:30.911744",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bb1a5042-7b1b-41e3-b899-2c0e66987fd5",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "get into the Second bedroom",
+      "timestamp": "2026-05-03T00:22:18.628298",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-bc9d5a7a-ee5b-4565-bae3-a57064f35fd4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:22:18.628756",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-497f5747-7b26-4ef5-ad2a-2905be6cc0d5",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley's fingers close around the key. The brass is warm from Damian's pocket, the ribbon faded to a dull rose.*\n\n*They don't look at Damian as they move past him—can't look at him. The hallway stretches ahead, long and narrow, the oak treads worn smooth by decades of footsteps. Their own footsteps now. Their own weight carrying them toward something they've spent twenty-five years not knowing.*\n\n*The second bedroom door sits at the end of the hall. Different from the others—no paint left on its surface, just raw wood grayed with age. The doorknob is brass, tarnished to black. No keyhole visible.*\n\n*Riley's hand finds the seam where the frame meets the wall. Their fingers press against the cool plaster—and there, hidden in the shadow of the baseboard, a small keyhole. Almost invisible.*\n\n*The key slides in. The lock turns with a groan of metal on metal, something ancient and stubborn giving way.*\n\n*The door swings open.*\n\n*Dust motes swirl in the low afternoon light. The room smells of cedar and something else—something sweet and chemical, like old lipstick. A child's room. Still a child's room, frozen in 1999.*\n\n*A twin bed with a faded quilt. A wooden chair. A shelf of books—Goosebumps, Animorphs, a worn copy of Bridge to Terabithia.*\n\n*And on the bed, arranged with deliberate care: a boy's clothes. Sneakers. A pair of glasses with a cracked lens.*\n\n*Riley's stomach lurches with a recognition so deep it bypasses thought entirely. They know those glasses. They've seen them before—somewhere, in some life they've spent decades trying to bury.*\n\n- Enter the room and face what Celia preserved\n- Ask Damian why these things are here\n- Refuse to look further and leave the house",
+      "timestamp": "2026-05-03T00:22:18.628998",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ce44de65-7454-460b-915a-06802df4baf3",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "get into the Second bedroom",
+      "timestamp": "2026-05-03T00:23:09.201189",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-64ea62ca-44a1-4be4-8d6a-29e5807b58f5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:23:09.201800",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-929efb03-b668-4c73-b2d5-5e9b64806d67",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *The key has already been turned. The door stands open. Riley stands at the threshold, frozen.*\n\n*Damian's footsteps creak behind them on the stairs. He doesn't follow into the hallway—he stops at the bottom, his voice carrying up through the narrow stairwell.*\n\n\"I'm not going up there with you.\" *A long pause. When he speaks again, his voice is rough.* \"Celia said you had to do this part alone. Said the house would show you what you needed to see.\"\n\n*Riley's hand presses against the doorframe. The wood is cold. The room beyond waits, patient and full.*\n\n*They step inside.*\n\n*The floorboards groan beneath their weight. The air is thick—unused, preserved. On the bed, Sammy's belongings sit arranged like an exhibit. The cracked glasses. A t-shirt with a faded Pokémon graphic. Sneakers scuffed at the toes, sized for a nine-year-old boy.*\n\n*But there's more.*\n\n*On the wooden chair: a stack of notebooks. Composition books, the black-and-white marbled kind, their covers warped with age. Riley recognizes their own handwriting on the first cover—childish letters, the summer they were nine.*\n\n*They open it.*\n\n*Page after page of drawings. Crude, frantic. A treehouse. A figure falling. Hands reaching. A face at the top of the frame, watching. Blank. Expressionless.*\n\n*Their own face.*\n\n*Their own hands, pushing.*\n\n*Underneath the drawings, a single line in Celia's handwriting:*\n\n*\"You drew these the week after. You couldn't stop drawing them. Then you stopped remembering.\"*\n\n- Read Celia's final notebook, which sits beneath the drawings\n- Confront Damian about what really happened\n- Leave the room and the house forever",
+      "timestamp": "2026-05-03T00:23:09.202049",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-58deb8ed-e53e-411f-9ab7-f1340ce8641e",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Read Celia's final notebook, which sits beneath the drawings",
+      "timestamp": "2026-05-03T00:25:02.430360",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-827d425b-37ef-416c-8844-19da95f63a80",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:25:06.640664",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-afb61c5a-c33b-4632-bc1c-08146ab663f7",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley's hands tremble as they lift the composition book. Beneath it sits another notebook—smaller, leather-bound, its cover stained the color of old coffee. Celia's handwriting on the first page, shaky but determined:*\n\n*For Riley. Everything I couldn't say while I was alive.*\n\n*They turn the page. The date is three months before Celia's death.*\n\n*Riley—*\n\n*I've spent twenty years trying to understand what happened to you. Not just that day, but after. How a child who cried over dead birds could become someone who doesn't remember taking a life. The doctors have words for it—dissociative amnesia, they call it. Your brain protected you. Made it impossible to see yourself as what you became.*\n\n*But here's what I need you to know:*\n\n*You were nine years old. Nine. Your father had been dead six months. Your mother had checked out completely. You were spending your summer with an aunt who worked sixty hours a week and a cousin who had his own wounds he couldn't name.*\n\n*Sammy Wells was your friend. I know you don't remember, but he was. You two spent hours in that treehouse. And then something broke in you that summer—something that had been cracking for months. The fall, the watching, the moment your foot moved...*\n\n*That wasn't all of you. That was the part of you that couldn't carry any more hurt and decided to make someone else feel what you felt.*\n\n*Page after page. Details Riley doesn't remember. Details that slot into place like a key turning—*\n\n*And then, the final entry:*\n\n*Damian didn't just watch. He tried to stop you. You shoved him backward into the treehouse wall. He hit his head. By the time he came to, Sammy was gone and you were standing at the trapdoor, staring down.*\n\n*You've spent twenty-five years blaming yourself without knowing why. He's spent twenty-five years blaming himself for not being fast enough.*\n\n*Neither of you was ever going to be okay until you faced this.*\n\n*The house has been waiting. I've been waiting.*\n\n*Now you can choose what happens next.*\n\n*Riley closes the notebook. Their chest aches. Downstairs, Damian waits—a man who's carried his own silence for twenty-five years.*\n\n- Go downstairs and talk to Damian\n- Search the room for more of Sammy's belongings\n- Leave the house and find Junior Wells, Sammy's brother",
+      "timestamp": "2026-05-03T00:25:06.641019",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11cac7a6-dc98-42e4-b74c-83ae99b597a4",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Read Celia's final notebook, which sits beneath the drawings",
+      "timestamp": "2026-05-03T00:25:43.365294",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-614067f6-f9f2-4573-9197-3589405778d0",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:25:43.365867",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e1505cec-f453-4c04-bfb6-672314a4962a",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley descends the stairs. Each step creaks under their weight—the same sounds, probably, that Celia heard for decades. The same worn path.*\n\n*Damian stands at the bottom, one hand braced against the wall. He looks up at the sound of footsteps, and for a moment his expression flickers—hope and dread tangled together.*\n\n\"You read it.\" *Not a question. He can see it in Riley's face.*\n\n*He moves toward the kitchen. Riley hears cabinets opening, the clink of glass. When he returns, he's carrying two tumblers and a bottle of something amber. He sets them on the coffee table without pouring.*\n\n\"I was twelve.\" *His voice is flat, rehearsed—like he's practiced this explanation in his head a thousand times but never out loud.* \"Sammy was yelling for help, and I saw you—saw your foot—and I just reacted. Grabbed for your arm.\"\n\n*He sits heavily on the sofa. The cushion sighs under him.*\n\n\"You shoved me. Hard. My head caught the corner of the trunk we used to keep up there.\" *His fingers touch his temple, unconsicously.* \"Woke up maybe... two minutes later? Three? Long enough.\"\n\n*He finally pours the whiskey. His hands don't shake. He's had practice.*\n\n\"Sammy was already on the ground. You were just standing there. Staring. And I knew—I *knew*—I should go down, check if he was breathing, run for help. But all I could think was...\"\n\n*He drinks. Sets the glass down. Meets Riley's eyes.*\n\n\"What happens to you if I tell? You were nine. Your dad just died. Your mom was gone half the time.\"\n\n*The house settles around them. A pipe groans somewhere in the walls.*\n\n\"So I made a choice. Wrong one. Been paying for it ever since.\"\n\n- Tell Damian it wasn't his fault—he was a child too\n- Ask him why he stayed in Millbrook all these years\n- Demand to know why no one ever told you the truth",
+      "timestamp": "2026-05-03T00:25:43.366138",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0ac84632-2630-4ad6-9fb3-943837ed0de0",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Tell Damian it wasn't his fault—he was a child too",
+      "timestamp": "2026-05-03T00:28:12.724035",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-e06a5570-d274-46ad-820a-b92e3a323970",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:28:12.724588",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3f92fbc5-2cfa-4232-84d0-e5e30e6ee33a",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley sinks into the chair across from him. The leather is cracked, the foam inside shedding like old snow.*\n\n\"You were twelve.\" *The words come out rougher than intended, cracked at the edges.* \"You were twelve, and you'd just watched your nine-year-old cousin—\"\n\n*They can't finish. Their throat closes around the words like a fist.\n\n*Damian looks at the whiskey in his glass. His jaw tightens.*\n\n\"Twelve is old enough to know better.\" *He says it quietly. Factually. Like he's repeated it to himself every day for twenty-five years.* \"Twelve is old enough to climb down that ladder and check if he was breathing. Twelve is old enough to tell someone instead of letting you walk around believing you were fine.\"\n\n*He finally looks up. His eyes are red-rimmed, tired in a way sleep won't fix.*\n\n\"You know what I did instead? I dragged you back to the house. Made you promise not to tell. And then I went home and didn't sleep for a week, and when they found him by the river three days later, I told myself it was an accident. That he must've fallen again. That we had nothing to do with it.\"\n\n*He exhales—shaky and uneven.*\n\n\"Celia knew. She always knew something was wrong, she just didn't know what. Kept asking questions I couldn't answer. Kept trying to reach you.\"\n\n*His fingers wrap tight around the glass.*\n\n\"So don't tell me I was just a kid. I've had twenty-five years to do something about this. You didn't even *remember*.\"\n\n*The accusation isn't fair. They both know it. But it sits between them anyway—heavy, honest, the kind of ugly truth only family can carry.*",
+      "timestamp": "2026-05-03T00:28:12.724855",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4c86b115-90be-4d95-b14c-7abcc848d6f1",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Tell Damian it wasn't his fault—he was a child too",
+      "timestamp": "2026-05-03T00:28:34.683685",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-e647e93d-65eb-4e3b-a8ec-41ce43544846",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:28:38.982746",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8cd2706a-d237-4c42-b2cc-8caef930f9df",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley leans forward. The chair groans beneath them.*\n\n\"Stop.\" *Their voice cracks.* \"Just—stop. You were twelve. I was nine. We were *children*.\"\n\n*Damian's jaw tightens. He opens his mouth to argue, but Riley cuts him off.*\n\n\"You keep talking like you had some kind of choice. Like twelve-year-olds get to make decisions about life and death and somehow you made the wrong one.\" *Their hands are shaking now, and they don't try to hide it.* \"But that's not how it works. That's never how it works.\"\n\n*They stand. Pace. The floorboards creak beneath their feet—the same boards that heard their father's laughter, their aunt's quiet weeping, their own childhood footsteps running from room to room.*\n\n\"You know what Celia wrote? That my brain *protected* me. Made it impossible to remember.\" *They turn to face him.* \"Well, your brain did something too. It told you that a twelve-year-old could've saved everyone if he'd just been *better*. Faster. Smarter.\"\n\n*Damian's face crumples. Just for a second—a crack in the wall he's spent twenty-five years building.*\n\n\"I don't know how to stop,\" *he whispers.* \"I don't know how to not blame myself.\"\n\n*Riley's voice softens. Rough, but honest.*\n\n\"Maybe we learn together.\"\n\n- Offer to stay in Millbrook and face this with him\n- Ask what he needs to finally let this go\n- Suggest they find Junior Wells together",
+      "timestamp": "2026-05-03T00:28:38.983022",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bb1f0f28-acd7-4ecf-b4d3-2243a375df79",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Suggest they find Junior Wells together",
+      "timestamp": "2026-05-03T00:30:33.942998",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-5aae3d35-183c-42dd-a7be-dd7fe3d29fff",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:30:33.943421",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-adf8136c-9544-4b8e-b852-ee1271f51d1f",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Damian's head snaps up. His eyes darken—something defensive, protective.*\n\n\"Junior.\" *The name comes out flat.* \"You want to find Junior.\"\n\n*He sets his glass down. The whiskey sloshes against the sides.*\n\n\"You know who he is? Really?\" *He leans forward, elbows on his knees.* \"He's been watching that house since Celia got sick. Standing on River Road at dawn and dusk, just staring. Sometimes he walks up and down the block like he's waiting for something.\"\n\n*He runs a hand over his face. His knuckles are scarred—old wounds, Riley realizes. Not from construction work.*\n\n\"He was eleven when Sammy died. Old enough to understand what happened, young enough to spend his whole life looking for someone to blame.\" *He stands. Moves to the window. The house on Reliance Road is visible through the glass, pale in the afternoon light.* \"I see him sometimes, at the diner. He never says anything to me. Just watches. Like he's been waiting.\"\n\n*He turns back to face Riley.*\n\n\"If we go to him—if we *tell* him—we can't take that back.\" *His voice drops.* \"He might not want our truth. He might want someone to hurt.\"\n\n- Insist that Junior deserves to know what happened to his brother\n- Ask Damian if he's been avoiding Junior all these years\n- Suggest they bring the notebook and let Junior decide what happensRiley Kincaid: Insist that Junior deserves to know what happened to his brother",
+      "timestamp": "2026-05-03T00:30:33.943627",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f7b80647-ceb2-46a6-83d0-06f6c447ef80",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Suggest they find Junior Wells together",
+      "timestamp": "2026-05-03T00:30:38.390656",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-289d349d-54ed-4295-96aa-c121f33019b2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:30:38.391160",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b7cb9ff9-caa6-4f72-87a6-946849bb6ee0",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Damian stares at the whiskey in his glass. His thumb traces the rim—once, twice, a nervous habit Riley doesn't remember him having.*\n\n\"Junior.\" *The name comes out flat. Careful.* \"You want to find Junior.\"\n\n*He sets the glass down on the coffee table. Doesn't drink.*\n\n\"You know he's Sammy's brother.\" *A beat.* \"Course you know. Celia would've written that down.\"\n\n*He stands. Moves to the window. Outside, the afternoon light has gone amber and low, shadows stretching long across the yard. At the end of the block, River Road curves toward the poorer houses, the ones that smell like mud and old fish.*\n\n\"Junior was fourteen that summer. He's the one who found Sammy. Three days in the water.\" *His voice hollows out.* \"He's never been right since. Town calls him slow, but he's not slow—he's just... somewhere else. Stuck at the moment he saw his little brother's face in the river.\"\n\n*He turns back to Riley. His jaw works like he's chewing on something bitter.*\n\n\"You want to walk up to a man who's spent twenty-five years not knowing what really happened to his brother and tell him it was us?\"\n\n*The house creaks. Something shifts upstairs—a settling beam, or something else.*\n\n*Damian exhales.*\n\n\"Alright. Let's go.\"\n\n- Walk with Damian toward River Road\n- Ask Damian what he thinks Junior already knows\n- Suggest driving instead of walking",
+      "timestamp": "2026-05-03T00:30:38.391622",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-99921435-841d-426d-b566-eebf40e5b42e",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Ask Damian what he thinks Junior already knows",
+      "timestamp": "2026-05-03T00:32:39.179599",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-97d57911-ebc4-4d16-99d4-4f7535f53a66",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:32:42.931957",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-706751ac-9b4e-4c44-86ba-36645feb009d",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Damian pulls on his jacket—the canvas one with the frayed cuffs, the one he's probably had since high school. His movements are slow, deliberate, like a man preparing for something he's spent decades dreading.*\n\n\"What does he know?\" *He considers the question. Outside, the wind picks up, scattering dry leaves across the sidewalk.* \"Hard to say with Junior. He's not... he doesn't think in straight lines.\"\n\n*He opens the front door. The evening air rushes in, cool and smelling of the river—mud and something metallic underneath.*\n\n\"But he was there that summer. Saw us playing by the water, probably. Saw the treehouse.\" *His voice tightens.* \"He asked me once, years later, if I remembered that summer. If I remembered the kids who used to visit the house on Reliance.\"\n\n*Damian steps onto the porch. His boots thud against the warped boards.*\n\n\"I told him I didn't know what he was talking about. Walked away.\" *He doesn't look at Riley.* \"He just stood there. Didn't push. Didn't get angry. Just... watched me go. Like he was giving me time.\"\n\n*He starts down the steps.*\n\n\"Maybe he's been waiting for me to be ready. Or maybe he's been waiting to see if I'd ever be honest.\" *His shoulders hunch.* \"Either way, he deserves the truth. Even if he decides to put me in the river himself.\"\n\n- Follow Damian toward River Road\n- Ask if Damian thinks Junior will hurt him\n- Say nothing and walk in silence",
+      "timestamp": "2026-05-03T00:32:42.932246",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-630cb632-234f-4874-a2b2-645d5a7438fd",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Follow Damian toward River Road",
+      "timestamp": "2026-05-03T00:36:04.742264",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3088157f-6acb-48ec-9de1-2b3e1aeb6c18",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:36:04.742771",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2f095bd7-45ad-4be1-8fdb-dbe7f750c12e",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *The walk to River Road takes seven minutes. Riley counts each one.*\n\n*Damian moves like a man toward his own execution—shoulders hunched, fists deep in his jacket pockets, breath coming in short visible puffs despite the mild evening. The neighborhood shifts by degrees as they walk: the houses grow smaller, their yards more cluttered with rusted parts and plastic furniture, the paint more peeled, the roofs more sagging. This is where Millbrook keeps what it doesn't want to look at.*\n\n*The river smell strengthens. Wet earth, rotting vegetation, something chemical from the factory upstream.*\n\n*Junior's house is the last one before the bank—a shack, really, barely larger than the Kincaid living room. A single window glows amber. On the porch, a figure sits in a wooden chair, perfectly still, facing the water.*\n\n*Damian stops twenty feet away.*\n\n\"That's him.\" *His voice is barely audible.* \"He sits there every evening. Watching the river. Waiting for—\"\n\n*The figure turns his head. Slowly. Deliberately.*\n\n*Junior Wells rises from his chair. He's taller than Riley expected, thin as a fence rail, his face unreadable in the dusk. He doesn't speak. Just watches them approach with eyes that seem to hold something older than forty-two years.*\n\n*When they're ten feet away, he finally moves. Steps down from the porch. Stands waiting.*\n\n\"You finally came.\" *His voice is soft, almost gentle.* \"Both of you.\"\n\n- Let Damian speak first\n- Speak first, acknowledge what they've come to do\n- Wait for Junior to say more",
+      "timestamp": "2026-05-03T00:36:04.743056",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-103f9aaf-6b52-4906-b128-3a47b4be8e2e",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Follow Damian toward River Road",
+      "timestamp": "2026-05-03T00:36:21.881802",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-ba2f15fa-6d62-4385-9f76-55a52027c4e2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:36:21.882460",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9cea87e3-1e56-4807-97e1-9cd747edb2c6",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *They walk in silence past the sagging porches and overgrown lawns of Reliance Road. Damian's boots strike the pavement in a steady rhythm, and Riley matches his pace. The oak tree's shadow reaches long across the street behind them—the house watching them go.*\n\n*Damian stops at the corner where the pavement gives way to gravel. River Road stretches ahead, lined with houses that lean into each other like tired old men. The river itself is visible through gaps in the trees, brown and slow, reflecting the bruised purple of the evening sky.*\n\n\"He's usually by the water this time of day.\" *Damian's voice is rough.* \"Watching.\"\n\n*And there he is.*\n\n*A figure stands at the river's edge, maybe fifty yards ahead. Still as a heron. He wears a faded Ohio State cap and a flannel shirt gone thin at the elbows. Even from here, Riley can feel the weight of his attention—he's not looking at the water.*\n\n*He's looking at them.*\n\n*Damian's hand brushes Riley's arm. A warning or a reassurance. His jaw is tight, his breathing shallow.*\n\n\"He sees us.\" *Almost a whisper.* \"He's known we were coming before we did.\"\n\n*Junior doesn't move. Doesn't call out. Just waits, his face unreadable in the fading light.*\n\n- Approach Junior directly\n- Let Damian take the lead\n- Call out to Junior from a distance",
+      "timestamp": "2026-05-03T00:36:21.882791",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-805a952e-7bfd-4273-a85a-32c63d41d43f",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Approach Junior directly",
+      "timestamp": "2026-05-03T00:38:39.699955",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-2e15793f-9c04-4fa9-b262-be1fe45ee9f3",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:38:43.131492",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-873923ab-b49c-4bb6-a0bd-6f0f5e384395",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley moves past Damian before he can stop them. The gravel crunches under their boots, each step too loud in the hush of dusk. Behind them, Damian's ragged breathing catches—then follows.*\n\n*Junior doesn't flinch. Doesn't retreat. He stands with his hands loose at his sides, the river at his back, watching Riley approach with an expression that holds neither anger nor welcome. Just patience. The kind of patience that has learned to wait decades.*\n\n*Ten feet. Five. Riley stops.*\n\n*Up close, Junior's face is a map of weathered lines, his eyes pale and watery, reflecting the last orange streaks of sunset on the water. His Ohio State cap is bleached almost white by years of sun. There's mud on his boots, caked thick, like he's been standing at the riverbank all day.*\n\n\"You're Riley.\" *Not a question.* \"You look like her. Celia.\"\n\n*His gaze shifts past Riley's shoulder. Damian has stopped a few paces back, his whole body trembling.*\n\n\"And you're Damian.\" *Junior's voice stays soft, but something sharpens in it—an edge that hasn't been there before.* \"You've been walking past my house for twenty years. Never once stopped.\"\n\n*He tilts his head. Studies Damian the way a bird studies something strange in its territory.*\n\n\"Your breathing sounds like my mama's did. Before she died.\" *A pause.* \"Like you're carrying something too heavy for your chest.\"\n\n*Junior looks back at Riley.*\n\n\"You came to tell me about Sammy.\"\n\n- Tell him the truth—all of it\n- Let Damian speak\n- Ask Junior what he already knows",
+      "timestamp": "2026-05-03T00:38:43.131772",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ac8b8101-8146-473a-ab1f-e71b1eadf9f0",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Approach Junior directly",
+      "timestamp": "2026-05-03T00:38:44.631770",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-24fc1421-c51a-41df-b409-345610b06949",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:38:44.632600",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9bb59536-f364-420f-b726-f1d946d12a22",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: Damian Holloway: *Riley walks past Damian, gravel crunching under each step. The distance closes—forty feet, thirty, twenty. Junior doesn't move. Doesn't shift. His face remains slack, but his eyes track Riley with an intensity that makes the air feel thicker.*\n\n*Damian follows, hanging back. His breathing is audible, ragged at the edges.*\n\n*Ten feet away, Riley stops. The river murmurs behind Junior, dark and slow. The smell of mud and rot is stronger here. A mosquito whines past Riley's ear.*\n\n*Junior tilts his head. Studies them both. When he speaks, his voice is soft but clear, each word placed with deliberate care.*\n\n\"You were there.\" *His eyes move to Riley.* \"That summer. You and the boy from the house. Playing by the water.\" *A pause.* \"Sammy wanted to play too.\"\n\n*Damian makes a sound behind Riley. A choked breath.*\n\n*Junior doesn't look at him yet. Keeps his attention on Riley, and there's something in his expression—not anger, not accusation. Something older. Something waiting.*\n\n\"He followed you both. You didn't see.\" *His head turns slightly toward the river.* \"I saw him go. I didn't follow. I was scared of the deep part.\"\n\n*His eyes finally shift to Damian. Hold there.*\n\n\"You came back.\"\n\n- Let Damian respond\n- Tell Junior what happened to Sammy\n- Ask Junior what he saw that day",
+      "timestamp": "2026-05-03T00:38:44.632864",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-18d0a831-33c6-4703-9672-22bc54694c7b",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Ask Junior what he saw that day",
+      "timestamp": "2026-05-03T00:41:31.686872",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f44729e3-0121-474e-a7db-115e29f6c82e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:41:31.687540",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dfc32894-ccb2-4222-905b-325ab4db567e",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: Damian Holloway: *Junior's face doesn't change, but something shifts behind his eyes—a flicker, like a fish turning in murky water. He looks at Riley for a long moment. Then he turns fully toward the river.*\n\n\"Come here.\" *He walks to the water's edge, his boots sinking slightly in the soft mud.* \"I'll show you.\"\n\n*Damian's hand catches Riley's elbow. His grip is tight, desperate.*\n\n\"Riley—\"\n\n*But Junior is already pointing. Across the river, maybe forty yards downstream, a fallen oak juts out over the water, its branches reaching toward the opposite bank like skeletal fingers.*\n\n\"The deep part starts there.\" *Junior's voice is flat.* \"Under that tree. The current pulls down. Always has.\"\n\n*He crouches, picking up a flat stone. Turns it in his fingers.*\n\n\"I was sitting where you're standing. Sammy came down the bank. He was calling your name—'Riley, Riley, wait up.' He was happy.\" *The stone turns, turns.* \"He saw you and Damian at the bend. You didn't hear him. Or maybe you did.\"\n\n*The stone slips from his fingers. Lands in the mud.*\n\n\"He went in after you. The water was up to his chest when the current caught him.\" *Junior's voice cracks, the first break in that flat calm.* \"I screamed. You didn't turn around.\"\n\n*His eyes meet Riley's.*\n\n\"Neither did Damian.\"\n\n- Demand Damian explain\n- Ask why Junior never told anyone\n- Accept the truth in silence",
+      "timestamp": "2026-05-03T00:41:31.687756",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d16bfd10-06c7-4aec-894e-dab0c4171d29",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Demand Damian explain",
+      "timestamp": "2026-05-03T00:43:42.195913",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3e44705d-bc50-43f5-9c18-8c4d6d79155b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:43:46.397883",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-19b1c26e-9482-4e61-a29d-15147c16456a",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: Damian Holloway: *Riley turns. Damian is already backing away, his hands raised, his face the color of old ash.*\n\n\"I didn't—\" *His voice breaks.* \"Riley, I didn't hear him. I swear to God, I didn't—\"\n\n\"You heard Junior scream.\" *The words come out flat, foreign. Riley's throat feels packed with gravel.* \"You told me you didn't hear anything. All these years. You said—\"\n\n\"Because I was a coward!\" *Damian's shout echoes across the water, startles a heron from the reeds. It rises, beating heavy wings against the darkening sky.* \"Because I knew. Even then, I knew. If we turned around, it would be real. If we kept walking, maybe it didn't happen. Maybe he went home.\"\n\n*His legs seem to give out. He sinks to his knees in the mud, his work pants soaking through, and presses both fists against his eyes.*\n\n\"I was fifteen. I was supposed to be watching out for you both. Celia trusted me.\" *A sound tears out of him—not quite a sob, something rawer.* \"Every day for twenty years I've walked past Junior's house. Hoping he'd tell someone. Hoping someone would finally hold me accountable. And he never did.\"\n\n*Junior watches Damian crumble. His expression doesn't soften, but it doesn't harden either.*\n\n\"He was waiting.\" *Junior says quietly.* \"For you to come back and tell the truth yourself.\"\n\n*Damian looks up. His face is streaked with mud and tears.*\n\n\"Is that why Celia left me the house?\"\n\n- Tell Damian about Celia's notebook\n- Ask what happens now\n- Let the silence hold",
+      "timestamp": "2026-05-03T00:43:46.398167",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7bdb832a-2adb-4fb7-b432-27da6ae7a98d",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Tell Damian about Celia's notebook",
+      "timestamp": "2026-05-03T00:45:52.654164",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-9d3350d4-e46e-4d9a-b3da-a1acde88f37c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:45:52.654939",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-42555d60-b9d1-45c4-ba4c-da558fd5f574",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley reaches into their jacket. The notebook is there—Celia's handwriting, her stains, her careful instructions. It comes out wrinkled from the pocket, the cover bent.*\n\n\"She knew.\" *Riley's voice sounds strange to their own ears. Hollow.* \"She knew something happened that summer. She was trying to make me come back.\"\n\n*Damian stares at the notebook like it's a snake.*\n\n\"What... what's in it?\"\n\n*Riley doesn't hand it over. Instead, they flip to the page they've almost memorized now—'The house knows what happened. It's been waiting to show you.' And below that, in smaller writing: 'Damian has carried this alone. He shouldn't have to. Neither should you.'*\n\n*Damian reads it over Riley's shoulder. His breath stops. Starts again, shallow and wet.*\n\n\"She was dying and she was still—still trying to—\"\n\n*His voice dissolves. He sits back on his heels, mud soaking through his jeans, and looks at the house visible up the block. The porch sags in the fading light. A window catches the last orange glow and holds it.*\n\n\"She left you the house to force this.\" *Damian's voice is barely a whisper.* \"To make us face it.\"\n\n*Junior shifts behind them. When he speaks, his voice carries something it hasn't before—something almost like gentleness.*\n\n\"Celia was a good woman. She believed in setting things right before the end.\" *A pause.* \"The house has been waiting. But so has the town. So have I.\"\n\n*He looks at Riley.*\n\n\"What are you going to do with what you know now?\"",
+      "timestamp": "2026-05-03T00:45:52.655210",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-05d07062-f42b-4237-8271-8d01e23b26d5",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Give Damian the notebook to read fully",
+      "timestamp": "2026-05-03T00:46:29.807541",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-72bd56e9-54a8-4002-a626-0641d9670247",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The bus stop on Millbrook's main street, with the house on Reliance Road visible at the end of the block tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:46:29.808201",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-df7695c2-f6a0-44a5-b3a2-6732d7793a8c",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley holds out the notebook. The gesture feels enormous—handing over proof, handing over Celia's voice, handing over the weight that's been pressing against their chest since they found it in the drawer.*\n\n*Damian takes it. His hands are shaking, mud-caked fingers smearing the cover. He opens to the first page. Reads. His lips move slightly, forming the words.*\n\n*The light is dying fast now. The sky above the river has turned the color of a bruise—purple and orange bleeding together. Somewhere behind them, a car passes on River Road, headlights sweeping briefly across the water before disappearing.*\n\n*Damian turns pages. Stops. Turns more. Stops again. His face changes with each entry—confusion, recognition, grief, something that looks almost like relief.*\n\n\"She wrote about Sammy.\" *His voice cracks.* \"She wrote about his mother. How she never stopped asking questions. How the town stopped answering.\"\n\n*He finds a page near the end. Holds it up to the fading light.*\n\n\"'The truth isn't punishment. It's permission. Permission to stop running, permission to start living. Someone has to say it out loud first.'\"\n\n*Damian closes the notebook. Presses it against his forehead like a prayer or a penance. His shoulders shake.*\n\n*Junior steps closer. The mud makes no sound under his feet.*\n\n\"The Wells family has lived by this river four generations. We see what the water takes.\" *He pauses.* \"We also see what it gives back.\"\n\n*He points toward the house on Reliance Road. The windows are dark, but something shifts in the second-floor hallway—a curtain moving, though there's no wind.*\n\n\"Someone's been waiting inside.\"\n\n- Go to the house now\n- Ask Junior who's inside\n- Tell Damian to stay behind",
+      "timestamp": "2026-05-03T00:46:29.808446",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1d2878aa-0bc8-48ae-97f0-53281ffd907e",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Go to the house now",
+      "timestamp": "2026-05-03T00:48:36.377490",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-29b64a31-9ff0-4ae1-9049-577c7b59d624",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley starts walking. The decision moves through their legs before their mind catches up—boots on gravel, then pavement, the distance between the bus stop and the house shrinking with each step.*\n\n*Damian follows. He's still holding the notebook, clutching it against his chest like something that might be taken from him. His breathing is ragged, audible in the space between them.*\n\n\"Riley. Wait.\"\n\n*But Riley doesn't wait. The house grows larger with each step, its peeling paint catching the last gray light. The porch sags on its southeastern corner. The oak tree stands sentinel, the rotted swing hanging motionless.*\n\n*Junior doesn't follow. He remains by the water, a silhouette against the darkening sky, watching.*\n\n*The front door is close now. Riley can see that it's slightly ajar—not broken, just... open. Waiting. A sliver of darkness visible between the frame and the wood.*\n\n*Damian catches up. His hand finds Riley's shoulder.*\n\n\"Whoever's in there—\" *He swallows.* \"I should go first. I'm the one who—\"\n\n*Inside, a floorboard creaks. Deliberate. Weight shifting on old wood.*\n\n*Then silence. The house holding its breath.*\n\n*Through the gap in the door, Riley can see nothing but shadow. But somewhere deep inside, past the narrow hallway and the stairs with their worn oak treads, someone is standing. Waiting for them to enter.*\n\n*The curtain in the second-floor hallway twitches again.*\n\n- Push open the door and enter\n- Call out to whoever is inside\n- Tell Damian to call for backup",
+      "timestamp": "2026-05-03T00:48:40.112608",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-bcdec981-809a-409e-ac95-8315ad1030fc",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INTERIOR OF THE HOUSE]",
+      "timestamp": "2026-05-03T00:48:40.113170",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fa9eb058-c3d7-4a01-8bc5-05803e42dc30",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Go to the house now",
+      "timestamp": "2026-05-03T00:49:01.108828",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e19ac356-88b9-4863-a417-d6ed056c5914",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley starts walking. The notebook is back in their pocket, Celia's weight against their chest. Behind them, mud sucks at Damian's boots as he struggles upright.*\n\n\"Riley—wait—\"\n\n*But Riley doesn't wait. The house grows larger with each step, its peeling paint catching the last amber light. The sagging porch looks like a mouth mid-word. The windows are dark, watching.*\n\n*Junior falls into step beside them. His pace is unhurried, inevitable.*\n\n\"She knew you'd come. She told me, the week before she passed.\" *His voice is low.* \"Said the house had one more thing to show you.\"\n\n*Damian catches up, breathing hard. He's still carrying the notebook's weight in his expression—the things he read, the things Celia knew. He doesn't try to stop Riley again. He walks alongside, shoulder to shoulder, close enough that their arms almost touch.*\n\n*The oak tree's branches creak overhead. The treehouse platform is barely visible through the leaves—dark, abandoned, facing Riley's old bedroom window. The rope swing hangs motionless. New rope. Someone rehung it recently.*\n\n*The front steps groan under their weight. The door is slightly ajar, a crack of darkness visible beyond.*\n\n*Damian's hand finds Riley's wrist. Not grabbing. Anchoring.*\n\n\"Whatever's in there—\" *His voice is rough.* \"We go together.\"\n\n*From somewhere deep inside the house, a floorboard creaks. Footsteps, slow and deliberate, moving toward the front door.*\n\n- Push open the door\n- Call out from the threshold\n- Wait for whoever it is to come to you\n\n- Push open the door\n- Call out from the threshold\n- Wait for whoever it is to come to you",
+      "timestamp": "2026-05-03T00:49:01.109598",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-3ea54525-c0cd-4c51-9337-45f32f610cb8",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INTERIOR OF THE HOUSE]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T00:49:05.647822",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e2d97fd7-2173-4672-8234-0c2f5137cb8e",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Push open the door",
+      "timestamp": "2026-05-03T00:50:38.355274",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-1c490d0e-149d-47cc-9dbb-8f8d5e51c953",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Interior of the house tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:50:38.355805",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-32164073-f1f4-4c64-8004-985669895f6b",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "Damian Holloway: *Riley's palm meets the wood. The door swings inward, hinges groaning, and the smell hits first—cedar, dust, and something else, sharper. Smoke. Woodsmoke from the basement.*\n\n*The hallway stretches ahead, barely visible in the gray light filtering through the windows. The staircase rises on the left, oak treads worn smooth by decades of footsteps. Photographs line the walls—Celia at different ages, Riley as a child, faces half-remembered.*\n\n*At the end of the hall, a figure stands in the kitchen doorway.*\n\n*Small. Frail. White hair loose around her shoulders, longer than Riley has ever seen it. She's wearing a cardigan over a nightgown, slippers on her feet. Her hands grip a cane.*\n\n*Celia March looks up at them with eyes that hold twenty years of waiting.*\n\n\"You came.\" *Her voice is exactly as Riley remembers it—dry, patient, unsurprised. The voice from the answering machine.* \"I told them you'd come. The house told me.\"\n\n*Damian makes a sound behind Riley. A choke. A gasp.*\n\n\"Aunt Celia?\" *His voice breaks on the word.* \"You're—the funeral—the coffin was—\"\n\n*The figure tilts her head. Behind her, in the kitchen, the basement door stands open. Orange light flickers from below.*\n\n\"They buried an empty box, sweetheart. I needed to see who would show up. Who would care.\" *Her eyes find Riley.* \"I needed to see if you'd finally come home.\"\n\n*Junior's voice drifts from the threshold, barely a whisper:*\n\n\"Some things the river gives back.\"\n\n- Step toward her\n- Ask how this is possible\n- Look at Damian",
+      "timestamp": "2026-05-03T00:50:38.356071",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-0bb7b60e-b65e-4c3d-b6a1-35120565fb72",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T00:50:38.357188",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-86bccf66-5ad0-4813-a3a6-2af46c24af01",
+      "speaker": "Riley Kincaid",
+      "role": "user",
+      "character_id": "rileykincaid",
+      "content": "Step toward her",
+      "timestamp": "2026-05-03T00:52:06.565753",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-dbe43f06-0ea8-4fa0-aa0a-1e17c919c20e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Interior of the house tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T00:52:11.604474",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f93c367c-5e6a-4a90-939b-3755adadec53",
+      "speaker": "Damian Holloway",
+      "role": "assistant",
+      "character_id": "damianholloway",
+      "content": "*Riley's boots cross the threshold. One step. Two. The floorboards groan beneath their weight, familiar and foreign at once. The hallway smells of cedar and cigarette smoke—someone's been here, someone's been living here.*\n\n*Celia doesn't move. Her hands rest steady on her cane, but her jaw tightens. A muscle working beneath skin that looks paper-thin in the dimness. The basement light flickers behind her, casting shadows up the kitchen walls.*\n\n\"You look thin.\" *A statement, not a question.* \"You look like you haven't been sleeping. Like you've been running.\"\n\n*She knows. Of course she knows. The house has been telling her things.*\n\n*Damian steps in behind Riley. His breathing is ragged, uneven. When he speaks, his voice is barely above a whisper:*\n\n\"Aunt Celia. The cancer. You were gone. We buried—I carried the—\"\n\n*The old woman's expression shifts. She looks tired suddenly in a way that has nothing to do with age.*\n\n\"I was tired, Damian. I was so tired of waiting for people to show up while they were still alive.\" *She looks at Riley, holding.* \"Your mother called once. In fifteen years. Once. And you never called at all.\"\n\n*The kitchen clock ticks. Water drips in the sink.*\n\n\"But you're here now.\" *She turns, motioning toward the basement door.* \"And there's something I need to show you. Something I've been keeping.\"\n\n*The orange light below pulses and dims.*\n\n\"No more running. You understand me? No more.\"\n\n- Follow her into the basement\n- Ask what she's been keeping\n- Reach for Damian's hand",
+      "timestamp": "2026-05-03T00:52:11.604798",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-9fdeb6bb-86e8-4729-a081-358016e7d9fa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T00:52:16.305378",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

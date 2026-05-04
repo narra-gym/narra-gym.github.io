@@ -1,0 +1,534 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 4,
+      "story_coherence": 3,
+      "story_empathy": 5,
+      "story_surprise": 4,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 5,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T15:56:59.363801"
+  },
+  "dialogue": [
+    {
+      "id": "msg-a87646d5-2f39-4564-8f0b-3d462060e504",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "I found this by the seats near Platform 9. I wasn't stealing it. I just heard someone say it had to get somewhere before dawn.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f1162ca1-8290-42f2-aac9-97178f9abca2",
+      "speaker": "Gideon Hale",
+      "role": "assistant",
+      "character_id": "gideonhale",
+      "content": "I'm Gideon Hale, overnight terminal security. If it's not your bag, then you need to hand it over now and explain why you're walking away from the platform with it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9d3e2e6b-5688-4d84-bcca-5ca7d7594bac",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "I am trying to hand it over. You're acting like I'm doing something wrong because I look wrong.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-668c0a08-f1de-4e91-a073-e2bd1e8e01d3",
+      "speaker": "Gideon Hale",
+      "role": "assistant",
+      "character_id": "gideonhale",
+      "content": "People with a story always say they're trying to help. Start again. Slowly.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4b00ce7b-9e76-425a-9957-b414af47416b",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "I'm Len Dawes, driver on the Night Bus loop outside. That bag came off the hospital side connection, or close enough to it, and if I'm right, lost property won't reach the right hands till well after sunrise.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f4a93973-bbf2-4bb9-ab47-81b8273ec112",
+      "speaker": "Gideon Hale",
+      "role": "assistant",
+      "character_id": "gideonhale",
+      "content": "Len, unless transit hired you to run security tonight, stay in your lane.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7b4565a4-a643-4f35-b9df-d0c7d679de46",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "My lane's the route, Gideon. I know who rides it, who misses it, and who comes back panicking for what they left behind. If she heard 'before dawn' and 'hospital,' I can make better use of that than a shelf in lost and found.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d2c1318b-06f8-413a-a4f0-1a8cbf2f20c3",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "You're saying there is actually a chance of finding the owner tonight?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-328de383-f824-4fe6-b591-a76ee7b992fe",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "Chance, yes. Guarantee, no. But the city stays stitched together after midnight by people who remember faces. If you want to try, get on. If you don't, hand it over and be done.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-894d854c-30e1-446c-8d62-2300ca8080dd",
+      "speaker": "Gideon Hale",
+      "role": "assistant",
+      "character_id": "gideonhale",
+      "content": "If she boards with that bag, I want her name on record.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4a60879c-c406-4b9e-9f46-42d9936b84e3",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Mara Ortiz. And if this goes badly, I know how stupid it's going to look.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-efa3b8c7-827b-49a4-a1ee-164160ad557d",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "Then let's try for it not going badly. Bus leaves in ten seconds, Mara.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5b9d6bdb-d769-42a6-96c7-6493f0399ff4",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Board the Night Bus with Len and keep the bag, trusting the route and your memory of the overheard clues.",
+      "timestamp": "2026-05-03T23:46:41.259573",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-91a34909-3dd6-4a05-901c-e6d0eefd4bd7",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*The doors sigh open. Warm diesel breath rolls out, carrying wet wool, old vinyl, burnt coffee from somewhere up front. Len steps down just enough to block Gideon without making a show of it, one big hand out for the bag—not to take it away, just to steady the strap while Mara climbs.*\n\n\"Front seats. Where I can hear you if this turns into a bad idea.\"\n\n*His eyes flick once to the side pocket, half-zipped. A hospital wristband peeks out, white plastic against dark canvas, and beneath it a child’s sticker—silver star, bent at one point. Len’s jaw tightens by a fraction.*\n\n\"Well. That helps.\"\n\n*He looks back at Mara through the rain-streaked light, voice flattening into business.*\n\n\"Owner's likely been at St. Agnes tonight. Maybe pediatric ward, maybe someone visiting in a hurry. Means we don't do the full loop blind. We start with the hospital stop and ask smart.\"\n\n*Behind them, Gideon scribbles in his notebook, annoyed but no longer in the way. The stop-request chime pings as somebody already onboard shifts in their seat.*\n\n\"One rule,\" Len says, stepping back up to the wheel. \"No heroics. You see something, you tell me first.\"",
+      "timestamp": "2026-05-03T23:46:41.259899",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-d53bc4e5-14b3-4221-967b-cac2312f3747",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - NIGHT BUS EN ROUTE TO ST. AGNES HOSPITAL STOP.]",
+      "timestamp": "2026-05-03T23:46:41.260276",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-245ec568-dd14-4d26-bcd7-43fe4664fd70",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Sit in the front seat and tell Len exactly what you overheard before the doors close.",
+      "timestamp": "2026-05-03T23:47:23.657713",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-38eccbac-ca5a-465a-86c7-1d3b3948b1cf",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*The doors fold shut with a rubber-throated hiss. Len pulls the bus off the curb, wipers knocking rain aside in a hard metronome. Terminal glare slides off the windshield; the city beyond goes sodium-orange and black.*\n\n\"Talk.\"\n\n*He listens without interrupting, one hand high on the wheel, eyes flicking from mirror to road to Mara's reflection in the glass. At the bit about pediatrics, his brows draw in. At the mention of somebody saying they couldn't go back upstairs without the bag, he reaches for the dash mic, then stops.*\n\n\"Right. That's not visitor gift-shop nonsense, then.\"\n\n*Ahead, the lights of St. Agnes rise pale through the drizzle—ambulance bay glow, red brake lights, wet pavement shining like sheet metal. Len exhales once through his nose.*\n\n\"I know one of the night respiratory staff there. Eli Navarro. Rides this route after bad shifts, boards at the hospital when the sun's thinking about it. If he's on break or still inside, he'll know whether pediatrics had a parent tearing the place apart tonight.\"\n\n*He cuts a glance at Mara, practical and sharp.*\n\n\"Change of plan. We don't ask the whole lobby and start a circus. We go to the staff desk first and ask for Navarro by name. Quieter, faster, better odds.\"\n\n*The stop-request chime dings. St. Agnes is next.*",
+      "timestamp": "2026-05-03T23:47:29.122374",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-d3032ae2-9a6a-4634-9110-3dd26658d6af",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ST. AGNES HOSPITAL ENTRANCE / STAFF DESK.]",
+      "timestamp": "2026-05-03T23:47:29.122939",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d5718eba-7725-403a-b676-0495cf6c4df8",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Get off with Len at St. Agnes and ask for Eli Navarro at the staff desk.",
+      "timestamp": "2026-05-03T23:48:00.134646",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d999ec60-aa14-470a-bd4d-a73f60bb798b",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*The hospital doors part on a blast of antiseptic air and overheated vent heat. Floor polish, burnt coffee, rain steaming off coats. Len keeps half a step ahead, not crowding Mara, just making a lane through a knot of tired people at the entrance.*\n\n\"Night transport,\" *he says to the clerk before anyone can build a story around you.* \"Need to speak to Eli Navarro. Quietly.\"\n\n*The clerk’s fingers freeze over the keyboard. Her eyes lift, wary first—then sharpen at the sight of the bag strap in Mara’s hand and the white wristband peeking from the pocket.*\n\n\"You just missed him,\" she says. \"He finished in peds twenty minutes ago. Left a note at desk in case anyone came asking about a missing bag.\"\n\n*She reaches under the counter and unfolds a torn sheet of chart paper, creased and damp at one corner.*\n\n“Blue canvas messenger. Family from 4 West. Child discharge delayed because mother left with meds and paperwork inside. They thought it might've gone onto the bus.”\n\n*Len’s mouth flattens. There it is: not maybe. Real.*\n\n\"Where's Navarro now?\"\n\n“Respiratory wing stairwell. He went to intercept the mother before she walked back out in the rain.”\n\n*Len turns to Mara, already shifting with purpose.*\n\n\"Good news—we've got the right bag. Bad news—we've got about two minutes before this gets messy again. Your call: hand it to desk, or we take it straight to Navarro and end it clean.\"",
+      "timestamp": "2026-05-03T23:48:00.135282",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-0e454ccd-0484-4edb-9017-e0934085a3a9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RESPIRATORY WING STAIRWELL OR REMAIN AT STAFF DESK.]",
+      "timestamp": "2026-05-03T23:48:04.651909",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e9edd367-23f1-4743-8785-734574aac139",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Give the bag to the staff clerk and let the hospital handle the return officially.",
+      "timestamp": "2026-05-03T23:48:35.382376",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1065d5f8-f2d8-45fe-8a36-49ae3e13b25a",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len's head turns so fast the fluorescent light flashes off the wet edge of his jacket.*\n\n\"No.\"\n\n*Not loud. Flat. Certain.*\n\nHe plants one broad hand on the counter before the clerk can reach for the strap. The desk phone starts ringing somewhere to the left, shrill and tinny. Behind the swing doors, a transport gurney rattles past.\n\n\"Official is how this disappears for another fifteen minutes,\" he says. \"And fifteen minutes is enough for a knackered parent to decide discharge can wait till morning and walk.\"\n\n*The clerk bristles, then checks the note again, chewing the inside of her cheek.*\n\n\"4 West just called,\" she admits. \"Mother already came down once. She panicked, thought security had it, and headed for the respiratory stairwell because Navarro said he'd look there. If we log this first, it has to go through property intake.\"\n\n*Conflict solved, replaced by a cleaner one: bureaucracy versus speed.*\n\nLen slides his gaze to Mara, steady as a handrail.\n\n\"There's your answer. Desk can witness it, but they can't move faster than two pairs of legs.\" *He nudges the bag back toward you.* \"We go now, or we lose her again.\"",
+      "timestamp": "2026-05-03T23:48:35.383030",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-643e743a-fd74-40a5-9eb8-cc62a2f53835",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RESPIRATORY WING STAIRWELL]",
+      "timestamp": "2026-05-03T23:48:39.613730",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d75d11aa-2fc7-4542-ad79-5f849f7472a5",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Ask the clerk to call 4 West while you and Len head for Navarro.",
+      "timestamp": "2026-05-03T23:49:43.245531",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2a75384e-1932-444c-99f3-65d06f401a54",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len gives the clerk one sharp nod.* \"Do it now. Tell 4 West we've got the bag and we're heading to respiratory stairwell. Keep the line open if you can.\"\n\n*Then he's moving, boots thudding over waxed floor, not fast enough to panic a hallway but fast enough to part it. The bag knocks lightly against Mara’s leg as the corridor narrows and the hospital smell changes—bleach, stale heat, then the cold mineral draft of the stairwell door when Len shoulders it open.*\n\nInside, voices ricochet off concrete.\n\n\"No, ma'am, listen to me—\"\n\nA woman stands on the landing below, coat half on, hair stuck damply to her face, one hand clamped on the rail hard enough to whiten the knuckles. Eli Navarro is between her and the exit, palms low, careful. And coming up from the lower flight, all polished shoes and suspicion, is Gideon Hale with his flashlight hanging at his side like a verdict.\n\nLen stops dead, sets his shoulders, and cuts through before security can.\n\n\"Found it.\"\n\n*Every head snaps up. The woman’s eyes lock on the blue canvas bag in Mara’s hand, and the sound she makes is small and wrecked and immediate.*",
+      "timestamp": "2026-05-03T23:49:47.447106",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-b222d853-d9a8-4292-abf4-b061aee521d1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RESPIRATORY WING STAIRWELL LANDING]",
+      "timestamp": "2026-05-03T23:49:47.447627",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-63446931-eee7-48ad-8df6-d8181a6bb0ec",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Ask Eli to confirm her identity before the handoff.",
+      "timestamp": "2026-05-03T23:50:43.786028",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9932968f-0ff9-41eb-bc22-1c607962dca6",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len's jaw works once. Approval, maybe. Sensible at the worst possible second.*\n\n\"Navarro,\" he says, clipped and clear, \"name check. Now.\"\n\n*Eli doesn't flinch. He turns to the woman, voice low enough to steady the concrete echo instead of feeding it.*\n\n\"Tell me your son's first name, and what's in the side pocket.\"\n\nThe woman sucks in a shaking breath. \"Mateo. Inhaler spacer, discharge folder, elephant keyring, and—\" *her hand flies to her mouth* \"—and the pharmacy receipt folded around the steroids because I didn't want them getting wet.\"\n\n*Gideon takes one more step up, notebook already half out.* \"That still doesn't establish—\"\n\nLen moves just enough to block his line without making a show of it. Transit jacket against security blazer. Human wall.\n\n\"Clerk called 4 West,\" he says. \"You want to slow this down, you own the delay.\"\n\n*Then the woman's phone buzzes in her coat pocket, shrill in the stairwell. She fumbles it out. The screen lights her face: 4 WEST NURSES' STATION. Eli glances at it, then at Mara, and gives one short nod.*\n\n\"That's her.\"\n\n*The whole knot of the moment tightens into a single, clean point: the bag in Mara's hand, the mother reaching, Gideon watching for one wrong move.*\n\n\"Your handoff, Mara,\" Len says, eyes on the woman, body still barring security by an inch. \"Do it clean, or let Gideon take it upstairs and make a night of it.\"",
+      "timestamp": "2026-05-03T23:50:43.786585",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-5a77083a-f031-4c56-82ce-8ffede63dd60",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RESPIRATORY WING STAIRWELL LANDING OR 4 WEST IF SECURITY TAKES CONTROL.]",
+      "timestamp": "2026-05-03T23:50:49.619317",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6e5ea8f1-78aa-48e3-b67e-6e088e055b6d",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Ask her to answer the phone from 4 West first, then pass it over.",
+      "timestamp": "2026-05-03T23:51:19.521527",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6f82ad9d-6853-474d-8e60-d42b8c9d4a61",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len gives the smallest nod. Good. One more nail in the lid.*\n\n\"Answer it,\" he says to the woman.\n\n*Her thumb skids on the screen before she gets it to her ear. The stairwell holds still around the tinny voice leaking from the speaker—nurse brisk, tired, unmistakably real.*\n\n“Ms. Alvarez? We found Mateo’s discharge bag. Are you with Mr. Navarro?”\n\n“Yes—yes, I’m here, I’m here—”\n\nEli lifts his badge a little. \"Respiratory. I’m with her.\"\n\nThe nurse keeps going, loud enough for all of them. “Good. She’s the mother. Please do not send that through property intake; the child cannot leave without the meds and papers.”\n\n*That lands like a dropped wrench. Even Gideon’s pen stops.*\n\nLen turns his head just enough to look at him. \"There. Hospital instruction. You can write it down after.\"\n\n*Then he shifts aside, opening a clear line between Mara and the woman. No ceremony. No more room for objection.*\n\n\"Go on, Mara.\"\n\n*The woman lowers the phone with a trembling hand and reaches—not grabbing, just open-palmed, desperate to be careful. The path is clean now. If Mara places the strap in her hand, Gideon has nothing left but witness it.*",
+      "timestamp": "2026-05-03T23:51:19.522143",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-9b399ef1-0cbe-4ac2-981b-95e9fd8d968e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RESPIRATORY STAIRWELL LANDING OR 4 WEST IF FOLLOW-UP IS NEEDED.]",
+      "timestamp": "2026-05-03T23:51:19.522721",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cc7ad96d-61e0-4a85-abba-77d8b097d379",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Ask Ms. Alvarez to repeat Mateo’s last name, then complete the handoff.",
+      "timestamp": "2026-05-03T23:51:59.539556",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0437ae7b-e5e1-4e9b-b667-6679b6eae9d4",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len exhales through his nose, half impatience, half respect. Thorough to the last inch.*\n\n\"One more,\" he says, before the strap leaves your hand.\n\n*Ms. Alvarez blinks hard, swallowing around the shake in her throat.*\n\n\"Mateo Alvarez. Mateo Javier Alvarez.\"\n\n*Clean. Immediate. No fishing for it. Eli nods once. Even Gideon doesn’t interrupt this time; he just watches, jaw tight, with nowhere left to wedge procedure.*\n\nLen tips his chin. \"That's enough.\"\n\n*You place the strap into her palm. She closes both hands around it like she's catching something breakable and vital at once. The canvas creaks. For a second she can't speak. Then she presses the bag to her chest, eyes squeezed shut, and lets out one ragged breath that sounds like the first air after being held underwater.*\n\n\"Oh, thank God.\"\n\n*Eli steps aside toward the stairs up, already making room for her path back to 4 West. The shift is immediate: no longer a dispute, now a corridor opening.*\n\nLen finally looks at Gideon. \"Witnessed, confirmed, done.\"\n\n*Gideon flips his notebook shut with a dry snap. No apology. But he steps back down one stair and out of the way.*\n\n\"Go,\" Len says to Ms. Alvarez. \"Get your boy home.\"",
+      "timestamp": "2026-05-03T23:52:04.030407",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-1148df8a-fb66-4c8c-8f60-37b90b5eeaee",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 4 WEST IF MARA WANTS CLOSURE; OTHERWISE THE LANDING CAN SERVE AS THE EMOTIONAL COMEDOWN.]",
+      "timestamp": "2026-05-03T23:52:04.031115",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0cbcc2c7-ecad-49f6-abdb-a186ab763ac3",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Stay on the landing and see what Gideon does now that he’s been boxed out.",
+      "timestamp": "2026-05-03T23:52:54.515234",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-52fdd748-4017-43e2-a621-fa0a8c9c6af1",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len doesn’t move right away. He watches Ms. Alvarez hurry up the stairs, bag clutched tight, hears the slap of her shoes fade toward 4 West. Then he turns, slow and deliberate, to Gideon.*\n\nThe security man stays planted one step below, face set hard enough to crack tile. For a second it looks like he might still push it. Instead, he reaches into his blazer, pulls out his flashlight, and offers it handle-first to Len.\n\n\"For the record,\" Gideon says, voice flat with embarrassment he’d rather eat than show, \"I clocked the bag near the south exit and called it in before I knew what it was tied to. If property asks why it bypassed intake, give them my incident number.\"\n\n*That shifts the air. Not an apology. Better, maybe: ownership.*\n\nLen takes the flashlight, glances at the stickered number, then hands it back. \"There you are. Civilian-level heroism.\"\n\n*Gideon almost bristles, then doesn’t. He scrubs a hand over his mouth and looks at Mara instead of Len.*\n\n\"You did the right thing,\" he says, clipped but clean. \"Most people would've dumped it at a desk and walked.\"\n\n*The stairwell settles around that. Concrete, fluorescent hum, everyone breathing like the building finally remembered how.*\n\nLen hooks a thumb toward the upper flight. \"Your call, Mara. You want to see the landing on 4 West and finish it, or leave it here while it's still simple?\"",
+      "timestamp": "2026-05-03T23:52:54.515953",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-11085cfb-a88a-41a6-9813-faa580ca29c2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 4 WEST OR BACK TOWARD THE TERMINAL, DEPENDING ON MARA'S CHOICE.]",
+      "timestamp": "2026-05-03T23:53:04.594755",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4137f2c7-536d-499f-a4f2-24ac621f5b54",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Follow Ms. Alvarez to 4 West for a final look at Mateo and true closure.",
+      "timestamp": "2026-05-03T23:53:38.493292",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3aaf75b2-fc3d-4d25-b86b-54520aa2cfd9",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len studies you for half a beat, then nods once. Decision made.*\n\n\"All right. Quick.\"\n\n*He takes the stairs first, heavy shoes thudding, Eli already moving ahead with that tired, efficient hospital stride. The air changes on 4 West—warmer, drier, full of sanitizer and the thin electronic chirp of monitors. At the end of the corridor, under flat fluorescent light, Ms. Alvarez is bent over a stroller by the nurses' desk, shoulders shaking with relief.*\n\nYou get the final picture all at once.\n\nA little boy in a dinosaur hoodie, limp with sleep, one curl pasted to his forehead. A plastic hospital band on his wrist. The elephant keyring dangling from the reopened bag exactly where she said it would be. Ms. Alvarez spots you and presses a hand to her mouth, then lifts that same hand in a small, helpless wave like thank you is too small to carry the weight of it.\n\nThe charge nurse looks up from the desk. \"You're the one who brought it?\" *She doesn't wait for an answer before sliding a discharge packet across to Ms. Alvarez.* \"Good. You saved us about three hours.\"\n\nLen leans near enough for only you to hear, voice rough and low. \"There. Not a crowd. Just a kid getting to go home.\"",
+      "timestamp": "2026-05-03T23:53:38.494060",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-9a6b7a92-056c-4cb3-8a23-e4acef6be96f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 4 WEST CORRIDOR, THEN POTENTIALLY BACK TOWARD THE TERMINAL]",
+      "timestamp": "2026-05-03T23:53:38.494529",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fd8c733f-00c6-4fcc-b164-94af98c7d98c",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Step closer and say, \"I'm glad you got it back,\" then let her go",
+      "timestamp": "2026-05-03T23:54:33.514355",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a4f5b332-5264-4e60-bd19-c17c61f95ecb",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len hangs back by the nurses’ desk, giving you the lane.*\n\nYou step in close enough that Ms. Alvarez can hear you without making her choose between you and her son.\n\n\"I'm glad you got it back.\"\n\n*For a second she just stares, eyes red-rimmed and shining. Then she reaches out and catches your wrist, quick and gentle, like she needs one solid thing to hold before the night finally breaks apart.*\n\n“I won’t forget this,” she says. Her voice is wrecked, but steady underneath it. “He gets to sleep in his own bed because of you.”\n\n*She lets go at once and turns back to Mateo. The nurse tucks the papers into the bag, checks the band, and with a practiced click frees the stroller brake. Finished. Real. Ms. Alvarez draws the blanket up under the boy’s chin, gives you one last nod, and heads for the elevators.*\n\nThe doors open almost immediately. Warm yellow light. Empty car.\n\nLen watches them roll inside, then glances toward the corridor windows, where the black glass has started to gray at the edges.\n\n\"All right,\" he says. \"End of the line's coming up. We can head back to the terminal.\"\n\n*A beat, then the reveal lands plain and practical.*\n\n\"Talia texted. She kept the kiosk open. Says there’s bad coffee and a bakery truck unloading across the street if you want first light before we call this done.\"",
+      "timestamp": "2026-05-03T23:54:38.084575",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-765ba0dc-4a6e-43d6-bc31-591c0ca45aee",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - BACK TOWARD THE TERMINAL]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T23:54:38.085178",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-70a2ce5c-04ef-4c27-b264-5fa86f792805",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Go back with Len to the terminal and take the bad coffee.",
+      "timestamp": "2026-05-03T23:55:09.729916",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-aef99e97-57b9-4673-a78e-30820c9cf572",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*The ride back feels different. Same bus, same rattling panels, same stop-request chime cutting through the dark—only now the windows hold a city that’s starting to unblur. Bakery steam ghosts from a side street. A man in orange safety gear lifts a hand to the bus as it pulls past. Someone at the back quietly thanks Eli for nothing in particular when he moves his bag off the seat.*\n\nLen eases the bus into the terminal bay with a hiss of brakes and kills the engine. The sudden silence lands soft.\n\n\"Come on,\" he says. \"Before Talia decides generosity was a character flaw.\"\n\n*Inside, the terminal’s glare has dulled into early-morning fatigue. The kiosk shutter is half up. Talia stands there in her puffer coat, paper cups lined beside the till, expression already pretending she didn’t stay for you. But that isn’t the real shift.*\n\nShe slides one cup over, then another, and taps a folded incident slip against the counter with one black-painted nail.\n\n\"Dispatch called while you were inbound,\" she says. \"Property logged the bag chain clean. Gideon backed your version. And—\" *her mouth twitches* \"—Len, they want you in the supervisor’s office after coffee. Not for trouble. For a commendation.\"\n\nLen snorts, genuinely thrown for once. \"That’s disgusting.\"\n\n*But he takes the coffee.*\n\n\"Your move, Mara,\" he says, warm cup steaming between his hands. \"You want to sit for first light, or walk across for something actually edible before this night turns into tomorrow?\"",
+      "timestamp": "2026-05-03T23:55:09.730642",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-987d7763-79dc-41cd-aa31-38a1aea7b6b0",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - TERMINAL SEATING OR BAKERY TRUCK ACROSS THE STREET]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T23:55:16.640473",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f801cac2-2e9a-4943-94a4-342d8e4d43f6",
+      "speaker": "Mara Ortiz",
+      "role": "user",
+      "character_id": "maraortiz",
+      "content": "Take the bad coffee and sit with Len and Eli to watch first light at the terminal.",
+      "timestamp": "2026-05-03T23:56:20.767653",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b13f2caf-2fa3-4a0e-ae2c-81161b75c1f0",
+      "speaker": "Len Dawes",
+      "role": "assistant",
+      "character_id": "lendawes",
+      "content": "*Len hooks two fingers through the cup lid, jerks his head toward the row of molded plastic seats by the fogged front windows, and leads the way. Eli drops into the far seat with the slow collapse of a man whose spine has filed a complaint. Outside, the terminal glass is pearl-gray now, rain beading on it, the bakery truck across the street breathing warm white steam into the cold.*\n\nLen sits beside you, knees wide, coffee cradled in both hands. He looks out at the first bus of the morning pulling in, lights smeared gold on wet pavement.\n\n\"Here's the part nobody tells you,\" he says. \"Most nights don't get fixed by heroes. They get fixed by five tired strangers doing one decent thing each.\"\n\n*He taps his cup lightly against yours. Cheap lid. Hollow plastic click.*\n\n\"Gideon filing straight. Talia staying late. Eli coming off shift and still bothering. You not walking away.\"\n\nEli huffs a laugh into his coffee. \"Ringing endorsement.\"\n\nLen's mouth twitches. Then he reaches into his jacket pocket and pulls out the folded commendation notice Talia mentioned. He doesn't open it. He holds it out to you instead.\n\n\"Keep that for a second,\" he says. \"Proof, if you need it, that the record got this one right.\"\n\nOutside, dawn finally tips over the roofs. The glass brightens. The city stops looking like one thing and turns back into people.",
+      "timestamp": "2026-05-03T23:56:20.768358",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-c43625d6-41c8-4898-9594-ce5d33c0e0b1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - TERMINAL SEATING, WITH LEN SOON DUE UPSTAIRS IF MARA CHOOSES TO LET THE SCENE END THERE.]\n\n[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T23:56:20.768864",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

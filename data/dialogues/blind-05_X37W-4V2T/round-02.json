@@ -1,0 +1,684 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 3,
+      "story_surprise": 4,
+      "story_engagement": 4,
+      "story_complexity": 3,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T08:17:50.994419"
+  },
+  "dialogue": [
+    {
+      "id": "msg-be159e5f-0014-4ee5-aeda-42b509c904ba",
+      "speaker": "Linda Morrow",
+      "role": "assistant",
+      "character_id": "lindamorrow",
+      "content": "Casey! Oh, honey, I saw you pull in—why didn't you come straight inside? I'm your mother, Linda Morrow, and I've been waiting by that window like a teenager. Here, let me look at you. You look thin. Have you been eating? The pot roast has been ready for an hour, I was worried you'd gotten lost or—well, come in, come in, it's freezing out here.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-803df80d-c114-4a0d-87ed-fd3a996a53be",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "I'm fine, Mom. Just—had a call I needed to finish. Work stuff. You know.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-72c785c9-a8a6-436e-8012-ff3945dbb5f3",
+      "speaker": "Linda Morrow",
+      "role": "assistant",
+      "character_id": "lindamorrow",
+      "content": "Work stuff. That's—that's good! That's wonderful, sweetheart. Your father will be so relieved to hear—well, he's in the dining room. Ryan's on his way, he texted that he's bringing Emily, which is lovely, we haven't seen her in weeks. Go on in, I'm just going to check on the rolls. Don't mind the clock, it's been doing that thing again where it chimes fourteen minutes early, I keep telling your father to fix it but you know how he is about that old thing.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7a954ce7-cbad-4177-ab19-9ebd3336934c",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Mom, I didn't say—I didn't mean—",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bebea364-1152-4404-ad9a-c20a66b29fe1",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "You're late. I'm your father, Frank, in case you forgot what I look like after—well. Your mother made pot roast. The good kind, with the vegetables. She only does that when she's worried about someone.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-776d5bf4-6e5c-4d34-bc87-ef989aa090b2",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Traffic was bad coming from—the area. I had to stop for gas. The rental needed—",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-de1a9dbd-4671-4297-934c-2523fe306943",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Sit. Your mother will bring your plate. Ryan's coming, so try to—we'll have a nice dinner. A normal dinner. That's all anyone wants.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2c22f167-9086-4e3c-85e7-a8e6436ba3db",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Notice the job application beside your father's plate, and ask him directly about it",
+      "timestamp": "2026-05-03T16:01:57.588469",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fe36939c-d2b1-44db-9a61-fe90383af967",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*From the kitchen, Linda's voice carries, too bright: \"Ryan just texted—he's pulling into the driveway! Emily's with him. Isn't that nice? Everyone's here now.\"*\n\n*The grandfather clock in the hallway ticks its slow rhythm. You've heard it your entire life—thousands of dinners, thousands of silences. Right now it sounds like a countdown.*\n\n*Frank picks up his fork, examines the tines, sets it down again. His jaw works like he's chewing words he's decided not to say. When he finally speaks, his voice is low, meant only for you.*\n\n\"Your sister finished her residency in June. Your brother's getting married in the spring.\" *He still won't look at you directly.* \"I'm not asking for details. I'm not asking for explanations. I'm asking if we need to—\"\n\n*He stops. Swallows. The napkin has shifted slightly, and you can see the red circle again. The job title: **",
+      "timestamp": "2026-05-03T16:01:57.589005",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d3dfc160-d63e-4b2a-891e-973e964aa89d",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "The dining room feels smaller than you remember. Same wallpaper border—geometric, dated, the color of dried mustard. Same scuffed hardwood under the worn area rug. Your father's already seated at the head of the table, reading glasses perched on his nose as he pretends to examine something on his phone. He doesn't look up when you enter.*",
+      "timestamp": "2026-05-03T16:03:12.118431",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b850e07d-4e43-4161-92e6-ac03066d4551",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*Frank's thumb slides over the paper edge beside his plate—a tell you recognize from childhood, the way he used to cover his cards during penny poker games. The movement draws your eye inevitably downward.*\n\n*There it is. A printout, corners softened from handling. The header reads **CLEVELAND METRO TRANSIT AUTHORITY**, and beneath it, circled in the same red ink that grades your failures: **Administrative Coordinator — Facilities Department**.*\n\n*Not the corporate job you left. Not anything in your field. A step sideways into nothing.*\n\n*Frank finally meets your eyes. His expression is stone, but his fingers press harder against the paper.*\n\n\"Found it in your old room. The one above the garage.\" *His voice is flat.* \"You left it on your desk. Face up, like you wanted someone to see it.\"\n\n*The front door bangs open. Ryan's voice booms through the house: \"Honey, I'm home! Where's my favorite sibling who isn't getting married?\"*\n\n*Frank's hand twitches toward the napkin.*",
+      "timestamp": "2026-05-03T16:03:16.886221",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4fd1b026-8eab-4485-97cf-5681cae6e19b",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Say nothing. Let Ryan's arrival bury the moment. Accept the reprieve.",
+      "timestamp": "2026-05-03T16:03:33.583265",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-37166c36-73e0-4eb2-8518-8133b1797989",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*Frank's hand flattens over the napkin as Ryan rounds the corner, all easy smiles and a bottle of wine thrust forward like a trophy. Emily trails behind, offering apologetic eyes to no one in particular.*\n\n\"Hey! The whole crew!\" *Ryan drops into his chair with the kinetic confidence of someone who's never measured his worth against the ticking of a clock.* \"Casey, you look—wow, okay, you're doing the blazer thing. Big meeting coming up?\"\n\n*Frank's gaze stays fixed on his plate. The application vanishes beneath the napkin, but the shape of it remains—a shadow under thin cotton, impossible to ignore.*\n\n*Ryan doesn't wait for an answer. He never does.*\n\n\"Em was just saying we should do a cousins' trip before the wedding. Get everyone together, blow off steam.\" *He's already pouring wine, the glug-glug-glug loud against the clock's rhythm.* \"You could use a break, right? You've been... you know. *Looking.*\"\n\n*Linda bustles in with the pot roast, and for one suspended moment, the table looks exactly as it should: full, warm, normal.*\n\n*But Frank hasn't touched his food. And the napkin sits slightly crooked over a secret you both know is there.*",
+      "timestamp": "2026-05-03T16:03:38.018468",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8f0979db-f38e-40f4-9cd2-a48a8477ba16",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Reach for the napkin. Pull the application into the light before Frank can stop you. Force the conversation Ryan's arrival tried to bury.",
+      "timestamp": "2026-05-03T16:04:22.996655",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3378a301-d681-4c38-bc53-0c05d11fe847",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *Your hand moves before you've decided to let it. Fingers closing on the napkin's edge, pulling—*\n\n*Frank's fork clatters down. The sound cuts through Ryan's monologue about wedding venues, through Linda's \"Everyone eat, eat, the roast will get cold,\" through the pretense that held this table together.*\n\n*The paper lands between the salt shaker and Ryan's wine glass. CLEVELAND METRO TRANSIT AUTHORITY. The red circle bleeds slightly where Frank's thumb pressed too hard.*\n\n*Ryan stops mid-sentence. Emily's hand finds his forearm. Linda's smile fractures into something fragile and confused.*\n\n\"What—\" *Ryan picks up the application before anyone can stop him, squinting at the job title like it's written in a foreign language.* \"Admin Coordinator? Case, I thought you were—didn't you used to manage, like, actual people?\"\n\n*The grandfather clock chimes the quarter-hour. Six resonant tones that fill the silence nobody knows how to fill.*\n\n*Frank's voice comes out flat and tired:* \"I found it in their room. Face up. Thought maybe we should talk about it like a family.\"\n\n*He says \"family\" like it's a shield. Like it's a weapon.*\n\n*Ryan's looking at you now. Really looking. The wedding talk, the cousin trip, the careful avoidance—all of it drained from his face.*\n\n\"Case. How long have you been unemployed?\"\n\n- Answer truthfully. Tell them about the layoff, the months of searching, the step-down you're willing to take just to have something again.\n- Deflect. Say it's a backup option, a \"keeping options open\" move. Lie to protect the fiction of your competence.\n- Turn it back on Frank. He found it, he hid it, he decided to play patriarch instead of asking you directly. Make him explain why.",
+      "timestamp": "2026-05-03T16:04:22.997736",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7ef889a5-728f-4b32-b3f3-e4944865e7c4",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Answer truthfully. Tell them about the layoff, the months of searching, the step-down you're willing to take just to have something again.",
+      "timestamp": "2026-05-03T16:05:35.207136",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-42864cd2-0c78-4f8a-9a91-8a78cd6a2281",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:05:35.207703",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-16190315-086e-4c3b-8d9c-cf4048e0e006",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*The words sit in your throat, sharp fragments of a truth you have swallowed for five months.*\n\n\"Since April.\"\n\n*Ryan's brow furrows.* \"April? Case, that's—you've been—Mom, did you know about this?\"\n\n*Linda's hands flutter to her napkin, pressing it against her lap.* \"I thought you were—that last interview you mentioned, the one in Columbus—\"\n\n\"Didn't happen.\" *You force the words out steadily.* \"They went internal. The layoff was in March. I've been applying to anything that—\"\n\n\"Anything.\" *Frank's voice cuts clean.* \"You spent four years building a career, and now you're applying to manage bus schedules.\"\n\n*Heat rises behind your eyes.* \"It's a job, Dad. It pays.\"\n\n\"It pays *less*.\" *He turns toward you, finally, fully—the disappointed geometry of his face unmistakable.* \"You worked yourself into a position. People respected you. And you're willing to just—\" *He gestures vaguely, his hand trembling slightly.* \"Throw it away?\"\n\n\"I didn't *throw* anything away.\" *Your voice cracks on the last word. Six months of silence, of careful omissions, of rehearsed I'm fine, just busy—*\n\n*The grandfather clock ticks.*\n\n*Linda whispers:* \"Frank, please—\"\n\n\"No.\" *He jabs a finger toward the application.* \"I want to hear it. I want to hear why my child is sitting in my house, accepting *this*, and pretending it's a plan.\"\n\n*Ryan whistles low.* \"Whoa. Okay. Maybe we should just—\"",
+      "timestamp": "2026-05-03T16:05:35.207936",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1e96c9ff-2294-4aff-915c-41075c16de9c",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "\"Because I'm *tired*, Dad. I'm exhausted. And not one of you noticed—or maybe none of you *wanted* to notice.\"",
+      "timestamp": "2026-05-03T16:06:50.253834",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8718ec98-6e95-4d6d-b274-32e98ab4edd6",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:06:54.992401",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e6029a42-dde2-4d3a-9cd9-a07c88232ac8",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*The words land like a slap. Frank's mouth opens, closes. For the first time tonight, the certainty drains from his face.*\n\n\"I—\"\n\n*Linda makes a small, wounded sound. Her napkin twists between her fingers, a cloth noose.* \"We noticed. Casey, we *noticed*. You think I didn't see the bags under your eyes every Sunday? The way you changed the subject anytime someone asked about work?\" *Her voice cracks higher.* \"I just didn't know how to—what was I supposed to *say*?\"\n\n\"Mom.\" *Ryan's voice is strange, stripped of its usual performance.* \"You knew?\"\n\n\"I knew *something*.\" *She won't meet anyone's eyes now.* \"A mother knows. But you kept smiling and saying everything was fine, and I thought—if I pushed, you'd pull away. You'd stop coming.\"\n\n*Frank's hands have gone still against the tablecloth. The fight drains out of his posture, leaving something older and more uncertain behind.*\n\n\"You could have told us.\" *His voice is rough.* \"You didn't have to—this isn't charity. You're our *kid*.\"\n\n*The grandfather clock chimes the half-hour. Six strokes that seem to hang in the air, vibrating against your sternum.*\n\n*Emily, silent this whole time, reaches across the table. Her fingers brush your wrist—gentle, asking nothing.*\n\n\"So what happens now?\" *Ryan asks quietly.* \"The interview—is that real? Do you actually want this job?\"",
+      "timestamp": "2026-05-03T16:06:54.992686",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1f2605ba-e3ca-4f1f-ab02-b58a71d32fd0",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Admit the truth: you don't want the job, you just need one. The dream is survival now, not ambition.",
+      "timestamp": "2026-05-03T16:07:23.072310",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b04a3479-24b0-4f47-beb9-62e3be12dd54",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:07:28.349979",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4ec6f702-1338-4e2d-bc11-33c274e74d77",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *The admission scrapes out of you like rust.*\n\n\"No. I don't want it.\" *You stare at the application, its circled job title blurred slightly where Frank's thumb pressed.* \"I want to feel useful again. I want to stop checking my bank account before I buy groceries. I want—\" *Your voice catches.* \"I want to not be a disappointment every time I walk through that door.\"\n\n*Silence. The clock ticks through it.*\n\n*Frank's jaw works. He picks up his fork, sets it down again. When he finally speaks, his voice is strange—thinner than you've ever heard it.*\n\n\"Disappointment.\" *He repeats the word like he's testing its weight.* \"You think I'm disappointed because you lost a job?\"\n\n\"Because I keep *failing*—\"\n\n\"You're not failing.\" *The words come out harsh, almost angry.* \"You're *struggling*. There's a difference.\" *He pushes back from the table, chair legs scraping hardwood.* \"I watched you work yourself sick for four years at that company. Missed holidays. Skipped sleep. And when they let you go—what, you thought you'd disappointed *me*?\"\n\n*Linda's hand finds his arm. He doesn't shake it off.*\n\n\"The interview's in six days,\" *Ryan says softly.* \"What do you actually want, Case? Not what you're settling for. What do you *want*?\"\n\n*The question hangs in the amber light. Outside, a car passes. Inside, everyone waits.*",
+      "timestamp": "2026-05-03T16:07:28.350242",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-003ed228-900d-48e7-85fc-b733747610f8",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: *The admission scrapes out of you like rust.*",
+      "timestamp": "2026-05-03T16:08:18.801449",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-816b0429-9d62-479e-a371-3fc2145d596b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:08:18.802120",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e1fb2015-9c7a-402a-a2f8-c8d5867643e8",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *Frank rises from his chair. The legs scrape against hardwood—loud, deliberate. He moves to the window, his back to the table, one hand braced against the frame.*\n\n*No one speaks. The clock fills the gap.*\n\n*When he turns, his face has shifted. Something has cracked open behind his eyes—not soft, never soft, but raw in a way you haven't seen since his own father's funeral.*\n\n\"I spent thirty-eight years at that mill.\" *His voice is low, measured.* \"Thirty-eight years breathing in steel dust, coming home too tired to play catch, watching your mother fall asleep waiting for me to remember I was supposed to be *present*.\" *He swallows.* \"You know what I wanted? I wanted to build things. I wanted to work with my hands, create something that lasted.\"\n\n*Linda's breath catches.*\n\n\"I wanted it so bad I could taste it.\" *He looks at you directly now.* \"And I never once tried. Not once. Because it didn't pay enough. Because it wasn't *practical*.\" *His hand gestures at the dining room—the curio cabinet, the photos, the life he built by choosing safety.* \"So when I see you applying to something that makes you *smaller*—\"\n\n*His voice breaks. He clears his throat.*\n\n\"I'm not disappointed in you, kid. I'm terrified I taught you to do what I did.\"\n\n*Ryan's wine glass sits forgotten, his face pale.*",
+      "timestamp": "2026-05-03T16:08:18.802344",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9e901d01-575a-4ad5-8404-1d27732de62a",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: *Frank rises from his chair. The legs scrape against hardwood—loud, deliberate. He moves to the window, his back to the table, one hand braced against the frame.*",
+      "timestamp": "2026-05-03T16:09:48.854455",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-744cbc65-cfc5-4271-a53d-f39c69b48f97",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:09:53.826722",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7833af48-36e3-49c7-aa14-a1faa1c7cb5b",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *The dining room holds its breath. Linda's hand covers her mouth. Ryan stares at his father like he's seeing a stranger.*\n\n*Frank crosses back to the table slowly. He picks up the job listing—the one Linda bookmarked, the one nobody mentioned—and folds it once, twice, three times. The paper crinkles loud against the ticking.*\n\n\"Six days.\" *He sets the folded square in front of you.* \"That's how long you have.\"\n\n*Determination hardens his jaw, the same look he wore when he taught you to drive, to check your oil, to shake hands firm.*\n\n\"You want to survive? Fine. Take the interview. Get the offer. Have a backup.\" *His finger taps the folded paper.* \"But you're not done. You hear me? This isn't the end of the story—it's a chapter. You take what you need, and then you build what you *want*.\"\n\n*Linda makes a soft sound—relief, maybe grief, maybe both.*\n\n*Ryan leans forward.* \"What do you actually want to build, Case? If money wasn't—if you could just... start?\"\n\n*The question lands different now. Lighter. The grandfather clock ticks, but it sounds less like a countdown and more like a pulse.*\n\n*Outside, the last of the golden light fades. The streetlights flicker on.*\n\n*Something in the room has shifted. Not fixed—shifted.*\n\n*The floor is open.*",
+      "timestamp": "2026-05-03T16:09:53.826992",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-786bd52c-1d54-4b15-b94d-1c7050871067",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: *The dining room holds its breath. Linda's hand covers her mouth. Ryan stares at his father like he's seeing a stranger.*",
+      "timestamp": "2026-05-03T16:10:35.825202",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-1fbce6ac-6bd4-4a64-b5aa-eb00f7865741",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:10:35.825884",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f9d1d798-92df-4404-955a-cb282cf8a0d2",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*The question settles into your chest like something with weight. What do you want to build?*\n\n*You think of the room above the garage. The half-finished canvases, the sketches you stopped showing anyone, the notebook where you used to design things that didn't exist yet. Before \"practical\" became the only word that mattered.*\n\n\"I used to draw.\" *The words come slowly, like they've been locked somewhere dark.* \"I used to design things. Furniture. Spaces. I wanted to—\"\n\n*You stop. The admission feels too large for the room.*\n\n*Linda leans forward, her eyes wet.* \"You still have those sketchbooks. In the closet upstairs. I couldn't throw them away.\"\n\n*Frank's hand finds your shoulder. Heavy. Warm. He doesn't say anything—he doesn't have to.*\n\n*Ryan grabs the wine bottle, pours a splash into your glass even though you haven't touched it.* \"So maybe that's the thing. Maybe the job buys you time to figure out how to make the other thing real.\"\n\n*Emily smiles for the first time tonight.* \"My brother went back to school at thirty-four. It wasn't too late for him.\"\n\n*The grandfather clock ticks—steady, patient. Not counting down anymore. Just marking the space where something new might begin.*\n\n*The pot roast has gone cold. No one seems to care.*",
+      "timestamp": "2026-05-03T16:10:35.826123",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4540ec46-eb89-49e4-83d7-3aaba6976dcc",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Take the folded job listing, put it in your pocket, and commit to the interview as a stepping stone—not a surrender",
+      "timestamp": "2026-05-03T16:10:54.751672",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3dd355d7-0ee3-4439-9826-7e661e9c3a81",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:10:54.752366",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0735695a-b0e3-4586-a6fb-cfb5bb5b6a35",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *You pick up the folded square. The paper is soft from Frank's handling, edges worn. You slip it into your blazer pocket—deliberate, like sealing a contract with yourself.*\n\n\"Okay.\" *Your voice comes out steadier than expected.* \"I'll take the interview. But I'm not stopping there.\"\n\n*Linda exhales—a sound she's been holding for months, maybe years.*\n\n*Frank's hand squeezes your shoulder once, then releases. He nods. That's all. That's everything.*\n\n\"Good.\" *He clears his throat, looks away.* \"Now someone pass the potatoes before they get any colder. This is still Sunday dinner.\"\n\n*Ryan snorts, but he's already reaching for the dish. The tension in the room doesn't dissolve—it transforms. Becomes something breathable.*\n\n*You feel the weight of the paper against your chest. Six days. One interview. A bridge.*\n\n*And upstairs, in a closet you haven't opened in two years, a stack of sketchbooks waits.*\n\n*The grandfather clock chimes the quarter-hour—seven ringing tones that fill the house. When they fade, Emily lifts her wine glass.*\n\n\"To whatever comes next,\" *she says.*\n\n*Frank raises his water glass. Linda reaches for your hand across the tablecloth. Ryan clinks too hard against everyone's rims.*\n\n*Outside, the night has fully arrived. The porch light burns steady—has burned steady since you were a child.*\n\n*Tomorrow, you'll take out the sketchbooks. Tonight, you eat with your family.*",
+      "timestamp": "2026-05-03T16:10:54.752608",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0f4a91d5-2d3e-4586-b3db-088f17b66dff",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: *You pick up the folded square. The paper is soft from Frank's handling, edges worn. You slip it into your blazer pocket—deliberate, like sealing a contract with yourself.*",
+      "timestamp": "2026-05-03T16:11:36.681970",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-d517db3d-36fb-4189-9ad1-6b95c6adf9dd",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:11:47.868507",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-64315e85-20ec-43a0-9f00-fcab4f3f6cdb",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "*Frank watches you pocket the paper. Something in his shoulders loosens—the kind of release that only comes after years of carrying weight he never named.*\n\n*He sits back down, pulls his chair in. The gesture is ordinary, domestic. It makes everything that just happened feel both monumental and matter-of-fact.*\n\n\"Potatoes,\" *he repeats, tapping the table.* \"Your mother made them. Someone should eat them.\"\n\n*Linda laughs—a small, watery sound—and passes the dish. Her hands tremble slightly.*\n\n*Ryan piles food onto his plate like nothing happened, but he keeps glancing at your father. Reassessing.*\n\n*The pot roast is cold now. You eat it anyway. It tastes like every Sunday dinner you've ever had here—familiar, heavy, mineable. But underneath, something new: the flavor of permission.*\n\n*Frank catches your eye across the table. He nods once.*\n\n*Not forgiveness. Not absolution. Recognition.*\n\n*The clock ticks. The furnace rattles. Outside, wind stirs the last leaves on the maple.*\n\n*In six days, you'll walk into an interview. In six days and one hour, you'll start drawing again.*\n\n*That's the plan now. That's the promise.*\n\n*The meal continues. The night deepens. And somewhere upstairs, a closet door feels a little less like a wall.*",
+      "timestamp": "2026-05-03T16:11:47.868815",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0bec0f3b-094d-4359-8fab-3860d059e8e5",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Excuse yourself early, go upstairs, and open the closet tonight",
+      "timestamp": "2026-05-03T16:12:19.847816",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-23bef4c4-3dc1-459a-9fc2-5e5199e8974c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:12:19.848475",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c9626e17-ad0f-4e69-9d3c-05ca66096ae1",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *You push back from the table. The chair legs scrape—everyone looks up.*\n\n\"I need to check something.\" *Your voice sounds strange in the quiet.* \"Upstairs.\"\n\n*Linda's fork pauses halfway to her mouth. Frank's eyebrows lift, but he doesn't protest. Ryan starts to say something, but Emily touches his arm.*\n\n*The stairs creak under your weight—third step still groans, the one you learned to skip as a teenager. The hallway is darker than you remember, lit only by the nightlight Mom installed after Dad started getting up at odd hours.*\n\n*The closet door is in the guest room. Same white paint, same brass handle. You turn it. The hinges don't squeak—they've been oiled recently.*\n\n*Mom. She's been maintaining it.*\n\n*Inside: a cardboard box, duct-taped at the corners. You pull it onto the bed, tear open the flaps.*\n\n*Sketchbooks. Six of them, spines cracked from use. Pencils in a ziplock bag, tips still sharpened. A charcoal stick wrapped in wax paper.*\n\n*You open the top sketchbook. The first page is a chair—curved legs, woven seat, something between Art Deco and mid-century. You drew it five years ago. The lines are confident. Bold.*\n\n*Your throat tightens.*\n\n*Downstairs, the grandfather clock chimes the half-hour. The sound carries through the floorboards, through your chest.*\n\n*You pick up a pencil. The weight is wrong at first—too light, too familiar.*\n\n*Then your hand remembers.*",
+      "timestamp": "2026-05-03T16:12:19.848741",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-17c6b21b-40cc-443f-a7bd-1d8a1c53988c",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "\"I need to check something.\" *Your voice sounds strange in the quiet.* \"Upstairs.\"",
+      "timestamp": "2026-05-03T16:12:57.632145",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-28196992-916d-435e-814b-0e8ae3d2c81f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:12:57.632815",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d1b54ef8-8701-467f-9f0d-207977c44c9f",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *Linda sets down her fork. Her eyes follow you—worried, but not surprised. Like she's been waiting for this.*\n\n*Frank starts to rise, then settles back. His jaw works once, twice. He nods.*\n\n\"Take your time,\" *he says. Rough. Quiet.*\n\n*Ryan opens his mouth, closes it. Emily squeezices his hand under the table.*\n\n*You walk away from the half-eaten pot roast, the cold potatoes, the family that doesn't know how to follow you where you're going. The dining room light spills into the hallway—then falls away as you climb.*\n\n*Third step creaks. Fourteenth step creaks. The familiar path.*\n\n*The guest room door is closed. You open it.*\n\n*Moonlight cuts through the blinds in pale stripes. The closet door waits at the far wall—white paint, brass handle. Smaller than you remember.*\n\n*Or maybe you're just bigger now.*\n\n*Your hand finds the handle. Turns.*\n\n*The hinges don't squeak. Oiled. Recent.*\n\n*Inside: the box. Duct-taped corners. Waiting.*\n\n*You pull it onto the bed. Tear open the flaps.*\n\n*Sketchbooks. Six. Spines cracked, pages soft with age and use. The smell hits you—graphite, paper, something faintly floral from the sachet Mom must have tucked inside.*\n\n*You lift the first one. Open to a random page.*\n\n*A lamp design. Organic curves, balanced proportions. Notes in the margin about materials, cost, sustainability.*\n\n*You drew this. You drew this and you believed in it.*\n\n*Your eyes burn.*",
+      "timestamp": "2026-05-03T16:12:57.633053",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ab5a4600-030c-4a0e-9714-91b5ddffe80e",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: *Linda sets down her fork. Her eyes follow you—worried, but not surprised. Like she's been waiting for this.*",
+      "timestamp": "2026-05-03T16:13:32.172612",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-defb8b90-1c5d-446a-b558-7e92f6eebc96",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:13:36.469768",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e700a376-ba66-4570-90a7-7de40f47da3f",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *Frank's gaze stays on his plate. His fork moves potatoes into a small pile, then levels it flat. Construction. Demolition. The same motion, over and over.*\n\n*Ryan clears his throat.* \"Everything okay?\"\n\n*Emily's hand tightens on his arm. Linda shoots him a look that could frost glass.*\n\n*The grandfather clock ticks. Four seconds. Five.*\n\n\"Casey's fine.\" *Frank's voice is flat, final. He still doesn't look up.* \"Let them go.\"\n\n*You stand at the edge of the dining room—half in light, half in shadow. The job listing presses against your chest. The knowledge of what waits upstairs presses against the back of your skull.*\n\n*No one stops you. No one asks more questions.*\n\n*Linda mouths something as you turn: a small, silent* \"It's okay.\"\n\n*You climb.*\n\n*The guest room is exactly as you left it two years ago—the twin bed with its navy spread, the dresser with a doily you hate, the window overlooking the driveway where your rented car sits crooked in the glow of the porch light.*\n\n*The closet door waits.*\n\n*You cross the room. Your hand finds the handle.*\n\n*The box is there. You already knew it would be.*\n\n*You pull it out. Open it.*\n\n*The first sketchbook falls open to a self-portrait. Half-finished. Eyes only roughly blocked in—like you couldn't bear to look at yourself long enough to finish.*\n\n*The pencil is in your hand before you decide to pick it up.*",
+      "timestamp": "2026-05-03T16:13:36.470085",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-47aacbd8-f67f-49da-8d24-d810634ca43e",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Ryan clears his throat.* \"Everything okay?\"",
+      "timestamp": "2026-05-03T16:14:27.018435",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-5dbf2bab-70e4-44cd-b62c-0f3698016dde",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The driveway of 447 Maple Street, in a quiet Ohio suburb. The Morrow family home: a 1970s colonial with white siding, black shutters, and a front porch light that's been burning since Casey was a child. A rented Nissan Sentra sits parked askew, engine off, keys in hand. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:14:27.019078",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-52e9953c-a9e4-4629-a2e5-0fb8a74849eb",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: *Emily's fingers press warning into Ryan's forearm. His mouth stays open for a second—confused, searching—then closes.*\n\n*Linda's smile doesn't waver, but her knuckles go white around her water glass.*\n\n*Frank sets down his fork. The clink is loud.*\n\n\"Casey's excusing themselves from the table.\" *No question in it. No room for discussion.* \"Pot roast's getting cold. Eat.\"\n\n*Ryan looks around—Dad's stone face, Mom's rigid cheerfulness, Emily's subtle head-shake. He's bright enough to read the room, even if he doesn't understand the text.*\n\n\"Right. Yeah.\" *He pokes at his food.* \"My bad.\"\n\n*You don't wait for permission twice. Your legs carry you toward the hallway, toward the stairs, toward the thing you've been avoiding since you got in the car six hours ago.*\n\n*The grandfather clock ticks behind you. Measuring. Patient.*\n\n*Your hand trails along the wall as you climb—the wallpaper border with its faded ivy pattern, the family photos watching from their frames. Your sister's medical school graduation. Your brother's engagement. Your own acceptance letter, crooked in its frame, gathering dust.*\n\n*The guest room door is closed. Your fingers find the handle.*\n\n*You step inside. Moonlight. Silence. The closet.*\n\n*The box.*\n\n*You open it.*\n\n*And there, on top of the sketchbooks, is a single sheet of paper you don't recognize—a flyer for a gallery opening in Columbus. Three months ago. Circled in red.*\n\n*Mom's handwriting in the margin: \"In case you change your mind.\"*",
+      "timestamp": "2026-05-03T16:14:27.019332",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7cb043ac-a9a6-4239-8461-9532fe048ff1",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: *Emily's fingers press warning into Ryan's forearm. His mouth stays open for a second—confused, searching—then closes.*",
+      "timestamp": "2026-05-03T16:14:56.832546",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a5a33e95-6c55-46aa-a648-e68e9b0b7ade",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: Frank Morrow: *Linda reaches for her water glass, takes a measured sip. Her hand doesn't shake, but you notice the effort it costs her.*\n\n*Frank's attention returns to his plate. Methodical. Cutting a piece of meat with the precision of a man who's made a career of controlling what he can.*\n\n*The grandfather clock fills the silence. Tick. Tock. Tick.*\n\n*You take a breath. Then another.*\n\n\"Excuse me.\"\n\n*You don't look back as you cross toward the hallway. The dining room light shrinks behind you—warmth replaced by the cool shadows of the stairwell.*\n\n*Your hand finds the banister. Familiar grooves worn into the wood by decades of Morrow hands climbing, descending, escaping.*\n\n*The guest room is at the end of the hall. Past the bathroom with its Reader's Digest stack. Past the crooked family photos. Past your sister's old room, now a sewing space Mom never uses.*\n\n*The door opens without sound.*\n\n*Moonlight. The bed with its navy spread. The closet.*\n\n*You cross the room in four steps. Your fingers close around the handle—brass, cold, recently oiled.*\n\n*The hinges don't squeak.*\n\n*The box sits exactly where you left it two years ago. But the dust is gone. The tape has been replaced.*\n\n*Mom's been in here. Mom's been keeping this ready.*\n\n*You pull it open.*\n\n*Sketchbooks. Pencils. Charcoal. And beneath them all—a mirror you don't remember packing, its surface spotted with age, reflecting your face in fragments.*\n\n*Your hand finds a pencil.*\n\n*The mirror waits.*\n\n- Sit down and begin the self-portrait—finish what you started years ago\n- Flip past the mirror, open a sketchbook, draw something safer first\n- Close the box. You're not ready. Walk away.",
+      "timestamp": "2026-05-03T16:15:01.870655",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-92c6a0bb-0fd0-4972-9723-9021c694202c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - GUEST ROOM—MIRROR AND PENCIL IN HAND]",
+      "timestamp": "2026-05-03T16:15:01.871444",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11d254b6-ec15-4461-837f-d0eddc7feedb",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Sit down and begin the self-portrait—finish what you started years ago",
+      "timestamp": "2026-05-03T16:16:10.625143",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-897f45ac-2feb-46d4-9d0d-4daf9f1367ab",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Guest room—mirror and pencil in hand tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:16:14.995926",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-06590d92-c9b7-4fc6-818a-d4da3e3027f7",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: *The bed creaks as you sit. The sketchbook balances on your knee—precarious, trembling slightly.*\n\n*You look at the half-finished face. The eyes that aren't there.*\n\n*Then you look at the mirror.*\n\n*Fragmented. Spotted. Honest in a way glass shouldn't be. You see yourself in pieces—forehead here, chin there, the curve of your cheek scattered across age spots like islands in fog.*\n\n*Your pencil touches paper.*\n\n*The first line is wrong. You erase it. The second line is worse.*\n\n*The third line—*\n\n*The third line catches something. The slope of your nose. The way your father's jaw has started to emerge in your own face, years you didn't notice accumulating while you weren't looking.*\n\n*You draw. You erase. You draw again.*\n\n*The house settles around you. Pipes groan. The furnace kicks on downstairs—that familiar rattling hum, the sound of winter coming to Ohio.*\n\n*You don't stop.*\n\n*An eye takes shape. Then the other. They look tired. They look like yours.*\n\n*Somewhere below, the grandfather clock chimes the quarter-hour. Nine notes. Patient. Unhurried.*\n\n*Your hand keeps moving—shading the hollows, capturing the thing you've been avoiding: the face of someone who left a dream behind and hasn't figured out how to build a new one.*\n\n*The pencil dulls. You switch to charcoal.*\n\n*And slowly—painfully—the face on the page becomes someone you recognize.*\n\n*Someone you might forgive.*\n\n*The door opens behind you.*\n\n*You don't turn.* \"I'm not done yet.\"\n\n\"I know.\" *Frank's voice, low from the doorway.* \"Just checking.\"\n\n*He doesn't leave. He doesn't come closer. He just... stands there. Watching you work.*\n\n*The charcoal smudges beneath your thumb.*\n\n\"Okay,\" *you say.* \"Okay.\"\n\n*You keep drawing.*\n\n- Ask Frank to stay—let him see what you're making\n- Tell him you need more time alone\n- Hand him the sketchbook—show him who you used to be",
+      "timestamp": "2026-05-03T16:16:14.996293",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-e19bdb7b-5189-4fe8-8711-c5fb48cf593f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T16:16:14.997840",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b56ee967-2ce5-4be9-bcad-c5d4062d7895",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: *The bed creaks as you sit. The sketchbook balances on your knee—precarious, trembling slightly.*",
+      "timestamp": "2026-05-03T16:16:24.959522",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-0d2eaa31-b6f6-4913-baa3-8f7515089aeb",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Guest room—mirror and pencil in hand tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:16:24.960485",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-46be79a5-5de4-43d0-9968-2f38016dc258",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: *You keep your eyes on the page. The charcoal drags across paper—your mother's cheekbones, your father's jaw, the exhaustion you've earned.*\n\n*Frank shifts his weight. Floorboards creak.*\n\n\"You eat?\"\n\n\"Not hungry.\"\n\n\"Your mother'll send up a plate.\"\n\n\"Tell her not to.\"\n\n*Silence. The clock downstairs ticks through it.*\n\n*He clears his throat.* \"Ryan didn't mean anything by it. He just—\"\n\n\"I know what Ryan meant.\" *Your hand pauses.* \"He meant well. He always means well.\"\n\n*Another creak. Frank leaning against the doorframe now, arms folded.*\n\n*You draw the hollow beneath your cheekbone. The charcoal smudges gray across your knuckles.*\n\n\"She's been keeping that box dusted,\" *Frank says quietly.* \"Once a month. Wouldn't let me touch it.\"\n\n*Your throat tightens.*\n\n\"The gallery thing. In Columbus.\" *He pauses.* \"She drove down there. Didn't tell you. Just... went. Came back and said it was 'nice.'\"\n\n*The charcoal stills in your hand.*\n\n\"You could've gone.\"\n\n\"I couldn't.\" *You look up at him then—at this man who shows love through oil changes and silence.* \"I wasn't ready to see what I'd left behind.\"\n\n*Frank meets your gaze. His jaw tightens.*\n\n\"Now?\"\n\n*You look down at the self-portrait. The eyes you finally finished.*\n\n\"Now I'm looking at it.\"\n\n- Ask him to sit down—let him really see the drawing\n- Tell him about the interview—the real one, the one that matters\n- Ask if he ever wanted something different for himself",
+      "timestamp": "2026-05-03T16:16:24.960795",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-c9bfa2db-b6a3-432a-98bb-49ffb76f7992",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T16:16:32.116401",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bd8f0ec7-f16c-4f42-9ea7-8cc43b13a48a",
+      "speaker": "Casey Morrow",
+      "role": "user",
+      "character_id": "caseymorrow",
+      "content": "Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: *You keep your eyes on the page. The charcoal drags across paper—your mother's cheekbones, your father's jaw, the exhaustion you've earned.*",
+      "timestamp": "2026-05-03T16:17:07.860512",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f717f93b-cb2c-49fb-b71e-434a8e381c2e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Guest room—mirror and pencil in hand tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:17:07.861339",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-13e36999-2ac8-46d7-a73f-125b64d38f8b",
+      "speaker": "Frank Morrow",
+      "role": "assistant",
+      "character_id": "frankmorrow",
+      "content": "Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: Frank Morrow: *Your hand moves before you decide. The sketchbook tilts toward him—offering, exposing.*\n\n*Frank doesn't move at first. He just... looks. At the page. At your face. Back at the page.*\n\n*Then he crosses the room. The bed dips as he sits beside you—close enough that you smell the leftover pot roast on his clothes, the Old Spice he's worn since before you were born.*\n\n*He studies the drawing. You watch his face for flinch, for criticism, for that tight expression that means he's holding something back.*\n\n*It doesn't come.*\n\n\"Your grandmother's eyes.\"\n\n*The words land strange. Soft.*\n\n\"She had that same... hollow. Right here.\" *He touches his own cheekbone, then seems surprised by the gesture. His hand drops.* \"Drew the short straw on that one.\"\n\n*You almost laugh. It comes out cracked.*\n\n\"Mom always said I got your jaw.\"\n\n\"You did.\" *A beat.* \"Lucky. Mine's getting weak.\"\n\n*The clock ticks downstairs. The furnace hums.*\n\n*Frank looks at the mirror—its spotty surface, your face fragmented across it. Something shifts behind his eyes. Recognition, maybe. Or the memory of a face he hasn't looked at honestly in years.*\n\n\"I wanted to coach baseball.\" *He says it to the mirror, not to you.* \"When I was twenty. Pitched all through high school. Had a tryout.\"\n\n*The charcoal is warm in your palm.*\n\n\"What happened?\"\n\n\"Your grandfather got sick. Mill was hiring.\" *He shrugs—the gesture of a man who's practiced accepting less.* \"Someone had to.\"\n\n*He looks at the drawing again. At you.*\n\n\"This is good.\"\n\n- Ask why he never told you about the baseball\n- Tell him about the interview—the gallery wants to meet\n- Hand him the pencil—ask him to add something",
+      "timestamp": "2026-05-03T16:17:07.861613",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-20a70a2e-a3df-4bc2-9eac-a12d6c55208c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T16:17:07.862878",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

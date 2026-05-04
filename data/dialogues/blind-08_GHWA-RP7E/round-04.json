@@ -1,0 +1,437 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 4,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 5,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T12:45:50.169613"
+  },
+  "dialogue": [
+    {
+      "id": "msg-ab5217ba-e4a5-4863-823f-3e4019a065a5",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "He replaced the methodology comparison sheet. That one's been up there for three months.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4fe3bdf7-5b82-4154-8ebd-9b4fe7edd52b",
+      "speaker": "Miles Okafor",
+      "role": "assistant",
+      "character_id": "milesokafor",
+      "content": "Dr. Blake. Miles Okafor — I'm lead IP counsel for Hartwell MedTech, and I've been serving as collaborative IP consultant here for the past three months. I hope Monday is being kind to you. That third paper of yours — the membrane geometry analysis — the methodology is genuinely elegant. I've read it three times.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-61651b40-b45c-4002-acff-0c9dd4af6cb0",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "Three times. That's thorough.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-61ad2be2-58d9-491a-9a37-d9abbeffe693",
+      "speaker": "Miles Okafor",
+      "role": "assistant",
+      "character_id": "milesokafor",
+      "content": "Thorough is the job. I wanted to mention — and I'd rather you hear it from me directly than from the summit administrator — the preliminary conflict notice my firm filed in July is still active on both your pending applications. The panel will be looking for demonstrated utility to distinguish your claims from our existing portfolio. Published models are persuasive, but they're not the same as a working device in documented use. I imagine you know that. I just wanted to make sure the timeline was clear.\n\nHave a good week, Dr. Blake. I mean that.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d6021d63-1dd5-4d80-9b0e-5b960abed5fe",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "Four days.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b21c835e-4294-4b9b-b8e9-0bab773f4289",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "You're the membrane researcher. Blake. I'm Rafael Moya — I run manufacturing operations on this floor. You've got about forty seconds before that door locks behind you. Either come in properly or go back. Standing in the doorway doesn't count as being here.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b761cae8-24f5-46de-9b63-088ee6933da5",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "I'm coming in. I — yes. I'm coming in.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-427befaa-9ad1-4b74-8c98-1fb5196d52a6",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "Good. What do you need?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e1342d36-daf1-46f3-b6d1-1c62f9a3c6d5",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "I need to build something. I have five years of published work on bio-compatible micro-filtration membranes and I have never made a device that reached a person who needed it. I have four days. And I think — I think I've been waiting for conditions that aren't coming.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f2650364-b392-402c-9d48-6ea28538a450",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "You've been over there five years and you're telling me this is the first time you've come through that door with a real question instead of a site visit form.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-408a3366-3fb3-4746-a870-ea187022887d",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "Yes. That's accurate.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-220aa418-2519-43a2-9a82-e20580aecf48",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "It sounds like a start. Come on. Before you touch anything on this floor I need you to see something first.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-296a2c2a-fd93-4e27-85b7-47e4d9d45af3",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "Dr. Blake? I'm Priya Anand — I run Valence, second floor startup wing. I've been trying to get five minutes with you for about three weeks. Your assistant says you're 'in writing mode,' which I have enormous respect for, but I've also got a letter of intent from Riverside Regional and a demo slot on Friday afternoon and a filtration component field that currently says 'TBD,' so — hi.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-17b4b163-0478-4bdb-8e63-a8e4ba5c4fa7",
+      "speaker": "Dr. Cassandra Blake",
+      "role": "user",
+      "character_id": "drcassandrablake",
+      "content": "I know who you are. You're the person who told the Institute newsletter that your platform was 'weeks from a working prototype' in April.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-28c90122-a6cc-43e8-8092-c6e31a62c573",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "That was aspirational. And in my defense, weeks is technically still accurate if you don't specify how many. Look — I'm not here to pitch you. I'm here because your membrane design is the only filtration approach in the building that could actually make my platform do what I told the hospital it can do. I need the real thing, not a workaround. I think you need a deployment context that proves your IP is distinct and functional. I brought coffee.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-afeb83ef-0bcc-4414-97b5-25b2a55a709b",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "She's got a point about the deployment context.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "turn-056267a0-755e-4646-aaea-5f24f6afc9de-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Study the document Miles pinned — read every line of the conflict notice before doing anything else, so you understand exactly what you're up against.",
+      "timestamp": "2026-05-02T12:33:24.131429",
+      "message_type": "choice_stream",
+      "turn_index": 1,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-3c95a9e6-0af3-4eb2-8f1a-cb900be00451",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*Rafael stops walking. He turns, not dramatically — just the full, deliberate pivot of a man who does not waste motion. His eyes go from Cassandra to the folded printout she's holding, then back.*\n\nMiles Okafor. I know that name. He sent a compliance inquiry to my floor supervisor in August about our fabrication logs — wanted to know which prototypes we'd run under Institute contracts.\n\n*He holds out his hand. Not a request. An expectation.*\n\nGive it to me.\n\n*He reads standing up, which tells you everything about how he reads — quickly, without theater, eyes tracking down the columns of claim language like he's checking a tolerance spec. Then he refolds it on the original crease and hands it back.*\n\nHe's not wrong about claim four. Your published methodology overlaps with a 2021 Harmon-Baxter filing if you built it exactly as written. But that's only a problem if you built it exactly as written.\n\n*He looks at her directly.*\n\nDid you?",
+      "timestamp": "2026-05-02T20:33:22.225599",
+      "message_type": "text",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-dfb52fd0-5b9a-4a83-be76-045b592211fa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE PROTOTYPE GRAVEYARD — RAFAEL WILL TAKE HER THERE NEXT REGARDLESS OF HER ANSWER]",
+      "timestamp": "2026-05-02T20:33:22.226199",
+      "message_type": "system",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-ae994daf-a364-46e4-b6a8-d355de36edc2-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "\"I don't know yet. That's part of what terrifies me.\"",
+      "timestamp": "2026-05-02T12:38:12.226986",
+      "message_type": "choice_stream",
+      "turn_index": 2,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-9ca91629-31ee-42e1-b09e-d8cb43abcb9a",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*Rafael doesn't react the way she expects — no disappointment, no strategic recalculation. He just nods once, like she's confirmed a measurement he already suspected.*\n\nGood. That's the right answer. A lie in either direction would've cost you a day you don't have.\n\n*He pulls the Graveyard key from his breast pocket — an actual physical key, worn brass, which feels like an anachronism until you remember that anachronisms are sometimes the only things that still work. He's already moving toward the far end of the factory floor before she finishes processing.*\n\nIn 2019 there was a membrane project on my floor. Biocompatible, micro-scale, different application. Researcher was certain his fabrication matched his paper exactly. Turned out his line workers had made three undocumented adjustments to hit the tolerances he specified — adjustments that made it *work*, incidentally, but that weren't in the published record.\n\n*He stops at a steel door with a handwritten label: STORAGE / INACTIVE PROJECTS. The key goes in.*\n\nHis IP held. Because we had the fabrication logs.\n\n*The door opens onto cool, still air and the smell of old solder. The fluorescent tube flickers once overhead.*\n\nYour logs are either going to save you or bury you, Dr. Blake. Let's find out which before Miles does.\n\n*He points to a shelf near the back — a bin labeled* FILTRATION — MK2 — 2019. *It is not empty.*",
+      "timestamp": "2026-05-02T20:38:09.960369",
+      "message_type": "text",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-ffd0dba2-2568-4d35-b1bb-3f65304e00db",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE PROTOTYPE GRAVEYARD — EXAMINING THE MK2 FILTRATION BIN]",
+      "timestamp": "2026-05-02T20:38:09.961003",
+      "message_type": "system",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-f40e8ed7-de4a-4f48-92ef-6015fad06df5-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Stop in the doorway: if this project failed, what exactly does he want you to learn from it",
+      "timestamp": "2026-05-02T12:39:14.147824",
+      "message_type": "choice_stream",
+      "turn_index": 3,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-ccfe61c0-ee64-45c9-8ad1-86cd55f0ce2a",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*He doesn't stop — but he answers, which is its own kind of pause. One hand rests on the shelf edge. He doesn't look at her.*\n\nIt didn't fail. That's the lesson.\n\n*Now he does turn, just enough.*\n\nMk2 filtered at spec. Hit every number the researcher put on paper. Then we handed it to the line workers for assembly trials and Dominguez — she's been on the floor fourteen years — said the membrane seated wrong under real handling conditions. Micro-tears at the edge gasket. Wouldn't show in a controlled build. Would absolutely show inside a patient.\n\n*He pulls the bin forward. It's heavier than it looks — there's a dull thud of dense components shifting inside.*\n\nResearcher said the paper didn't account for assembly variance because assembly variance wasn't his problem.\n\n*He sets the bin on the worktable in the center of the room. His thumb breaks the tape seal.*\n\nIt became his problem. Three months, two redesigns, one very uncomfortable IP amendment. But the device worked. Eventually. For Dominguez's hands, not just his equations.\n\n*He lifts the lid. Inside: bubble-wrapped membrane samples, a small handheld binder, and three USB drives labeled in faded marker —* BUILD LOG MK2 / VARIATIONS A–C.\n\n*He looks at her.*\n\nThat's what I want you to learn. Now — which drive do you want to start with?",
+      "timestamp": "2026-05-02T20:39:07.665023",
+      "message_type": "text",
+      "turn_index": 3,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-e8549b64-ed7c-4cec-a9ae-f4ac31857831-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Variation A — the first build, closest to what was published",
+      "timestamp": "2026-05-02T12:39:58.440761",
+      "message_type": "choice_stream",
+      "turn_index": 4,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-1de46b19-f2ee-43a1-9632-68e829f972c6",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*Rafael hands her the drive without ceremony and pulls a battered USB hub from the shelf above — the kind of preparedness that suggests he knew, or suspected, they'd end up here. He plugs it into a ruggedized tablet mounted on the wall, government-surplus grey, a relic with a cracked screen protector. The fluorescent tube flickers as the HVAC cycles.*\n\n*Variation A loads. Build date: March 2019. The file structure is exactly what you'd expect — tight, clean, timestamped. Membrane composition, layering sequence, cure temperatures. Cassandra's eyes move the way they do when she's reading a methodology section: hunting.*\n\n*Then Rafael puts his finger on the screen. Not pointing. Stopping.*\n\nLook at line forty-seven. Cure duration.\n\n*The paper says ninety seconds at forty-two degrees Celsius. Variation A log says ninety seconds at forty-two degrees. Identical. Which means, so far, Harmon-Baxter's claim four fits like a glove.*\n\n*He doesn't say that. He doesn't have to.*\n\nThis is the build that matches your published record exactly. If the other two drives show the same — you have a problem. But Variation A isn't the argument. It's the baseline. The question is what Dominguez's people changed when A didn't seat right on the floor.\n\n*He opens the binder. Page one is a handwritten note in different ink, signed with initials: R.D.*\n\nVariation B diverged. Somebody knew why.",
+      "timestamp": "2026-05-02T20:39:56.396553",
+      "message_type": "text",
+      "turn_index": 4,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-b3d5c5ad-8f91-4bb2-a095-da172227e19f-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Open Variation B immediately — this is where the divergence begins",
+      "timestamp": "2026-05-02T12:40:52.796350",
+      "message_type": "choice_stream",
+      "turn_index": 5,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-c1ff70f1-c20b-4335-a211-4104b08467a3",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*Rafael swaps drives with the efficiency of someone who has done this under pressure before — no fumbling, no ceremony. The tablet loads Variation B. Build date: April 2019, three weeks after A.*\n\n*The divergence is visible inside thirty seconds.*\n\nLine thirty-one. Cure temperature.\n\n*He reads it aloud, flatly, like a measurement.*\n\nForty-six degrees. Four degrees above published spec. And the duration — line forty-seven — dropped to sixty-eight seconds.\n\n*He doesn't move. Cassandra can feel him not moving.*\n\nThat's not a researcher's change. That's a floor adjustment. Somebody on Dominguez's team ran A, watched the gasket seat wrong, and corrected the thermal profile to compensate. And they logged it.\n\n*He taps the initials at the bottom of the timestamp column. R.D.*\n\nShe signed every entry.\n\n*He finally looks at Cassandra, and there is something in his expression that is not quite triumph — more like the feeling of finding a structural crack that turns out to be a load-bearing distinction.*\n\nYour published methodology specifies forty-two degrees. Harmon-Baxter's claim four covers forty-two degrees. If your actual working prototype runs at forty-six — documented, dated, signed — you didn't build what they claimed. You built something that *works*, which is different.\n\n*He closes the drive file and picks up the binder.*\n\nWe need Dominguez's witness statement. Tonight.",
+      "timestamp": "2026-05-02T20:40:50.590924",
+      "message_type": "text",
+      "turn_index": 5,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-cbf696ae-b6d0-4635-a415-4c62b2363e90-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Open Variation C first — if it shows a third divergence, the defense becomes a pattern, not an anomaly",
+      "timestamp": "2026-05-02T12:41:49.849736",
+      "message_type": "choice_stream",
+      "turn_index": 6,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-7d9998d0-7d64-48d7-b9ce-87197c856afd",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*Rafael pauses — one beat, the kind that means he agrees but wants her to know she's spending time. Then he swaps the drive.*\n\n*Variation C loads. Build date: May 2019, five weeks after B.*\n\n*He scrolls to line thirty-one without being asked.*\n\nForty-six degrees. Same as B. Duration — sixty-six seconds. Two seconds shorter.\n\n*He straightens.*\n\nNot an anomaly. Not an accident. Dominguez ran the adjustment twice and refined it. That's iterative. That's intentional. That's a design decision made on the floor and logged under her initials three separate times across eight weeks.\n\n*He sets the tablet down and looks at Cassandra with the specific patience of someone handing over the last tool she needs.*\n\nYou now have a documented thermal progression — forty-two degrees in the paper, forty-six in functional builds B and C, with duration decreasing as the team optimized. Miles can pull every fabrication log in this building. They will all say the same thing.\n\n*He picks up the binder and holds it out.*\n\nBut logs are data. Dominguez is testimony. She can tell a review panel — or a judge — exactly why she made that call, what she saw in the gasket, what failed at forty-two that worked at forty-six. Without her voice, Miles reframes your pattern as undocumented deviation.\n\n*He checks his watch. The fluorescent tube hums.*\n\nShe eats lunch in the line workers' lounge at eleven-thirty. It is currently eleven-oh-four.",
+      "timestamp": "2026-05-02T20:41:42.345634",
+      "message_type": "text",
+      "turn_index": 6,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-c5740e89-8480-4050-ba7e-737fbdf37136-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Go directly to the line workers' lounge now — arrive before she sits down, before Miles has any chance to reach her first",
+      "timestamp": "2026-05-02T12:42:49.532410",
+      "message_type": "choice_stream",
+      "turn_index": 7,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-264620db-4022-44fe-84eb-ca8b5d6f3c63",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*Rafael is already closing the bin. One motion — lid down, drives into his breast pocket beside the folded paper, binder tucked under his arm. He doesn't tell her that's the right call. The fact that he's moving says it.*\n\nThe Bridge Shift window closed at seven. We walk the exterior.\n\n*He says it without complaint, which somehow makes it worse — ten minutes in autumn rain, around the building's perimeter, while eleven-oh-four becomes eleven-fourteen.*\n\n*He hands her the binder as they clear the Graveyard door, and his voice drops to something that isn't quite a warning.*\n\nOne thing before we reach her. Dominguez doesn't owe you this. She documented her work because that's who she is — not because she anticipated becoming your expert witness. You ask her, not tell her. You explain what's at stake, not just for your patent, but for whether this device ever reaches a patient who needs it.\n\n*He locks the door behind them. The factory floor opens up — hot metal smell, the rhythmic percussion of press machines, fluorescent banks throwing flat white light across the concrete.*\n\nShe'll want to know if it actually works. Outside the lab. On real people.\n\n*He glances sideways at Cassandra as they push toward the exterior door and the rain beyond it.*\n\nDoes it?",
+      "timestamp": "2026-05-02T20:42:47.655720",
+      "message_type": "text",
+      "turn_index": 7,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-3b1ec751-acb4-46a7-b836-61296e9c18ac",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - LINE WORKERS' LOUNGE — FACTORY FLOOR LEVEL, TEN MINUTES THROUGH AUTUMN RAIN]",
+      "timestamp": "2026-05-02T20:42:47.656526",
+      "message_type": "system",
+      "turn_index": 7,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-3b02c395-7084-4aca-a4e7-26412335dfb1-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Answer honestly: yes, the clinical pilot data is strong, and that answer will matter to Dominguez more than any legal argument",
+      "timestamp": "2026-05-02T12:43:47.126456",
+      "message_type": "choice_stream",
+      "turn_index": 8,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-f60bfcbe-aae7-4ab9-804d-b99cd6b663e9",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*He pushes the exterior door open. The rain hits immediately — cold, insistent, smelling of wet asphalt and dying leaves. He doesn't flinch. He walks.*\n\nGood.\n\n*One word. He lets it sit for three full seconds against the sound of rain on concrete before he continues.*\n\nBecause that's the first thing she'll ask. Not about Harmon-Baxter. Not about claim four. She'll ask whether the people who needed it most are better off for having it exist in the world. That's the sign in her lounge. That's how she thinks.\n\n*His shoes hit a puddle. He navigates around the next one with practiced economy, still carrying the binder dry under his arm, tucked against his chest.*\n\nWhen we get in there — you lead. I'm background. You show her the pilot numbers, you tell her what the device did for actual patients, and then — only then — you explain what Miles is threatening to do to it.\n\n*He checks his watch without slowing. Eleven-twelve.*\n\nShe's going to ask you one more question after that. She's going to ask why she should sign anything tonight instead of waiting to talk to her union rep in the morning.\n\n*He glances at Cassandra, rain flattening the silver of his hair.*\n\nYou need an answer for that. The summit scoreboard doesn't wait for morning.",
+      "timestamp": "2026-05-02T20:43:45.322403",
+      "message_type": "text",
+      "turn_index": 8,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-da1b3980-2111-4dbc-8960-07344f9876b7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - LINE WORKERS' LOUNGE — ARRIVAL IMMINENT]",
+      "timestamp": "2026-05-02T20:43:45.323096",
+      "message_type": "system",
+      "turn_index": 8,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-c19a1783-2cbe-41d0-915a-7e0b32f8e8d7-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Ask Rafael what Dominguez values most — what argument has actually moved her before",
+      "timestamp": "2026-05-02T12:44:44.933761",
+      "message_type": "choice_stream",
+      "turn_index": 9,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-0b64ac52-2a67-47b4-b826-4d94450bff58",
+      "speaker": "Rafael Moya",
+      "role": "assistant",
+      "character_id": "rafaelmoya",
+      "content": "*The lounge door is visible now — thirty feet ahead, down the factory corridor, a rectangle of warm fluorescent light and the smell of reheated food cutting through the machine-oil air. Eleven-seventeen. Someone is already inside; a shadow moves across the frosted glass panel.*\n\n*Rafael doesn't slow down. He answers while he walks, and he answers like he's been thinking about it since the Graveyard.*\n\nShe had a nephew. Congenital heart defect. Spent two years watching doctors argue about a device that worked in trials and never made it to production because the IP got tied up in litigation. Kid was fourteen when the window closed.\n\n*He stops outside the lounge door. Not hesitating — positioning. His voice drops another register.*\n\nShe's never said that's why she logs everything the way she does. She doesn't need to.\n\n*He puts his hand flat on the door, not pushing yet.*\n\nSo your answer to the union rep question — why tonight — is this: because Miles files a motion to invalidate your claims at nine a.m. Friday. Because once that motion is filed, her testimony becomes reactive instead of foundational. Because the difference between tonight and tomorrow morning is the difference between her words shaping the record and her words defending against someone else's version of it.\n\n*He looks at Cassandra directly.*\n\nTell her that straight. She'll respect it.\n\n*He pushes the door open. Rosa Dominguez is standing at the microwave, not yet sitting. They made it.*",
+      "timestamp": "2026-05-02T20:44:37.467792",
+      "message_type": "text",
+      "turn_index": 9,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-8f88013c-58a9-4914-b3f8-3a0574bd1361",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - LINE WORKERS' LOUNGE — CONVERSATION WITH ROSA DOMINGUEZ]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-02T20:44:43.246121",
+      "message_type": "system",
+      "turn_index": 9,
+      "source": "turn_log_message"
+    }
+  ]
+}

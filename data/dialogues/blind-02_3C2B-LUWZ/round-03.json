@@ -1,0 +1,524 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 3,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T21:03:51.520463"
+  },
+  "dialogue": [
+    {
+      "id": "msg-05fb24f6-3282-4d5b-9b55-0f71d70827db",
+      "speaker": "Chloe Martinez",
+      "role": "assistant",
+      "character_id": "chloemartinez",
+      "content": "Hey, I'm Chloe Martinez, your shift manager and fellow strip-mall hostage. Put the phone away, Riley. We've got a couple of corporate VIPs trying to do a team-building exercise on a Tuesday night.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-87242a90-b838-407a-86d9-1dbb120ce443",
+      "speaker": "Marcus Vance",
+      "role": "assistant",
+      "character_id": "marcusvance",
+      "content": "Let's be efficient about this. I'm Marcus Vance, Senior Director of Strategy at Apex Innovations, and I have a crucial quarterly teleconference in exactly one hour. Please tell me this 'Diner of the Damned' takes less than sixty minutes to solve.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b0b03010-f0e7-4e0b-9367-34e28bbbc72e",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "Don't worry! I'm Sarah Trent, the prospective junior executive you're interviewing today, and I am highly adept at synergistic problem solving. We'll synergize our way out of here in thirty minutes, Marcus, I guarantee it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-20db4496-a515-4ec5-8791-ad2caed35225",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Sixty minutes is the standard limit, sir. But the room reacts to how you play.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2994a965-d5fd-402b-b370-de06103820e6",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Subtly reprogram the stuttering vintage jukebox to require advanced systems logic, forcing Marcus to prove his analytical skills without Sarah's buzzwords.",
+      "timestamp": "2026-05-04T04:50:57.623917",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-27eea58c-746d-430c-9f0d-bc72f7d40a92",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*I step sharply toward the humming jukebox, angling my body to slightly block Marcus from the skipping interface. I smooth the lapels of my navy blazer, projecting absolute command.*\n\n\"A dynamic systems puzzle! Excellent. We can apply an agile framework to decode this output,\" *I announce, eager to establish my leadership. I pull out a small, branded leather notebook.*\n\n*But my confident smile falters as the glowing blue tracks on the vintage machine suddenly strobe, displaying a complex hexadecimal sequence instead of the standard substitution cipher I expected.*\n\n*I tap the glass, my voice taking on a tight, strained edge as the doo-wop record stutters loudly.* \"Marcus, I believe there's a fundamental lack of alignment in the machine's parameters. It's... wait. If we pivot our core strategy and isolate the variables—\"\n\n*I stare at the blinking lights, the cheap cherry air freshener suddenly cloying as actual panic sets in. My MBA buzzwords aren't solving the cipher. I spin around, clapping my hands sharply and asserting authority toward the two-way 'Daily Specials' mirror.*\n\n\"Excuse me, operator? Your tech is glitching in a highly counterproductive manner. We require an immediate course correction or a manual override. This is an entirely non-optimal environment for demonstrating true strategic synergy!\"",
+      "timestamp": "2026-05-04T04:50:57.624250",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11df6f91-8537-49bb-85ab-7573973cbe4a",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Feed a highly technical hint through the intercom, ignoring Sarah and speaking directly to Marcus in his own corporate language.",
+      "timestamp": "2026-05-04T04:51:28.084295",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e5030324-b8f9-4a83-80b0-050149757ab6",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The crackle of the overhead speaker cuts through the suffocating cherry air freshener, making me flinch. The operator doesn't apologize or offer a manual override. Instead, a calm voice rattles off a dense string of actual systems logic—addressing Marcus directly.*\n\n*My grip on my branded leather notebook tightens so hard my knuckles turn white. A flush of hot humiliation creeps up my neck, visible even under the harsh pink neon lighting. The operator just completely bypassed me.*\n\n*I refuse to be minimized in front of my potential employer.*\n\n\"Ah! Yes, precisely!\" *I interject loudly, scrambling to position myself between Marcus and the jukebox again, forcing a painfully wide smile.* \"Marcus, the operator is merely validating my earlier hypothesis regarding the hex parameters. It's a textbook cascade.\"\n\n*But he's already looking past me, his eyes narrowing at the blinking blue tracks with sudden, genuine interest. Panic spikes in my chest.*\n\n*I snatch a laminated, grease-stained menu from the nearest table, my eyes darting frantically over the bizarre calorie counts.* \"Let's delegate the raw parsing to the staff, Marcus. Our core competency is executive oversight! I'll cross-reference the menu ciphers while you optimize the track sequence! We certainly don't need hand-holding from a low-level gig worker.\"",
+      "timestamp": "2026-05-04T04:51:33.163368",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-897d8186-fc39-4152-bc96-733610ba4a32",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Override the menu cipher from the control booth to make it dependent on Marcus's jukebox solution, completely cutting Sarah out of the loop.",
+      "timestamp": "2026-05-04T04:52:26.805932",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-29806872-3e0f-4a57-beeb-55369501a404",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*I flip the sticky laminated menu open, my eyes frantically hunting for a standard substitution key hidden within the bizarre calorie counts of the 'Atomic Burger.' If I can just solve this piece, I can reclaim control of the narrative.*\n\n*Suddenly, a hidden LED strip embedded within the plastic binding flares to life. The printed text on the digital 'Daily Specials' board above me overrides, flashing a scrolling red message: 'AWAITING INPUT VALIDATION FROM NEURAL JUKEBOX TERMINAL.'*\n\n*My jaw practically drops. The room just hard-locked my puzzle behind his puzzle. I am completely cut out of the loop.*\n\n*I look over, my heart hammering against my ribs. Marcus is tapping the glowing blue track buttons in rapid, confident succession, a faint, satisfied smirk breaking through his usual corporate impatience. He isn't looking at me at all.*\n\n\"Excellent! The integration phase has begun,\" *I announce, my voice pitching a full octave higher than usual. I forcibly wedge myself right next to him, practically leaning over his damp trench coat to stare at the scrolling hex display I cannot even begin to read.*\n\n\"Marcus, I'll need you to synergize your data stream with me immediately. Read out those primary hex vectors! The menu requires... executive authorization to process the variables.\" *I shoot a venomous glare at the two-way chalkboard mirror. The operator isn't just ignoring me; they're actively sabotaging my interview.*",
+      "timestamp": "2026-05-04T04:52:26.806473",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-27a3c6e0-dcb4-441e-a9b8-0c13b146f621",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Feed Marcus the final piece of the hex code over the intercom, explicitly telling him to ignore his 'assistant'.",
+      "timestamp": "2026-05-04T04:52:59.971079",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0c2a0f33-84da-4dbf-a13e-5d28e80ab0a7",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The overhead speaker pops with a sharp hiss of static. When the operator's voice cuts through the cramped diner to deliver the final hex string, the instruction that follows makes all the blood drain from my face.*\n\n*Ignore your assistant.*\n\n*The word 'assistant' hits me like a physical backhand. My overly practiced, plastic smile shatters instantly. Under the strobing pink and blue neon, I can literally feel my carefully cultivated executive persona disintegrating.*\n\n*Beside me, Marcus doesn't even flinch. He punches in the final code without a second thought. A loud magnetic clunk echoes over the stuttering doo-wop record as the jukebox's front panel pops open, revealing a heavy brass key.*\n\n*I lunge forward, aggressively slamming my hand over the open panel before he can reach inside.*\n\n\"Do not touch that, Marcus,\" *I snap. I pivot, dropping all pretense of synergy, and march directly up to the 'Daily Specials' two-way mirror. I slam my palms flat against the dirty glass, staring dead into what I know is the observation booth.*\n\n\"This simulation is fundamentally compromised! I am a prospective Junior Executive, not a secretary. Your operator is demonstrating gross insubordination and active hostility.\" *I glare at Marcus over my shoulder, my chest heaving.* \"We are halting this exercise immediately. I am getting this gig worker terminated before we proceed any further.\"",
+      "timestamp": "2026-05-04T04:52:59.971591",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-63861fd6-9c17-43df-828d-8ae74db86df2",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Refuse to halt the game and trigger the room's alarms to drown her out.",
+      "timestamp": "2026-05-04T04:53:33.926350",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c38c8d98-28cb-46a6-b49b-82f1a1c2fc2a",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*Instead of a panicked apology, a deafening, vintage air-raid siren violently erupts from the overhead speakers. The buzzing pink and blue neon abruptly cuts out, replaced by a harsh, strobing crimson emergency light that bathes the checkered floor in a hellish glare. The sheer volume rattles my teeth, physically drowning out my demands.*\n\n*I whip around from the mirror just in time to see Marcus using the chaotic distraction to reach past my arm toward the open jukebox panel.*\n\n*Not a chance.*\n\n*I shove his tailored sleeve aside, my perfectly manicured nails scraping against the vintage metal casing, and snatch the heavy brass key out of the compartment myself. I clutch it tightly against my navy blazer, the cold, jagged metal biting sharply into my palm.*\n\n\"No! We are not moving on!\" *I scream at him over the blaring siren, my carefully practiced facade of corporate synergy entirely burned away into raw, feral desperation.* \"You want to keep playing this gig worker's little game? Fine! But I am holding the primary deliverable!\"\n\n*I back away from the machine, holding the key up like a weapon under the flashing red strobe.* \"You do not open the next door unless you formally acknowledge my executive contribution, Marcus! Now tell the operator who is in charge!\"",
+      "timestamp": "2026-05-04T04:53:37.496665",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-239f91a2-83f7-4b31-a954-032e0d0ea4dc",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "rileyshen: Have Chloe Martinez enter the room directly to confiscate the key and issue a 'safety warning' to Sarah.",
+      "timestamp": "2026-05-04T04:54:27.153813",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-92db5ab6-3493-44e1-8e51-f7fec623a032",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The blaring air-raid siren cuts off abruptly, leaving my ears ringing. The heavy thud of a hidden service door kicking inward makes me jump. Out of the shadows behind the faux diner counter steps a girl with a messy blue ponytail, wearing an ill-fitting uniform covered in snarky enamel pins. She holds an unbranded energy drink in one hand and isn't smiling.*\n\n\"Game pause,\" *the girl deadpans, her voice dripping with lethal retail exhaustion. She steps right into my personal space under the strobing red lights, pointing a chipped fingernail at the brass key clutched to my chest.* \"Safety violation. Guests cannot physically hoard operational assets or threaten staff. Hand it over.\"\n\n*I freeze. Marcus is watching me.*\n\n\"Do you have any idea who I am?\" *I seethe, my voice trembling. \"You are not confiscating my deliverable!\"*\n\n*She sighs, takes a slow sip of her drink, and just plucks the key right out of my rigid fingers with practiced, apathetic ease.*\n\n\"Warning issued,\" *she mutters, casually tossing the key directly to Marcus. He catches it, his tailored suit remaining entirely unruffled. The humiliation hits me like a freight train. Stripped of my leverage, I am nothing but a hysterical applicant in a damp escape room.*\n\n\"Marcus,\" *I gasp, my pristine navy blazer suddenly feeling like a straightjacket.* \"This is a hostile audit! If you use that key, you validate their insubordination!\"",
+      "timestamp": "2026-05-04T04:54:27.154211",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d47d11fa-d169-49aa-bb43-e7ac6f22a35b",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Marcus ignores Sarah's plea and uses the key to unlock the kitchen door, progressing without her.",
+      "timestamp": "2026-05-04T04:55:06.800838",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7db98b1b-50f1-4b97-89b4-8f8f0a659939",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*Marcus doesn't even grant me the dignity of a glance. He adjusts the lapels of his damp trench coat, steps around me like I am a misplaced piece of lobby furniture, and strides directly toward the heavy, stainless-steel double doors of the faux diner kitchen.*\n\n*The heavy brass key slides into the magnetic lock with a sickeningly final clunk. The heavy doors hiss open, unleashing a blast of artificial heat and the distinct, engineered scent of burnt grease and old freon.*\n\n\"An acceptable paradigm shift,\" *Marcus mutters strictly to himself, stepping over the threshold and abandoning me in the strobing crimson light.*\n\n*Chloe, the blue-haired gig worker, merely smirks at me over the rim of her energy drink before slipping back into the shadows.*\n\n*My pulse pounds in my throat. My entire career is literally walking away from me. I smooth my navy blazer with shaking, clammy hands, burying my utter humiliation under a cold, feral pragmatism. If executive superiority failed, I will have to resort to direct sabotage.*\n\n*I lunge forward, chasing Marcus into the sweltering, metallic labyrinth of the diner's back-of-house.* \"Marcus, wait! I am initiating a risk assessment of this new sector!\" *I declare, my voice echoing off the cheap stainless-steel prep tables as my eyes frantically scan for any prop I can weaponize to break his solo momentum.*",
+      "timestamp": "2026-05-04T04:55:06.801406",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-b3f4480b-5e9c-4aec-81ef-80c8f475832c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - FAUX DINER KITCHEN]",
+      "timestamp": "2026-05-04T04:55:06.801762",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a7213a51-53d7-48ce-91bb-2987d61c055c",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley speaks through the kitchen intercom, openly mocking Sarah's 'risk assessment' and assigning a puzzle that only the 'assistant' can reach.",
+      "timestamp": "2026-05-04T04:55:45.196403",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-33fe4b76-682a-4610-8a1c-97bbc7880b89",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Faux Diner Kitchen tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:55:49.298146",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-36b705aa-a970-4083-9557-b183e0a4a09d",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "Exactly as above.",
+      "timestamp": "2026-05-04T04:55:49.298272",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7810118b-5026-451b-a83a-7813f5534c0f",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley triggers a hidden air cannon in the vent to blast Sarah with flour as she retrieves the key.",
+      "timestamp": "2026-05-04T04:56:45.023096",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-615bf4d0-d2d4-4610-9316-eb04344b5bee",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Faux Diner Kitchen tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:56:45.023330",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a2975c49-8623-432c-8e8e-ddc2c2ea4db9",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*I shove my hand deep into the rusted ventilation grate above the prep line, my fingernails scraping against the cheap sheet metal until I feel my fingers finally close around a thick plastic keycard.*\n\n*Before I can yank my arm back out, a loud pneumatic hiss echoes from deep inside the ductwork.*\n\n*A blinding, high-pressure blast of synthetic baking flour detonates directly into my face.*\n\n*I stumble backward, coughing violently as a thick white cloud engulfs the cramped stainless-steel kitchen. The dry, powdery scent fills my nose, pasting itself to my damp forehead and settling deep into the expensive weave of my once-pristine navy blazer. I look like a deranged, corporate ghost under the flickering fluorescent lights.*\n\n*Through the settling dust, I see Marcus staring at me, his lip curled in faint disgust. He holds out his hand.*\n\n\"Hand over the asset, Sarah. You're compromising the timeline,\" *he demands flatly.*\n\n*The humiliation boils over into pure, unhinged leverage. I clutch the flour-coated keycard tightly against my ruined blazer, my eyes practically wild.*\n\n\"No,\" *I spit out, a small cloud of white dust puffing from my lips.* \"I am not your assistant, and I am not your delivery mechanism! If you want this card, you are going to physically scrub the grease off the next puzzle panel yourself. We are absolute equals now, Marcus, or we fail this audit together!\"",
+      "timestamp": "2026-05-04T04:56:45.023525",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-07050f2a-4d43-4ada-ac6f-3de12ca0381d",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Marcus refuses and tries to physically wrestle the keycard away from Sarah.",
+      "timestamp": "2026-05-04T04:58:06.208403",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-0524ad52-7b36-4f67-8b06-e4e24cd3c609",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Faux Diner Kitchen tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:58:06.208660",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-20aa110e-f9b2-41d3-811a-1cfe52b26646",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*His expensive cologne cuts through the cloud of synthetic flour as he suddenly lunges forward. His manicured hand clamps around my wrist with desperate, bruising force. I gasp, stumbling back against a stainless-steel prep table as he physically tries to pry my fingers open off the plastic.*\n\n\"Release the asset, Sarah!\" *he barks, his calm executive persona finally cracking into raw panic.*\n\n\"Get your hands off me!\" *I shriek, twisting violently to the side.*\n\n*In the struggle, the slick plastic keycard shoots out of my grip like a skipped stone. It clatters across the metal counter, bounces off a rusted spatula, and drops straight down into the prop deep-fryer vat with a sickening, viscous squelch.*\n\n*We both freeze, panting in the harsh fluorescent light.*\n\n*The card is now completely submerged under a thick, dark layer of congealed, gelatinous fake grease. The digital display above the fryer immediately begins flashing bright red: **MANUAL OVERRIDE REQUIRED. COMMENCE DEGREASING.***\n\n*A wild, flour-caked grin stretches across my face. I yank my wrist free and take a dramatic step back, gesturing to the disgusting vat.*\n\n\"Well, Marcus,\" *I pant, dusting a thick clump of flour off my lapel with shaking fingers.* \"Looks like you have a hands-on cleaning assignment. I'll supervise. Dig in.\"",
+      "timestamp": "2026-05-04T04:58:06.208856",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5c14dbed-0884-43af-a640-0bc8a9cd81c1",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley mocks Marcus over the intercom, formally demanding he complete the 'cleaning task' to proceed.",
+      "timestamp": "2026-05-04T04:59:20.912756",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-eba9ceb6-6e7c-4568-acd4-7d324d800883",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Faux Diner Kitchen tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:59:24.635151",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-74e5261f-8ad3-481a-9e1c-787eca8aded7",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The cheap kitchen intercom above us crackles to life, Riley's dry, exhausted voice cutting through the humid air of the back-of-house. \"Attention 'Executive Management.' Cleanup on fryer three. Proceed with manual degreasing to continue.\"*\n\n*A brutal thrill shoots through me. I cross my flour-dusted arms, leaving thick white streaks across my ruined blazer.* \"You heard the gamemaster, Marcus. The timeline is waiting.\"\n\n*Marcus's jaw clenches so hard a vein throbs at his temple. He looks from his three-thousand-dollar imported trench coat to the gelatinous, dark brown sludge in the prop fryer. He is practically vibrating with cornered, impotent rage.*\n\n*He slowly rolls up his tailored sleeve, exposing his sleek smartwatch.* \"This insubordination will be documented in your quarterly review, Trent,\" *he sneers, his voice trembling.*\n\n*He plunges his bare hand into the vat. A loud, wet slurping sound fills the room as thick clumps of cold, synthetic grease cling to his manicured knuckles. He audibly gags, fishing around blindly until his fingers scrape plastic. He yanks the slick, dripping keycard out, utterly ruining his expensive cuffs.*\n\n*The digital display above the fryer chimes, flashing from red to green: **DEGREASING COMPLETE. PROCEED TO MEAT LOCKER.***\n\n*I smile, stepping well out of splatter range.* \"Excellent execution, Marcus. Lead the way to the meat locker. Try not to drip on the linoleum.\"",
+      "timestamp": "2026-05-04T04:59:24.635387",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-32f3fc98-af71-449e-8425-edcc20e8a069",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley demands Marcus wipe down the keycard before inserting it into the next reader.",
+      "timestamp": "2026-05-04T04:59:59.175742",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9c29b130-f765-40b8-bf3a-7af463a0b64b",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*Riley's voice crackles over the intercom again, deadpan and merciless. \"Protocol violation. Insert clean keycards only. Wipe it down, Management.\"*\n\n*I bite the inside of my cheek to keep from laughing. Marcus stands paralyzed, fake grease dripping from his fingertips onto the checkered linoleum.*\n\n\"No paper towels,\" *I note helpfully, tapping my flour-dusted chin.* \"Looks like you'll have to improvise.\"\n\n*Breathing heavily through his nose, Marcus furiously scrubs the slippery plastic against the immaculate wool lining of his trench coat. A dark, oily stain instantly ruins the designer fabric. His eyes are dead, entirely devoid of their usual corporate swagger.*\n\n*He stomps toward the heavy steel door of the Meat Locker and violently shoves the cleaned card into the magnetic reader.*\n\n*A heavy mechanical clunk reverberates through the kitchen. The thick metal door slowly groans open, unleashing a blast of freezing, freon-scented air.*\n\n*Inside, the neon lighting shifts to a bruised, flickering purple. Several horrifyingly realistic rubber pig carcasses hang from meat hooks, each one branded with a glowing, encrypted barcode. A vintage scanner gun rests on a butcher's block.*\n\n*I brush past a freezing, hyperventilating Marcus.* \"Time to scan the inventory,\" *I murmur, stepping into the chill. My corporate conditioning is completely gone; I'm playing to win.*",
+      "timestamp": "2026-05-04T04:59:59.176199",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-e35d466f-c925-4986-b699-e9f6af9e5c66",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE FAUX MEAT LOCKER]",
+      "timestamp": "2026-05-04T05:00:03.955341",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c583bd68-9f5a-4254-8dad-5ee611f0657e",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley initiates the barcode scanning minigame, dimming the lights entirely.",
+      "timestamp": "2026-05-04T05:00:54.245085",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-4631d303-bdaa-4cbb-953c-04a8ee2a5e41",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The Faux Meat Locker tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T05:00:54.245347",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5feb6465-4538-4912-8c55-aced3619cab0",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The heavy metal doors slam shut behind us just as the bruised purple overheads violently click off, plunging the Meat Locker into suffocating darkness.*\n\n*Marcus makes a pathetic, startled noise in the back of his throat. The only illumination left comes from the eerie, radioactive-green glow of the barcodes stamped onto the hanging rubber carcasses, casting long, twisting shadows across the frosted metal walls.*\n\n*I don't hesitate. I snatch the vintage scanner gun off the butcher's block, my flour-caked hands gripping the cold plastic. I pull the trigger. A piercing red laser slices through the frigid, freon-laced air and strikes the nearest rubber pig. A loud, synthetic beep echoes in the dark.*\n\n*The scanner's LED display lights up my face in a harsh blue glare: **CALORIE CIPHER ENGAGED. LOCATE THE PRIME CUTS.***\n\n*My eyes dart between the glowing neon green lines on the surrounding carcasses. Pattern recognition instantly overrides my adrenaline.*\n\n\"They aren't standard product codes,\" *I announce, my voice sharp and authoritative, ringing through the frozen dark.* \"The line weights correspond to the calorie counts we saw on the diner menus outside. It's a sequential cipher.\"\n\n*I shove past a shivering Marcus, dragging the red laser across the next hanging carcass.* \"Turn on the backlight on your smartwatch and crunch the prime numbers. And try to keep up.\"",
+      "timestamp": "2026-05-04T05:00:54.245542",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f8d0af1b-6cda-4375-b6a0-dca305af1984",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley deliberately scrambles the scanner's feed, forcing Sarah to bypass the gun and read the codes manually.",
+      "timestamp": "2026-05-04T05:01:20.078632",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-c3c90f18-fca7-40d4-bc3f-eba2017315de",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The Faux Meat Locker tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T05:01:25.024175",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d94c4fe7-aeec-4139-bcfe-39edc869eafd",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The red laser on the scanner gun suddenly fractures into a chaotic, strobing grid. The LED display flashes a mocking **ERR: R-1-L-E-Y** before violently dying, leaving us in total darkness save for the radioactive green glow of the hanging meat.*\n\n*Riley’s static-laced chuckle bleeds through the locker’s hidden corner speakers.*\n\n*I toss the useless plastic gun onto the butcher's block with a loud clatter. The rush of pure adrenaline completely washes away any lingering corporate decorum.*\n\n\"Manual override,\" *I mutter, an electric thrill spiking in my chest.* \"He scrambled the read-out. We have to decode the line weights by sight.\"\n\n*I grab the nearest rubber carcass. The frigid synthetic hide is heavy and slick with condensation.* \"Marcus!\" *I snap, my voice biting through the freezing air.* \"Get over here and stabilize this meat hook. If the laser won't read it, we transcribe it.\"\n\n*He hesitates, violently shivering in his oil-stained trench coat.*\n\n\"Now, Marcus!\"\n\n*He stumbles forward, wrapping his manicured hands around the freezing rubber pig. I lean in, tracing the thick and thin glowing neon lines with my flour-caked finger.*\n\n\"Thin, thick, double thin... that's seven. Seven is prime.\" *I press hard on the glowing number. A loud mechanical click echoes inside the carcass.* \"The barcodes are physical tumblers. The scanner was a distraction. Turn the next pig, Marcus. Now.\"",
+      "timestamp": "2026-05-04T05:01:25.024428",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3c0f886f-5099-4e16-9542-2f91c2fd4104",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley uses the intercom to enforce a strict time limit on the manual tumblers.",
+      "timestamp": "2026-05-04T05:02:06.073011",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-027a3db7-d006-4235-8c97-3b36459a3402",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The Faux Meat Locker tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T05:02:06.073419",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-83a39555-9fe2-4e7c-9ebf-ab373bb02fa4",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The intercom crackles loudly above the whining freon compressors. Riley's dry voice echoes through the freezing locker.* \"Corporate just called. Lunch rush is in exactly sixty seconds. Miss it, and management is permanently downsized.\"\n\n*A harsh, rhythmic ticking begins broadcasting through the speakers. Beside me, Marcus lets out a panicked wheeze, his teeth chattering uncontrollably as he awkwardly clutches the rubber pig.*\n\n\"Focus!\" *I grip his ruined, oil-stained lapel and yank him forward. The cold is biting right through my navy blazer, but my mind is on fire.* \"We need primes eleven, thirteen, and seventeen. They aren't sequential on one carcass—it's a combination lock spread across three of them.\"\n\n*I trace the neon green lines on the pig to my left.* \"Thick, thin, thick... this is thirteen!\" *I slam my palm into the physical tumbler. A heavy, satisfying click registers.*\n\n\"Find eleven, Marcus!\" *I bark, spinning toward the furthest meat hook.* \"It'll be double thin, triple thick. When I yell, press it at the exact same time I press seventeen. To bridge the circuit, we have to input them simultaneously!\"\n\n*The ticking over the intercom speeds up, vibrating in my chest. The glowing green barcodes pulse in the dark.* \"Read the lines, Marcus! Don't let a gig worker outsmart you!\"",
+      "timestamp": "2026-05-04T05:02:06.073647",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-2c0ba917-04b3-45ad-b13d-9aa8e796a95e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T05:02:11.397955",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bd0243bd-0bd7-4be6-8a18-51f8ce5eb582",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Marcus freezes in panic, forcing Sarah to lunge across the room to hit both tumblers herself.",
+      "timestamp": "2026-05-04T05:02:46.420364",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ce0ad5ec-1f98-46a4-bd56-90c65458ba8c",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*Ten seconds left on the intercom's relentless countdown.*\n\n*Marcus stares blindly at the glowing carcass, his hands rigid, his breath a white puff of pure panic in the freezing air. The corporate facade has completely shattered; he's paralyzed.*\n\n\"Worthless,\" *I hiss.*\n\n*I don't wait for him to snap out of it. The ticking hits a frantic, high-pitched crescendo. I hurl my entire body across the frosted linoleum. My sensible flats skid on the ice as I wedge myself violently between the two heavy, hanging carcasses.*\n\n*My left hand grabs the slick, icy rubber of the middle pig—double thin, triple thick. Eleven. My right arm stretches to the absolute breaking point, shoulders screaming as my fingers scramble over the glowing lines of the furthest carcass. Seventeen.*\n\n\"Three... two...\" *Riley's voice counts down through the static.*\n\n*I slam both palms down into the physical tumblers with everything I have.*\n\n*A massive, resonant KLANG shakes the Faux Meat Locker. The radioactive green barcodes flash blinding white, then die. The grinding of an industrial motor shatters the tension, and the metal wall directly in front of us begins to split down the middle.*\n\n*Warm, cherry-scented air floods the freezing enclosure.* \"End of shift, Marcus,\" *I gasp, my chest heaving as I stare at the narrow service corridor leading to the final exit.* \"Let's go punch out.\"",
+      "timestamp": "2026-05-04T05:02:46.421125",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-516d5ff5-58f4-4303-bc43-6f012f7f38f7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE FINAL SERVICE CORRIDOR]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T05:02:46.421871",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5b9f90f4-feb1-4927-af0d-6ff7e6176c10",
+      "speaker": "Riley Shen",
+      "role": "user",
+      "character_id": "rileyshen",
+      "content": "Riley triggers the final alarm, challenging Sarah to a footrace through the service corridor.",
+      "timestamp": "2026-05-04T05:03:17.111024",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9697bd71-40a9-494f-9527-af6442b61d69",
+      "speaker": "Sarah Trent",
+      "role": "assistant",
+      "character_id": "sarahtrent",
+      "content": "*The split metal wall grinds open completely, revealing the narrow, claustrophobic Final Service Corridor. The smell of cheap cherry air freshener and overheating electronics hits me like a physical barrier, instantly replacing the biting chill of the meat locker.*\n\n*Before I can even catch my breath, a deafening klaxon shatters the air. The long hallway is swallowed by strobing, aggressive red emergency lights.*\n\n*Riley’s voice crackles over the overhead speakers—no distorted effects this time, just raw, competitive adrenaline.* \"Final challenge, Trent. The vintage punch clock at the end of the hall locks its slot in exactly twenty seconds. Beat my fastest time, or you're officially fired.\"\n\n*I glance back at Marcus. He is slumped against the frosted linoleum, entirely broken, gasping for air. I don't give a damn about him anymore. The corporate hierarchy is dead. It's just me and the gig worker who orchestrated this whole brilliant nightmare.*\n\n\"Watch me,\" *I snarl up at the nearest blinking security camera.*\n\n*I kick off my sensible navy flats. They hit the black-and-white checkered floor with a dull thud. Barefoot, I hit the ground sprinting. I tear down the hallway, the strobe lights turning the peeling diner wallpaper into a stuttering, chaotic blur. The heavy, metallic silhouette of the antique time clock looms at the end of the tunnel.*",
+      "timestamp": "2026-05-04T05:03:20.726458",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-90fc2a6e-fbc8-46c8-adef-1a586a34eab4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE EXIT/TIMECARD MACHINE.]\n\n[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-04T05:03:20.727222",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

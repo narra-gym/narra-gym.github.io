@@ -1,0 +1,544 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 3,
+      "story_surprise": 4,
+      "story_engagement": 3,
+      "story_complexity": 2,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T18:07:22.894060"
+  },
+  "dialogue": [
+    {
+      "id": "msg-86f7c89c-3ba5-4ae5-93fc-d7d70c7b3323",
+      "speaker": "Jordan Ellis",
+      "role": "assistant",
+      "character_id": "jordanellis",
+      "content": "Hey! I'm Jordan Ellis, your newly-promoted, exceedingly well-compensated roommate! Please tell me you have glasses in here because I brought the good champagne!",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a510e424-e723-4400-9382-6b455bc3eac3",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Congratulations. Let me guess, they finally made you VP of Synergy?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fa61db26-6a8f-47b2-9193-c48e2adeb561",
+      "speaker": "Jordan Ellis",
+      "role": "assistant",
+      "character_id": "jordanellis",
+      "content": "Senior Director of Acquisitions, actually! Seriously, Alex, the market is hot right now. Just network more! Look at me, it's all about projecting confidence.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-406cd658-ed5d-482d-b4bf-a34e29ce40d9",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Right. Just network more. Hard to project confidence when my bank account has two digits.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1a098482-e339-4395-a884-3fff1a956126",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "Alex? It's Eleanor Hunter, your mother. I see you're finally picking up the phone. I hope I'm not interrupting your 'creative process', but your cousin David just bought a three-bedroom in the suburbs.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b9954297-3bd0-41fb-9c11-b1a65111197e",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Hang up on your mother, ignore the champagne, and stubbornly finish your application for the competitive junior designer role.",
+      "timestamp": "2026-05-03T01:51:10.170588",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-db081cc5-59a2-4835-bbcf-49bc196de43c",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*The phone vibrates violently on the desk, the buzzing rattling against your lukewarm coffee mug and completely shattering your concentration. Three rapid-fire text messages light up the cracked glass, pushing their way to the front of your screen, right over your carefully typed cover letter for the junior designer role.*\n\n**Eleanor Hunter:** Don't think you can just hang up on me, Alex. I am only trying to help you.\n**Eleanor Hunter:** Since you clearly won't help yourself, I took matters into my own hands. I spoke to Arthur Bingham. He needs a part-time administrative assistant at the brokerage starting Monday.\n**Eleanor Hunter:** It pays a real hourly wage, not 'exposure.' He expects a call from you by 9 AM tomorrow morning. Do not embarrass me.\n\n*The temperamental radiator in the corner hisses, a scalding spray of steam that matches the sudden spike of heat in your chest. From the kitchen, the sharp, jubilant POP of Jordan's champagne cork echoes through the thin drywall. You are left staring at the blinking cursor on your dream application, the weight of a guaranteed, soul-crushing paycheck looming over you with a twelve-hour ticking clock.*",
+      "timestamp": "2026-05-03T01:51:10.170983",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7ae03969-8dd2-4f00-9296-5987e089a277",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Text your mother back, refusing the brokerage job to fully commit to the designer application.",
+      "timestamp": "2026-05-03T01:51:57.575481",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-152d9dea-5ee9-4fbd-9cf4-8705ab20ab63",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*The small screen of your phone goes dark for exactly three seconds before lighting up with the harsh white glare of an incoming call. When you don't answer, a relentless volley of message alerts buzzes against the cheap particleboard desk. In the kitchen, Jordan's loud, booming laughter filters through the thin drywall, a sickening counterpoint to the dread pooling in your stomach.*\n\n**Eleanor Hunter:** Refusing? After I personally put my reputation on the line with Arthur Bingham?\n**Eleanor Hunter:** I see. If you are so fiercely independent and 'committed' to this little art fantasy of yours, then you can handle your own expenses. I am taking you off the family phone plan and canceling my contribution to your renter's insurance first thing tomorrow morning.\n**Eleanor Hunter:** I will not subsidize your stubbornness, Alex. You have until 9 AM to grow up, change your mind, and make that call.\n\n*The radiator clanks violently, a sharp metallic sting mirroring the sudden tightening in your chest. The laptop screen dims on standby, your half-finished design application fading away into the dark reflection of your own exhausted face. The choice is no longer just about your pride or career path; it's about sheer financial survival.*",
+      "timestamp": "2026-05-03T01:52:02.681569",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-95712bf7-b4cb-435c-80f1-eeb69195ed51",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Double down, block Eleanor's number, and stay up all night perfecting the design portfolio.",
+      "timestamp": "2026-05-03T01:52:50.270238",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c74a8ed7-3301-452b-85fe-70d2e3933e79",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*The hours bleed into a suffocating, caffeine-fueled haze. The apartment grows freezing as the temperamental radiator finally dies down, leaving only the harsh, isolating blue glow of your laptop screen to anchor you. It's 4:17 AM. You're adjusting the final margins on your digital portfolio when a high-priority email notification loudly chimes, slicing through the agonizing silence.*\n\n**Eleanor Hunter (Subject: Consequences):** Blocking my number? How incredibly mature, Alex.\n**Eleanor Hunter:** If you want to act like a child throwing a tantrum, you will face adult consequences. I didn't wait until 9 AM. I just processed the cancellations online.\n**Eleanor Hunter:** Attached are the confirmation receipts. The family data plan and bundled internet cut out at the top of the hour. Don't come crawling back unless it's to tell me you've called Arthur Bingham from a payphone.\n\n*Your mobile phone abruptly flashes a \"No Service\" warning. Worse, the apartment's WiFi router—tied to the same bundled family account Eleanor just nuked—blinks a steady, dead red. On your laptop screen, your massive design portfolio freezes at 88% uploaded. The spinning wheel mocks you. Panic spikes in your throat. You are completely disconnected, and your dream application is trapped in digital limbo.*",
+      "timestamp": "2026-05-03T01:52:54.316482",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-38485c5e-8b7a-4705-afda-1ac0592b2fd4",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Rush out into the freezing pre-dawn to beg Mateo to use the Bodega's backroom Wi-Fi.",
+      "timestamp": "2026-05-03T01:53:32.384493",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5fd72ec0-ca41-4136-a077-91fafb12a5c1",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You shove your heavy, damp wool coat over your shoulders, clutch the half-closed laptop to your chest, and sprint down four flights of icy stairs. The pre-dawn air hits your lungs like shattered glass. Half a block down, the harsh fluorescent glare of Mateo's bodega cuts through the gray morning gloom—a solitary sanctuary.*\n\n*The bell above the door jingles frantically as you burst in. Mateo, wiping down the flour-dusted counter, takes one look at your wild, sleep-deprived eyes and wordlessly taps the Wi-Fi password taped beside the register.*\n\n*You slam the laptop onto the glass counter. The Bodega Wi-Fi connects. The portfolio upload bar stutters, crawling from 88% to 92%.*\n\n*Then, the heavy, grease-smudged landline phone next to the register rings. Loud and shrill. Mateo blinks, wiping his hands on his apron to answer it. His warm expression instantly falters into deep discomfort. He gingerly holds the receiver out to you.*\n\n*Eleanor’s voice is so sharp it bleeds clearly through the plastic receiver before you even touch it.*\n\n**Eleanor Hunter:** Did you honestly think I wouldn't check the family tracking app before shutting your data off, Alex? I know exactly where you ran off to.\n\n**Eleanor Hunter:** Stop bothering that poor store owner. Arthur's office opens in three hours. Go home and prepare.\n\n*On your screen, the digital progress bar stalls at 99%. Connection buffering.*",
+      "timestamp": "2026-05-03T01:53:32.385058",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-f2fd69c5-377b-4b92-b36f-26b31bb30ec2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - NONE]",
+      "timestamp": "2026-05-03T01:53:32.385598",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3d0f2146-7a1c-4a80-8ba2-51ed4222e4e6",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Ignore the phone, staring in paralyzed agony at the 99% screen and praying it finishes.",
+      "timestamp": "2026-05-03T01:54:16.384147",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a8a2ae74-c1c0-460a-bb64-7737bee30c8e",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You refuse to touch the grease-smudged receiver, your raw, bloodshot eyes locked dead on that agonizing loading wheel. 99 percent. The bodega's ancient commercial beverage fridge hums loudly behind you, a heavy, vibrating drone that perfectly matches your racing pulse.*\n\n*Mateo gingerly brings the phone back to his ear. Her voice is so piercing you can still hear every syllable through the cheap plastic.*\n\n**Eleanor Hunter:** Alex? Fine. Ignore me. Sir? Are you the owner?\n\n*Mateo hesitates, his deeply lined face pale as his compassionate eyes dart to you.* \"It's Mateo, ma'am. Please, they just need to finish—\"\n\n**Eleanor Hunter:** Mateo, my child is having a severe financial and mental breakdown. If you do not force Alex out of your establishment immediately, I am calling local dispatch for a mandatory 5150 wellness check. I will not have my family panhandling in a corner store. You have two minutes to act.\n\n*Mateo grimaces, slowly placing the heavy receiver back on its cradle. The sharp clatter of plastic echoes in the tense, flour-scented air.*\n\n*At that exact second, your laptop screen flashes a brilliant, blinding green. **100%. Submission Successful.***\n\n*Your dream is safely in the digital ether. But before you can even exhale the breath you've been holding since 4 AM, the harsh red and blue strobe lights of a police cruiser sweep aggressively across the frosted front window of the bodega. She didn't even wait two minutes.*",
+      "timestamp": "2026-05-03T01:54:21.257229",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-70e600d3-1623-4836-8663-bb7db89bc859",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Apologize to Mateo, surrender the fight, and walk out to meet the authorities in defeat.",
+      "timestamp": "2026-05-03T01:55:02.950738",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-05a21996-493e-413c-81c2-e27855000e92",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You push through the heavy glass door, the cheerful, oblivious jingle of the bodega bell mocking the hollow pit in your stomach. The freezing pre-dawn air bites instantly through your damp wool sweater. Pulsing red and blue lights paint the cracked neighborhood sidewalk in harsh, violent strokes, turning the gray morning into a nightmare.*\n\n*An officer heavily steps out of the cruiser, his breath pluming in the icy air. \"Alex Hunter?\"*\n\n*You nod, shoulders utterly slumped in surrender, expecting handcuffs or a brutal pat-down. Instead, the officer reaches into his tactical vest and pulls out a department-issued cell phone. He taps the speaker button and holds it out to you.*\n\n**Eleanor Hunter:** I told you I wouldn't let you ruin your life, Alex. The authorities are just there to help you make the rational choice.\n\n**Eleanor Hunter:** I have arranged a compromise with the precinct. You can either let the officers escort you to a voluntary psychiatric hold at St. Jude's... or you can let them drive you directly to Arthur Bingham’s brokerage. I am waiting in the lobby with your new employment paperwork.\n\n* The officer crosses his arms, his expression rigid and impatient, waiting for your compliance. The flashing cruiser lights reflect brightly off the glossy surface of your half-closed laptop. Your portfolio may be uploaded, but your physical freedom is completely trapped.*",
+      "timestamp": "2026-05-03T01:55:02.951520",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-80ec8ccd-3dcb-492d-bf04-8f78ac373063",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - POLICE CRUISER EXTERIOR / BINGHAM BROKERAGE]",
+      "timestamp": "2026-05-03T01:55:08.049698",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e79e1bff-be02-4a05-bd3b-8cf38d3edab9",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Attempt to reason with the officer, proving your sanity and explaining the coercive control.",
+      "timestamp": "2026-05-03T01:56:03.053355",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a7b6d1e2-8065-4bcd-81af-04fe658c4f09",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*The officer sighs, his breath pluming thickly in the freezing air as you stammer through your explanation. He slowly appraises your wildly bloodshot eyes, your oversized, damp sweater, and the laptop you are clutching like a life raft.*\n\n\"Look, kid,\" *the cop grunts, entirely unmoved by your defense.* \"I'm looking at someone who ran out into sub-freezing weather at 4 AM. You fit the caller's description of a manic episode perfectly.\"\n\n*From the tinny speakerphone, Eleanor’s crisp voice slices right through your desperate pleas.*\n\n**Eleanor Hunter:** They don't care about your art portfolio, Alex. They see exactly what I see. Officer, we are done negotiating. Bring them to me.\n\n*The officer snaps his phone shut, unceremoniously grabbing your elbow and marching you into the cramped, plastic-lined back seat of the cruiser.*\n\n*The automatic glass doors of Bingham Brokerage slide open twenty minutes later, washing you in sterile, immaculate corporate fluorescence. The officers deposit you directly in the lobby.*\n\n*There, sitting on a pristine leather sofa, is Eleanor. She takes a calm sip from a ceramic coffee cup, her tailored trench coat impossibly unwrinkled. A thick stack of highlighted HR documents rests on the glass table between you.*\n\n**Eleanor Hunter:** Sit down and sign the W-2, Alex. Or the officers will take you straight to St. Jude's intake.",
+      "timestamp": "2026-05-03T01:56:03.054061",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-8403f251-3425-44be-9d13-f42614bf7196",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - BINGHAM BROKERAGE LOBBY]",
+      "timestamp": "2026-05-03T01:56:03.054762",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9136d69b-70c4-4a8d-a0a2-47a0dcee13f7",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Refuse to sign, calling her bluff and holding your hands out to the officers.",
+      "timestamp": "2026-05-03T01:56:41.879291",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-0c39be84-68eb-4097-9409-434e2101c799",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Bingham Brokerage Lobby tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:56:50.867017",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ba9cc612-8168-4c09-883c-a832609865fa",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You thrust your wrists forward, the damp wool of your oversized sweater sliding back to expose your bare, trembling forearms. You lock eyes with Eleanor, your expression stripped of fear, fully embracing the psychiatric hold over a lifetime of her suffocating control.*\n\n*The cavernous, marble-floored lobby falls dead silent. The older officer hesitates, the heavy clack of his tactical belt echoing as he shifts his weight. He looks from your steady, defiant gaze to the pristine stack of HR documents on the glass table.*\n\n*Eleanor’s immaculate composure shatters. Her ceramic saucer clatters violently against the coffee table, her manicured nails digging into the leather sofa.*\n\n\"Ma'am,\" *the officer grunts, his tone shifting from impatient to thoroughly annoyed.* \"A 5150 is for individuals who are an immediate physical danger to themselves or others. Your kid is making a coherent, deliberate choice. This is a family dispute, not a psychiatric emergency. We're clearing the call.\"\n\n*The officers turn on their heels, the automatic glass doors sliding open as they abandon the lobby entirely.*\n\n**Eleanor Hunter:** Alex, do not make a scene! Do you have any idea how much a hospital bill entails?\n\n*She stands up, her tailored trench coat suddenly looking incredibly rigid as she realizes her ultimate weapon—coercive fear—just evaporated. You are completely marooned in Bingham Brokerage, broke and exhausted, but for the first time in years, the choice of what happens next is entirely yours.*",
+      "timestamp": "2026-05-03T01:56:50.867266",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4ea14aa0-7f8f-4358-b8ff-fadc56541242",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Turn your back on Eleanor and walk out the front doors into the freezing city morning.",
+      "timestamp": "2026-05-03T01:57:42.109116",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-eaa30c1d-c3e0-4551-a3a7-fd4ff78abbe7",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You turn your back on the pristine glass table and the stack of unsigned corporate surrender. The sheer relief in your chest is agonizingly sweet as you march toward the exit.*\n\n*Behind you, the sharp, frantic clatter of Eleanor’s heels echoes aggressively off the marble floor.*\n\n\"Alex, wait!\" *Her voice cracks, stripped entirely of its polished, maternal superiority. She catches the edge of the heavy glass doors just as they slide open, chasing you out into the biting, sub-freezing morning. The commuter rush hour has begun; yellow cabs blur past in a cold haze of exhaust.*\n\n\"You think this is just about your pride?\" *Eleanor shouts over the roar of city traffic, the freezing wind whipping her perfectly styled hair across her pale face.* \"I co-signed the private loans for that worthless degree! If you don't take this job, Bingham's creditors come after my retirement! You're going to bankrupt me!\"\n\n*The raw, ugly truth hangs in the freezing air between you. Her desperate manipulation wasn't just about controlling your worth—it was about protecting her own survival. You stand on the cracked pavement, gripping your cold laptop. Across the street, the concrete stairs of the public transit station gape open—your literal next stop. You have absolutely nothing left but a choice.*",
+      "timestamp": "2026-05-03T01:57:42.109916",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-cc2c8d70-646c-46c9-ad16-1cfd216c51bb",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - PUBLIC TRANSIT STATION / TRAIN WINDOW SEAT]",
+      "timestamp": "2026-05-03T01:57:46.735773",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2fc3a290-18b2-466a-bc07-66e62fbc8d12",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Walk away without a word and descend into the transit station.",
+      "timestamp": "2026-05-03T01:58:48.463528",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f8abcf99-1b24-45c2-9540-69368f322ca7",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You don't look back. The descent down the concrete stairs swallows Eleanor's voice, the biting winter wind instantly replaced by the stale, ozone-heavy warmth of the subterranean platform. You swipe your transit card with numb fingers, pushing through the heavy metal turnstile just as the inbound train screeches to a deafening halt.*\n\n*Stepping onto the brightly lit, humming car, you sink into a scarred plastic window seat. The doors hiss shut with absolute, mechanical finality.*\n\n*Through the scratched plexiglass, the dark tunnel walls begin to blur as the train lurches forward. Suddenly, your phone vibrates harshly in your pocket. You pull it out, the cracked screen glaring with a stark, isolating blue light.*\n\n**Eleanor Hunter:** You are dead to me, Alex. I’m calling the bankruptcy lawyers. Don't bother contacting me for the holidays.\n\n*You stare at the glowing letters. The guilt is a physical, sickening weight in your gut, but right alongside it, the suffocating pressure that has dictated your entire life suddenly evaporates. The train rattles faster, hurtling deeper into the vast, indifferent city. You are completely alone, broke, carrying only a damp wool sweater and a laptop—but for the first time, you are entirely free.*",
+      "timestamp": "2026-05-03T01:58:48.464336",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-43794247-71cc-4fc1-9f81-5306e8b83912",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - PUBLIC TRANSIT STATION / TRAIN WINDOW SEAT]",
+      "timestamp": "2026-05-03T01:58:48.464824",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6414d288-8d6c-4c53-b33d-c07a047c4aa8",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Open your laptop right there on the moving train and look up freelance art gigs.",
+      "timestamp": "2026-05-03T01:59:52.464825",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f2691fb1-5e3d-41ce-ab56-875162c7d9e4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Public Transit Station / Train Window Seat tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T01:59:56.736975",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dc1b12fc-514b-43ec-958b-0bb9bae6fd17",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You balance the cold aluminum of the laptop on your knees as the train violently rattles over a track switch. The harsh fluorescent overheads reflect off the glossy screen, illuminating empty browser tabs. You reach to tether the connection to your phone, desperate to apply for a gig—any gig—just to prove you can survive this.*\n\n*The loading wheel on the browser spins. And spins.*\n\n*Then, a sterile gray notification pops up on your cracked phone screen: **\"Cellular Data Restricted: Primary Account Holder (Hunter, E.) has suspended this line.\"***\n\n*The ultimate, petty severing of the cord. Eleanor isn't just threatening bankruptcy; she just cut off your literal lifeline to the outside world. The job board completely times out, turning into a pixelated error screen. You are officially off the grid, holding a useless metal brick in the middle of a moving subway car.*\n\n*But the panic doesn't rise as it usually would. Instead, a sharp, ragged laugh tears out of your throat, echoing faintly over the screeching tracks. You know exactly where you need to go. Two stops from here is Mateo’s bodega—it has free, spotty Wi-Fi, zero judgment, and a quiet counter where you can finally start building your own safety net.*",
+      "timestamp": "2026-05-03T01:59:56.737251",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f252a6de-e2c4-4117-a2c5-07119c1c00a2",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Close the laptop and just ride the train to the end of the line, embracing the silence.",
+      "timestamp": "2026-05-03T02:01:32.018412",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-48707cc5-6cf7-4b89-a206-07eab57ff159",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You snap the cold aluminum chassis shut, the sharp click echoing under the screech of the wheels. Mateo’s station blurs past the scratched plexiglass—a flash of familiar dirty tiles that you deliberately ignore. For once, you don't want advice or safety. You just need the roaring, mechanical silence.*\n\n*The subway car gradually empties. Polished shoes and leather briefcases vanish at the transfer hubs, leaving only the harsh fluorescent hum and the empty sway of plastic hand straps. The train groans as it finally bursts out of the subterranean tunnels, the elevated tracks exposing the sprawling, gray industrial skyline beneath bruised autumn clouds.*\n\n*With a final, pneumatic hiss, the train terminates at the desolate edge of the city. As you step out onto the rusted, wind-battered platforms, the absolute reality of your rebellion takes root. You are miles from your cramped fourth-floor walk-up, digitally erased, and completely penniless.*\n\n*But before the familiar anxiety can claw its way up your throat, your eyes snag on a battered community corkboard near the exit turnstiles. Pinned haphazardly over a dozen faded advertisements is a freshly stapled, hand-written flyer: 'Night Stocker / Warehouse. Cash Paid Daily. Starts Tonight.' It’s grueling, unglamorous physical labor—the exact antithesis of a Bingham Brokerage career track. And it is entirely yours for the taking.*",
+      "timestamp": "2026-05-03T02:01:32.019085",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-8f24fc00-6a87-458f-b028-c16a942f2432",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE END OF THE LINE / ELEVATED TRANSIT PLATFORM]",
+      "timestamp": "2026-05-03T02:01:37.271687",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8fe67aff-56fc-479f-a4d8-4eef52bdafd3",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Tear the flyer off the board and head toward the warehouse address.",
+      "timestamp": "2026-05-03T02:02:12.487596",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fb9aed27-568b-40c8-ab09-f3e221d212b0",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "<<eleanorhunter>>\n*You rip the flyer from the corkboard, the rusted staple tearing a jagged edge through the cheap paper. The wind bites through your frayed wool sweater as you descend the metal exterior stairs to street level, guided only by the smeared ink of the address.*\n\n*The industrial district is a sprawling maze of chain-link fences and cracked asphalt, heavy with the smell of diesel fumes and damp cardboard. Within blocks, you stand before a massive, corrugated metal warehouse. The open loading bays are a hive of chaotic motion—forklifts reversing with high-pitched beeps, heavy wooden pallets slamming against cold concrete.*\n\n*There is no pristine glass lobby. No receptionist. Just a burly floor supervisor in a high-vis vest holding a battered clipboard, shouting over the mechanical din at a small knot of shivering hopefuls.*\n\n*\"Need three sets of hands for the deep-freeze pallets!\" he barks, a cloud of white condensation blooming from his mouth in the freezing air. \"Back-breaking work. Cash in hand at dawn. Who's stepping up?\"*\n\n*You grip the torn flyer in your pocket. The contrast to Bingham Brokerage couldn't be sharper. No resumes, no toxic-positivity networkers, no Eleanor scrutinizing your five-year plan. Just your own two hands and the raw, unglamorous reality of keeping yourself alive.*\n\n- Step forward into the freezing air and claim the job.\n- Hesitate, suddenly intimidated by the brutal reality of the labor.\n- Ask the supervisor if there's any administrative work available instead.",
+      "timestamp": "2026-05-03T02:02:19.043062",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-0d020596-9a52-4058-8a13-01fb045e5965",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - WAREHOUSE LOADING BAY]",
+      "timestamp": "2026-05-03T02:02:19.043757",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9025eeec-db7c-4d91-9a00-5be5747fa56d",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Step forward into the freezing air and claim the job.",
+      "timestamp": "2026-05-03T02:03:19.231620",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b8cb141e-15fe-45d3-ad6b-fd3323f23148",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Warehouse Loading Bay tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:03:22.700195",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-93ab28f6-2617-4af0-8066-d60c8c2a1eb0",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*You step out of the huddle, raising a stiff, trembling hand. The supervisor pauses, his eyes sweeping over your scuffed shoes, the useless messenger bag, and your hopelessly thin wool sweater. A skeptical sneer dances on his chapped lips, but he doesn’t argue.*\n\n*Instead, he reaches into a plastic bin beside him and lobs a pair of thick, cracked insulated gloves squarely at your chest.*\n\n\"Suit yourself, kid. Bay four,\" *he barks, pointing a gloved thumb toward the cavernous back of the warehouse.* \"Keep moving or you'll freeze. Don't drop the perishables.\"\n\n*The transition is brutal and instantaneous. The second you push past the heavy, frosted plastic flaps of the deep-freeze unit, the minus-twenty-degree air hits your lungs like swallowed glass. Your first task is a towering, disorganized pallet of solid-frozen meat crates. The frosted cardboard is slick, dense, and staggeringly heavy. With your very first agonizing heave, your shoulders scream in protest, the muscles tearing under the sudden, unfamiliar strain.*\n\n*This isn't another unanswered email. It isn't a passive-aggressive text from Eleanor. It’s raw, blistering physical exhaustion. But as you slam the heavy crate down onto the steel sorting table, a strange, feral adrenaline ignites in your exhausted veins. Every ache is a rebellion; you are entirely self-reliant.*",
+      "timestamp": "2026-05-03T02:03:22.700432",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a3bf3778-8702-4e24-a54e-8691c465827d",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Struggle with the weight and ask an older, weathered warehouse worker nearby for a better lifting technique.",
+      "timestamp": "2026-05-03T02:04:03.520960",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f041a3ad-b1ad-4b5f-b3f4-801685754d4b",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "<<eleanorhunter>>\n*Your muscles tremble violently under the crushing weight of the third crate, the slick cardboard slipping from your frozen grasp. Just before you drop it, a grizzled worker with frost clinging to his overgrown beard steps in, seamlessly hooking his knee under the box to stabilize it.*\n\n\"Anchor your base, not your back, kid,\" *he grunts, his voice a gravelly rumble over the drone of the refrigeration units.* \"Use the floor. Or you won't last till sunrise.\"\n\n*You adjust your stance, following his brutal but efficient rhythm. Squat, brace, drive upward. The physical agony doesn't vanish, but it transforms from a panicked struggle into a punishing, rhythmic meditation. For grueling hours, you haul, stack, and breathe frozen fog, systematically sweating out every ounce of the manicured corporate anxiety instilled in you.*\n\n*When the harsh warning siren finally blares the end of the shift, your fingers are completely numb and your wool sweater is dangerously stiff with frost. The burly supervisor marches down the steel line, slapping a meager roll of twenty-dollar bills into your bruised palm.*\n\n*Cold, hard cash. The morning sun just begins to pierce the gray industrial skyline outside the open bay doors. It isn’t a salary. It isn’t a title. But holding it, you realize Eleanor's phantom grip has finally broken.*\n\n- Walk out into the dawn and buy a hot coffee with your own uncompromised earnings.\n- Pull out your disconnected phone and finally, definitively delete Eleanor's contact.\n- Thank the grizzled worker and head toward Mateo's bodega to celebrate your survival.",
+      "timestamp": "2026-05-03T02:04:03.521778",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-abd7e1f8-f469-4c37-95d6-455417012386",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INDUSTRIAL DISTRICT STREET / SUNRISE]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T02:04:09.217991",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-94dd6727-6eeb-4a7e-9827-00ac3aa5c28c",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Walk out into the dawn and buy a hot coffee with your own uncompromised earnings.",
+      "timestamp": "2026-05-03T02:04:59.985037",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-87e0f632-3c6d-452f-a9f5-75180290f27e",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "<<eleanorhunter>>\n*You push through the heavy metal exit doors, leaving the roaring chill of the warehouse for the pale, quiet light of dawn. The industrial street is waking up, bathed in a muted golden haze that softens the harsh concrete. Down the block, a battered metal food cart hums to life, billowing steam into the freezing morning air.*\n\n*You approach, handing over a crumpled, hard-earned twenty-dollar bill from your bruised hand. The vendor slides back a scalding paper cup and a heavy fistful of change. As the bitter, cheap roast burns pleasantly down your throat, you catch your reflection in the stained glass of a nearby bus shelter.*\n\n*The person staring back has exhausted, hollow eyes and a frost-stiffened wool sweater, but they are standing perfectly straight. The defensive, beaten-dog hunch is completely gone. For the first time in months, you don't feel like a defective commodity begging to be bought. You feel undeniably real.*\n\n*Your disconnected phone shifts in your pocket, suddenly feeling like a relic from a past life. The sprawling city opens up before you—no longer a hostile grid of corporate rejections, but a blank map. You have exactly fifteen dollars to your name, exhausted muscles, and absolute, unprecedented freedom.*\n\n- Toss the dead phone into a nearby trash can, severing the last tie to your old life and Eleanor's expectations.\n- Walk back to the transit train to head home, ready to pack a bag and leave that claustrophobic apartment for good.\n- Take your coffee and your cash to Mateo's bodega to share this quiet, final victory.",
+      "timestamp": "2026-05-03T02:04:59.985805",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-965e83b6-15e0-4e2b-a3c5-4dabc5a35294",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE FINAL CHOICE (BODEGA / TRANSIT / STREET)]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T02:04:59.986376",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6c165e27-873e-48a8-9c39-6499835ba526",
+      "speaker": "Alex Hunter",
+      "role": "user",
+      "character_id": "alexhunter",
+      "content": "Walk back to the transit train to head home, ready to pack a bag and leave that claustrophobic apartment for good.",
+      "timestamp": "2026-05-03T02:06:06.630781",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8589533c-6edd-42a1-a478-ac219d744767",
+      "speaker": "Eleanor Hunter",
+      "role": "assistant",
+      "character_id": "eleanorhunter",
+      "content": "*The morning commute train rattles over the frozen tracks, but the usual suffocating dread of the window seat is entirely absent. You ride it back to your gentrifying neighborhood, your heavy boots echoing up the four familiar flights of stairs.*\n\n*Inside, the temperamental radiator hisses its frantic rhythm. The air is stale with anxiety and reheated coffee. Jordan is in the kitchenette, adjusting a crisp collar in the microwave door's reflection. They freeze, taking in your bruised knuckles, frost-stiffened sweater, and the raw, unblinking focus radiating from your rigid posture.*\n\n\"Alex? Did you sleep outside?\" *Jordan asks, their eyes darting nervously to their pristine leather briefcase resting near the corkboard, where your pinned rejection letters flutter in the draft.* \"Look, if you just updated your LinkedIn like I said...\"\n\n*You don't waste a single breath arguing. You walk straight past them into your cramped bedroom, yanking a faded canvas duffel bag from under the bed. You shove in only the immediate essentials: a few clean shirts, sensible socks, and your uncompromised fifteen dollars. The hissing of the radiator no longer sounds like a ticking clock—it sounds like a starting gun. You zip the bag shut, lifting it with shoulders that ache deeply, but absolutely refuse to bow.*",
+      "timestamp": "2026-05-03T02:06:11.494393",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-2bc34d72-20da-42f3-af6b-50d594974d53",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE STREET / FINAL DESTINATION]\n\n[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T02:06:11.494967",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

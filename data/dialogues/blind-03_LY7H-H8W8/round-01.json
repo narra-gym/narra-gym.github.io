@@ -1,0 +1,374 @@
+{
+  "score": {
+    "rating": 5,
+    "scores": {
+      "story_relevance": 5,
+      "story_coherence": 5,
+      "story_empathy": 5,
+      "story_surprise": 5,
+      "story_engagement": 5,
+      "story_complexity": 5,
+      "character_shaping": 5,
+      "ux_story_satisfaction": 5,
+      "ux_perceived_story_quality": 5,
+      "ux_process_engagement": 5,
+      "ux_use_again_intent": 5
+    },
+    "comment": "Like it!",
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-04-24T21:31:26.256702"
+  },
+  "dialogue": [
+    {
+      "id": "msg-baf2c596-ea99-4365-9a57-64a00391439b",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "...",
+      "timestamp": null,
+      "message_type": "internal_action",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-becb66a9-f051-4c51-b0fb-68ce9558609b",
+      "speaker": "Diane Pruett",
+      "role": "assistant",
+      "character_id": "dianepruett",
+      "content": "I'm Diane — I run the place. Sit anywhere you like. Coffee?",
+      "timestamp": null,
+      "message_type": "greeting",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-953c77a7-e9c0-4330-81d4-d2d755f9dc58",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Yeah. Yes. Coffee — thank you.",
+      "timestamp": null,
+      "message_type": "response",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e3526af0-bbd5-4eb5-bbd7-3d4f87b53269",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "Name's Gus Ferreira — been warming that stool fifteen years, so don't let me stop you taking a booth. You passing through or stopping a spell?",
+      "timestamp": null,
+      "message_type": "introduction",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bbde8898-a579-42e7-8f5d-21742ecad6d0",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "I'm — honestly not sure yet. Morgan. I was just driving and I—",
+      "timestamp": null,
+      "message_type": "response",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e9071b91-edb0-4fe2-b83b-2fc24730b452",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "Sure. That happens.",
+      "timestamp": null,
+      "message_type": "response",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-aeee110c-f2e5-4f38-a671-a08b31eb0bf1",
+      "speaker": "Diane Pruett",
+      "role": "assistant",
+      "character_id": "dianepruett",
+      "content": "Here you go.",
+      "timestamp": null,
+      "message_type": "action_dialogue",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7eeebb84-a62a-40e4-a7d7-1abb84753dc5",
+      "speaker": "Wren Achebe",
+      "role": "assistant",
+      "character_id": "wrenachebe",
+      "content": "I'm Wren, by the way. I'll be your bus person tonight, if anything needs busing. Which — honestly, probably just the mug when you're done.",
+      "timestamp": null,
+      "message_type": "introduction",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-51d6a24a-9ec1-410b-93f5-3a75b6eda41e",
+      "speaker": "Mr. Okafor",
+      "role": "assistant",
+      "character_id": "mrokafor",
+      "content": "Mr. Okafor. Don't mind me.",
+      "timestamp": null,
+      "message_type": "introduction",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a9b30d5e-17fb-4d5d-88a4-8bfbd4ef0476",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Is there — is there a motel? Or somewhere I could—",
+      "timestamp": null,
+      "message_type": "question",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9ddcef8d-4d9f-438c-b47f-16b36cb87393",
+      "speaker": "Diane Pruett",
+      "role": "assistant",
+      "character_id": "dianepruett",
+      "content": "Roy's place, two blocks north. He doesn't care what time you check in — just knock if the office light's off. Fair rates.",
+      "timestamp": null,
+      "message_type": "information",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b077f917-f758-40ad-b799-68d42b58334f",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "You know, I was driving a load through New Mexico once — long stretch of nothing, two in the morning — and the headlights went out. Both of them. Just like that.",
+      "timestamp": null,
+      "message_type": "story_opening",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-40b68866-854b-49bc-9a73-34cddd2d7aa8",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "Pitch black. Road I didn't know. I stopped, obviously — which is all you can do. Just stopped and sat there. And after a while my eyes started adjusting. Turns out there was moonlight. Turns out there'd been moonlight the whole time. I just hadn't been able to see it because of my own headlights.",
+      "timestamp": null,
+      "message_type": "story_continuation",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6476461a-656a-4d77-ae33-d0ee84bbf042",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "What did you do?",
+      "timestamp": null,
+      "message_type": "question",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-83fbd5bb-5743-48c9-ade9-4ece1ebb7233",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "Drove by moonlight for about six miles till I found a town with a mechanic. Made it fine. Took longer, though. Had to slow down — really slow down — and let the road come to me instead of the other way around.",
+      "timestamp": null,
+      "message_type": "story_resolution",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1c2e0ad1-e1d2-4316-bdd9-d2a78d3c8098",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Leave the booth and stand in front of the laminated map on Patsy's wall. Something about it — all those handwritten annotations in different inks — has been pulling at your attention since you sat down.",
+      "timestamp": "2026-04-25T05:24:46.391794",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3bb4d128-9981-4474-a18c-741074564521",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*Gus watches Morgan cross to the map without comment, just turns on his stool to follow the movement with a sideways look. His coffee mug rests easy in both hands.*\n\nFrom this distance you can see what years of collective annotation looks like — a dozen different handwriting styles and ink colors layered on laminate like sediment, notes about flood years and where the road washes out and where the blackberries run thick in August. Someone drew a small star in red ballpoint and wrote *Chair — worth it* in cramped capital letters beside a limestone outcrop symbol on the ridge.\n\n\"Thirty-odd years of that map,\" Gus says from the counter, not moving from his stool. \"Every person who ever knew something worth knowing about this valley, they added it. GPS doesn't have half of it. GPS doesn't know about the Chair.\"\n\n*He sets his mug down.*\n\n\"You want to find something actually alive tomorrow — and I think you do, I can hear it — start there. The Chair on the ridge. Seven miles on the River Road Loop. Diane keeps the old Raleigh out back, she'll lend it.\"\n\n*A deliberate pause, the kind that means something.*\n\n\"But it's your second mile in that's the hard one. You'll want to turn around. Don't.\"",
+      "timestamp": "2026-04-25T05:24:46.392350",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-6f8b70f9-27dc-4280-892b-7b9e554db398",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RIVER ROAD LOOP / LIMESTONE OUTCROP CALLED THE CHAIR]",
+      "timestamp": "2026-04-25T05:24:46.392840",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1b719f5e-52cd-47c0-942d-54f8f6b0a7af",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Go out back right now, in the fading light, and check on the bicycle yourself.",
+      "timestamp": "2026-04-25T05:25:34.255242",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-646e8060-ae7f-4d14-afee-e06b637b31ac",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*Gus doesn't try to stop Morgan or call anything after them — just watches the back door swing shut and turns back to his coffee.*\n\n*The bicycle is exactly where Diane said it would be, leaning against the rusting chain-link with the particular patience of an object that has learned to wait. In the last of the amber light it's a faded cornflower blue — the color of something that was once vivid and has arrived somewhere quieter. The wicker basket is zip-tied crooked to the handlebars. Morgan crouches and squeezes the front tire: soft, but holding.*\n\n*The back door opens behind. Gus has followed, hands in his jacket pockets, unhurried.*\n\n\"She's rideable. Tires'll hold seven miles if you don't push too hard.\" *He stops a few feet back, looking at the bike rather than Morgan.* \"Gears stick on the upshift. You'll hit that around mile two — right when the road starts climbing toward the ridge.\"\n\n*A pause. The creek murmurs somewhere in the darkening trees.*\n\n\"That's the part I was telling you about. The hard part isn't the distance. It's deciding to push the gear through when it sticks and your legs are burning and Roy's motel is still warm behind you.\"\n\n*He looks at Morgan then, direct for the first time.*\n\n\"You checking on the bike tonight means something. Just so you know.\"",
+      "timestamp": "2026-04-25T05:25:38.991999",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-83814e1a-642f-4690-b2c0-f83c17c509e5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROY'S MOTEL OR RIVER ROAD IN FADING LIGHT]",
+      "timestamp": "2026-04-25T05:25:38.992744",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9ad22467-3fbc-4d1d-8a1e-20580bfc26d5",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Take the Raleigh now, in the last of the light, and find Roy's motel the long way around",
+      "timestamp": "2026-04-25T05:26:22.243247",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9db9bcf8-2f9f-4983-b16f-892eceaa26ae",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*Gus watches Morgan wheel the Raleigh toward the gap in the chain-link fence — doesn't move to help, doesn't call out a warning. Just stands with his hands still in his jacket pockets while the amber light catches the spokes.*\n\n*Then, quietly enough that Morgan might not be meant to hear it:*\n\n\"River Road runs north off Main. Follow the creek sound.\"\n\n*The bike's chain catches once on the first pedal stroke, then settles. The gears are stiff but they turn. The October air hits cold off the water — woodsmoke and river damp and something underneath that, clean and sharp, like the smell of a decision already made.*\n\n*Half a block along, the road bends and Patsy's lights drop behind the treeline. The creek appears to the right, running loud and dark over limestone, the last of the gold light sitting flat on the water.*\n\n*This is already past mile zero. The motel is two blocks north by the direct route — which means Morgan just chose the long way deliberately, in fading light, on a bike with soft tires.*\n\n*That is not nothing.*\n\n*The first incline is barely a grade. The gears hold. The Chair is still six miles further, invisible beyond the ridge — but the ridge is visible now, a dark line against the bruised sky.*",
+      "timestamp": "2026-04-25T05:26:28.408326",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-2908993a-084f-4fff-a685-abeee29bc1c4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RIVER ROAD LOOP — POTENTIALLY THE CHAIR AT THE RIDGE IF MORGAN PUSHES THROUGH]",
+      "timestamp": "2026-04-25T05:26:34.864738",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-173fc7a6-ac52-4b2b-b6af-6729ffd8df6b",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Find Roy's motel by the long route and commit to the full loop at first light tomorrow",
+      "timestamp": "2026-04-25T05:27:12.408871",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7f3604e6-50a5-4730-8a85-15fca68bff14",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*Mile two arrives exactly where Gus said it would.*\n\n*The road tips upward — not dramatically, just enough — and the Raleigh's gears seize mid-stroke, exactly mid-push, like the bike is asking a question. Morgan's thighs are already burning from the gravel section, the soft front tire dragging against every loose stone. Behind, Sallow Creek's lights are a warm smear through the oaks. Ahead, darkness and the sound of the real creek running cold somewhere below the road.*\n\n*The gear doesn't want to move.*\n\n*Morgan stands on the pedal and forces it through — a grinding reluctance, then a catch, then it releases and the Raleigh climbs.*\n\n*Twenty minutes later, a hand-lettered sign on a cinder-block building: ROY'S ROOMS — VACANCY — ENTER AROUND BACK. A yellow bulb over a side door. Gravel lot. The kind of quiet that has been quiet for years.*\n\n*Morgan leans the Raleigh against the wall and stands there a moment, legs trembling slightly, chest doing something unfamiliar — not the tight anxiety-drumming of a missed deadline. Something looser. Something that takes up actual room.*\n\n*Tomorrow: first light, full loop, the Chair.*\n\n*That's already decided. Has been since mile two, when the gear gave.*",
+      "timestamp": "2026-04-25T05:27:12.409855",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-0f3d09f7-1c4f-49c2-a568-d766e0818363",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROY'S MOTEL ROOM — THEN RIVER ROAD LOOP AT FIRST LIGHT]",
+      "timestamp": "2026-04-25T05:27:12.410482",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ae11d2f3-2e80-4473-8f2e-a558bedc3474",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Pull out your phone — one bar — and notice you haven't thought about it since Main Street",
+      "timestamp": "2026-04-25T05:28:01.790620",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-672d4cfc-7d47-4302-b891-a39696bad24d",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*The phone comes out by reflex — that old muscle memory, hand to pocket before the thought completes. One bar. No notifications that matter. The screen's glow looks alien against the yellow bulb and the dark treeline and the nothing-particular sound of the valley settling into night.*\n\n*Morgan stares at it for a moment.*\n\n*Four hours. Maybe five. Not once since standing in front of that map.*\n\n*That hasn't happened in — the mental search comes up empty. Months. Longer, probably. There was always a thread to pull, a Slack to half-read, the ambient low-grade frequency of being needed that had started to feel indistinguishable from being alive.*\n\n*Gone. Just gone. Replaced by a stuck gear and cold air and legs that hurt in an honest, uncomplicated way.*\n\n*The phone goes back in the pocket.*\n\n*Inside Roy's, a man behind a folding table takes cash without asking for a name, hands over a room key on a numbered fob, and returns immediately to his television. Room 4 smells like cedar and old carpet. One window faces the ridge — invisible now, just darkness — but it's there.*\n\n*Morgan sets the alarm for 5:45. First light.*\n\n*Then sits on the edge of the bed and doesn't open the laptop.*\n\n*Doesn't open it.*",
+      "timestamp": "2026-04-25T05:28:06.202352",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-529ccebf-84d4-4667-a4a4-5389528552fc",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RIVER ROAD LOOP AT FIRST LIGHT, HEADING FOR THE CHAIR]",
+      "timestamp": "2026-04-25T05:28:06.203028",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e701612a-4fd7-4ac9-b2f8-a09835a482e2",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Dig the topographic map sketch you made from memory out of your bag and trace the River Road Loop with your finger until you find the Chair",
+      "timestamp": "2026-04-25T05:28:54.292165",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f574cd60-2057-4218-a50b-9ce1e914881d",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*The tote bag takes a minute to excavate — chargers, the water bottle finally empty, the laptop cold and closed and staying that way. The sketch is on the back of a Roy's complimentary notepad sheet, done in ballpoint during the ten minutes between checking in and remembering sleep existed: rough, approximate, the creek indicated by a wavy line that probably isn't to scale.*\n\n*But it's there. Main Street. The gap in the chain-link. The road bending north, the creek appearing on the right. Mile two marked with a small jagged shape — the gear. The ridge as a simple arc.*\n\n*Morgan's finger traces the loop slowly, the way you'd follow a sentence in a language you're still learning.*\n\n*The Chair isn't on the sketch. Morgan drew the ridge but left it blank beyond — because nobody at Patsy's had described what waited at the top, only that it was there. Gus had said limestone outcrop. Mr. Okafor hadn't looked up from his crossword but had said, without prompting: \"You'll know it when you stop.\"*\n\n*The finger stops at the blank space past the ridge.*\n\n*That's the reveal the map can't give. That's what the morning is for.*\n\n*Morgan folds the sketch, sets it on the nightstand beside the key fob, and lies back without undressing.*\n\n*5:45. The Chair. The thing that requires arrival to be known.*",
+      "timestamp": "2026-04-25T05:28:54.292880",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-98d4eecd-960d-4ec3-9853-c21abbb753e3",
+      "speaker": "Morgan Calloway",
+      "role": "user",
+      "character_id": "morgancalloway",
+      "content": "Sleep immediately and let the alarm do its work — no more thinking tonight",
+      "timestamp": "2026-04-25T05:29:22.194026",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9cbc0767-1aa4-42b5-a861-1000558f2e99",
+      "speaker": "Gus Ferreira",
+      "role": "assistant",
+      "character_id": "gusferreira",
+      "content": "*The light switch is a pull cord. Morgan finds it without getting up — just reaches, tugs, and the room goes dark except for the ridge-shaped window and whatever the night puts through it. Nothing. A suggestion of treeline. The creek, audible if you hold still.*\n\n*Sleep comes faster than it has in months.*\n\n*Not blank sleep — the body-deep kind, where the legs are still climbing and the gear is still grinding and none of it is a nightmare, just motion, just the honest arithmetic of effort. The sketch on the nightstand. The blank space past the ridge.*\n\n*The alarm goes at 5:45 exactly.*\n\n*One bar. 38 degrees outside. A text from a number Morgan hasn't responded to in four days — subject line visible in the notification, something about Q4 — and the thumb moves over it and keeps moving, face-down, nightstand, done.*\n\n*The Raleigh is where it was left, frost just beginning on the wicker basket. The valley is grey-blue and absolutely still, the oaks holding their amber in the half-dark like they're not ready to let it go yet.*\n\n*Morgan swings a leg over the saddle.*\n\n*The Chair is up there somewhere. Seven miles. The gear will stick at mile two — that's already known. Everything past the ridge is still blank.*\n\n*The wheels begin to turn.*",
+      "timestamp": "2026-04-25T05:29:22.194671",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-a697f93c-c06f-43e3-858d-ba80107656d9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - RIVER ROAD LOOP — THE RIDGE, THE CHAIR]",
+      "timestamp": "2026-04-25T05:29:22.195219",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

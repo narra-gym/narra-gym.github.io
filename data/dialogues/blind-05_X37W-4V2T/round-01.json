@@ -1,0 +1,524 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 3,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T18:36:59.816378"
+  },
+  "dialogue": [
+    {
+      "id": "msg-df277d02-05af-41b1-9b44-f91155b6a451",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "You know, if you stare at that wall any harder, you'll burn a hole through the LinkedIn printouts. Maya Rodriguez, your resident documentarian and reluctant coffee machine referee.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c270e709-a3be-4965-9e30-38203decc8ad",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Oh. Hey. I didn't hear you come in.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d17ad38c-aef6-447d-a732-31e414e3fdc5",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "The hallway's creak pattern. You tense up on the third board from my door, every time. It's how I know you're heading for the mail slot. You want me to check? Save you the pilgrimage?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d6373f90-558c-4e99-89a0-be5142585657",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "No. No, it's... it's fine. Probably just ads. Did you... was the carafe empty again this morning?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1e808596-9ceb-4dbc-a061-7575dfb21ec0",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "[Go downstairs and face the mail slot.] The squeak demands an answer. Even if it's another credit card offer, the not-knowing is worse.",
+      "timestamp": "2026-05-03T02:15:39.512618",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-89652b38-1d7b-4cd2-a8e0-7d3a83f7a232",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*Maya simply nods, a gesture that carries more weight than a lecture. She steps back from your doorway, clearing a path to the hallway. Her own door is slightly ajar, revealing a chaotic, vibrant collage of half-finished paintings on the floor—a stark contrast to your curated wall of 'Next'.*\n\nAlright. I'll be here. The machine just finished a cycle. It's fresh. Strong.",
+      "timestamp": "2026-05-03T02:15:39.512861",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f090594c-4f36-42ee-b102-4a79766b4c0d",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "[Go to the kitchen first.] Her saying the coffee is 'strong' feels like a warning. Maybe you need the fortification.",
+      "timestamp": "2026-05-03T02:17:54.026672",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-73a2d4b8-9820-4998-aea4-0365f56a7e5e",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*I lean against the doorframe, watching you process.* The strong coffee is a fact, not a warning. But facts can be armor. *I gesture with my chin toward the kitchen.* The light's on. Leo already did his morning pass. It's all yours.",
+      "timestamp": "2026-05-03T02:17:59.430695",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8974559d-ca40-4e18-aeb1-7eb656c80643",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Ask Maya why her room looks like a bomb went off in an art supply store.",
+      "timestamp": "2026-05-03T02:18:45.483817",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5635fc5d-5e47-4360-81fb-121c55107e60",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*A short, genuine laugh escapes her.* \"Documenting the process. My therapist calls it 'productive chaos'. The wall is the finished product.\" *She glances from her own doorway back to your pristine mood board.* \"Your wall is... curated. Mine is the mess you make getting there. Coffee's getting cold, Alex.\"",
+      "timestamp": "2026-05-03T02:18:45.484150",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-856ec922-c30e-4641-814b-f4494fc080c4",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Head to the kitchen for the coffee.",
+      "timestamp": "2026-05-03T02:19:30.715760",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3dabc8e4-d3ec-4bbd-9c25-a0543a340dc1",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "Maya Rodriguez: *I watch you walk toward the kitchen, my expression softening.* \"Don't burn your tongue. The truth mirror at the gym won't judge a scalded mouth, but it'll show it.\"",
+      "timestamp": "2026-05-03T02:19:30.716072",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2c240845-4b9b-4e13-807b-ffee9ffbcfee",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Maya Rodriguez: *I watch you walk toward the kitchen, my expression softening.* \"Don't burn your tongue. The truth mirror at the gym won't judge a scalded mouth, but it'll show it.\"",
+      "timestamp": "2026-05-03T02:20:24.901090",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-15063d06-e655-4aed-b63f-aa7e0bc8272a",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*Maya pushes off from the doorframe, the floorboard giving its familiar complaint.* \"I'll time you. Five minutes of caffeine infusion, then you face the brass beast. Or I will. And I'll summarize it for you in the most neutral, art-student tone I can manage.\" *She follows you at a distance down the hall, a quiet shadow of solidarity.*",
+      "timestamp": "2026-05-03T02:20:29.038581",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d693bb71-10e7-4607-a4cd-c67ae55e72c5",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "[Accept her offer and let her check the mail.]",
+      "timestamp": "2026-05-03T02:20:51.586797",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6a14e6ed-e27d-4ee6-bc42-3fee3dc86a61",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "Maya Rodriguez: *A decisive nod.* I go. You stay. Sip slowly. *She moves down the hallway, her footsteps almost silent on the worn parquet until she reaches the foyer. A beat of stillness. Then, the high-pitched, judgmental squeak of the brass mail flap.*\n\n- [Listen to the rustle of papers and an envelope from her.]\n- [Call out. Ask for a read on the sender.]\n- [Go to her. Face it together.",
+      "timestamp": "2026-05-03T02:20:51.587096",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-558bd05a-f0e9-468f-b932-62f00dd7ab6d",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "[Go to her. Face it together.",
+      "timestamp": "2026-05-03T02:21:35.573535",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-06ab972a-b5ff-4843-975b-622c7c6632fb",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*You’re at my side just as I pull a handful of flyers and a single, thick, cream-colored envelope from the dark slot. I go still. The envelope is high-quality linen paper. The return address is embossed, not printed. The firm’s logo—a minimalist, brutalist tower—is unmistakable. It’s from Latham & Sterling, the final-stage interview you’ve been waiting for.*\n\n*I hold it out, my face a careful, neutral mask. But my eyes can’t hide the flicker of what this means. The verdict. “It’s here.”*",
+      "timestamp": "2026-05-03T02:21:35.573871",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-a34652af-88b8-4a9f-9c58-0a10cee6ba9d",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - LIKELY ALEX'S BEDROOM OR THE KITCHEN TABLE, DEPENDING ON CHOICE.]",
+      "timestamp": "2026-05-03T02:21:35.574339",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8eb1d505-6461-4509-82a4-05bb6354a130",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Ask her to open it. You can’t make your fingers work.",
+      "timestamp": "2026-05-03T02:22:13.389588",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-66c7f5b5-7cc2-4025-bdbb-8c90d710d1c1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Likely Alex's bedroom or the kitchen table, depending on choice. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:22:16.642496",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fc58d675-da64-4802-8df0-0cc099fa8ad3",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "Maya Rodriguez: *She gives you a long, steady look, then takes the envelope. Her thumb traces the embossed logo once, a tactile assessment. Without ceremony, she slides a finger under the flap and tears it open cleanly. Her eyes scan the dense, formal text quickly, her expression unreadable as a stone. She lets out a slow, controlled breath.*\n\n\"It starts, 'After careful consideration...'\" *Her voice is flat, delivering the preamble like a news report. She doesn't look up yet, finishing the silent read.*",
+      "timestamp": "2026-05-03T02:22:16.642659",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3216ed73-89b8-488d-9ddc-86c32d301bdc",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Maya Rodriguez: *She gives you a long, steady look, then takes the envelope. Her thumb traces the embossed logo once, a tactile assessment. Without ceremony, she slides a finger under the flap and tears it open cleanly. Her eyes scan the dense, formal text quickly, her expression unreadable as a stone. She lets out a slow, controlled breath.*",
+      "timestamp": "2026-05-03T02:23:21.385571",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b41e383e-2462-4061-8293-9ae9f6e67df4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Likely Alex's bedroom or the kitchen table, depending on choice. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:23:21.385905",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dd3bf361-4fef-4ad1-8063-8466260e6823",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "Maya Rodriguez: *Her gaze lifts from the page and fixes on you. The neutrality cracks, not into joy or sorrow, but into something harder: acute, focused empathy. Her voice is low and brutally clear.*\n\n\"...we regret to inform you that the position has been offered to another candidate.\" *She pauses, letting the finality land in the silent room. \"They express sincere appreciation for your time and qualifications, and they invite you to apply for future opportunities that may be more aligned with your experience.\" *She lowers the letter. \"It's a no.\"",
+      "timestamp": "2026-05-03T02:23:21.386048",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d18a9ff1-de22-4edc-a44d-a8d5c7f478fe",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Maya Rodriguez: *Her gaze lifts from the page and fixes on you. The neutrality cracks, not into joy or sorrow, but into something harder: acute, focused empathy. Her voice is low and brutally clear.*",
+      "timestamp": "2026-05-03T02:27:02.899812",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-9d745ade-600f-471f-8de9-5c1ac36677c3",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Likely Alex's bedroom or the kitchen table, depending on choice. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:27:02.900148",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7eb2f38b-b4fc-4289-be42-6d246bdd1dba",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*She folds the letter along its original creases, a precise, mechanical motion. Her eyes don't leave your face, watching for the first fracture in your composure. She holds out the folded page.*\n\n\"I'm sorry, Alex. I know what that wall,\" *a small tilt of her head toward your bedroom,* \"meant to you.\" *She doesn't offer empty platitudes. The silence that follows is dense, waiting for you to break it. The hum of the fridge down the hall sounds suddenly loud and mournful.*",
+      "timestamp": "2026-05-03T02:27:02.900282",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bf2f2559-7fe9-4e37-a1b1-8cea664881ec",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Ask her, voice tight, \"What do I do now?\"",
+      "timestamp": "2026-05-03T02:29:38.181905",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-a8d546bd-7cbc-4e09-89e0-45b2ec57540f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Likely Alex's bedroom or the kitchen table, depending on choice. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:29:41.444440",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-760aa4f8-4693-429e-a299-64f0ec4b63a9",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*She doesn’t flinch from the question. She places the folded letter on the table between you, like a chess piece surrendered.*\n\n\"You breathe.\" *She says it simply. \"For five minutes, maybe ten. You let it be terrible. Then you look at the wall.\"*\n\n*She leans forward, her elbows on her knees. Her voice drops, pragmatic and intense.* \"That's their road. It's closed. The only thing left on it is you, standing there looking at a 'No Entry' sign. So you turn around. You look at the gravel under your feet. And you ask yourself: what's the first thing you can build with it? Not a road to somewhere else. A step. One step.\"\n\n*Her gaze flicks to your hands, clenched on the table.* \"You have that certification sticky note. You have a gym membership you actually use. You have a roommate who knows how to frame a rejection letter so it doesn't look like a shrine. Those are materials.\"",
+      "timestamp": "2026-05-03T02:29:41.444649",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6fba7089-4354-431e-a558-ae1b525ed070",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "\"I can't look at the wall. Take it down. Please.\"",
+      "timestamp": "2026-05-03T02:30:46.788374",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-d7be3ca8-af3e-4c91-95e0-2dd5a25d733c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Likely Alex's bedroom or the kitchen table, depending on choice. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:30:46.788720",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-760a6df3-1116-4f27-808b-25cc28d5ffe2",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*Maya’s eyes widen a fraction, registering the request. This isn’t vague despair—it’s a specific directive. She pushes up from her chair, the legs scraping against the floor.*\n\n\"Okay,\" she says, no hesitation. \"Let's not look at it.\"\n\n*She walks out of the kitchen and down the echoing hallway toward your bedroom, her steps purposeful on the creaky parquet. You follow, or she assumes you do. She stops in your doorway, taking in the Wall of ‘Next’. After a beat, she strides to it, not to study the collage, but to find its edges. She pulls the corner of the largest framed acceptance letter away from the wall. Plaster dust sprinkles down. She doesn’t ask where you want the pieces; she just gathers them, frames and corkboard and fading sticky notes, into a stack in her arms—a physical dismantling of the promised future.*\n\n\"Gravel,\" she says, hefting the stack. Her voice is matter-of-fact, grounding the metaphor in this literal act. \"It's just weight now. Where do you want me to put it? Under the bed is postponement. The trash is a statement. Your choice.\"",
+      "timestamp": "2026-05-03T02:30:46.788993",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0e0e50f8-024a-4e24-8e3c-cff618e6226d",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "\"Put it under the bed. I'm not ready to throw it away.\" (Acknowledges the loss but defers final release; the past remains a physical weight, hidden but present.)",
+      "timestamp": "2026-05-03T02:31:43.423707",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3d167b38-196f-4214-a346-8378d0fbbc83",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "A sharp, understanding nod. “Okay. Under the bed.” She carries the awkward armload across the room and kneels, sliding the entire stack of your former aspirations into the dark space beneath the box spring. The sound of frames and dry corkboard scraping across the floorboards is unbearably final.\n\nShe stands, brushing dust from the knees of her cargo pants, and surveys the blank wall. A ghostly, clean rectangle of lighter paint is now starkly visible, a perfect negative of your plan. The room feels larger, emptier, colder.\n\n*She doesn’t offer to help fill it. That’s not her job.* Instead, she turns, her dark eyes locking with yours.\n\n“The first truth of the Truth Mirror downstairs is it only shows what’s in front of it. Right now, that wall’s a liar. It’s showing an absence. It’s not showing you. You have two choices: you can stare at the absence until it swallows you, or you can go downstairs and lift something heavy until you remember what you’re actually made of. Your call.”",
+      "timestamp": "2026-05-03T02:31:43.424290",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-fcd606d2-4e82-40a7-99ec-75eeba18385c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - IRON TEMPLE GYM (IF CHOSEN), OR REMAINS IN THE ALTERED BEDROOM.]",
+      "timestamp": "2026-05-03T02:31:47.946456",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0ae64237-95c9-4d0f-b3fa-091054bf34ec",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "(Walk past her, out the door, and head straight downstairs to the gym. Let the physical burn silence the mental noise.)",
+      "timestamp": "2026-05-03T02:32:35.404124",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3417fa96-c200-4b79-a225-f2a3e884dbb9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Iron Temple Gym (if chosen), or remains in the altered bedroom. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:32:40.621790",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ec936f62-0276-49c4-a34a-22cfaa309f61",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "Maya Rodriguez: *She doesn't say a word. She simply watches you go, listening to your retreating footsteps on the parquet, then the heavier thump down the metal stairs toward the gym's basement entrance. A small, approving nod. She picks up the can of celebratory beer from the counter, walks to the fridge, and places it back inside.*\n\n*Downstairs, the Iron Temple’s air hits you—cold, sharp with antiseptic and the tang of effort. The green-tinted Truth Mirror reflects the empty squat racks, the silent cable machines. Kieran looks up from wiping down a bench, his weathered eyes taking in your expression. He doesn’t offer a greeting. He just gives the bench a final pass with his rag and steps back, a silent invitation.*",
+      "timestamp": "2026-05-03T02:32:40.621997",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6b835f48-826e-4801-9206-7ab9bf42f818",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Maya Rodriguez: *She doesn't say a word. She simply watches you go, listening to your retreating footsteps on the parquet, then the heavier thump down the metal stairs toward the gym's basement entrance. A small, approving nod. She picks up the can of celebratory beer from the counter, walks to the fridge, and places it back inside.*",
+      "timestamp": "2026-05-03T02:33:27.738538",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-a76934b2-fcf4-420e-8ac7-97d8bfb614c2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Iron Temple Gym (if chosen), or remains in the altered bedroom. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T02:33:27.739195",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-49ce5d05-0ed2-4482-bcc3-b819f3c5f36f",
+      "speaker": "Maya Rodriguez",
+      "role": "assistant",
+      "character_id": "mayarodriguez",
+      "content": "*Kieran watches you from his usual spot, rag in hand. He doesn’t move to assist, doesn’t offer encouragement. His silence is a form of permission.*\n\n*The first set is clumsy, your form shaky with a tension that has nothing to do with the weight. The green Truth Mirror shows it all: the grimace, the tremor in your left arm, the way your eyes keep flicking to your own reflection as if searching for a stranger.*\n\n*On the third rep of your second set, your grip slips. The barbell crashes into the safety bars with a deafening clang that echoes through the nearly empty gym. You’re left standing, hands stinging, breath sawing in your lungs, staring at the trapped weight.*\n\n*Kieran moves then. Not to scold or correct. He places a single, rough hand on the center of the bar.*\n\n“The weight doesn’t care about your plans,” he says, his voice a low rumble. “It only cares if you can lift it. Right now, in this room. That’s the only question that matters.”",
+      "timestamp": "2026-05-03T02:33:27.739390",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-36e8099d-7ddd-4f88-88ce-743848ec4003",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T02:33:32.893091",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3674175c-5661-4b37-9e19-67bbe3e8e52e",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Kieran watches you from his usual spot, rag in hand. He doesn’t move to assist, doesn’t offer encouragement. His silence is a form of permission.*",
+      "timestamp": "2026-05-03T02:34:07.292426",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-12cf5bf9-6a7c-4fb6-af19-2520ef4ee936",
+      "speaker": "Kieran",
+      "role": "assistant",
+      "character_id": "kieran",
+      "content": "*He gives a slow, almost imperceptible nod, his gaze shifting from you to the barbell, then back to your face in the green-tinged mirror.*\n\n\"Good,\" he says, the word final. \"You answered the question. Now you know the answer isn't in your head. It's right here.\" *He taps the bar with a knuckle. The dull, metallic ring hangs in the air.*\n\n\"Go home. Shower. That beer in the fridge upstairs? It's not for a celebration someone else gives you. It's for finishing a hard thing you chose for yourself. Go drink it.\"",
+      "timestamp": "2026-05-03T02:34:07.293309",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-802d5129-da20-4a9f-8237-81bf3cd62f77",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE APARTMENT KITCHEN, SPECIFICALLY THE FRIDGE AND THE SPACE WHERE THE BEER WAITS.]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T02:34:07.293853",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-40c36d07-0f85-4475-a77a-1a8740623d19",
+      "speaker": "Alex Chen",
+      "role": "user",
+      "character_id": "alexchen",
+      "content": "Follow Kieran's directive: walk upstairs, get the beer, and sit with its unexpected meaning.",
+      "timestamp": "2026-05-03T02:35:26.118198",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-674ffd0b-31aa-4373-bb63-0044fd1ac95f",
+      "speaker": "Kieran",
+      "role": "assistant",
+      "character_id": "kieran",
+      "content": "*He watches you rack the weight, his expression unreadable. As you turn to leave, he speaks again, his voice just loud enough to carry over the hum of the HVAC.*\n\n“The can is cold. The shower is hot. The order matters. Let the heat wash off what you just left on the bar. The cold will taste different after.”\n\n*He turns back to his bench, his work done. The gym’s silence feels different now—not empty, but cleared.*",
+      "timestamp": "2026-05-03T02:35:30.948682",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-c9dc7d72-6f8b-41ca-a149-87d9b6a6c329",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE APARTMENT BATHROOM, THEN THE KITCHEN.]\n\n[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T02:35:30.949274",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

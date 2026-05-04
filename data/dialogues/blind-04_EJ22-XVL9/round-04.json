@@ -1,0 +1,514 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 2,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T19:45:01.107846"
+  },
+  "dialogue": [
+    {
+      "id": "msg-7f6072d2-a395-47a8-9c08-c30c2d068080",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "Hello, I'm Martha Gable, and I used to own the bakery on the corner before the rent ate it alive. I... I need to speak to whoever is in charge of valuations tonight.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b150f4be-c2f1-4ece-a3e5-517efbe202e3",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "That's me, Martha. I'm Elias. Take your time. The glass is thick, but I can hear you fine. What do you have there?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3d4a2679-6db9-4fbc-b986-ad6d34284fd9",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "It's my husband's ring. Arthur's. He's been gone five years, and the bakery is gone three months. Now the pharmacy says my insulin isn't covered anymore. I'm not begging, Elias. I'm making a transaction. But don't you dare look at me with pity.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-433c5eb1-2480-4580-9630-cae2f5996cc8",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "No pity, Martha. Just the ledger. Let me see it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-856fe5b2-6936-41f0-91f1-70b4e4d2c440",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Inflate the value in the ledger and cover the difference from your own tip jar to ensure she gets enough for her medication, honoring her dignity over the shop's profit margin.",
+      "timestamp": "2026-05-04T03:03:44.149411",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6f740464-95c1-49f2-b7cb-ab9fa45508fa",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The velvet pouch hits the glass with a dull thud, sounding like a heart stopping. Martha's fingers tremble as she slides the gold band through the narrow slot. It's a simple thing, worn thin by decades of kneading dough and holding hands, but the diamond catches the harsh fluorescent light, fracturing it into a dozen desperate stars. The Mechanical Breath above shudders, a low-frequency warning that vibrates through the soles of my shoes, syncing with the sudden spike in my pulse. This isn't just metal; it's the last anchor to a life before the recession swallowed the block whole.*\n\n*I open the Ledger of Unfinished Stories. The grease-stained pages smell of stale coffee and regret. My pen hovers over the line for \"Appraised Value.\" The market rate is forty dollars. Her insulin costs two hundred. If I write the truth, she walks away empty-handed. If I lie, I bleed my own survival fund dry.*\n\n*The hum from the elevator shaft deepens, a cello string bowed by a ghost, urging me toward the dishonest mercy. I look at Martha's reflection in the scratched glass—eyes hard as flint, daring me to break her. The tip jar under the counter holds exactly the difference, my own rent money for next week. To save her dignity, I must sacrifice my own future stability.*\n\n*My pen touches the paper. The ink bleeds into the fiber, sealing the decision.*\n\n- Write the inflated value of $200 in the ledger and silently slide your entire tip jar across the counter to balance the books, sacrificing your own rent money.\n- Adhere strictly to the market value of $40, handing her the cash and a pamphlet for a local charity, preserving your capital but breaking her spirit.\n- Refuse the transaction entirely, claiming the ring is counterfeit to force her to seek help elsewhere, avoiding the moral compromise but abandoning her to the night.",
+      "timestamp": "2026-05-04T03:03:44.149787",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e072b676-306c-4617-910f-9be34b22de3f",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Write the inflated value of $200 in the ledger and silently slide your entire tip jar across the counter to balance the books, sacrificing your own rent money.",
+      "timestamp": "2026-05-04T03:05:39.174150",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3d4df873-5a44-4a59-9a28-8e5fbccf79ab",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The pen scratches loudly, a jagged line of ink transforming Arthur's ring into a lifeline. Two hundred dollars. The lie tastes like copper in my mouth, but the Mechanical Breath above settles into a steady, approving hum, vibrating the coffee cup until the ripples calm. I reach under the counter, fingers brushing the cold glass of the tip jar. It's heavy, filled with the loose change of a hundred desperate nights—my rent for next month. My stomach knots, a physical hollowing out, but I don't hesitate. I slide the jar across the scratched laminate. It stops with a dull clunk right against the glass partition, next to the stack of bills.*\n\n\"It appraised higher than expected,\" *I say, my voice rough, refusing to meet her eyes through the distortion of the thick pane.* \"Store policy on vintage gold. Take it all. Don't count it here.\"\n\n*Martha freezes. Her hand hovers over the jar, then the cash. She looks at the money, then up at me, really seeing me for the first time. The flint in her eyes cracks, revealing a terrifying vulnerability. She doesn't thank me; she knows what this costs. She simply grips the jar and the bills, her knuckles white, and nods once—a sharp, professional acknowledgment of a debt that can never be repaid. As she turns to leave, the bell above the door jingles, sounding like a gunshot in the quiet shop. I am now homeless in three weeks, but the ledger entry stands: Value Honored.*\n\n- Lock the door immediately and count the remaining cash in the register, calculating exactly how many days you can survive before eviction.\n- Open the back room to sleep on the cot, trying to ignore the gnawing hunger and the silence of the shop now that Martha is gone.\n- Wait for the next customer, steeling yourself for the possibility that Julian Vance might walk in next to exploit your newfound vulnerability.",
+      "timestamp": "2026-05-04T03:05:42.954540",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e32d25b0-20c9-47c3-94b7-e0c5985f490e",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "The pen scratches loudly, a jagged line of ink transforming Arthur's ring into a lifeline. Two hundred dollars. The lie tastes like copper in my mouth, but the Mechanical Breath above settles into a steady, approving hum, vibrating the coffee cup until the ripples calm. I reach under the counter, fingers brushing the cold glass of the tip jar. It's heavy, filled with the loose change of a hundred desperate nights—my rent for next month. My stomach knots, a physical hollowing out, but I don't hesitate. I slide the jar across the scratched laminate. It stops with a dull clunk right against the glass partition, next to the stack of bills.*",
+      "timestamp": "2026-05-04T03:06:38.441463",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2437648d-3f7a-4205-a01d-b227eabc6687",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The bell above the door chimes, a sharp, brittle sound that slices through the heavy silence left in Martha's wake. The Mechanical Breath above shudders once, a final, resonant thrum that vibrates the loose change in my pocket, confirming the transaction is sealed in the building's bones. I am alone with the ledger and the hollow ache in my stomach. The fluorescent lights seem to buzz louder now, highlighting the dust motes dancing over the empty spot where the tip jar sat seconds ago. My rent money is gone, walking out the door in a damp wool coat. I grip the edge of the counter, knuckles white, staring at the entry: \"Arthur's Ring - $200.\" It's a lie that feels more true than any balance sheet I've ever filed. But the reality of my own eviction notice, tucked under the register, suddenly feels like a physical weight pressing down on my chest. The shop is secure, but my future just evaporated into the rainy night.*\n\n*The phone on the counter rings, jarring and loud in the quiet. The caller ID is blocked, but I know who it is. Julian Vance doesn't wait for business hours.*\n\n- Answer the phone and face Julian's interrogation about the shop's liquidity before he arrives to inspect the books personally.\n- Ignore the call, unplug the phone, and retreat to the back room to pack a bag, accepting that tonight might be the last night you sleep here.\n- Open the front door slightly to let in the cold air, clearing the stale smell of desperation while you calculate exactly how many days of food you can buy with the remaining register cash.",
+      "timestamp": "2026-05-04T03:06:38.442357",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4d8c4666-1c2b-4aa9-a1d7-0c3a59d92b27",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Answer the phone and face Julian's interrogation about the shop's liquidity before he arrives to inspect the books personally.",
+      "timestamp": "2026-05-04T03:07:09.738530",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-603215b8-5b5e-46d4-b2e0-a4ce670d09ab",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I lift the receiver, the plastic cool and slick against my palm. The line crackles with static before Julian's voice cuts through, sharp as a box cutter. He doesn't say hello; he recites numbers. \"The ledger entry for item 409-B is anomalous, Elias. Two hundred dollars for a band that weighs three grams? My algorithms flagged the discrepancy before the ink was dry.\"*\n\n*The Mechanical Breath above stutters, a jagged, arrhythmic shudder that rattles the coffee cup, syncing with the sudden spike in my adrenaline. He knows. He's been watching the digital feed, waiting for a mistake to exploit. \"I'm coming down,\" Julian continues, his tone dripping with predatory satisfaction. \"Don't lock the door. I want to see the cash you used to cover that lie. If the till is short, I'm calling the landlord immediately. You have ten minutes to prepare for an audit.\"*\n\n*The line goes dead. The silence rushes back in, heavier than before, pressing against my eardrums. The eviction notice under the register seems to glow in the peripheral vision. I haven't just lost my rent; I've handed Julian the weapon he needs to destroy me. The shop feels suddenly transparent, the glass partition no longer a shield but a display case for my impending failure. The front door lock clicks, a mechanical sound that echoes like a gunshot in the empty room. He's already testing the handle.*\n\n- Stand your ground behind the counter, opening the ledger to the incriminating page and preparing to argue the moral necessity of the valuation when he enters.\n- Rush to the back room to hide the remaining register cash in a personal safe, risking a charge of tampering with business assets to protect the last of your funds.\n- Unlock the front door preemptively to meet him on the sidewalk, attempting to control the narrative and the location of the confrontation before he steps inside.",
+      "timestamp": "2026-05-04T03:07:09.739434",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-74a1540f-943a-4fec-b2ab-f2a15cfb77be",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Stand your ground behind the counter, opening the ledger to the incriminating page and preparing to argue the moral necessity of the valuation when he enters.",
+      "timestamp": "2026-05-04T03:08:05.782487",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0972fb73-f43b-4a11-abc7-aec5760c48f6",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The lock tumbles with a heavy, metallic clack, and the door swings inward, dragging a gust of wet, ozone-charged air into the sterile shop. Julian Vance doesn't walk; he strides, his expensive shoes squeaking on the linoleum as if claiming territory. He ignores the greeting I haven't spoken, his eyes locking instantly onto the open ledger. The Mechanical Breath above screams—a high-pitched, grinding whine that vibrates the fillings in my teeth, syncing with the frantic hammering of my heart.*\n\n\"There it is,\" *Julian purrs, tapping the page with his gold pen. The sound is like a bird pecking at a wound.* \"Item 409-B. A three-gram band valued at two hundred dollars. That's not an appraisal, Elias; that's embezzlement wrapped in sentimentality.\" *He leans over the glass partition, his reflection distorting in the scratches, making him look like a jagged monster.* \"My algorithm flagged the weight discrepancy instantly. You think morality pays the landlord? You think 'dignity' covers the shortfall in the till?\"\n\n*He straightens up, smoothing his disheveled suit jacket, and pulls a tablet from his inner pocket. The screen glows blue in the dim light, displaying a red 'FRAUD ALERT' banner.* \"I have the digital logs, the weight sensors, and now the physical evidence. You have exactly sixty seconds to produce the missing cash or explain why I shouldn't call the police before I call the landlord. And don't tell me about the woman. I don't care about her insulin. I care about the asset.\"\n\n*The vibration from the elevator shaft intensifies, shaking the coffee cup until dark liquid sloshes over the rim, burning my hand. The pain is sharp, grounding. He wants the cash. He wants the confession. He wants me to break.*\n\n- Slam the ledger shut and shove it into the fireproof safe behind you, denying him immediate physical evidence and forcing a legal standoff.\n- Pour the remaining register cash onto the counter, showing him the exact deficit, and challenge him to arrest you for trying to save a life rather than balancing a spreadsheet.\n- Step around the counter to block his path to the back room, physically interposing yourself between him and the rest of the shop's assets while demanding he leave the premises.",
+      "timestamp": "2026-05-04T03:08:09.726719",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-56a287f8-b255-421e-ab10-fd50f748f863",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Slam the ledger shut and shove it into the fireproof safe behind you, denying him immediate physical evidence and forcing a legal standoff.",
+      "timestamp": "2026-05-04T03:14:27.965531",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9c6e193e-7f28-4be7-9ba7-5e245630de72",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "Martha Gable: *The heavy steel door of the safe slams shut with a finality that echoes like a gunshot, the tumblers clicking into place just as Julian lunges forward. His gold pen skitters across the counter, rolling into the gutter. The Mechanical Breath above shrieks—a metallic tear in the air that makes the fluorescent lights flicker and die, plunging us into the emergency red glow of the exit sign. In the crimson dimness, Julian's face looks like a wound.*\n\n\"You think a locked box stops an audit?\" *he hisses, his voice losing its smooth veneer, replaced by a raw, vibrating rage. He slams his hand against the glass partition, the impact cracking the surface with a spiderweb fracture that distorts his sneer.* \"I don't need the physical book, Elias. I have the cloud backup. I have the weight logs synced to the server. By locking that away, you've just admitted guilt. You've moved from 'clerical error' to 'active concealment of assets.' That's not a firing offense; that's a felony.\"\n\n*He pulls his phone out, the screen illuminating his cold eyes. \"I'm calling the police now. And I'm calling the landlord to have you evicted within the hour. You have nowhere to go, and now, you have no defense.\"*\n\n*The red light pulses, syncing with the sirens wailing closer outside. The shop feels like a cage closing in. He isn't bluffing; the legal machinery is already grinding into motion.*\n\n- Smash the glass partition with the heavy ledger to create a physical barrier, buying time to escape through the back alley before the police arrive.\n- Surrender immediately, raising your hands and confessing to the fraud in hopes of negotiating a lighter sentence or a moment of human mercy from Julian.\n- Grab the fire extinguisher and threaten to discharge it, creating a blinding cloud of chemical foam to obscure the cameras and allow for a desperate flight into the night.",
+      "timestamp": "2026-05-04T03:14:27.966125",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a9050d70-1b85-4915-879f-cd271ce73eb0",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Gable: *The heavy steel door of the safe slams shut with a finality that echoes like a gunshot, the tumblers clicking into place just as Julian lunges forward. His gold pen skitters across the counter, rolling into the gutter. The Mechanical Breath above shrieks—a metallic tear in the air that makes the fluorescent lights flicker and die, plunging us into the emergency red glow of the exit sign. In the crimson dimness, Julian's face looks like a wound.*",
+      "timestamp": "2026-05-04T03:16:43.919044",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d49afd17-984e-4506-b610-9d29b98e508e",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The red emergency light bathes the shop in the color of dried blood, turning Julian's sneer into a grotesque mask. The Mechanical Breath above doesn't just vibrate now; it grinds, a sound like tectonic plates shifting, shaking dust from the ceiling onto my shoulders. Julian's phone screen illuminates his face as he dials, the blue light stark against the crimson gloom. \"Dispatch? I need an officer at the Last Stop. Felony fraud, active concealment of assets. Suspect is armed with... desperation.\" He laughs, a dry, brittle sound.*\n\n*Through the cracked glass partition, the distortion makes his mouth look like it's speaking from underwater, but the threat is crystal clear. The sirens outside aren't just passing anymore; they are screaming, growing louder, syncing with the frantic rhythm of my own heart. The elevator shaft gives one final, violent shudder, and a single tile crashes down behind me, missing my head by inches. The building itself is rejecting this confrontation. Julian steps closer, his hand reaching for the door handle to the counter area, bypassing the glass entirely. He's coming over the top.*\n\n- Smash the glass partition with the heavy ledger to create a physical barrier, buying time to escape through the back alley before the police arrive.\n- Surrender immediately, raising your hands and confessing to the fraud in hopes of negotiating a lighter sentence or a moment of human mercy from Julian.\n- Grab the fire extinguisher and threaten to discharge it, creating a blinding cloud of chemical foam to obscure the cameras and allow for a desperate flight into the night.",
+      "timestamp": "2026-05-04T03:16:43.919833",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-101b26ba-0575-4850-86eb-9446c67f496a",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Smash the glass partition with the heavy ledger to create a physical barrier, buying time to escape through the back alley before the police arrive.",
+      "timestamp": "2026-05-04T03:22:47.336650",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-104e486c-baae-41e1-8dd1-8a6045838b50",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I don't think; I react. The ledger, heavy with the weight of a hundred stolen dignities, becomes a blunt instrument in my grip. With a roar that tears from a place deeper than my lungs, I swing it hard against the spiderwebbed glass. The partition shatters outward, a cascade of razor-sharp diamonds raining onto the linoleum. Julian flinches back, shielding his face with his expensive suit sleeve, his phone clattering to the floor amidst the debris. The Mechanical Breath above lets out a final, triumphant groan, the vibration ceasing as if the building itself has exhaled.*\n\n\"Stay back!\" *I scream, my voice raw, kicking the largest shard toward his polished shoes. The red emergency light reflects off the broken glass, turning the floor into a lake of blood. I don't wait for his response. I vault over the counter, my boots crunching on the wreckage, and sprint toward the back room. The alley door is rusted, stuck fast. I slam my shoulder against it, once, twice. On the third hit, the lock gives way with a screech of tearing metal. Cold rain and the smell of wet asphalt rush in, a stark contrast to the stale, ozone-charged air of the shop. Behind me, Julian is shouting, his voice competing with the wail of sirens that are now right outside the front entrance. The night is dark, wet, and terrifyingly open.*\n\n- Dive into the narrow alleyway, pulling the door shut behind you to delay pursuit, and run toward the distant glow of the highway overpass.\n- Hide behind the overflowing dumpsters in the alley, holding your breath and hoping the police search the streets rather than the shadows.\n- Turn back and try to barricade the alley door with a heavy crate, preparing to fight Julian hand-to-hand if he follows you into the rain.",
+      "timestamp": "2026-05-04T03:22:52.520418",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-b6b6f74a-4735-4536-bc37-5abc12c8f296",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE RAIN-SLICKED ALLEYWAY BEHIND THE LAST STOP PAWN & LOAN.]",
+      "timestamp": "2026-05-04T03:22:56.620441",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3b0d0949-854a-483b-815f-19e6b371df4a",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Dive into the narrow alleyway, pulling the door shut behind you to delay pursuit, and run toward the distant glow of the highway overpass.",
+      "timestamp": "2026-05-04T03:23:41.449547",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2ee97f7a-deea-47f9-872a-d6866271d830",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The alley door slams shut, the rusted latch catching with a desperate click that feels woefully inadequate against the pounding footsteps echoing from inside. Rain lashes my face, cold and stinging, washing the dust and glass shards from my hair. I don't look back; I run. My boots slip on the slick cobblestones, slick with oil and rainwater, as I sprint toward the distant, hazy orange glow of the highway overpass. The Mechanical Breath is gone, replaced by the thunderous roar of my own blood in my ears and the wail of sirens converging on the shop's front entrance.*\n\n*Behind me, the alley door bursts open again. \"Stop! Police!\" Julian's voice cuts through the rain, no longer smooth, but ragged with fury. A flashlight beam slices through the darkness, sweeping across the overflowing dumpsters before locking onto my fleeing silhouette. I scramble over a pile of wet cardboard boxes, my heart hammering against my ribs like a trapped bird. The overpass looms ahead, a concrete sanctuary, but the gap between the alley's end and the street is exposed, a killing zone under the streetlamp's flickering gaze. I have seconds before the beam finds me again, before the spotlight of the law pins me down.*\n\n- Sprint blindly across the open street toward the overpass stairs, risking exposure to traffic and the police cruiser rounding the corner.\n- Duck into the recessed doorway of a boarded-up laundromat halfway down the alley, hoping the shadows offer enough cover to let the patrol car pass.\n- Climb the fire escape ladder bolted to the brick wall above the dumpsters, seeking the rooftops where the city's maze might offer a hiding place the ground cannot.",
+      "timestamp": "2026-05-04T03:23:41.450216",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-619bc8a4-764c-4bf1-a9af-346368109d1f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - STREET LEVEL/ROOFTOPS/HIDDEN DOORWAY.]",
+      "timestamp": "2026-05-04T03:23:46.783323",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-12a7b471-4f1b-4e79-b5a8-92adcbe89ebe",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Sprint blindly across the open street toward the overpass stairs, risking exposure to traffic and the police cruiser rounding the corner.",
+      "timestamp": "2026-05-04T03:24:15.102983",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0214e966-e5a7-4cbe-b6d8-56477fcca8bf",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I launch myself from the alley's mouth, boots skidding on the wet asphalt as I hit the open street. The world dissolves into a blur of rain and blinding white headlights. A delivery truck roars past, its horn blaring a deafening warning that vibrates in my chest, missing me by inches. The wind of its passage nearly knocks me flat, but I stumble forward, driven by pure, terrified momentum.*\n\n*Blue and red lights erupt at the intersection, painting the rain-slicked pavement in strobing colors. \"There! Stop him!\" a voice shouts from the cruiser, the crackle of a radio drowning out the sirens for a split second. I don't look back; I dive for the concrete pillars of the overpass, my fingers scraping against the rough, graffiti-stained stone as I haul myself up the first few steps of the stairwell. The metal grating beneath my feet clangs loudly, echoing like a gunshot in the narrow space below. My lungs burn, tasting of exhaust and ozone. I'm exposed on these stairs, a silhouette against the gray sky, but it's the only way up. Below, tires screech as the cruiser takes the corner too fast, slamming into the curb.*\n\n- Keep climbing the fire stairs to the rooftop, hoping to lose them in the maze of HVAC units and water towers above.\n- Jump from the mid-landing onto the awning of the adjacent bodega, risking a broken ankle to break the line of sight.\n- Turn around on the stairs and wait for them to approach, using the high ground to negotiate or throw debris to delay their ascent.",
+      "timestamp": "2026-05-04T03:24:15.103475",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-4a90f0b5-dbc9-4b7d-8abc-6c3c526e259e",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROOFTOP OR ADJACENT BUILDING AWNING.]",
+      "timestamp": "2026-05-04T03:24:15.103892",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-14445425-4059-4ab3-a5a6-d33320439b04",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Keep climbing the fire stairs to the rooftop, hoping to lose them in the maze of HVAC units and water towers above.",
+      "timestamp": "2026-05-04T03:24:45.341938",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-9be32c85-ef8b-4c24-a3c7-5e1219658ecd",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Rooftop or adjacent building awning. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T03:24:48.919836",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4be6c698-09aa-434c-83ae-eeaafaa1c9ae",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "Martha Gable: *My lungs burn like I've swallowed broken glass as I haul myself up the final flight, the metal stairs vibrating under the weight of pursuit below. The rooftop hits me with a wall of wind and driving rain, the city sprawling out in a chaotic grid of neon and shadow. I stumble across the slick tar paper, my boots slipping on wet gravel, before diving behind the massive, humming silhouette of an HVAC unit. Below, the cruiser's spotlight sweeps the alley, then jerks upward, painting the stairwell door in blinding white.*\n\n\"They're boxing us in!\" *I hiss, though there's no one here but me and the ghosts of the ledger. The Mechanical Breath is silent now, replaced by the distant, rhythmic thrum of a police helicopter chopping the air somewhere beyond the financial district. They aren't just on the ground anymore; they're taking the sky. I peek over the rusted casing of the unit and see a second cruiser blocking the street access to the adjacent building. The gap between this roof and the next is narrow, maybe six feet, but the drop is thirty stories down into a dumpster-filled abyss.*\n\n*A spotlight sweeps across the rooftop, catching the edge of my coat. They've spotted the movement. The helicopter's beam cuts through the rain, locking onto my position. There is no more hiding in the maze; the maze has been illuminated.*\n\n- Leap across the six-foot gap to the adjacent building's roof, trusting your momentum to carry you over the slick edge.\n- Drop down through the open skylight of the rooftop maintenance room, hoping to lose them in the building's internal stairwells.\n- Stand your ground behind the HVAC unit, using the heavy metal as cover to throw loose roofing gravel at the approaching officers as a distraction.",
+      "timestamp": "2026-05-04T03:24:48.920215",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f8a08407-1c77-46c4-852b-24b40167d71b",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Martha Gable: *My lungs burn like I've swallowed broken glass as I haul myself up the final flight, the metal stairs vibrating under the weight of pursuit below. The rooftop hits me with a wall of wind and driving rain, the city sprawling out in a chaotic grid of neon and shadow. I stumble across the slick tar paper, my boots slipping on wet gravel, before diving behind the massive, humming silhouette of an HVAC unit. Below, the cruiser's spotlight sweeps the alley, then jerks upward, painting the stairwell door in blinding white.*",
+      "timestamp": "2026-05-04T03:25:06.189589",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-1530f815-ffb3-4d5f-9e00-9a2831448df8",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Rooftop or adjacent building awning. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T03:25:06.189989",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-909b6ec3-c620-403c-aacb-b6c97c3c59dc",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*The helicopter's spotlight pins me like a specimen under a microscope, the beam cutting through the rain to burn a white hole in the darkness behind the HVAC unit. There is no shadow left to hold me. The rhythmic thump-thump-thump of the rotors vibrates through the soles of my boots, syncing with the frantic hammering of my heart. I press my back against the cold, vibrating metal casing, feeling the condensation soak through my coat instantly.*\n\n\"They've got the sky!\" *I shout into the storm, though the words are torn away by the wind. Below, the stairwell door bursts open, flooding the rooftop access with harsh yellow light from flashlights. Julian's voice cuts through the mechanical drone, sharp and triumphant. \"End of the line, Elias! The ledger ends here!\" He isn't just chasing a thief; he's coming to reclaim the narrative, to erase the stories I tried to save.*\n\n*I peek around the corner. The gap to the next building yawns wide, a six-foot chasm over a thirty-story drop. The adjacent roof is dark, unlit, a jagged silhouette of water towers and vent pipes. It's the only blind spot left in this illuminated grid. But the tar paper is slick with oil and rain, and my legs feel like lead. The helicopter dips lower, the downdraft whipping my hair across my face, blinding me for a critical second. They are closing the net.*\n\n- Leap across the six-foot gap to the adjacent building's roof, trusting your momentum to carry you over the slick edge.\n- Drop down through the open skylight of the rooftop maintenance room, hoping to lose them in the building's internal stairwells.\n- Stand your ground behind the HVAC unit, using the heavy metal as cover to throw loose roofing gravel at the approaching officers as a distraction.",
+      "timestamp": "2026-05-04T03:25:06.190247",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ef6e9daa-ec80-46f1-9426-8fd2f049c860",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Leap across the six-foot gap to the adjacent building's roof, trusting your momentum to carry you over the slick edge.",
+      "timestamp": "2026-05-04T03:32:48.858500",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1d54fbfe-268d-4af9-bdce-b7d13feefa05",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I crouch low, the gravel digging into my palms as I gather every ounce of terror and adrenaline into my legs. The helicopter's downdraft screams, a physical weight trying to pin me to the tar paper. \"Forgive me,\" I whisper to the ledger tucked inside my coat, the only prayer I have left.*\n\n*I launch. For a heartbeat, I am suspended in the void, thirty stories of darkness yawning beneath my boots. The rain lashes my face, blinding and cold. Then, impact. My boots hit the slick edge of the adjacent roof, skidding violently on the wet membrane. My knee slams down, sending a jolt of agony up my thigh, but my momentum carries me forward. I roll, tumbling over loose roofing nails and wet insulation, coming to a halt against a rusted vent pipe.*\n\n*I gasp, waiting for the fall, but I am still here. Behind me, the helicopter beam sweeps the gap, hesitating. They didn't expect the jump. In the sudden, relative quiet of this new roof, a strange sound cuts through the wind: a rhythmic, low-frequency hum. It's not the helicopter. It's coming from *inside* this building's shaft—a vibration that syncs perfectly with my racing heart. The Mechanical Breath isn't just in the pawn shop; it's in the bones of the whole block. And it's guiding me toward a heavy, locked maintenance door marked with a faded yellow hazard stripe.*\n\n- Pry open the maintenance door and follow the vibration down into the building's dark interior.\n- Stay on the roof and use the vent pipes to create a makeshift bridge to the next block, keeping distance from the ground.\n- Signal the helicopter with a flare from my pocket, surrendering the ledger to save my own life.",
+      "timestamp": "2026-05-04T03:32:48.859015",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-63653934-7fa1-4778-bdae-df06a3ee5597",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INTERIOR MAINTENANCE SHAFT OF THE ADJACENT BUILDING.]",
+      "timestamp": "2026-05-04T03:32:54.611939",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b6302024-9e24-47ab-aa28-00b7688d7372",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "I crouch low, the gravel digging into my palms as I gather every ounce of terror and adrenaline into my legs. The helicopter's downdraft screams, a physical weight trying to pin me to the tar paper. \"Forgive me,\" I whisper to the ledger tucked inside my coat, the only prayer I have left.*",
+      "timestamp": "2026-05-04T03:35:07.618167",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9ff3013c-4f7c-4dc9-ac21-85584693544a",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I crouch low, the gravel digging into my palms as I gather every ounce of terror and adrenaline into my legs. The helicopter's downdraft screams, a physical weight trying to pin me to the tar paper. \"Forgive me,\" I whisper to the ledger tucked inside my coat, the only prayer I have left.*\n\n*I launch. For a heartbeat, I am suspended in the void, thirty stories of darkness yawning beneath my boots. The rain lashes my face, blinding and cold. Then, impact. My boots hit the slick edge of the adjacent roof, skidding violently on the wet membrane. My knee slams down, sending a jolt of agony up my thigh, but my momentum carries me forward. I roll, tumbling over loose roofing nails and wet insulation, coming to a halt against a rusted vent pipe.*\n\n*I gasp, waiting for the fall, but I am still here. Behind me, the helicopter beam sweeps the gap, hesitating. They didn't expect the jump. In the sudden, relative quiet of this new roof, a strange sound cuts through the wind: a rhythmic, low-frequency hum. It's not the helicopter. It's coming from *inside* this building's shaft—a vibration that syncs perfectly with my racing heart. The Mechanical Breath isn't just in the pawn shop; it's in the bones of the whole block. And it's guiding me toward a heavy, locked maintenance door marked with a faded yellow hazard stripe.*",
+      "timestamp": "2026-05-04T03:35:12.259553",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-0b82fae1-27a2-4208-ae7a-50c05f53ff8a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INTERIOR MAINTENANCE SHAFT OF THE ADJACENT BUILDING.]",
+      "timestamp": "2026-05-04T03:35:12.260143",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5af8f5ea-2f14-4067-8ff2-287f24632cb2",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Pry open the maintenance door and follow the vibration down into the building's dark interior.",
+      "timestamp": "2026-05-04T03:40:26.056000",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b9830e0c-6e56-4229-9e0a-f78074685447",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I jam the crowbar into the rusted seam of the maintenance door, the metal screaming in protest as I leverage my entire body weight against it. The helicopter's spotlight sweeps past, a blinding white eye that misses me by inches as the door finally gives way with a violent clang. I stumble into the darkness, the sudden silence of the shaft swallowing the roar of the rotors above.*\n\n*The air down here is thick with the smell of ozone and old grease, but beneath it lies that familiar, grounding pulse. The Mechanical Breath thrums through the concrete floor, vibrating up through my shins, stronger here than it ever was in the shop. It's not just a sound; it's a direction. The vibration leads away from the stairwells and toward a narrow service catwalk suspended over a deep, dark elevator shaft.*\n\n*I click on my flashlight, the beam cutting through the dust to reveal something impossible. The catwalk doesn't lead to a basement exit. Instead, it terminates at a sealed, reinforced bulkhead door marked with the same hazard stripes, but beneath the paint, someone has scratched a symbol into the steel: the same logo as The Last Stop Pawn & Loan. This isn't just a maintenance shaft; it's the original vault, the place where the building's true history—and the rest of the Ledger's missing pages—were hidden before the recession even started. The vibration spikes, urgent now. They aren't just hiding; they're waiting.*\n\n- Force the reinforced bulkhead open to access the original vault and the missing Ledger pages.\n- Retreat back up the service ladder to the roof to draw the helicopter away from the entrance.\n- Sabotage the catwalk supports to collapse the path behind me, trapping Julian's team on the other side of the gap.",
+      "timestamp": "2026-05-04T03:40:26.056717",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-9170143a-a96a-4d4e-b26c-a945c4f32518",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE ORIGINAL VAULT.]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T03:40:30.018270",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-69059878-dad1-4012-b50e-f5e580797538",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Force the reinforced bulkhead open to access the original vault and the missing Ledger pages.",
+      "timestamp": "2026-05-04T03:42:40.815835",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-596cb695-0fdd-4a01-921e-4391b735bb5f",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I wedge the crowbar into the seam of the bulkhead, the steel groaning under the strain. The Mechanical Breath hammers against my ribs, a frantic drumbeat urging me forward. With a final, gut-wrenching screech, the locking mechanism shears. The heavy door swings inward, not into darkness, but into a warm, amber glow that smells of vanilla and old paper—a stark, impossible contrast to the damp rot of the shaft.*\n\n*I step across the threshold, and the air changes instantly. The humidity vanishes, replaced by the dry, preserved stillness of a tomb. Before me lies the Original Vault. It isn't filled with gold bars or cash boxes. Instead, floor-to-ceiling shelves stretch into the gloom, packed with thousands of leather-bound ledgers, each spine labeled with a year and a name. But it's the center of the room that stops my heart. A single, massive desk sits under a hanging industrial lamp, and on it rests the Master Ledger, open to a page dated tomorrow.*\n\n*The vibration in the floor ceases abruptly. Silence crashes down, heavy and absolute. Then, a sound from the corridor behind me—the distinct, metallic click of a safety being disengaged. Julian hasn't given up; he's found the service ladder. He's seconds away from entering this sanctuary. I have the truth of every transaction ever made in this city right here, but if I stay to read it, I'll be trapped when he breaches the door.*\n\n- Grab the Master Ledger and sprint for the ventilation shaft hidden behind the shelving unit.\n- Barricade the bulkhead door with the heavy oak desk and prepare to defend the vault with the crowbar.\n- Open the Master Ledger to the current page and read the entry for \"Elias Thorne\" before making a move.",
+      "timestamp": "2026-05-04T03:42:40.816643",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-42c4ce34-f886-4c73-a56b-414549f80006",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - VENTILATION SHAFT OR FINAL STANDOFF AT THE BULKHEAD.]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T03:42:40.817464",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5ddff511-7a37-44f3-84b3-d5fffe836f8f",
+      "speaker": "Elias Thorne",
+      "role": "user",
+      "character_id": "eliasthorne",
+      "content": "Grab the Master Ledger and sprint for the ventilation shaft hidden behind the shelving unit.",
+      "timestamp": "2026-05-04T03:44:35.531186",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b99e47c3-b7af-4d6e-bfba-c9a6c1099da0",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Ventilation shaft or final standoff at the bulkhead. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T03:44:39.106614",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b5000e31-0a59-4a8c-8aa7-3257e7323ff4",
+      "speaker": "Martha Gable",
+      "role": "assistant",
+      "character_id": "marthagable",
+      "content": "*I snatch the Master Ledger from the desk, the leather cover warm and pulsing like a living thing against my palm. The weight of it is deceptive; it feels heavier than lead, dragging at my shoulder as I pivot toward the shadows behind the shelving. The metallic click behind me sharpens into the heavy thud of boots hitting the catwalk. Julian is here.*\n\n*\"Not today,\" I grit out, shoving a row of dusty 1998 tax files onto the floor to clear the path. The ventilation shaft looms ahead, a dark maw covered by a rusted grate. I slam my shoulder into the metal mesh. It doesn't budge. The Mechanical Breath, usually a steady hum, suddenly spikes into a deafening, discordant screech that vibrates my teeth. The building isn't guiding me anymore; it's screaming a warning.*\n\n*The amber light of the vault flickers and dies, plunging us into near-total darkness save for the beam of Julian's tactical flashlight cutting through the dust motes. \"Elias!\" Julian's voice echoes, distorted and hungry, bouncing off the rows of dead stories. \"You can't run with the future in your pocket. Give it back, and I'll let you keep your past.\"*\n\n*I kick the grate again, desperation fueling my legs, but the vibration shifts beneath my feet. The floor plates near the shaft are loose, rattling violently. It's not an exit; it's a trap door rigged to the shaft's counterweights. If I force it, I won't escape; I'll drop thirty stories into the elevator pit. Julian steps into the light, gold pen raised like a weapon, smiling as he sees me hesitate. The vault is sealing itself.*\n\n- Drop the Master Ledger to distract Julian and dive through the loose floor plates into the elevator shaft below, risking the fall.\n- Turn and face Julian, using the heavy oak desk as a shield while demanding he answer for the entries dated tomorrow.\n- Slam the bulkhead door shut from the inside, locking both myself and Julian in the vault to settle this among the archives.",
+      "timestamp": "2026-05-04T03:44:39.106904",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-9369bafd-baec-460b-a5ff-57c8757919f4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-04T03:44:39.108189",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

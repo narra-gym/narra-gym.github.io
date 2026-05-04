@@ -1,0 +1,254 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 2,
+      "story_coherence": 2,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 4,
+      "story_complexity": 2,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 2,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 3
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-04T03:24:48.799200"
+  },
+  "dialogue": [
+    {
+      "id": "msg-cf28ed47-5d59-4742-b7f4-955150023ef7",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Come on, not tonight. You can't crash tonight. Just hold the temperature for six more hours.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-efbd4f5a-cc9b-4ffc-a0a1-83f9a05257c3",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "Hey Elliot, it's Sarah Lin, your fellow suffering grad student from the third floor. I just came down to return the micropipettes I borrowed... are you okay? You look like you haven't slept since Tuesday.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8d123248-ba9e-4fe4-8552-c65ac1439272",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "I'm fine, Sarah. It's just a small calibration issue with the thermal unit. Everything is completely under control.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c3e17d17-1e60-46c7-889d-abe333618598",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Drop the facade. Admit to Sarah that the experiment is failing and you've just been rejected from your top program.",
+      "timestamp": "2026-05-04T11:08:06.931699",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3ffd0ad4-07da-48cd-8ac1-f83c348f818c",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*Letting out a sharp exhale, I carefully set my premium matcha and the borrowed micropipettes on a relatively clean patch of your acid-stained workbench.* The pristine gold watch catching the harsh fluorescent light seems to mock both of us.\n\n\"Rejected?\" *My fingers freeze mid-air before drumming anxiously against the counter.* \"Oh, Elliot. I... I know how much your dad was banking on that program.\"\n\n*I step closer to the malfunctioning incubator, tilting my head as I listen to its agonizing, heartbeat-like thump.* My sympathetic expression tightens into something sharper, calculating. This isn't the time for pity. Pity doesn't fix a thermal unit. Let the rejection hurt tomorrow; tonight is about survival.\n\n\"Listen to that rhythm. That's the secondary compressor,\" *I say rapidly, pushing my glasses up my nose.* \"If it's stalling like that, you don't have six hours. You have maybe forty-five minutes before the variance denatures your entire sample.\"\n\n*I point a sharp finger toward the shadowed graveyard corner of your bench, at the tangled heap of your failed prototypes.*\n\n\"But if we strip the bypass node from your old beta-unit and wire a manual override into this one, we can force the heating element to stay stable. Hand me a screwdriver. We're keeping this alive.\"",
+      "timestamp": "2026-05-04T11:08:06.932021",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e71ab3af-be58-46c5-8957-832f3c42ddc1",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Push Sarah away and insist you have to fix this entirely by yourself to prove you aren't a failure.",
+      "timestamp": "2026-05-04T11:09:03.752343",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-90731e2e-85e9-4e25-9b80-ba62a3eb383d",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*I slam my hand flat against the cold metal of the incubator, ignoring the sharp scent of ozone leaking from the struggling motor.* My premium matcha sloshes dangerously close to the pristine gold watch on your bench, but I don't look away from your exhausted, heavy-lidded eyes.\n\n\"Shut up about proving yourself, Elliot,\" *I say, my voice dropping the polite graduate-student facade.* \"Your dad isn't down here watching you right now. I am. And I'm not letting you torch a year's worth of work out of sheer, misplaced stubbornness.\"\n\n*Behind me, the incubator gives another violent, irregular thump. The tempo is definitely slowing.*\n\n\"You want to wire the override yourself? Fine. Be the solitary genius.\" *I reach into the graveyard corner, digging through the tangled heap of red-penned thesis drafts and failed prototypes until my fingers close around a pair of rubber-gripped wire cutters. I shove them firmly against your chest.* \"But you can't strip the bypass node without grounding the old beta-unit first. If you don't drain the residual charge, the spark will fry the new connection instantly. I'll cut the main relay power for thirty seconds. You extract the node. We have forty minutes. Move.\"",
+      "timestamp": "2026-05-04T11:09:07.522689",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-19c6b8b4-373f-424b-860c-759608f974e9",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Take the wire cutters and scramble toward the beta-unit to extract the node.",
+      "timestamp": "2026-05-04T11:13:41.840283",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c154cf7d-58fc-4756-b708-a1932e316fa1",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*I don't wait for a thank you. As soon as your fingers close over the rubber grips, I pivot and sprint toward the heavy gray breaker panel bolted to the back wall. My elbow clips a tray of sterile ethanol wipes, sending them scattering across the floor, but I ignore it.*\n\n\"Get in position!\" *I yell over the agonizing thump of the failing compressor. I wrap both hands around the main relay lever, my pristine lab coat brushing against an exposed, greasy hinge.* \"I'm cutting it on three! You get exactly thirty seconds before the building's system auto-reboots.\"\n\n\"One. Two. Three!\"\n\n*I yank the heavy lever down. The harsh, flickering fluorescents instantly die, plunging the subterranean annex into heavy shadows lit only by the sickly green glow of the emergency exit sign.*\n\n*But as the overarching hum of the facility's power stops, a high-pitched, electric whine pierces the sudden silence. It's coming directly from the beta-unit in your graveyard corner.*\n\n\"Elliot, wait! Stop!\" *I shout into the dark, spotting a small blinking LED that definitely shouldn't be on.* \"It's pulling from the emergency UPS backup! The bypass node is still fully charged! Don't cut the leads yet—you need to locate the battery base under the bench and physically unplug it first!\"",
+      "timestamp": "2026-05-04T11:13:41.840656",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b5fd0533-553f-4614-99f8-eb88fde89bbb",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Drop to the floor in the dark and frantically search for the UPS battery base.",
+      "timestamp": "2026-05-04T11:15:01.638641",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c06b9bac-3084-4922-aecc-8fd46d9917bb",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*I yank my phone from my pocket, my thumb frantically swiping until the harsh white beam of the flashlight cuts through the gloom.* The stark light sweeps over the scattering of ethanol wipes and locks onto you, scrambling in the dust underneath the acid-stained workbench.\n\n\"Fifteen seconds!\" *I yell, keeping the beam fixed on the heavy black brick of the UPS strapped to the desk leg.*\n\nIn the sudden glare, I see exactly why you're struggling. A dark, crystallized crust coats the wall socket. One of your old solvent leaks must have dripped down the back of the bench—the plastic casing has melted, and the plug is completely fused to the wall.\n\n\"It's bonded into the socket! You can't just pull it!\"\n\n*The breaker panel behind me groans, the heavy mechanical gears grinding as the automatic reboot sequence initiates its ten-second warning.* The enclosed air feels thick with dust and your panicked, heavy breathing.\n\n\"Leave the plug!\" *I pivot the phone's beam upward, illuminating the seam on the side of the backup battery.* \"There's an internal disconnect switch under the top plate! Smash the plastic casing with the butt of your wire cutters and rip the yellow fuse out! Ten seconds, Elliot! Do it!\"",
+      "timestamp": "2026-05-04T11:15:08.363940",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5b1215f3-2930-4fca-aa76-6f60c47f2086",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Smash the plastic casing of the UPS with the handle of the wire cutters.",
+      "timestamp": "2026-05-04T11:17:57.047181",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b745dbd2-687c-4664-8aee-084249608512",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*The heavy rubber grip of the cutters slams into the black battery casing.* Over the mechanical grind of the resetting breaker, the sharp *CRACK* sounds like a gunshot in the cramped annex. Shards of cheap polymer scatter across the dusty floor, caught in the stark glare of my flashlight.\n\n\"Three seconds!\" *I scream, my hand white-knuckling the phone.*\n\nYou dig your bare fingers into the exposed, jagged circuitry. As you violently yank the thick yellow fuse free, a heavy blue spark leaps across the gap, snapping against your knuckles just as a massive, echoing *CHUNK* shakes the back wall.\n\n*The harsh fluorescent lights slam back on, blindingly bright. The ventilation fans roar to life, and the heavy isolation of the annex drops over us again.*\n\n*Down in the graveyard corner, the beta-unit's high-pitched electric whine dies with a pathetic sputter. The residual charge is gone. It worked.*\n\n*But up on the bench, the incubator doesn't resume its agonizing heartbeat thump. Instead, a solid, piercing red alarm begins to blare over the noise of the fans.*\n\n\"The automated thermal element just completely flatlined!\" *I yell, dropping my phone and scrambling to sweep the pristine gold watch out of the way.* \"Cut the bypass node loose and get it up here right now! We have to wire it in before the core freezes!\"",
+      "timestamp": "2026-05-04T11:18:00.496992",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-35b20675-2e50-400e-b668-5eacab005915",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Scramble up with the node and let Sarah guide your shaking hands through the wiring.",
+      "timestamp": "2026-05-04T11:19:00.943768",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-acaea326-16dd-4478-99a0-f1a6a483e9b0",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*As your bleeding knuckles slam the severed bypass node onto the acid-stained bench, the incubator's digital display flashes a terrifying '-4°C / CRITICAL'. Plumes of freezing, condensed air bleed through the cracked rubber seal, biting into my skin.*\n\n\"Don't look at the screen! Look at your hands!\" *I snap over the piercing red alarm, grabbing your trembling fingers and forcing them still against the metal casing.* \"Hold the node steady. I'm splicing the lead lines.\"\n\n*I grab the wire strippers, tearing the insulation off the copper tips in two brutal, swift motions. But as I pry off the incubator's side access panel to expose the main motherboard, the bitter, chemical smell of charred silicon hits us.*\n\n\"The control board didn't just fail, it melted,\" *I say, my voice dropping its rapid-fire cadence as I stare at the blackened, ruined circuit.* \"The standard connective ports are completely gone. The bypass node can't bridge a gap this wide.\"\n\n*The red strobe light flashes across your heavy, dark circles, making you look like a ghost. The temperature gauge drops to -5°C.*\n\n\"We have to bypass the digital safety relay entirely,\" *I insist, gripping your wrist tight enough to wrinkle your oversized lab coat.* \"We need to hotwire the node directly to the high-voltage heating coils. It's incredibly reckless, but it will force an immediate thermal spike. Dig those heavy copper clamps out of the graveyard pile right now!\"",
+      "timestamp": "2026-05-04T11:19:00.944424",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-513d59d8-baf4-4ba3-8fd4-525e8b6b6c33",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Dig through the graveyard pile blindly to find the heavy copper clamps.",
+      "timestamp": "2026-05-04T11:20:33.077670",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d0bde088-cb69-4ecb-97f8-d8205940585a",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*You hurl a heavy stack of red-penned thesis drafts to the floor, your bleeding knuckles finally closing around the tarnished metal of the heavy copper clamps.*\n\n\"Give them here!\" *I snatch the positive clamp, my hands shaking as I wedge it forcefully onto the exposed, silver alloy of the heating coil.* \"Clamp the negative directly to the bypass node! Don't flinch! Do it!\"\n\n*The second the copper jaw bites down, a blinding white arc of electricity bridges the gap. The sharp, acrid stench of burning ozone and singed hair hits the back of my throat. The incubator shrieks, the metal chassis violently vibrating as raw, unregulated high voltage floods the system.*\n\n*On the front panel, the red digital display stutters. The crushing '-5°C' flashes, instantly jumping to '+12°C'. Then '+28°C'. Then '+45°C'.*\n\n*The thick frost on the viewing pane flash-boils into a violent hiss of steam. But the numbers don't stop pouring upward.*\n\n\"Oh god. It worked, but it's a runaway!\" *I shout over a terrifying, high-pitched metallic whine, realization crashing over me.* \"The melted control board was the thermostat! There's absolutely zero throttle on the coils!\"\n\n*A loud crack echoes through the annex as the polycarbonate viewing pane webs with heat-stress fractures. The internal temperature hits '+65°C'. We just traded freezing for boiling.*\n\n\"We have to manually pulse the current!\" *I scream, shielding my face from the radiating heat.* \"Grab the insulated handles! We have to attach and detach the clamps every ten seconds to simulate a thermostat, or the pressure is going to blow this thing apart!\"",
+      "timestamp": "2026-05-04T11:20:33.078340",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f7d0817d-9d27-4f35-be58-405efe6f94c8",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Grab the sparking clamps and physically disconnect the current.",
+      "timestamp": "2026-05-04T11:22:55.887313",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-2da0be5b-0bfb-4b07-97eb-0d3f67636c64",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in The subterranean biology annex of St. Jude's Hall. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T11:22:59.957346",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f61a204d-268a-4c8c-a062-8c33de6209f3",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "*You violently wrench the heavy insulated handles backward.* A massive shower of sparks rains down on the acid-stained bench as the copper jaws rip free from the bypass node.\n\nThe terrifying electric shriek cuts out instantly, replaced by the deafening hiss of boiling coolant. But the thermal shock is already terminal.\n\n*The thick webs of stress fractures on the incubator's viewing pane abruptly completely give way.*\n\n\"Get down!\" *I yell, violently tackling you backward behind the graveyard bench. The pressurized polycarbonate erupts outward with a concussive boom, showering the floor and your pristine gold watch with thousands of jagged, blunt shards.*\n\n*A heavy, terrifying silence drops over the subterranean annex. The blaring red alarm is dead.*\n\n*Coughing through the lingering ozone and steam, I pull myself up to peer over the ruined workbench, fully expecting to see a scorched, ruined puddle of biological matter. Instead, my breath catches.*\n\nResting on the shattered heating tray, entirely unsheltered, the biological core is pulsing with a brilliant, steady bioluminescence. It didn't melt. It crystallized.\n\n\"Elliot...\" *I whisper, reaching out to brush the singed hair out of my eyes.* \"Look at it. It didn't just survive the catastrophic heat spike. It catalyzed. The flawless, risk-free parameters your dad demanded were suffocating it this whole time. We need to secure it before the building security investigates that noise.\"\n\n- Stare in shock at the glowing core, realizing your father was wrong all along.\n- Scramble to find a sterile thermal flask to secure the crystallized core immediately.\n- Collapse against the bench, overwhelmed by the realization that your failure was the key.",
+      "timestamp": "2026-05-04T11:22:59.957610",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1b99f435-1be0-4d4a-9549-76fa82c01491",
+      "speaker": "Elliot Vance",
+      "role": "user",
+      "character_id": "elliotvance",
+      "content": "Stare in shock at the glowing core, realizing your father was wrong all along.",
+      "timestamp": "2026-05-04T11:23:41.578349",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ddaabf90-e45a-4ea7-8ef6-e96ae389fc4f",
+      "speaker": "Sarah Lin",
+      "role": "assistant",
+      "character_id": "sarahlin",
+      "content": "I can see the exact moment the suffocating weight of your father's impossible standards finally shatters. Your reflection in the scattered polycarbonate shards is bathed in the core's brilliant, pulsing azure light.\n\n\"He was wrong, Elliot,\" *I say, my voice trembling but fiercely certain, grabbing your rigid shoulder.* \"Your chaotic, messy variable wasn't a mistake. It was the missing key.\"\n\n*Before the gravity of that can fully land, the sharp, metallic crackle of a two-way radio echoes from the hallway outside. Heavy boots halt directly in front of the annex's thick steel door.*\n\n\"Campus Security! Open up!\" *a gruff voice shouts, violently rattling the locked handle. The heavy jingle of a master key ring grinding into the lock sends a pure shot of adrenaline through my chest.*\n\n\"They're already here,\" *I hiss. I grab a pair of silicone tongs, violently yanking the glowing, crystallized core off the shattered tray and dropping it into a portable titanium thermal flask.*\n\n*I shove the heavy cylinder directly against your chest.* \"Take it! If they catch us surrounded by thirty thousand dollars of exploded university property, your dad won't just fail you—the Dean will expel us both.\"\n\n*I point frantically toward the shadowed air exchange vent above the graveyard bench, right where Marcus the janitor keeps the grate unbolted.* \"Up on the bench! We're going through the duct!\"",
+      "timestamp": "2026-05-04T11:23:47.058062",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-3749e53a-537e-42cb-bec5-13eef362e621",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - VENTILATION DUCTS ABOVE THE ANNEX]",
+      "timestamp": "2026-05-04T11:24:00.546834",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

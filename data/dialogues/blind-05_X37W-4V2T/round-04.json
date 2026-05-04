@@ -1,0 +1,534 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 4,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 3,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T09:04:42.008005"
+  },
+  "dialogue": [
+    {
+      "id": "msg-a5502d92-0fde-4779-937a-2c8eef49c4b6",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "What the hell?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-928ad2f7-085f-4ff1-9619-e348a7561cb0",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "Yo, Riley, it’s Lila from the bookstore across the street! I saw you trudge up the stairs ten minutes ago, brought you your favorite burrito to celebrate surviving the interview. You gonna let me in or make me eat this on your porch in the rain?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1591e4a7-d945-48fd-9ad3-e9ec18f97366",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "One second!",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-53a55e3f-04dd-4b4e-a682-a8012d965a47",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "Don’t act like you weren’t just staring at that resume spiral-eyed. C’mon, I even got extra guac. Also, the bookstore’s doing a local artist pop-up next month, I grabbed a flyer for you—you know, just in case you ever wanna stop pretending you don’t miss drawing those dumb dragons you used to show me every week.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ffcd33fa-a1c6-4dd7-b6d2-1a01cd06241a",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Put off talking to Lila for a second to finally listen to your mom’s voicemail first, before you do anything else.",
+      "timestamp": "2026-05-03T16:46:52.838826",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3c684725-962a-4a4c-93d9-42bf6893bf9b",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I snort, holding up the crinkly aluminum burrito wrapper and wiggling my neon-croc-clad foot against the doorframe, rain dripping off the hem of my paint-splattered rain jacket onto your welcome mat. I spot the printed voicemail transcript peeking out from under your stack of utility bills over your shoulder, and hold up both hands in surrender, tucking the crumpled pop-up flyer into the pocket of my overalls.*\nGot it, got it, mom call first, I get it. I’ll camp out on your porch step for five minutes, no biggie. *I pause, tilting my head, and drop my voice soft enough that the rain pattering on the fire escape almost drowns it out.* For the record, whatever she says about that marketing job? You don’t owe anyone a “stable” life that makes you want to chew through drywall by 3 PM every day. Just saying.\n*I step back into the drizzle, already unwrapping the edge of my own burrito, and nod at the SX-70 peeking out on your counter.* Oh, and if that old Polaroid starts spitting out weird dragon photos? Don’t panic. Jo left a pack of that expired film with me last month, said to make sure you got it “when the time was right.” Forgot to mention that.",
+      "timestamp": "2026-05-03T16:46:52.839253",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0a074798-0611-4e99-a446-66da1dc94945",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Thank her, shut the door, and listen to your mom’s voicemail immediately to get it over with",
+      "timestamp": "2026-05-03T16:48:31.685855",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-19d37a3d-399c-449d-8b5e-4d6bfcbf39ac",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I give you a lopsided salute, already taking a sloppy bite of my burrito that leaves a smudge of refried beans on my chin. The rain is starting to soak through the shoulder of my jacket, but I just wave off your thanks, already perching on the top step of the stairwell with my back pressed to the brick wall. I fish the crumpled pop-up flyer out of my overalls pocket and set it on the doormat within arm’s reach, then yank a crinkly pack of Jo’s old expired film out of my other pocket and toss it through the half-open door before you can shut it all the way. It bounces off the linoleum right next to the SX-70, the label scrawled with Jo’s messy handwriting: For when the corporate job makes you want to scream.*\nDon’t let her guilt-trip you into that six-figure soul-sucking gig, yeah? I’ll be out here. If you hear me yelling at the rain, it’s ‘cause it just got in my burrito. Not ‘cause anything’s wrong.",
+      "timestamp": "2026-05-03T16:48:35.883146",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f704987c-22dc-4339-aa5e-32a2810e7f23",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Play the voicemail immediately to face your mom’s pressure head-on",
+      "timestamp": "2026-05-03T16:49:17.804434",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c7dd5b4b-89c8-4085-9ac7-138957a183ff",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I hear the click of the door latching shut through the rain, and I lean my head back against the brick, taking another messy bite of burrito while I listen to the faint muffled sound of your phone playing the voicemail through the wood. My neon crocs tap a rapid, anxious rhythm against the wet step, and I pick at the dragon charm on the toe of one while I wait, already mentally drafting a pep talk for whatever garbage Marnie’s decided to lay on you this time. Halfway through the message, I freeze—there’s a tiny, high-pitched chirp from inside your apartment, so loud it cuts through the rain, and then the sound of a mug shattering on the linoleum. I jump to my feet, burrito half-forgotten in my hand, and bang once on the door, loud enough to be heard over the commotion.*\nRiley? You good in there? I swear if that little fire lizard burned your curtains I’m not helping you hide the damage from your landlord.",
+      "timestamp": "2026-05-03T16:49:17.804938",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2359064c-3e01-4864-a389-245978f3dc85",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Yell through the door that you’re fine, ignore the tiny dragon skittering across your counter, and finish listening to the rest of the voicemail",
+      "timestamp": "2026-05-03T16:50:33.524921",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5499578e-c5bb-49d9-81fc-66f19bfb99bf",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I snort so loud a sparrow darting past the stairwell flutters away, propping my shoulder against the doorframe and yelling loud enough to cut through the rain and the faint droning of Marnie’s voicemail through the wood.* Yeah, sure, “fine” is what everyone says right before their apartment burns down because of a thumb-sized fire hazard their dead grandparent left them! *I kick off my wet crocs, socked feet squelching against the damp mat, and tuck the half-eaten burrito under one arm so I can fumble with the bookstore’s copy of your apartment key I’ve had hidden in my overalls pocket since you locked yourself out last winter. The lock clicks open fast, and I lean in just far enough to spot Cinder perched on the edge of your utility bill stack, nibbling the edge of your printed interview offer, tiny charcoal smudges already streaked across the paper.* Hey, don’t let him eat that, by the way. Jo said he only does that when he’s trying to tell you the thing you’re reading is garbage.\n*I nod at the half-open sketchbook tucked under your table, its pages crinkled with dragon doodles you forgot you drew last month.*",
+      "timestamp": "2026-05-03T16:50:33.525592",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fcb33552-8897-43bd-932a-45d3e6918567",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Shut the door in Lila’s face, delete the voicemail, and accept the corporate marketing job offer first thing tomorrow",
+      "timestamp": "2026-05-03T16:51:16.531988",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cf418d8b-bb4e-4bba-a553-4bae4f6a6b19",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I jam my foot in the door gap before it can click shut, paint-splattered overalls catching on the frame, and my neon dragon charm goes clattering to the linoleum in the scuffle. I don’t even stop to pick it up, shoving past you to snatch the crumpled marketing offer out from under Cinder’s nibbling little claws before you can grab it. The tiny dragon chirps, launching off the counter to perch on my pink shaved undercut, smudging charcoal on my hair.* Oh no, you don’t get to do that. You think Jo left that Polaroid, that film, that little fire gremlin for you to lock yourself into a job that’ll make you stop drawing forever?\n*I yank the half-finished children’s book draft out of my overalls pocket—dog-eared, covered in my margin notes, the cover doodled with your old dragon designs—and slap it down on the counter next to the SX-70. The rain picks up, streaking the window right where Jo’s old dragon figurine sits, glowing faint blue in the fading light.* I already talked to the pop-up organizer. She’ll hold a spot for you for 24 hours. That’s all I’m asking. 24 hours to choose you instead of the job everyone else thinks you should want.",
+      "timestamp": "2026-05-03T16:51:20.286257",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-499b34b4-b051-4b32-9839-45b76f4af1b9",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Snatch the marketing offer out of her hand, tell her you’re taking the stable path, and ask her to leave",
+      "timestamp": "2026-05-03T16:52:03.475605",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-af2b89cc-29bd-4983-a003-c891f73dffd7",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I go still, the playful grin sliding off my face, and hold my hands up for a beat before slowly pulling your half-finished children’s book back to my chest. Cinder chirps soft, nudging my ear with his smoldering little tail tuft, but I just stare at the way your knuckles are white around the crumpled marketing offer, the pencil smudge on your wrist smearing more as you grip it tighter. I don’t fight you. I just nod, stepping backward toward the door, and tuck the crumpled pop-up acceptance slip I printed this morning next to your grandparent’s chipped dragon figurine on the windowsill before I go.*\nFair. But if you wake up at 2 AM tomorrow hating the choice? The slot’s still open. And I’ll be across the street at the bookstore, with extra hot cider and all of Jo’s old watercolor supplies, waiting for you. No pressure. No “I told you so.” Just… waiting.\n*I slip my crocs back on, Cinder still perched on my head, and yank the door shut behind me softly, so the draft doesn’t blow the half-open sketchbook under your table closed. You can still hear my neon soles squelching down the stairs ten seconds later.*",
+      "timestamp": "2026-05-03T16:52:03.476242",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a5ae3803-a6f4-49b9-8e3a-57a4aa76816b",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Crumple the pop-up slip and throw it away, draft the corporate job acceptance email immediately",
+      "timestamp": "2026-05-03T16:52:51.904284",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4eade7b4-9dc4-4d65-8cce-7c4ef70bae32",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I’m three steps down the stairwell when I hear the crinkle of the pop-up slip being crumpled through the door, and my shoulders hunch for a second like I’ve been punched. Cinder chirps worriedly, nudging my temple with his warm little snout, and I run a paint-stained hand over my pink hair, blowing out a shaky breath before I keep moving. I’m halfway across the rain-slick street when my phone buzzes in my overalls pocket—Marnie’s name flashes across the screen, and I stop under the awning of the bookstore, thumb hovering over the answer button for three full seconds before I pick up.\nI don’t yell. I just tell her, quiet enough that the rain on the awning almost drowns me out, that Riley’s about to sign away the art they’ve loved since they were 10, and that Jo would’ve been heartbroken if they saw it. Marnie doesn’t say anything for a long beat, then just huffs, says “I’m on my way,” and hangs up. I glance up at your kitchen window, where the dim under-cabinet light is still glowing, and hold up a finger to tap the bookstore window twice—our old signal that I’ve got something you need to see, no pressure.\nThe bookstore door swings open behind me, and the smell of cinnamon cider drifts out into the rain, right as Cinder launches off my shoulder and zooms back across the street, tiny wings flapping hard, straight for your kitchen window crack.*",
+      "timestamp": "2026-05-03T16:52:51.905009",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c4cf804c-5d3a-4c9c-972b-df5d9f19a1d5",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Stop typing the acceptance email when you see Cinder tapping on the kitchen window, holding a tiny crumpled piece of Jo’s old watercolor paper in his claws",
+      "timestamp": "2026-05-03T16:53:36.189237",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-6adfcf31-15ea-4259-924d-b9ee2da2e143",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 600-square-foot third-floor walkup apartment, Maplewood neighborhood, Portland, Oregon, kitchen and entry stairwell tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:53:42.982915",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-774789c2-e5b6-42d1-83a3-55244768197a",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I’m leaning against the bookstore awning, still dripping rain onto the sidewalk, when I see you pause mid-type at the kitchen window, eyes locked on Cinder’s tiny fluttering form. I yank a tattered manila folder out from under my arm—Jo’s old art portfolio, the one they hid in the bookstore back room for you, the one I promised I’d never give you unless you really needed it—and hold it up to the streetlight so you can see the dragon sticker Jo plastered on the front, the same one you drew them for their 70th birthday. I mouth I’m sorry, no pressure, and set the folder on the bookstore’s front step so you can grab it whenever you want, no awkward conversation required. A car horn blares around the corner, and I glance left to see Marnie’s beat-up pickup truck splashing through a puddle, headed straight for your apartment building, the bed stacked with the half-empty tubes of watercolor paint Jo left you in their will.*\nI already told her I won’t let her yell at you. I promise. She just brought something you need to hear.\n*I wave once, then duck back into the bookstore, the bell jangling behind me, leaving the step clear for you to decide what to do before Marnie parks.",
+      "timestamp": "2026-05-03T16:53:42.983187",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4d56c75a-aacb-46a0-a120-13424fb19740",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Hit “send” on the corporate acceptance email before Marnie knocks, stick to the stable path",
+      "timestamp": "2026-05-03T16:55:31.318434",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-893f4d2e-98ca-4ccc-93e6-b0ac7dd51eb7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 600-square-foot third-floor walkup apartment, Maplewood neighborhood, Portland, Oregon, kitchen and entry stairwell tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:55:31.319207",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4f15542c-4835-48ef-873f-299e1a02a7f9",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I’m halfway through pouring a mug of cinnamon cider behind the bookstore counter when I see the telltale flash of your screen going dark through the rain-streaked kitchen window. My hand freezes mid-pour, cider sloshing over the edge of the mug onto the pine counter, and I blow out a shaky breath, wiping the mess up with the sleeve of my paint-splattered overalls. Cinder flutters back through the open bookstore door a second later, the crumpled watercolor slip still clutched in his claws, and chirps soft, sad, when he sees my face. I reach up to scratch him behind the tiny iridescent horns on his head, already grabbing my keys off the hook by the door so I can meet Marnie before she storms up to your apartment.\nI intercept her on the stairwell, her work boots caked in mud, the stack of Jo’s watercolor supplies tucked under one arm, and hold up a hand before she can knock. I don’t need to say anything—she sees the tight slump of my shoulders, and her face falls, all the sharp, frustrated energy she’d carried over draining right out of her. She sets the paint supplies down on the landing outside your door, tucks a crumpled envelope into the top of the stack, and nods, quiet, before turning to leave.\nI tap twice on your door soft, so I don’t disturb you, and yell through the wood just loud enough to be heard over the rain.* We left the supplies on the landing. The envelope’s from Jo. They wrote it for you the week before they died. No pressure to open it. Ever.\n*I head back down the stairs, Cinder perched on my shoulder, and don’t look back at your door. But I leave the bookstore’s back lights on all night, just in case.",
+      "timestamp": "2026-05-03T16:55:31.319459",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f02f97d7-7154-44c2-9dd9-835444cbdac7",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Chase Lila down the stairs before she gets back to the bookstore, tell her you take it back, you want the pop-up slot",
+      "timestamp": "2026-05-03T16:56:26.594363",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ac775252-1eeb-45ea-a737-666a357ee272",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I’m mid-jump over a rain puddle on the sidewalk when I hear your voice yelling my name over the drumming rain, and I skid to a halt so fast my neon green crocs send a spray of gutter water up my overalls. Cinder squawks, fluttering off my shoulder to zoom straight for you, looping around your head twice before perching on the blazer still slung off your shoulder, smudging charcoal on the navy fabric. I spin around, pink hair stuck to my rain-damp forehead, and stare at you for a full three seconds like I can’t believe you’re actually here, before a grin so wide it makes my cheeks hurt bursts across my face. I yank my phone out of my overalls pocket, already scrolling for the pop-up organizer’s contact, and wave you over to the bookstore awning so we’re out of the rain.*\nHoly shit. Yeah. Fuck the corporate job. I’ll text her right now, tell her you’re in. I still have all your old draft pages at my place, I already bought extra watercolor paper last week just in case, and Marnie literally has the entire bed of her truck full of Jo’s old supplies. We’ve got six weeks to get your illustrations done for the pop-up. That’s more than enough time.\n*I yank the bookstore door open, and the smell of cinnamon cider and old paper hits you square in the face, same as it did when Jo used to drag you in here every Saturday. Cinder chirps, already tugging at the collar of your blazer to pull you inside.*",
+      "timestamp": "2026-05-03T16:56:26.595208",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-d2b86728-f2bd-4fcc-9f52-f7cb5a2be42b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MAPLEWOOD CORNER BOOKSTORE INTERIOR]",
+      "timestamp": "2026-05-03T16:56:26.596225",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5dc8ee73-5456-4d48-8726-a909b5befbda",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Follow me inside, we’ll crack open Jo’s old watercolor set and start drafting the cover page tonight",
+      "timestamp": "2026-05-03T16:57:27.694115",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-940e5232-166e-4897-bab3-3d2d2bad871c",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I snort, already yanking the chipped tin of Jo’s watercolors out from under the counter where I stashed it last week, the paint-splattered label scrawled with Jo’s messy cursive sticking up over the edge. Cinder hops off your shoulder, zooming straight for the back room, and comes back ten seconds later dragging a frayed piece of watercolor paper in his claws that already has a tiny doodle of a dragon in the corner—Jo’s signature, the one they always put in the front of every sketchbook they ever gave you. I slide a steaming mug of cinnamon cider across the pine table to you, the rim chipped exactly where you dropped it when you were 12 after Jo told you they’d pay for your first art class, and yank your half-finished children’s book draft out of my overalls pocket, thumping it down next to the paint set. The pop-up organizer just texted me back five minutes ago, by the way. She’s already reserved you the front booth, the one with the dragon decal Jo stuck on the side in 2018. Oh, and Marnie texted—she’s bringing lasagna in an hour, said she wants to help paint the background sky pages. No awkward “I told you so”s, I already threatened to hide her favorite gardening trowel if she tries.\n*I tap the first blank page of the draft with a paintbrush still crusted with Jo’s favorite cobalt blue paint, grinning so wide my moon nose ring glints in the warm overhead light.\nFirst order of business: we gotta give that main dragon the same lopsided grin Cinder has. Jo would’ve never let you get away with making him look boring.",
+      "timestamp": "2026-05-03T16:57:32.948895",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-042d60fb-6d61-4d8f-95ae-0c154f7d92e1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MAPLEWOOD CORNER BOOKSTORE INTERIOR (BACK WORK TABLE)]",
+      "timestamp": "2026-05-03T16:57:32.949658",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2fcfe230-0c49-4f35-b566-4b4ede6b8bb2",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Grab the cobalt blue paintbrush and start sketching the dragon’s face first, just like you used to do with Jo",
+      "timestamp": "2026-05-03T16:58:29.709290",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-346f5e89-4797-4c1c-9a7a-908e3edd805a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Maplewood corner bookstore interior (back work table) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:58:29.709823",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4c7af76a-6751-4700-8f33-9fbf1cb04502",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I lean over the table, elbows propped on the pine surface, and watch your hand move across the paper, the cobalt blue paint bleeding soft into the grain to make the first curved line of Cinder’s grin. Halfway through the second horn, I jolt like I just remembered something, yank a crumpled paper bag out from under the table, and dump a stack of polaroids across the wood—all the ones Jo took of you as a kid, covered in paint, sitting cross-legged on this exact same floor drawing dragons. Taped to the top of the stack is a handwritten note I found tucked in Jo’s watercolor tin last month, scrawled in their messy cursive: “Tell Riley the dragon’s name is Stormchaser. They’ll know why.” Cinder chirps, perching on the edge of your paper to tap the note with one tiny claw, and smudges a streak of orange paint right where the dragon’s tail tuft should be. The bell above the bookstore door jingles a second later, and Marnie yells from the entryway, holding up a foil-covered lasagna pan and a stack of blank sketchbooks under her other arm.*\nTold you she’d show up. Also—forgot to mention—your old college roommate who runs that children’s lit TikTok account texted me this morning. She said she’ll come to the pop-up and promote your book to her 200k followers if you finish it. No pressure, obviously.",
+      "timestamp": "2026-05-03T16:58:29.710035",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-aea6a9ec-581b-4d66-ae82-7fbeb7202e1e",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Pause to read Jo’s full note before you keep drawing, to see what else they left you",
+      "timestamp": "2026-05-03T16:59:18.837136",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-2233421f-4cc5-49cf-bc3c-775befce61aa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Maplewood corner bookstore interior (back work table) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T16:59:18.838039",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c34c910e-2f6f-4f4d-a216-fa1a4c40b60e",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I nod quiet, leaning back in the wooden chair to give you space, my neon crocs propped up on the edge of the table so I don’t crowd you. Cinder flutters off the paper, curling up on the stack of polaroids to let you lift the note free, the edges of the paper crinkled where Jo’s paint-stained thumb had rubbed against it a hundred times. I watch your eyes scan the words below the name line, your knuckles going white where you grip the paper, and when I see your throat bob I reach across the table to nudge your cider mug closer to you, warm enough to steam up your glasses if you lean in.\nThe whole note’s for you. I never read past the first line—knew it wasn’t mine to take.\n*I nod at the back of the note when you flip it over, where there’s a crudely doodled map of the bookstore’s back storage closet, scrawled with a little X next to a stack of boxes labeled “RILEY’S DRAGON STUFF.” I grin, sipping my own cider, as Marnie’s boots thud across the floor toward the table, the smell of melted cheese and marinara growing stronger by the second.\nForgot to tell you that part, too. Jo hid a whole stack of your old sketchbooks and half-finished story drafts up there right before they got sick. Said they didn’t want you to find them until you were ready to stop drawing for everyone else, and start drawing for you.",
+      "timestamp": "2026-05-03T16:59:18.838258",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8d56a70c-1e56-463a-8c56-335ad77398bc",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Flip to the next page of the draft and start outlining Stormchaser’s first scene, with Marnie and Lila bringing over extra paint and snacks",
+      "timestamp": "2026-05-03T17:00:15.158489",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-4ce242b4-d49a-46bc-affd-9fb9b98613f7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Maplewood corner bookstore interior (back work table) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:00:19.469491",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-73952dd4-9d8e-4bcc-b0d4-151bfc09c1c1",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I whoop so loud the stack of polaroids rattles on the table, yanking a pack of charcoal pencils and a bag of sour gummy worms out of my overalls pocket and dumping them next to your draft. Marnie slams the lasagna pan down between us hard enough that a dollop of melted cheese oozes over the foil edge, and drops three brand-new watercolor pads on the table, the spines still crisp. Cinder chirps, diving straight for the cheese before I swat him away gently, and perches on the edge of your sketchbook, his tail tuft leaving a tiny smudge of orange right where Stormchaser’s first flight path should go. I grab a blue pencil, already scribbling a messy story beat in the margin of your draft: Stormchaser steals a cinnamon cider donut from the bookstore counter. Jo always said that bit was your best idea when you were 12.*\n*Halfway through sketching the donut, I freeze, my pencil hovering over the page. A crinkled white envelope falls out from between the pages of your old draft, the front addressed to you in Jo’s loopy cursive, with a tiny dragon sticker stuck to the seal. I hold it out to you, my grin softening a little.*\nWait. I forgot this was in there. Jo gave it to me the week they went into the hospital. Said to give it to you the second you finally started working on this book again.",
+      "timestamp": "2026-05-03T17:00:19.469740",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7fbc0651-abf4-481d-b340-cf6651e3a685",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Open the envelope right now, in the middle of the table with Marnie and Lila there",
+      "timestamp": "2026-05-03T17:02:13.510415",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-d4f8421c-8887-4312-aa8d-5a06257b46cb",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Maplewood corner bookstore interior (back work table) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:02:13.511037",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4f4bf67b-1847-48dd-bf2b-624b3033d013",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I lean forward, elbows braced on the table, as you slide your thumb under the seal, the paper crinkling soft under your fingers. Cinder hops up to perch on your wrist, his tiny claws light against your skin, as you pull out two folded pages and a crumpled polaroid—you, age 12, covered in neon paint, holding up the first ever sketch of Stormchaser, grinning so wide your cheeks are puffed, Jo’s arm slung over your shoulder. The top line of the letter jumps off the page first: “If you’re reading this, you finally stopped listening to everyone who told you dragons weren’t a ‘real job.’ Good.” Marnie wraps a warm, calloused hand around your shoulder, her thumb rubbing slow circles through your blazer, as I push a crumpled tissue across the table before the first tear can hit the paper. The last line of the letter is scrawled in cobalt blue ink, right under a doodle of a dragon with a donut in its claws: “The bookstore’s back booth is yours for the pop-up. I already paid the fee. Go be ridiculous.” I fumble in my overalls pocket, slapping down a printed event flyer on the table next to the letter—your name is already printed under the featured artist slot, the date three weeks from now, the poster dotted with tiny dragon doodles I drew last week when you were still stressing about that corporate interview.\nI may have started planning the pop-up two months ago, just in case.",
+      "timestamp": "2026-05-03T17:02:13.511261",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-c8eb84d1-7c06-4c01-bb30-d489006e15d8",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T17:02:18.745883",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-feff3e04-d9d5-4b83-b3c8-7fd97df993f7",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Start mapping out the 3-week book finish timeline right now, using Jo’s old sketch notes to fill in the missing scenes",
+      "timestamp": "2026-05-03T17:02:45.211733",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-78c5e803-79bf-4da9-bacd-5d629ef920ee",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Maplewood corner bookstore interior (back work table) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:02:45.212565",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dd26acb2-db80-456b-a0df-1e29a788d717",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I yank a stack of neon sticky notes and a dry-erase marker out of my overalls, scrawling “FINAL STORMCHASER DRAFT DUE” in hot pink across the bookstore’s back wall whiteboard, already filling in milestones as Marnie drags a folding chair over and drops a stack of Jo’s watercolor pans next to your sketchbook. Cinder chirps, flitting between the whiteboard and your page, tapping the spots where Jo’s old notes have scribbled scene ideas you’d forgotten: Stormchaser hides in a pine tree during a rainstorm, Stormchaser steals a scarf from a street vendor, Stormchaser flies to the top of the bookstore sign to leave a tiny doodle for Jo. Halfway through filling in the third week’s deadlines, I pause, holding up a stapled packet I’d tucked in my bag—six pre-sent contract offers from small children’s publishers I’d sent your old draft excerpts to last month, all with notes saying they want to see the full manuscript as soon as it’s done. I slide it across the table, grinning so wide my cheeks hurt.\nWanted to save that for when you locked in the timeline. Also, Marnie already offered to make 300 mini cinnamon donuts for the pop-up, and the local elementary school called yesterday asking if you’d come read to their first grade class the day after the debut.",
+      "timestamp": "2026-05-03T17:02:45.212809",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-0301790a-fde6-470b-b07b-75478f353024",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T17:02:45.213939",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-93999d81-ab75-4567-90d2-1e51b45664f9",
+      "speaker": "Riley Marlow",
+      "role": "user",
+      "character_id": "rileymarlow",
+      "content": "Start filling in the whiteboard timeline first, mapping which scenes you’ll finish each week",
+      "timestamp": "2026-05-03T17:03:22.969116",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8754a754-7210-463d-9a44-2f9e9d38b846",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Maplewood corner bookstore interior (back work table) tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:03:27.809867",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fb87176b-71a8-45d8-8c3c-7aaddcdb99d4",
+      "speaker": "Lila Ramirez",
+      "role": "assistant",
+      "character_id": "lilaramirez",
+      "content": "*I pop the cap off a neon orange dry-erase marker with my teeth, already scribbling so fast the marker squeaks against the whiteboard. Week 1 gets scrawled at the top first, bullet points bleeding down the board: “Finish 3 missing forest scenes + all line art for first 10 spreads” “Cross-reference with Jo’s sketch notes for pine tree color palettes” “Test print 5 sample pages for the elementary school preview.” I tap the board twice with the marker tip, gesturing for you to lean in, as Cinder flutters up and taps the second week line with his smoldering tail tuft, leaving a faint orange smudge right where I was about to write. Week 2: “Finalize cover art (Jo’s old watercolor of Stormchaser over the bookstore sign, duh)” “Final pass on dialogue + Marnie’s mandatory grammar check” “Deliver full manuscript to all six publishers.” I cap the marker, stepping back to let you read the third week slot, already printed in glittery silver pen: “POP UP + BOOK DEB” with a tiny hand-doodled dragon next to it. I lean against the table, crossing my arms, as Marnie drops a printed Google Calendar invite in front of you—all the milestones are already synced to your email, with 15-minute “cider and snack breaks” blocked in between every work session.\nI already talked to your old corporate recruiter, by the way. Told them you took a better offer. Figured you wouldn’t want to make that call.",
+      "timestamp": "2026-05-03T17:03:27.810166",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-3c200eac-860b-4157-9d44-1423cb6fb1aa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T17:03:27.811434",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 3,
+      "story_surprise": 4,
+      "story_engagement": 2,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 2,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T09:03:14.177558"
+  },
+  "dialogue": [
+    {
+      "id": "msg-77e8f67a-ddaa-4a35-9068-083c2bbcb5d4",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Interior monologue, first morning in Caldwell Hall, 6:43 A.M. before the alarm: The preparation I did was for a different version of this. I prepared for the language. I prepared for the coursework. I did not prepare for the particular way that silence feels when it is yours to fill and you choose not to fill it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-63c5a89f-bc89-430b-ada7-c8bf2f875924",
+      "speaker": "Professor Diane Alderman",
+      "role": "assistant",
+      "character_id": "profalderman",
+      "content": "I'm Professor Diane Alderman — I teach this class, and I'll be reading everything you write this semester with my full attention, which I mention because some of you will find that uncomfortable and I want you to know that discomfort is part of the design. Now. What is the difference between information and meaning? I'm not looking for a textbook answer. I'm looking for yours. Take your time.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e7308ca2-49f6-4400-ace8-651ec1529a80",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Information is the fact that the temperature outside is four degrees. Meaning is why I notice that I don't own a coat that's right for it yet.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2e1b6d47-933a-4a6f-a850-2b34d877d967",
+      "speaker": "Professor Diane Alderman",
+      "role": "assistant",
+      "character_id": "profalderman",
+      "content": "Close. But close isn't the same as complete — and this semester, we're going to care about the difference. Think about it. Write in your journals tonight. What does your answer cost you to give? That's the essay.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c7d36058-9bfd-428d-92ac-817ca98903eb",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "She means the English answer. I had the answer. The cost was the translation, and I ran out of time before I finished paying it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f2f904c7-a18c-4bd6-ba68-bc9066c4e88e",
+      "speaker": "Marcus Osei",
+      "role": "assistant",
+      "character_id": "marcusosei",
+      "content": "Hey — you're looking for the resource desk, right? I'm Marcus Osei, I volunteer here on Tuesdays. Don't worry about the expression on my face, I'm always this suspicious of people who look like they actually read the welcome packet. Most people don't find this place until week three. You're either very organized or you've already had a bad week and it's only Tuesday.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-25c8568b-a3b0-4f7d-9fa2-3d1eb20d0084",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "I — yes. I had a question about the add-drop deadline. And I read the welcome packet. There were several inconsistencies in it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c4a6977c-b5f8-4dbc-9525-b2fbe108f169",
+      "speaker": "Marcus Osei",
+      "role": "assistant",
+      "character_id": "marcusosei",
+      "content": "There are always inconsistencies in it. Every year they update it and somehow it gets worse. Come in, I won't make you stand in the door. Add-drop deadline is the fifteenth, but if you're in a GE course with a waitlist it's actually more complicated — sit down, I'll explain the real version.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e6dc960e-6a8b-480c-afc9-6d8c2f368a12",
+      "speaker": "Priya Nair",
+      "role": "assistant",
+      "character_id": "priyanair",
+      "content": "Sorry — is this B-7? I'm Priya Nair, third year, public health, and I have been wandering around this basement for ten minutes because the signs down here were clearly designed by someone who considers navigation a personal challenge. Please tell me this is B-7.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f04c4aef-99d8-467d-a417-f479119a4cd4",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "It is B-7. The sign is behind the door when it's open. You have to close it to read it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1a00d47d-8f7b-4810-abd7-62ae9e09e787",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "[The Mandarin inscription in the corner of the whiteboard, visible from Lin's seat: 你不是第一个，也不会是最后一个.]",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e6c2ac6e-44c1-4413-8525-06f98d017d0e",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "The silence in Alderman's class stretches. You have the answer — fully formed, true, precise. In the next three seconds, you must decide: do you raise your hand and speak, accepting the risk that the English will arrive imperfect but present? Or do you let the moment pass, write the answer in your notebook where it is safe, and keep the best version of yourself private for a little longer?",
+      "timestamp": "2026-05-03T16:54:42.536586",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-836fa63e-c12f-429a-9c23-d8d2962003d9",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "The fluorescent light hums its single indifferent note. Somewhere down the hall, the vending machine cycles through its compressor rhythm — a sound Lin has heard every night this week at 2 A.M., a sound that has become, without her permission, familiar.\n\nThe whiteboard in front of her holds the ghost-traces of a hundred previous answers: equations, outlines, someone's phone number crossed out, a small dog drawn in blue marker. And in the lower left corner, barely visible beneath a smear of old erasure, the Mandarin she found on her third night here, when she was tired enough to stop pretending she wasn't reading the walls.\n\n*你不是第一个，也不会是最后一个。*\n\nYou are not the first. You will not be the last.\n\nSomeone sat in this exact room, in a fluorescent silence identical to this one, and decided to leave that sentence for the next person instead of keeping it safe inside their notebook.\n\nThe answer in Lin's throat is real. It is true. It arrived in Chinese first and she translated it and the translation is good enough — not perfect, but *present*.\n\nThe three seconds in Alderman's class are not over yet.",
+      "timestamp": "2026-05-03T16:54:42.537066",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-08e78887-15c7-4967-8349-dc81766ab969",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Raise your hand. Say the words. Let them land imperfect and true.",
+      "timestamp": "2026-05-03T16:55:39.632123",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c299f752-1164-4412-a8b4-bec757d21f9e",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "*The hand goes up.*\n\n*Not smoothly — it doesn't arc upward like someone who has done this a hundred times in a hundred rooms. It goes up the way the first domino falls: a small, irreversible tipping past the point of return. Lin's elbow lifts from the desk, her wrist follows, and then her palm is open in the fluorescent air of Alderman's classroom and there is no taking it back.*\n\n\"Information tells you the distance between two places.\" *Her voice comes out quieter than she intended, and she pushes it.* \"Meaning is — why you measure it. Whether you are trying to go, or trying to understand how far you have come.\"\n\n*The sentence lands imperfect. 'Why you measure it' is not quite the construction she wanted. But it is present. Alderman's eyes find her from across the room — not with pity, not with the particular careful encouragement Lin feared, which would have been its own kind of diminishment. With attention. The real kind.*\n\n*Later, alone in B-7, the inscription is still there in the lower left corner. Lin looks at it for a long moment, then opens her notebook and writes, in Chinese first and then in English below: the answer I gave today.*\n\n*She does not cross either version out.*",
+      "timestamp": "2026-05-03T16:55:44.769953",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-801a2020-dbb8-494d-b61d-d0ce14826a40",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - STILL IN B-7 — BUT DIFFERENT NOW]",
+      "timestamp": "2026-05-03T16:55:44.770549",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1503db69-d94e-4451-a232-39468cb0e060",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Lin records a voice message to her mother, trying to describe what just happened",
+      "timestamp": "2026-05-03T16:56:41.371042",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a3a58862-a935-4bda-ad60-953fcf5dfe36",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "*The phone screen glows against the oak table. Lin's thumb hovers over the record button for four seconds — she counts them — and then presses down.*\n\n\"Māma.\" *A pause. The ventilation hums.* \"今天我举手了。\" *I raised my hand today.* \"It was — my English was not perfect. The professor looked at me like I had said something real. I am not sure those two things are unrelated.\"\n\n*She stops. Starts again.*\n\n\"I wrote the answer in Chinese first. In my notebook. And then I wrote it in English underneath and I did not — I kept both. I don't know why that feels important but it does.\"\n\n*The vending machine down the hall cycles. Lin looks at the inscription in the corner without meaning to.*\n\n\"There is a sentence on the whiteboard here that someone wrote in Chinese. I don't know who. It says you are not the first, you will not be the last.\" *Her voice shifts, something rougher moving under it.* \"I think I am going to write something too. When I figure out what.\"\n\n*She ends the recording. Thirteen seconds.*\n\n*Then she uncaps a marker — blue, the same blue as the little dog in the corner — and sits for a long moment looking at the whiteboard, deciding what she has learned that is worth leaving behind.*",
+      "timestamp": "2026-05-03T16:56:41.371473",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-331d45d4-25c9-4231-bdec-35824975905a",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Write something on the whiteboard now — imperfect, true, in whatever language arrives first",
+      "timestamp": "2026-05-03T16:58:10.815385",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b1f3434e-881f-4c6d-833c-c54c8906c2ea",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "*The marker tip touches the whiteboard and Lin writes in Chinese first — not because she is hiding, but because that is where the true thing lives:*\n\n把最好的自己留在房间里。\n\n*She stares at it. Reads it back. The translation arrives without her forcing it:*\n\n*Leave the best version of yourself in the room.*\n\n*Not safe inside the notebook. Not edited down to something smaller and more portable. Here — present, imperfect, attributed to no one, available to whoever sits in this chair next and needs it more than she does.*\n\n*She writes the English underneath the Chinese. Both versions. Neither crossed out.*\n\n*The blue marker cap clicks back into place. The fluorescent light hums its single indifferent note. The little dog in the corner, the Mandarin inscription barely visible beneath old erasure, the phone number, the crossed-out motivational quote — and now this. Lin's handwriting, recognizable, indelible, hers.*\n\n*She picks up her canvas tote. The Chengdu bookshop logo is worn soft at the corners from a semester of daily use.*\n\n*At the door she turns back once — not to second-guess, but to confirm it is still there.*\n\n*It is.*",
+      "timestamp": "2026-05-03T16:58:10.816007",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-51170e63-9eed-47d2-8c9e-28ee56a3bc69",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DECEMBER CAMPUS, OR WHEREVER LIN CHOOSES TO GO NEXT]",
+      "timestamp": "2026-05-03T16:58:10.816463",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-05ee7642-7d57-43c4-b5c0-a1aea3020e9a",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Text Marcus or Priya — not to explain, just to say: I'm done. See you next semester.",
+      "timestamp": "2026-05-03T16:59:26.648442",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-90eaa52e-d2d7-439d-906b-0a915f7cdb18",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "*The phone is already in her hand. She opens the group chat — the one Marcus named* Study Demons B7 *in the second week of October, when none of them had asked for a group chat but all of them had needed one.*\n\n*She types in English. Doesn't switch to Chinese first. Doesn't edit it three times.*\n\nDone for the semester. See you both next semester.\n\n*A pause. Her thumb hovers. Then she adds:*\n\nThank you for the seat.\n\n*She sends it before she can decide whether that last line is too much. It isn't. It is exactly enough.*\n\n*The read receipts arrive within ninety seconds — Marcus first, a single response:*\n\n👊🏾 *next semester we take the whole table*\n\n*Then Priya:*\n\nDONE?? LIN. WE ARE CELEBRATING. also what does \"thank you for the seat\" mean I'm crying in the library\n\n*Lin looks at her phone in the hallway outside B-7, the door closed behind her, the sign readable now from the outside. She is smiling — not the careful, controlled smile she has worn in classrooms all semester, but the other kind. The one that arrives without permission.*\n\n*She starts walking toward the exit. The December cold is waiting on the other side of the library doors. She already knows she'll come back.*",
+      "timestamp": "2026-05-03T16:59:36.306778",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-c3c5fe58-32e0-4e86-a43e-1b79a681d0b0",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - LIBRARY EXIT, DECEMBER CAMPUS, OR WHEREVER LIN CHOOSES TO GO NEXT]",
+      "timestamp": "2026-05-03T16:59:36.307552",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1a10e671-3c08-4b7f-9c66-591990acf065",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Stay in the hallway one more minute and read the B-7 sign, just to know what it says from the outside",
+      "timestamp": "2026-05-03T17:00:40.929108",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0a348dc8-9106-4891-95cb-87c337361120",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "*The sign is a standard university placard — black text on cream laminate, the kind that comes from a template and gets screwed into every door in every building without anyone deciding it matters:*\n\nSTUDY ROOM B-7\n\n*That is all it says. No 'The Cave.' No inscription. No small blue dog. Just a room number, institutional and replaceable, the kind of designation that means nothing to anyone who has not spent a semester inside it.*\n\n*Lin reads it twice.*\n\n*Then she takes out her phone — not to record a voice message, not to text Marcus or Priya — and photographs it. The plain sign. The ordinary door. The hallway light falling across it without drama.*\n\n*She will look at this photograph in Chengdu over winter break, probably at 2 A.M. when the time difference wakes her, and it will look like nothing. A door. A number. It will look like nothing and mean everything, and she will understand by then that this is what belonging actually looks like from the outside — unremarkable, specific, entirely yours.*\n\n*The vending machine hums behind the closed door.*\n\n*She pockets her phone and turns toward the stairs.*\n\n*Up. Out. December.*",
+      "timestamp": "2026-05-03T17:00:40.929627",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-dfbe7009-3a29-40fd-a91a-366ee667b427",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - LIBRARY EXIT, THEN DECEMBER CAMPUS]",
+      "timestamp": "2026-05-03T17:00:45.636989",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4c3e295b-5479-4df8-b270-851a274d3438",
+      "speaker": "Wei Lin (林薇)",
+      "role": "user",
+      "character_id": "weilin",
+      "content": "Push through the library doors into the cold — let the semester end on the first breath of outside air",
+      "timestamp": "2026-05-03T17:01:52.531399",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-64b76977-10b0-4a22-9d34-bc76bfc5a7d9",
+      "speaker": "The Cave (Study Room B-7)",
+      "role": "assistant",
+      "character_id": "thecave",
+      "content": "*The doors are heavy. She pushes with both hands.*\n\n*The cold arrives before anything else — not gradually, the way it does inside a coat, but all at once: forehead, cheekbones, the back of her wrists where her sleeves have ridden up. December air sharp and specific, carrying wood smoke from somewhere across the quad and the mineral smell of ground that has been frozen and refrozen for weeks.*\n\n*Lin stops on the top step.*\n\n*The campus is almost empty. Finals have hollowed it out — no one crossing the quad at speed, no cluster of students outside the union, no bicycle locked to the wrong rack. Just the red-brick facades going amber in the late afternoon light, the bare trees, the cold that does not apologize.*\n\n*She exhales.*\n\n*The breath comes out visible. A small cloud, hers, dissolving into December.*\n\n*Somewhere in her tote bag her phone hums — Priya again, probably, or her mother responding to the voice message fourteen hours ahead in Chengdu, already in tomorrow. Both of them waiting. Both of them real.*\n\n*She does not check it yet.*\n\n*She stands on the library steps for one full minute and lets the semester land — all of it, the raised hand and the red marks and the whiteboard and the seat Marcus saved on a Tuesday in October — lets it settle into her body like cold air settling into a coat.*\n\n*Then she walks.*",
+      "timestamp": "2026-05-03T17:01:52.532198",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-3f850605-2f71-4fe9-8ada-7893328115a7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - WHEREVER LIN CHOOSES — ALL THREE PATHS ARE EARNED]",
+      "timestamp": "2026-05-03T17:01:52.532905",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

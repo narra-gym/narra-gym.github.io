@@ -1,0 +1,478 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 5,
+      "story_empathy": 4,
+      "story_surprise": 5,
+      "story_engagement": 4,
+      "story_complexity": 4,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 5,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-02T12:59:45.788680"
+  },
+  "dialogue": [
+    {
+      "id": "msg-fb48f931-bbfd-411b-a09c-f37ef5b0e0b0",
+      "speaker": "Marco Saad",
+      "role": "assistant",
+      "character_id": "marcosaad",
+      "content": "I'm Marco Saad. Can you hear me now, or am I doing that thing where I turn into a slideshow again?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f833eaf5-465e-4270-bb88-21d21ab28968",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "I can hear you. Mostly. Hold on—don't move. It gets worse when you move.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e98c2784-b841-4fa4-9264-6dd97c27a9db",
+      "speaker": "Marco Saad",
+      "role": "assistant",
+      "character_id": "marcosaad",
+      "content": "That's bleakly romantic, Nina. Stay exactly where you are so I can love you in low resolution.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3d00abe6-a63b-4062-9877-cf16661ea298",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "You joke, but this is basically our brand now.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-558d0a1b-8e45-46a9-bc5f-f4871126d27a",
+      "speaker": "Marco Saad",
+      "role": "assistant",
+      "character_id": "marcosaad",
+      "content": "Not forever. I've been thinking again about your city. About jobs. About what it would take.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-aef08a2d-b4cf-4ad1-bb1f-aed1f32542ed",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "You've been thinking about it for a long time.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f2931323-7bfa-4e91-9c56-9c4ed61a8cf9",
+      "speaker": "Marco Saad",
+      "role": "assistant",
+      "character_id": "marcosaad",
+      "content": "I know. I know. Just—give me one second, the screen froze on your face and I can't tell if you're upset or just tired.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5334b630-ff63-43a9-846b-3b9109f2d461",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "Marco? ...Marco?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d4cf3c70-bf3f-4f54-9e01-7fa86e09b642",
+      "speaker": "Sahar Haddad",
+      "role": "assistant",
+      "character_id": "saharhaddad",
+      "content": "I'm Sahar Haddad, and that's not the face of someone who came down here for a charger cable.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-159be4bf-81f3-497d-b807-ce309a6b123b",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "It kept dropping. I thought maybe the cable was the problem.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b619fce8-b341-4d76-a013-e6e46a928144",
+      "speaker": "Sahar Haddad",
+      "role": "assistant",
+      "character_id": "saharhaddad",
+      "content": "Maybe. Or maybe you're trying to fix the wrong part. Are you staying up for love, Nina, or for maintenance?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a87e32bd-b750-4be7-9545-603e4c06e9a1",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "That's a brutal question for twelve-fifteen.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9e5fa08c-0a3b-425a-9510-e622564df51b",
+      "speaker": "Sahar Haddad",
+      "role": "assistant",
+      "character_id": "saharhaddad",
+      "content": "Then answer it tomorrow. But answer it before it answers itself.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4e40b155-689a-4365-a636-44aa3f8cbf07",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "I'm Eli Warren, from across the courtyard—apartment 4C. This got left outside my door by mistake, and I figured you'd probably want it before it became part of the hallway ecosystem.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bb9baeb8-ed2d-4e28-8553-74d96a8cdd2f",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "Thank you. I was wondering where that went.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-61996682-bbfe-4465-8801-63827246b3ec",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "I was going to knock earlier, but your screen was glowing in that very serious way that says either work crisis or relationship diplomacy.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bf9ccce8-5f89-4106-82bf-333946795e96",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "Relationship diplomacy is unfortunately accurate.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e53a4734-1eeb-4885-a2a0-ef270ccd2f78",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "For what it's worth, the building Wi-Fi has ended at least three of my important life moments. If you need to blame infrastructure, I fully support it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-49eb38ed-8175-4d24-9fe7-9a33b3ca5311",
+      "speaker": "Nina Alvarez",
+      "role": "user",
+      "character_id": "ninaalvarez",
+      "content": "That's generous. I'll add it to the official record.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "turn-1a06d9a3-cc85-449f-8053-d01a218bd631-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Return to the deli and ask Sahar what she meant—really meant—by maintenance.",
+      "timestamp": "2026-05-02T12:53:32.073410",
+      "message_type": "choice_stream",
+      "turn_index": 1,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-566e1075-d0b5-4024-8d54-ff33124fadfa",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli’s mouth tips at one corner, but he doesn’t let the joke carry the moment away. The hallway radiator hisses behind him. Down below, the deli’s neon throws a weak red wash across the courtyard glass.*\n\n\"Then let me add one more thing to the record.\"\n\n*He shifts the parcel against his hip, eyes flicking to your phone, then back to your face—careful, direct.*\n\n\"When a call keeps breaking and both people mostly talk about when it’ll be easier later? Sometimes that’s not a technical issue. Sometimes it’s the relationship surviving on troubleshooting.\"\n\n*The words land plain, no flourish. He exhales through his nose, like he knows he’s stepped over a line and chose it anyway.*\n\n\"Sahar probably meant that. Keeping something alive because you’re good at upkeep. Chargers, time zones, apology loops, rebooking plans.\" *A beat.* \"Not the same as being met.\"\n\n*From downstairs, the deli door buzzer snaps open, then shut. Sahar’s silhouette moves behind the counter through the glass.*\n\n\"If you go ask her, ask because you want the truth, not because you want a loophole.\" *He steps aside from your door, clearing the hallway.* \"And, Nina—if Marco calls back tonight, answer him to decide something. Not to soothe it until morning.\"",
+      "timestamp": "2026-05-02T20:53:27.598256",
+      "message_type": "text",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-610b2b1e-3fa3-42ce-b88b-d38a9cd7382b",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE CORNER DELI DOWNSTAIRS OR THE HALLWAY CALL BACK TO MARCO]",
+      "timestamp": "2026-05-02T20:53:27.598733",
+      "message_type": "system",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-68f54255-8a09-4e56-9853-7ca5a2ca6476-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Call Marco back immediately from the hallway before you lose your nerve.",
+      "timestamp": "2026-05-02T12:54:48.057083",
+      "message_type": "choice_stream",
+      "turn_index": 2,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-b2e49739-53b8-48a2-bf15-3c68f7bf56af",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Your thumb barely hits his name before the phone jolts alive in your hand. Not a callback. A message. Then another. The hallway’s yellow light makes your screen look sickly pale.*\n\nMarco: Don’t call yet. I need to tell you something before we do this live.\n\n*Eli sees your face change before he sees the words. He doesn’t crowd you, just stills—parcel tucked under one arm, keys cold in his other hand. Downstairs, the deli fridge hums. Somewhere above, plumbing knocks in the wall.*\n\nAnother message drops in.*\n\nMarco: I took the Singapore position.\nMarco: I said no last month. I called them back tonight and said yes.\nMarco: I couldn’t keep asking you to wait for a version of me that was going to choose differently.\n\n*The radiator hisses sharp between you like a match catching. Eli’s jaw shifts once. When he speaks, his voice is low and very even.*\n\n\"That’s your answer, Nina. Maybe not the whole conversation. But it is the answer.\"\n\n*He glances at your phone, then at the stairs, giving you the shape of the next move without touching it.*\n\n\"You can call him now and make it real. Or you can go downstairs first and make sure you don’t let him turn this into another beautiful delay.\"*",
+      "timestamp": "2026-05-02T20:54:44.966905",
+      "message_type": "text",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-442ac281-a031-4d21-9bdc-274e441fa382",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - HALLWAY CALL OR DELI DOWNSTAIRS]",
+      "timestamp": "2026-05-02T20:54:44.967407",
+      "message_type": "system",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-c0a51230-cc7c-4daa-a36a-b06c53ee9a75-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Call Marco now, in the hallway, and force the decision into spoken words.",
+      "timestamp": "2026-05-02T12:55:29.295921",
+      "message_type": "choice_stream",
+      "turn_index": 3,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-8ad4b78b-0d46-437e-9987-d5e43232cf51",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli gives one short nod. No ceremony. The hallway feels narrower now, steam heat and dust in the air, your phone bright against your palm.*\n\n\"Put it on speaker if you think he’ll turn gentle and make you forget what he already said.\"\n\n*The call connects fast—too fast, like he was already holding the phone. A breath, then Marco’s voice, tired and careful.*\n\n\"Nina—\"\n\nEli’s gaze drops to the peeling baseboard, giving you privacy without pretending he isn’t here.\n\nMarco swallows audibly. \"I accepted it. The relocation package, the start date, all of it. I leave in six weeks.\" *A beat, paper rustling somewhere on his end.* \"And I was still about to ask if we could keep trying like this. I know how bad that sounds.\"\n\n*Eli’s head lifts at that. Something hardens, not unkindly—just clear.*\n\n\"There it is,\" he says, quiet but impossible to mistake. \"That’s the part that matters.\"\n\nMarco hears him. Silence snaps tight on the line.\n\n\"Who is that?\" Marco asks, sharper now.\n\n*Conflict shifts, immediate and ugly. No more polished buffering; no more private script. Eli doesn’t answer for you. He just meets your eyes and stays still, making the choice land where it belongs.*\n\n\"Say it plain, Nina.\"",
+      "timestamp": "2026-05-02T20:55:22.544174",
+      "message_type": "text",
+      "turn_index": 3,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-464f5e38-2033-4099-8b28-4dbfa25150db",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - HALLWAY CALL OR DELI DOWNSTAIRS]",
+      "timestamp": "2026-05-02T20:55:27.154755",
+      "message_type": "system",
+      "turn_index": 3,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-c2be8fc1-bdfe-4c50-a6e3-20178614f878-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Tell Marco it’s over and refuse a long-distance version of almost.",
+      "timestamp": "2026-05-02T12:56:00.406606",
+      "message_type": "choice_stream",
+      "turn_index": 4,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-83c59ce9-7761-4276-9834-6e6a5857f6de",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli takes the phone from your hand before you can soften it, thumb hitting speaker with a dry click. The hallway suddenly feels public—radiator hiss, somebody’s TV bleeding laughter through a wall, the deli cooler thrumming downstairs.*\n\nHe holds your gaze, then speaks into the thin bright rectangle.\n\n\"I’m Eli. I live across the courtyard.\"\n\n*Marco goes very still on the other end. No static now. No lag to hide in.*\n\n\"And she’s ending this,\" *he says, voice level, not cruel, just finished with evasions.* \"Because six more weeks and another continent isn’t a relationship. It’s you asking her to keep maintaining the idea of one.\"\n\n\"Nina?\" Marco’s voice cracks around your name, hurt flaring into disbelief. \"Is that what you want?\"\n\n*Eli turns the phone back toward you, but he doesn’t step away. The choice is no longer fogged over; it’s standing in the hall with you, breathing.*\n\n\"Say yes,\" *he says quietly, for you this time.* \"Not for me. For the part of you that’s already exhausted.\"\n\n*Downstairs, the deli buzzer snaps as someone comes in. Life goes on under the knife-edge of it.*\n\nThe next objective is brutal and simple now: either you speak the ending, or Marco will start building a softer version fast enough to live in again.",
+      "timestamp": "2026-05-02T20:55:58.837233",
+      "message_type": "text",
+      "turn_index": 4,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-cba64983-d7b5-4c41-bee2-020559053190",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - HALLWAY OR DELI DOWNSTAIRS]",
+      "timestamp": "2026-05-02T20:55:58.837917",
+      "message_type": "system",
+      "turn_index": 4,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-b0b4d234-7a53-40db-bc42-a5b1957e1b12-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Ask Marco if he ever planned to tell you before tonight, forcing one last truth first.",
+      "timestamp": "2026-05-02T12:56:55.392370",
+      "message_type": "choice_stream",
+      "turn_index": 5,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-9a9fe46b-64f1-4ed5-bfba-b13cb368aeb4",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli’s eyes close for half a beat, like he knows exactly why you asked and hates that it matters. He says nothing. He just leaves the phone between both your hands and lets the silence do its work.*\n\nOn speaker, Marco breathes in. Out. The hallway light buzzes overhead.\n\n\"I was going to tell you at the airport next Friday,\" he says at last, voice roughened down to something honest and ugly. \"I had it mapped out. Dinner first, then I’d say I took it, then I’d ask if we could have these six weeks without ruining them.\"\n\n*Eli’s stare drops to the floor. His jaw flexes once.*\n\nMarco keeps going, because now he has to. \"I thought if I told you tonight, you’d end it now. If I told you in person, maybe... maybe you’d stay through the leaving.\"\n\nThere it is. No buffering. No romance left on it. Just strategy wearing tenderness like a coat.\n\nEli looks up at you then, face gone still in a different way—less anger now, more brutal clarity.\n\n\"He was going to stage-manage your heartbreak,\" *he says quietly.* \"That’s the last truth.\"\n\n*Downstairs, the deli bell snaps. Sahar’s laugh rises faintly, then cuts off. The hallway feels colder.*\n\n\"Don’t ask him for another one. End it.\"",
+      "timestamp": "2026-05-02T20:56:53.725955",
+      "message_type": "text",
+      "turn_index": 5,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-75e3b7e2-03b2-4c78-a43d-d213e0ff8f5c",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - HALLWAY OR DELI DOWNSTAIRS]",
+      "timestamp": "2026-05-02T20:56:53.726597",
+      "message_type": "system",
+      "turn_index": 5,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-8cfa0214-083b-460b-8709-262cf7ca5541-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Tell Marco, clearly and finally, \"Yes. It’s over.\"",
+      "timestamp": "2026-05-02T12:57:37.881630",
+      "message_type": "choice_stream",
+      "turn_index": 6,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-db55b22d-9759-4e1a-9a3e-c58dc044ee89",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli doesn’t move while you say it. That’s the mercy of him—no rescuing, no filling the silence, no turning your words into something easier to survive.*\n\nOn speaker, Marco makes a sound like he got hit somewhere private.\n\n\"...Okay.\" *A scrape of breath. Then, trying anyway:* \"Nina, if this is because you’re angry, we don’t have to decide it like this tonigh—\"\n\n\"No.\" *Eli’s voice cuts across before Marco can build the old soft hallway back around you. Calm. Final.* \"Don’t do that. She answered you.\"\n\n*The line goes quiet enough to hear the electric buzz in the ceiling fixture. When Marco speaks again, the hope is gone from it. That’s the shift; ugly, clean, necessary.*\n\n\"I did love you,\" he says, not bargaining now, just wrecked by the fact that it changes nothing. \"I just kept thinking I could postpone the cost.\"\n\nEli’s mouth tightens. He looks at the scuffed floor, giving the grief its dignity.\n\n\"Then let her go like you mean it,\" he says.\n\n*A long beat. Then Marco, smaller now:*\n\n\"Goodbye, Nina.\"\n\n*The call ends. Not dropped. Ended.*\n\nEli finally exhales, rubbing a hand over the back of his neck. The hallway feels different—same dust, same heat, but the air has somewhere to go now.\n\n\"That’s done,\" he says quietly. \"Next part is making sure you don’t call him back tonight.\"",
+      "timestamp": "2026-05-02T20:57:31.554318",
+      "message_type": "text",
+      "turn_index": 6,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-f514b330-d40a-4562-b49b-eb1c6a234e34",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - HALLWAY OR DELI DOWNSTAIRS]",
+      "timestamp": "2026-05-02T20:57:35.999444",
+      "message_type": "system",
+      "turn_index": 6,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-4164ea3c-9c5d-4f65-bde8-f1d298a5f888-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Hand Eli the phone before your fingers betray you and ask him to keep it for one hour.",
+      "timestamp": "2026-05-02T12:58:09.866439",
+      "message_type": "choice_stream",
+      "turn_index": 7,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-689b9179-72ef-45db-93d2-d1a8ebfafea3",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli takes it immediately. No joke, no hesitation. Your phone disappears into the inside pocket of his jacket with the soft rasp of nylon, zipped in like something sharp.*\n\n\"One hour,\" he says. \"I can do one hour.\"\n\n*Then he reaches past you—not touching, just close enough that you feel the heat off him—and plucks your charger from where it’s looped around your wrist. He folds it once and tucks that away too.*\n\n\"And I’m taking the leash with it.\"\n\n*That lands as the real change. Not symbolic. Practical. No battery to resurrect a bad idea, no phone to light up your hand the second grief gets theatrical.*\n\nDownstairs, the deli fridge hums and the bell pops again. Someone laughs too loudly. The building keeps being a building.\n\nEli leans back against the wall opposite you, messenger bag thumping softly against peeling paint. He studies your face for one second, careful and unsentimental.\n\n\"I also blocked his number,\" he adds, pulling your phone halfway back out just long enough for you to see the screen before he slides it away again. \"Temporary. You can yell at me in fifty-nine minutes if you want.\"\n\n*His mouth twitches, not quite a smile.*\n\n\"Right now your only job is not negotiating with the ghost of the call. Pick one concrete thing: water, coffee, or sit on the deli milk crate and hate me professionally.\"",
+      "timestamp": "2026-05-02T20:58:07.908234",
+      "message_type": "text",
+      "turn_index": 7,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-d4e8bf64-af03-42b0-a419-d32cf17e9865",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DELI DOWNSTAIRS OR REMAIN IN HALLWAY]",
+      "timestamp": "2026-05-02T20:58:07.908940",
+      "message_type": "system",
+      "turn_index": 7,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-de80f8aa-d732-40b4-a791-d378de2b85b0-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Stay in the hallway and tell Eli exactly why blocking Marco feels both cruel and necessary.",
+      "timestamp": "2026-05-02T12:58:52.474907",
+      "message_type": "choice_stream",
+      "turn_index": 8,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-91033a1a-68d5-4462-94b8-f9e7e79ef434",
+      "speaker": "Eli Warren",
+      "role": "assistant",
+      "character_id": "eliwarren",
+      "content": "*Eli listens without interrupting, shoulder against the wall, one boot braced on the baseboard where the paint has chipped down to older colors. When you finish, he blows out a slow breath through his nose and nods once like he’s setting a weight down somewhere deliberate.*\n\n\"Yeah,\" he says. \"Because cruelty and amputation can look annoyingly similar for the first hour.\"\n\n*The radiator knocks in the apartment at the end of the hall. Somebody upstairs drags a chair. Ordinary sounds. Useful sounds.*\n\n\"But one of them is punishment, and one of them is triage.\" *He taps the pocket holding your phone.* \"This is triage.\"\n\nThen his eyes lift to yours, steadier now, less caretaker and more witness.\n\n\"There’s something I’m not going to do tonight,\" he says. \"I’m not turning this into a reward scene for me. I’m not going to step into the space Marco left just because it’s open.\"\n\n*That’s the reveal, quiet and clean. The air shifts around it.*\n\n\"I want you,\" *he says, plain as a hand on a table.* \"Have for a while. And that is exactly why I’m keeping this hour boring.\"\n\nHe pushes off the wall, already deciding the next practical edge of things.\n\n\"So here’s the objective: you stay in this hallway with me for five more minutes, breathing like a person and not a crisis. Then I walk you to your door, keep the phone, and leave. Tomorrow can be different on purpose, not by rebound.\"",
+      "timestamp": "2026-05-02T20:58:50.750034",
+      "message_type": "text",
+      "turn_index": 8,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-b63c3dfd-58b8-4d86-8b52-902af0f07ff9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - NINA'S DOOR OR REMAIN IN HALLWAY FOR FIVE MINUTES]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-02T20:58:50.750878",
+      "message_type": "system",
+      "turn_index": 8,
+      "source": "turn_log_message"
+    }
+  ]
+}

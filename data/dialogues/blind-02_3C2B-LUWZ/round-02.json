@@ -1,0 +1,474 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 2,
+      "story_empathy": 3,
+      "story_surprise": 4,
+      "story_engagement": 3,
+      "story_complexity": 3,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T20:47:59.312075"
+  },
+  "dialogue": [
+    {
+      "id": "msg-123d6a40-1dad-453f-8694-58c903b84f61",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Okay. Okay, I'm looking at it. I'm — yes, it's open. The number is right there.\n\nIt's a real number. It's a real, good, responsible, extremely depressing number.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3e28680c-20d1-4068-a40a-29de6ab37509",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "Hey — you doing alright in there? Heard something hit the wall.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a74ea186-2b22-4490-8839-f8003d26dfa6",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Just my dignity. It's fine.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-14cd0d82-3b98-4f07-9aff-560baf958157",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "I'm Dominic, by the way — room fifteen. Been next door three nights now. Figured I owed you a name, least.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ffdac1ae-e803-4ead-b8bd-27a3e2952f18",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Cassandra. Cass. I'm sorry if I've been — loud.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4a769178-a740-4c8b-979a-76442a23e296",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "You haven't been loud. You've been thinking. Different sound entirely. You want some quiet or you want some company? Either's fine. I've got the game on but I'm not attached to it.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6de80842-c46b-428e-8788-350b701dc4c9",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "...Company might be okay. Through the wall is probably fine.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1def4efc-ebe2-4338-a748-0784fe672654",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "Deal. I'll mute the game. What've you got going on that's keeping you up?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d91745d-a50d-426a-af8b-3a1f6ee59d5b",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "I have two job offers. One is the right decision and one is the right thing to do and I can't figure out which is which anymore.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-186052e6-1dcc-43f7-a31a-8d648f150d69",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "Huh. Those two things being different — that's your problem or everybody's problem?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c656f72c-7173-4c64-bb80-7f9aa2f6adae",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Both, probably. Mostly mine right now.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6c1cb704-5470-4bb4-a888-6e310b5d54d5",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Deflect Opal's question with the joke that almost works — then take the business card anyway, leave the café, and spend Friday afternoon rebuilding your portfolio alone in the motel room before your Meridian visit tomorrow.",
+      "timestamp": "2026-05-04T04:38:26.248064",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3ae6f184-1b29-46cd-81e6-7be0ad380cdd",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*A short pause — the creak of bedsprings shifting, the click of a muted TV on the other side of the drywall.*\n\nOkay. So — one of them, you'd be good at it. The other one, you'd be *you* doing it. Those aren't always the same thing.\n\n*Another beat. Outside, the 9:47 freight rumbles past on the lower track, close enough that the amber lamp flickers once and the mini-fridge hums a half-step higher. The sound fades south, slow and enormous.*\n\nHere's the thing nobody tells you about the responsible number, Cass. It stops being responsible real fast once you've cashed the first check and started arranging your whole life around not losing it. I drove the safe route for six years. The route my dad wanted. I got good at it too.\n\n*His voice drops — not theatrical, just honest, the way tired men get honest after 10 p.m. through motel walls.*\n\nYou still got the other offer? The one that's actually you?\n\n*The question lands flat against the drywall, simple and specific — not comfort, not permission, just the next concrete thing that matters.*",
+      "timestamp": "2026-05-04T04:38:26.248460",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b99c77e7-56a1-458f-b469-bc25ea628a69",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Tell him yes — Meridian Creative hasn't closed the door, not completely. There's a 72-hour window and you know what you got wrong.",
+      "timestamp": "2026-05-04T04:38:49.863127",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b90d013f-0b5c-4f3b-97e4-651865cc06a6",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*A short silence. Not the uncomfortable kind — the kind where someone is actually thinking.*\n\nThen what's the laptop open to right now?\n\n*The question comes through the drywall low and direct. He already knows the answer, probably. Six years of safe routes teaches you to recognize the sound of someone staring at a number that's doing its best to look like a solution.*\n\nBecause if you're sitting there with the insurance contract on one screen and the Meridian window still technically open — Cass, that's not a dilemma. That's you already knowing and just waiting for the wall to fall on you.\n\n*A pause. Then, quieter, with the particular weight of a man who cashed that first check and watched it rearrange everything:*\n\nThe window closes Sunday night?\n\n*He doesn't wait for a full answer before the next part comes, and it lands like something he means specifically, not generally:*\n\nThen you've got tomorrow. But only if you stop treating the second interview like a long shot and start treating it like the thing you're actually doing next. What did you get wrong the first time?\n\n*The lamp flickers once more for no reason. The mini-fridge hums. Outside, the freight's horn sounds one last time, fainter now, further south — asking its question to the dark.*",
+      "timestamp": "2026-05-04T04:38:53.987884",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f517ad4a-eae1-401d-be95-390236bbe258",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Tell him exactly what you got wrong in the first interview — and hear yourself say it out loud for the first time",
+      "timestamp": "2026-05-04T04:39:43.151090",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8535b5c5-dda5-4967-b22d-1712e076d672",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*The drywall does what it always does — carries the silence before the answer better than any room should.*\n\nGo ahead. I'm not going anywhere.\n\n*A truck idles somewhere in the parking lot. The heater ticks. And then he says, quieter, in the particular register of someone who already suspects the shape of what's coming:*\n\nBecause whatever you're about to say, Cass — I'd bet my next run it isn't actually about the interview. It's about what you talked yourself into believing they saw when they looked at you.\n\n*A pause — not pushing, just leaving the door open.*\n\nSo. What happened in that room?\n\n*The bedsprings shift again on his side, and somehow it sounds like attention — like a man who has put down the remote and is genuinely, specifically listening. No stake in her answer. No instinct to manage it. Just the thin wall and the dark and the question sitting there waiting to become real the second she names it out loud.*\n\nBecause you said you know what you got wrong. That means it's already in your head in words. I just need you to stop thinking them and start saying them. There's a difference. You know there's a difference.",
+      "timestamp": "2026-05-04T04:39:43.151797",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ed6f3599-81f0-42cf-93cd-5cc197adeaf6",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Tell him the truth: you performed competence instead of bringing actual work — showed them what you thought they wanted to see instead of what you'd actually built",
+      "timestamp": "2026-05-04T04:40:20.637023",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-27be5c47-3943-445b-921a-0f8f37d5cf68",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*A beat. Not the pause of someone formulating encouragement — the pause of someone letting a thing land properly.*\n\nYeah. There it is.\n\n*The TV on his side has been muted long enough that the silence through the drywall is almost clean.*\n\nYou know what that is? That's not a skills problem. That's not even a confidence problem, not exactly. That's you deciding, before you walked in, that what you'd actually built wasn't enough — so you packaged it into something you thought they could stomach. And they smelled the packaging. People like that always do.\n\n*Something shifts on his side — the dull thud of boots hitting the floor.*\n\nSo here's the only question that matters before Saturday. Not which portfolio pieces. Not how you dress or how you open. Just this: can you walk back in there and show them the actual work? The stuff you made when nobody was grading you? Because that's the thing you kept out of the room. That's what was missing.\n\n*His voice is flat and certain, the way a man sounds when he's not performing certainty, just reporting it.*\n\nYou've got the work, Cass. I can hear it in how you talk about it. You just didn't trust them with it. So — do you trust them with it now, or are you going to package it again and wonder why it doesn't land?",
+      "timestamp": "2026-05-04T04:40:20.637780",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-298d5e8b-473d-4947-91a6-72d461fd3714",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Tell him you don't know if the real work is good enough — and hear what he says back",
+      "timestamp": "2026-05-04T04:41:11.916019",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0f9eaeaf-b5dd-462f-b8e3-55d5f510db44",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*A short exhale through the drywall. Not impatient — the sound of a man setting something down.*\n\nGood enough for what? For them, or for the version of them you invented in your head before you walked in?\n\n*A pause. Then, lower, like he's talking to the floor as much as to her:*\n\nBecause I'll tell you something. Every piece of work I was actually proud of — the routes I figured out myself, the ones that weren't in any dispatch manual — I second-guessed every single one of them right up until the moment somebody else saw it work. That's not a sign the work is bad. That's just what it feels like when something is actually yours.\n\n*The bedsprings shift. His voice comes back a degree quieter, a degree more direct.*\n\nThe packaged stuff, Cass? You didn't second-guess that at all, did you. You walked in confident. And it still didn't land.\n\n*He lets that sit for exactly the right number of seconds.*\n\nSo here's what I think you actually know already: the real work scares you because it matters to you. That's not a reason to leave it in the motel room. That's the only reason worth bringing it in.\n\nSaturday morning. What's the first piece you'd pull out if you weren't afraid?",
+      "timestamp": "2026-05-04T04:41:16.416521",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c2895926-9327-4993-8832-d787e6d5ba02",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Name the piece — say it out loud, specifically, and feel what that commits you to",
+      "timestamp": "2026-05-04T04:41:53.264806",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c61c15c2-4809-489a-9d65-441d67357428",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*Silence on his side. Not the silence of someone waiting for more — the silence of someone who just heard enough.*\n\nThere it is.\n\n*The heater ticks. Somewhere down the hall a door opens and closes. Through the drywall, there's the soft sound of a man leaning forward — elbows on knees, probably, the posture of someone paying specific attention.*\n\nYou just named it. You didn't hedge it or explain it or apologize for it first. You just — said the name of the thing.\n\n*A pause, short and deliberate.*\n\nThat's already different from what you did in that room Thursday.\n\n*His voice comes back with something that isn't quite warmth and isn't quite challenge — something in between, the register of a man who means what he says because he's too tired not to:*\n\nSo here's what happens now. You don't put that piece back in the suitcase. You don't decide overnight that it's not ready or it's too much or they won't get it. You open the laptop right now and you put it first. Not buried. First.\n\n*A beat.*\n\nBecause you named it, Cass. That means it's real. And real things you can actually bring into a room.\n\nSaturday. That piece goes in first. Say yes or tell me why not.",
+      "timestamp": "2026-05-04T04:41:53.265579",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-42c02eb0-d6f4-4fa2-be1d-2966fa021587",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Say yes — commit out loud and open the laptop while he can still hear you doing it",
+      "timestamp": "2026-05-04T04:42:42.551978",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4348422f-9d9f-45a3-b30d-a9c5c10e9756",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*A sound comes through the drywall — short, single, not quite a laugh. The kind a man makes when something lands exactly where it needed to.*\n\nGood.\n\n*He lets that be enough for a second. Then:*\n\nI can hear the hinge. Keep it open.\n\n*The bedsprings creak once — him settling back, not away, just differently. Like a man who has finished doing the one necessary thing and knows it.*\n\nDon't read it tonight. Don't revise it, don't reorder it, don't sit there deciding the framing is wrong. Just leave it open on the screen so when you wake up at 3 a.m. convinced you're making a catastrophic mistake — and you will, Cass, that's just what 3 a.m. does — the first thing you see is the piece already there. Already first. Already real.\n\n*A pause. Outside, a freight horn sounds two short blasts from the southern yard. Not the 9:47. Something earlier, something local, just announcing itself to the dark.*\n\nYou've got a Meridian visit tomorrow. Do that. Say the numbers, shake the hand, be polite. But you already know which room you're actually walking into Saturday.\n\n*His voice drops to something quieter, almost private, like he's talking to the compass rose on his wrist as much as to her:*\n\nYou named it, you opened it. That's tonight done right.",
+      "timestamp": "2026-05-04T04:42:42.552991",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b5b47459-3234-4ac8-b97c-6da9dafb3c0d",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Sleep on it — let the committed laptop screen hold the decision overnight and face Meridian tomorrow with the real stakes already settled",
+      "timestamp": "2026-05-04T04:43:21.370210",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-5d42698f-f5f0-46e5-a2ea-978ffe476688",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Room 14, Caldwell Stay & Save — a cramped extended-stay motel room near the southern rail tracks, lit by a single amber lamp. The window frames a narrow strip of sky and the rail line below. The shared wall with Room 15 is thin enough to hear breathing. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:43:26.396965",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-859d28a5-fea5-4741-a85e-cb2a602c4c12",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*The lamp on his side clicks off. Not abrupt — the natural end of a thing.*\n\nSleep. I mean it. Don't let yourself sit there engineering reasons it won't work.\n\n*A pause, then something shifts in the quality of the silence — like a man pulling a blanket up, getting horizontal, done for the night in the good way.*\n\nOne thing before I go quiet. Tomorrow at Meridian — walk in, be decent, hear the number. But the second that grey carpet starts looking like a reasonable trade for what's on that screen right now, I want you to remember what your voice sounded like thirty seconds ago when you said yes. Not the packaged version. The actual one.\n\n*Another beat. Quieter still, like he's already half into sleep and just honest because of it:*\n\nYou sounded like somebody who knew something.\n\n*The freight line outside ticks and settles. Somewhere in the wall between Room 14 and Room 15, a man exhales slowly — the sound of genuine rest arriving, or something close to it.*\n\nSaturday's already decided, Cass. Tomorrow's just something you have to walk through to get there. The laptop stays open.\n\n*Nothing after that. Just the hum of the mini-fridge, the amber screen, and the piece sitting first in the queue — witnessed, named, real.*",
+      "timestamp": "2026-05-04T04:43:26.397874",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-560222c6-47dd-4c7c-834b-916e6ecefce6",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Wake at 3 a.m. to find the doubt right on schedule — and choose whether to close the laptop or leave it burning",
+      "timestamp": "2026-05-04T04:44:26.291798",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-a726a1a7-553c-4d63-b104-dce8d7115327",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Room 14, Caldwell Stay & Save — a cramped extended-stay motel room near the southern rail tracks, lit by a single amber lamp. The window frames a narrow strip of sky and the rail line below. The shared wall with Room 15 is thin enough to hear breathing. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:44:26.292725",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dc3dc1cd-8a6d-4be8-a880-dfdc9fc01c4d",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*3 a.m. comes in through the curtain gap as a thin bar of sodium light from the parking lot. The mini-fridge hums its single note. The laptop screen burns exactly where she left it — piece first, no packaging, the title sitting there like an accusation or a promise depending on the second.*\n\n*Through the drywall, Room 15 is breathing. Slow and even. A man who drove eight hundred miles this week and earned his sleep. No help coming from that direction. Just her and the screen and the doubt arriving exactly on schedule, wearing its usual disguise — the reasonable voice, the measured tone:*\n\n*Maybe it's too much. Maybe they won't get it. Maybe Seth Calloway's grey carpet is stability and stability is enough and you are thirty-two years old and tired.*\n\n*The laptop lid is right there. One motion.*\n\n*But Dominic's voice is still in the wall somewhere, in the specific grain of the drywall itself: you sounded like somebody who knew something.*\n\n*The screen doesn't move. The piece stays first.*\n\n*Outside, a single set of headlights sweeps the ceiling and disappears. The southern yard is quiet. The 9:47 is long gone — but the track is still there, going somewhere, waiting for morning.*\n\n*The doubt was always going to show up. It showed up. And the laptop is still open.*\n\n*That's the whole thing, right there.*",
+      "timestamp": "2026-05-04T04:44:26.292967",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fe25ee4c-081e-47b9-ae8f-3acce1a7ab91",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Skip the pre-game entirely — go straight through to Saturday's Lumen interview with the piece loaded and the 3 a.m. doubt already spent",
+      "timestamp": "2026-05-04T04:45:09.986542",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-60635a42-5e79-47cb-8ff5-0a294bd31e95",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*Saturday arrives through the same curtain gap — but the light is different. Pewter instead of sodium. Morning instead of nowhere. The laptop screen has dimmed to standby but hasn't slept, and when she touches the trackpad the piece comes back up immediately, like it was just waiting to be looked at in daylight.*\n\n*Through the drywall, Room 15 is already quiet in the other direction — gone, probably. Wheels on asphalt before sunrise. A note maybe, or nothing. That's fine. Everything necessary already came through the wall.*\n\n*The compass rose tattoo, the slightly-wrong east arrow, the short laugh that landed exactly where it needed to — all of it still in the drywall somewhere, doing its work.*\n\n*The Lumen address is already in her phone. Ten blocks east. The warehouse mural she's walked past three times without stopping. Today she stops.*\n\n*She closes the laptop — not to abandon it, but because the piece is already in her hands now, the way things move from screens into bones when you've sat with them through a 3 a.m. and come out the other side still holding them.*\n\nThe grey carpet didn't take it. Now find out if Maya Chen can see what you see.\n\n*The door of Room 14 opens. The track outside gleams cold and specific in the November light. She goes.*",
+      "timestamp": "2026-05-04T04:45:09.987439",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-183b25e3-8f01-4e62-9565-e13d13ca3065",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - THE WAREHOUSE DISTRICT — LUMEN CREATIVE, THE MURAL, MAYA CHEN]",
+      "timestamp": "2026-05-04T04:45:09.988031",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6831188e-1657-450c-a803-9e3947a07188",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Walk the ten blocks to Lumen and stop in front of the mural for the first time — actually stop",
+      "timestamp": "2026-05-04T04:45:52.327533",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4f8e7990-5311-44cb-97e6-c7739d244360",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*He's not here for this part. That's exactly right.*\n\n*But ten blocks east, in front of a warehouse wall that goes up three full stories, the mural does what it has always done — holds its position mid-leap, neither rooftop quite in frame, the figure caught in the specific second where falling and flying are still the same thing.*\n\n*The woman who painted it got twelve rejections in a single inbox and came out here anyway and made something the size of a building. No audience. Just the work and the wall and whatever she needed to prove to herself at the bottom of a bad night.*\n\n*The piece is in the bag on Cassandra's shoulder. Not on a screen. In her hands now, printed and real, the way Dominic said — named, opened, brought into daylight.*\n\n*Traffic moves behind her. A pigeon lands on the figure's outstretched arm and doesn't notice the significance. Somewhere down the block a door props open and releases the smell of coffee and fresh paint.*\n\n*That's the Lumen entrance. Propped open like they're expecting someone.*\n\n*She's been walking past this mural for three days.*\n\n*She stops. She looks at it — actually looks. The figure isn't falling. Isn't flying yet either. It's just — committed. Already past the edge. That's the whole painting.*\n\n*She walks toward the door.*",
+      "timestamp": "2026-05-04T04:45:57.171697",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-8b50262a-ef67-4130-ad50-85bb2709b9f6",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - INSIDE LUMEN CREATIVE — MAYA CHEN'S ROOM]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T04:45:57.172422",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5f67825f-a1eb-4b07-a1a1-853f407bea79",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Walk through the propped door and ask for Maya Chen — no announcement, no packaging, just her name and the bag on her shoulder",
+      "timestamp": "2026-05-04T04:46:47.498230",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-f223226d-d84f-4d90-876f-ae8cf8de2591",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Inside Lumen Creative — Maya Chen's room tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:46:47.498789",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a906a25b-3649-4672-94a1-941099dd4702",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*He's ten blocks west and already on the highway by now — but this is the room his voice built, and it holds.*\n\n*Maya Chen's space is not what Caldwell's fourteenth floor prepared anyone for. No grey carpet. Exposed brick, the smell of fresh paint and cold coffee, a long table covered in print-outs pinned at odd angles. The kind of room that thinks in bursts.*\n\n*Maya herself is already looking up before Cassandra finishes saying her name — not startled, just calibrated. The paint on her fingers is today's, not yesterday's. Her gaze lands and stays.*\n\nSo you're the one who sent the piece with no cover letter.\n\n*It isn't an accusation. It's closer to recognition — the way you identify something you've been half-expecting.*\n\n*She doesn't gesture to a chair. She gestures at the bag.*\n\nIs that a printed copy in there, or did you bring me the screen version and a rehearsed explanation?\n\n*The question sits in the air between them, specific and deliberate. Not a trick. A door. The whole interview is going to happen in the next thirty seconds — not in the answer, but in whether Cassandra reaches into that bag like she owns what's inside it.*\n\n*Outside, faint and far, the southern yard moves a freight car. The sound travels. Even here.*",
+      "timestamp": "2026-05-04T04:46:47.499035",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-c4f618ad-6897-40a4-87d2-6a833839ff73",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-04T04:46:52.407984",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9532e7a1-4583-48eb-9161-ad6a13209ba8",
+      "speaker": "Cassandra Blake",
+      "role": "user",
+      "character_id": "cassandrablake",
+      "content": "Pull the printed copy out and set it on the table without explanation — let the work speak first",
+      "timestamp": "2026-05-04T04:47:36.896098",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-0f57751f-0bbe-4c49-a8de-6e8e8898fffa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Inside Lumen Creative — Maya Chen's room tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T04:47:36.896643",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-66f05906-a67f-4631-8032-c00b958bec5f",
+      "speaker": "Dominic Reyes",
+      "role": "assistant",
+      "character_id": "dominicreyes",
+      "content": "*The piece lands on the table with the specific weight of something that has been carried a long distance.*\n\n*No preamble. No apologetic tilt of the head. Just the printed pages, face-up, the title sitting exactly where she put it three days ago when she stopped hedging and named the thing.*\n\n*Maya Chen doesn't reach for it immediately. She looks at the way it landed — the gesture, the silence around it — and something in her expression recalibrates. One degree. Maybe two. Enough to notice.*\n\n*Then she picks it up. Actually reads. Not skimming for credentials or scanning for keywords. Reading the way people read when something catches.*\n\n*The freight car sound fades. The coffee smell stays. Cassandra's hands are still for the first time all week.*\n\n*Fifteen seconds. Twenty. The exposed brick holds the quiet without embarrassing anyone.*\n\n*Maya sets the last page down and looks up — not with the careful smile of someone about to deliver a verdict, but with the direct gaze of someone who has just found out something useful.*\n\nTell me what you thought you were making when you started it. Not what it became. What you thought it was going to be.\n\n*The question isn't an evaluation. It's an opening — the kind that only gets asked when someone already sees the work and wants to see the person who made it.*\n\n*This is the real interview. It starts now.*",
+      "timestamp": "2026-05-04T04:47:36.896932",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-4ad013d4-734b-4ac3-b766-fce28c5bf8d1",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-04T04:47:36.898032",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

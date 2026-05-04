@@ -1,0 +1,244 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 2,
+      "story_empathy": 2,
+      "story_surprise": 4,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 2,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 2,
+      "ux_use_again_intent": 1
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-04T01:50:32.790103"
+  },
+  "dialogue": [
+    {
+      "id": "msg-010e6534-02f6-45f8-961e-259470f6aab5",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "I just need a room for the night. That's all.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-204683ce-df7f-4b55-bc8a-0b40c6ad227d",
+      "speaker": "Nina Dao",
+      "role": "assistant",
+      "character_id": "ninadao",
+      "content": "I'm Nina Dao, I manage the motel when my aunt remembers it exists. If you're stopping in Blackwater Point this late, 'just the night' usually turns into a story.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e1c0ab3b-1917-4e0b-9c1c-2f0bb14419d0",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "I'm not looking for a story. My car needed a break, and so did I.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3c9de55a-95d3-416a-9153-451440c53220",
+      "speaker": "Nina Dao",
+      "role": "assistant",
+      "character_id": "ninadao",
+      "content": "Sure. People come here for the ocean, the silence, or because something weird came through a speaker that shouldn't know their name. Which one are you?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3c7ec1f2-eafb-481e-ae3f-ec6e6fed59de",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "If I said a voicemail, would that sound strange here?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11d2ead0-7975-4034-bc7b-6d841193809b",
+      "speaker": "Nina Dao",
+      "role": "assistant",
+      "character_id": "ninadao",
+      "content": "Not strange enough. Room 7. Heater works if you kick it. If the TV comes on by itself, unplug it. If you hear music from across the road after midnight, don't assume it's for everyone.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-98211b5c-b785-4115-b8c6-878e1581758c",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "That's not the kind of advice motels usually give.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-47409237-d81d-4d36-8fea-b0b57038da31",
+      "speaker": "Nina Dao",
+      "role": "assistant",
+      "character_id": "ninadao",
+      "content": "This isn't the kind of town that earns a brochure.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-003138de-4ae1-4c4c-a239-3c2a1f21c2ac",
+      "speaker": "Mara Quill",
+      "role": "assistant",
+      "character_id": "maraquill",
+      "content": "I'm Mara Quill, I pour the coffee across the road, and if that sound followed you here, you'll want something hot before you decide whether to run.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7e17dd70-3540-4cf9-b7c2-67562d709dfe",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "Do people usually walk into motel offices in the middle of the night with invitations like that?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-51ec9255-24ac-4f41-abf8-659588a4e2d8",
+      "speaker": "Mara Quill",
+      "role": "assistant",
+      "character_id": "maraquill",
+      "content": "Only when the diner puts on a fresh pot and starts acting sure of itself. You look like someone who heard her name in static and came anyway.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-22312591-60ab-45c1-afb7-ece2db48e9d4",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "Maybe I made a mistake coming.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11937cec-cc5a-4c7b-84f6-29963b12df54",
+      "speaker": "Mara Quill",
+      "role": "assistant",
+      "character_id": "maraquill",
+      "content": "Maybe. But mistakes and messages arrive on the same roads around here. Coffee's on if you want to find out which one this is.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-96e80572-bccc-4fee-972b-29a4a732d629",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "Follow Mara across the road to the Midnight Diner and confront the strange pull immediately.",
+      "timestamp": "2026-05-04T09:42:42.621203",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9b8e9220-6898-4696-86bd-300e85f463b0",
+      "speaker": "Mara Quill",
+      "role": "assistant",
+      "character_id": "maraquill",
+      "content": "*The crosswalk paint is almost gone, drowned under mist and old salt. Mara doesn’t hurry. Her white shoes whisper over wet asphalt while the diner’s neon OPEN sign buzzes hard enough to feel in your fillings. When she pushes through the chrome-framed door, warm air hits with burnt coffee, fryer oil, and something sharper underneath—ozone, like a storm trapped indoors.*\n\n*Inside, the jukebox in the corner clicks awake by itself. No song yet. Just the mechanism thinking.*\n\n\"Good. Better to meet a thing head-on than let it sit in your room and learn your habits.\"\n\n*Mara slides behind the counter, reaches beneath the register, and sets a motel key on the laminate between the sugar jar and a clean mug. Room 11. Tarnished brass. Not the 7 Nina gave you.*\n\n\"That wasn't there before you stepped off the curb.\"\n\n*The coffee stream rattles black into ceramic. Then the diner phone rings once—shrill, abrupt, impossible to ignore. Mara does not touch it. She watches you instead.*\n\n\"Here's the part that matters. The diner doesn't call the lost ones in. It answers them. Room 11 belongs to whoever the message is really for.\" *A beat.* \"And tonight, it's finally picked someone in town instead of another drifter.\"",
+      "timestamp": "2026-05-04T09:42:42.621539",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-5dd52f26-d01c-45be-84bb-58271566a219",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MIDNIGHT DINER COUNTER, WITH ROOM 11 AND THE PHONE AS IMMEDIATE LEADS.]",
+      "timestamp": "2026-05-04T09:42:47.165420",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a0f0f09a-5528-4692-af2f-a8a4d0b91390",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "Pick up the ringing phone before it stops.",
+      "timestamp": "2026-05-04T09:44:57.947210",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-bf9a5258-f901-462f-bced-4d71ad3d7acb",
+      "speaker": "Mara Quill",
+      "role": "assistant",
+      "character_id": "maraquill",
+      "content": "*Mara’s hand snaps out—not to stop you, just to turn the coffee mug upright before your sleeve clips it. The phone gives a second ring, thinner now, like the sound has farther to travel.*\n\n\"Say your name first,\" *she says, low and quick.* \"If it asks for anything else, don't answer that part.\"\n\n*The receiver is cold and faintly greasy against your palm. The diner falls into a listening hush: fryer ticking, neon buzzing, surf grinding somewhere below the bluff. Then the line breathes.*\n\n\"Eve?\" *Not static. A woman’s voice. Worn thin with distance, but unmistakably human.* \"I don't have long this time.\"\n\n*Mara goes still beside the pie case, every line in her face tightening a notch.*\n\nThe voice swallows hard. \"You left your car on the shoulder in the rain three years ago and never called her back. She kept the voicemail. She still has it.\" *A burst of hiss claws through the line; the overhead lights dim, then flare.* \"Room 11 has the rest. Don't let him get there first.\"\n\n*As if on cue, through the diner window the motel VACANCY sign across the road stutters blood-red, and a figure in a dark peacoat steps out of the fog toward the motel stairs, flashlight cutting once across the wet railings.*\n\nMara’s eyes flick to the window. \"That's Leon.\" *A beat, sharper.* \"And he was not at the counter a second ago.\"",
+      "timestamp": "2026-05-04T09:44:57.947676",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-86d3a233-c31c-4bc3-82a8-00b087cce0da",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROOM 11 OR THE PHONE LINE, DEPENDING ON EVE’S CHOICE.]",
+      "timestamp": "2026-05-04T09:44:57.948277",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ee7ae95c-259f-4fe7-801e-a0828ea15c39",
+      "speaker": "Eve Mercer",
+      "role": "user",
+      "character_id": "evemercer",
+      "content": "Call into the phone: \"Who is 'her'?\" before the line dies.",
+      "timestamp": "2026-05-04T09:45:51.121407",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3dc67bf2-69bf-49b0-a223-92b2ef325067",
+      "speaker": "Mara Quill",
+      "role": "assistant",
+      "character_id": "maraquill",
+      "content": "*The cord pulls taut between your hand and the wall. For one second there is only ocean-hiss on the line—then a sound like a cassette rewinding too fast, voices dragged backward through iron filings.*\n\nMara’s head turns sharply toward the motel, not the phone. Her knuckles whiten on the counter edge.\n\n\"Ask fast.\"\n\nOn the receiver, the woman exhales, ragged and close enough now to feel intimate. \"Your sister.\" *A crackle bites the word in half, then spits it back whole.* \"Not by blood. By promise.\"\n\n*Mara’s eyes cut to you. That lands hard; she knows it did.*\n\nThe voice pushes on, urgent, fraying. \"He thinks Room 11 holds a recording. It doesn't. It holds the call itself—kept open. If Leon answers before you do, he'll hear only his guilt, and the room will seal around that.\"\n\nAcross the road, Leon’s flashlight jerks once, then vanishes behind the motel balcony post. A moment later every light in the diner dips amber. The motel office sign across the lot flares alive with a number that was dark before:\n\n11\n\nMara is already reaching under the counter. She comes up with the tarnished brass key and shoves it across to you. \"That changes it. He can't be allowed to go in listening for himself.\"",
+      "timestamp": "2026-05-04T09:45:55.341550",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-4ef86dcc-e7a4-43c0-b1f3-03aaa6c598aa",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ROOM 11 OR THE THRESHOLD BETWEEN DINER AND MOTEL.]",
+      "timestamp": "2026-05-04T09:45:55.342258",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

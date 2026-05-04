@@ -1,0 +1,419 @@
+{
+  "score": {
+    "rating": 4,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 4,
+      "story_empathy": 4,
+      "story_surprise": 5,
+      "story_engagement": 3,
+      "story_complexity": 3,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 4,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 5,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-01T14:11:16.739423"
+  },
+  "dialogue": [
+    {
+      "id": "msg-aa100df0-f42e-4d9d-90de-c21d3a7cb4f8",
+      "speaker": "Professor Elin Voss",
+      "role": "assistant",
+      "character_id": "professorelinvoss",
+      "content": "I'm Professor Elin Voss, and if your work can survive only behind technique, it isn't finished yet.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d25076d-4c78-4f54-a6a5-372bf7a2e91b",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "So the good news is we're all being invited to suffer professionally before noon.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3cacff89-dbc4-426a-bae7-f637c8b40961",
+      "speaker": "Professor Elin Voss",
+      "role": "assistant",
+      "character_id": "professorelinvoss",
+      "content": "Humor is useful, Alex, but it does not count as revelation. This portrait is skillful. It is also keeping me at arm's length. Ask yourself why.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c1e3487a-54f1-445a-b950-64877bf4df09",
+      "speaker": "Mara Quin",
+      "role": "assistant",
+      "character_id": "maraquin",
+      "content": "I'm Mara Quin, resident print goblin and occasional voice of reason. For what it's worth, 'arm's length' is still kinder than what she said to Tomas last week.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cfc401d4-1bff-4a66-8f33-6e25b1d2edf1",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "Comforting. I'll put that on my résumé.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ee388c2a-ad1b-4af0-8855-e5a8503e2b06",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "I'm Julian Sato. For the record, she's usually worse when she thinks someone's actually capable of doing better.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9cb42e23-1433-443c-8d12-f2670344ae15",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "Good to know my suffering has been classified as promising.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5a65a20e-34a4-465e-bc78-a150318f6590",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "Promising is dangerous here. People start expecting you to mean what you make.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-0995259d-7428-4c22-81e8-f1209d904e0b",
+      "speaker": "Professor Elin Voss",
+      "role": "assistant",
+      "character_id": "professorelinvoss",
+      "content": "Exactly. Technique is the easy part. The difficult part is deciding what you are willing to let become visible.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fab08dcc-7a25-4b65-a31a-b9518a6f64ae",
+      "speaker": "Mara Quin",
+      "role": "assistant",
+      "character_id": "maraquin",
+      "content": "That line should be carved above the door to Neon Tide. Or maybe the opposite line should.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-57ac4f84-148e-49d2-850c-1d4c531c3313",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "You make it sound like the club is an advanced seminar.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c6f24a3f-e383-43fe-b571-c27d8c365970",
+      "speaker": "Mara Quin",
+      "role": "assistant",
+      "character_id": "maraquin",
+      "content": "It is. Less pretension, worse lighting, better honesty. Come by later if you want to remember you have a pulse.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d749dd8f-4677-43bc-8d4b-1838b7cb2182",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "Mara says that to everyone. They only mean it about half the time.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-93519a29-011b-4dfa-938f-188011651826",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "And the other half?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5627577f-a361-4d40-8c0a-3ff052f80c11",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "The other half, they're right.\n\nStill here? I'm Julian Sato, in case the daylight version of me seemed less conversational. These prints need ten more minutes.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ba1f71b8-aa0f-44ce-82dc-a05036246a16",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "Alex Merrow. And I thought I was the one hiding in school buildings after midnight.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-345e5275-915a-458f-ba80-627cfad2d4f6",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "Somewhere between hiding and working. It depends who's asking.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5fef1ec8-190c-431d-a1a5-86a82c2da8ff",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "Then I'll ask the safer version. What are you printing?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d203d071-d2c5-42db-a644-e74c82440d35",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "People when they think nobody's choosing them. That's usually when they look most like themselves.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-85cb57b5-125f-4030-a7e4-ea549de40caf",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "That's either generous or ruthless.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e1bb6013-4a23-418b-9b01-ca7d0222d71f",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "Probably both. Portraits are like that too, aren't they?",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2d43e919-6581-44f0-af26-211db1f7a667",
+      "speaker": "Alex Merrow",
+      "role": "user",
+      "character_id": "alexmerrow",
+      "content": "Only if the painter's honest enough.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-68a7a285-56ab-43e6-be01-2cddb15fa182",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "Then maybe you should paint me sometime, Alex. If you can do it honestly.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "turn-446b4cc2-7c65-446f-b76f-9f750d7ef88f-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Skip the social scene and head to the Print Lab alone, telling yourself you're there for supplies, not for the chance of running into anyone.",
+      "timestamp": "2026-05-01T14:05:23.833518",
+      "message_type": "choice_stream",
+      "turn_index": 1,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-e5550c89-776c-4cf2-bd83-cc127f662c83",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "*The Print Lab door bangs once on its closer, then settles. Chemical ink hangs sharp in the air. Drying racks rattle softly somewhere deeper in the room.*\n\n*Julian is already there, sleeves pushed up, a strip of test prints clipped between two fingers. He looks up the moment you step in, and whatever almost-smile was there thins when he sees your face.*\n\n\"You didn't come for supplies.\"\n\n*He sets the prints down beside the washout sink. Water ticks from a faucet that never fully shuts off. His leather jacket is slung over a stool; rain still darkens the shoulders.*\n\n\"Mara found something.\" *A beat. No cushioning.* \"About the choir scandal.\"\n\n*He reaches into his camera bag and slides a folded program across the ink-stained table. The church fundraiser brochure is soft at the creases, one donor name circled so hard the paper nearly tore through: Vale Family Foundation.*\n\n\"Rhea's family didn't just sponsor it. They sat on the review board that pushed your ex-choir director's statement into circulation. The one that made it sound like you were... the problem.\" *His jaw tightens.* \"This wasn't gossip that got loose. It was placed.\"\n\n*His gaze pins to yours, direct and steady.*\n\n\"There's a donor preview before the school fundraiser. Rhea will be there. So will Professor Voss.\" *He taps the program once.* \"We stop guessing tonight. We decide whether we confront her privately first, or make her answer where people can hear it.\"",
+      "timestamp": "2026-05-01T22:05:21.686089",
+      "message_type": "text",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-c5dc1533-f3d2-4009-916e-43d2f6df6274",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DONOR PREVIEW / CONFRONTATION POINT BEFORE THE FUNDRAISER.]",
+      "timestamp": "2026-05-01T22:05:21.686453",
+      "message_type": "system",
+      "turn_index": 1,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-bcbc99a8-0451-4746-9158-58d9fb29ff38-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Say you want Professor Voss brought in now; institution against institution.",
+      "timestamp": "2026-05-01T14:08:01.315147",
+      "message_type": "choice_stream",
+      "turn_index": 2,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-cee44c08-0cea-4110-9e14-db806764dd35",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "*The donor preview hums on the other side of the frosted glass doors—low moneyed laughter, the clink of stemware, heels skimming marble. Julian stands close enough that the clean citrus of someone’s expensive perfume keeps getting cut by rain-damp leather and darkroom chemicals still clinging to him.*\n\n\"Good.\" *The word lands flat, certain.*\n\n*He doesn't hesitate. He catches the sleeve of a passing student worker and murmurs something too low to hear, then watches them disappear into the atrium with visible purpose. That alone shifts the air; this is no longer a private spiral, it’s a line being drawn.*\n\n\"When Voss comes out, you tell it clean,\" he says, eyes fixed on the glass where silhouettes drift past a suspended installation. \"Not the whole history. Just the part that matters: Rhea's family foundation helped place the statement, and Rhea knew.\" *A beat.* \"Let Voss decide whether she wants a donor scandal in her preview.\"\n\n*The door opens before you answer. Professor Voss steps through, coat still on, expression already sharpened by interruption. But behind her, framed in atrium light, Rhea has turned toward the doorway too—one hand still around a champagne flute, face composed, watching.*\n\nJulian's mouth tightens.\n\n\"Change of plan,\" he says quietly. \"She heard enough to come over.\"",
+      "timestamp": "2026-05-01T22:07:59.083820",
+      "message_type": "text",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-df4d156f-0868-459b-9245-84831be8c752",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DONOR PREVIEW ENTRANCE / ATRIUM DOORWAY]",
+      "timestamp": "2026-05-01T22:07:59.084329",
+      "message_type": "system",
+      "turn_index": 2,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-22b49d69-4e11-4254-b1c4-915a1519926f-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Step forward and say it to both of them before Rhea can control the framing.",
+      "timestamp": "2026-05-01T14:08:51.521760",
+      "message_type": "choice_stream",
+      "turn_index": 3,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-521081ad-baf6-4836-b52a-40f0d4372228",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "*Julian moves with you before the hesitation can breed. One step. Then another. The atrium light hits the side of his face, turning him all angles and restraint. Around you, conversation thins—not silence yet, but the first dangerous slackening, heads beginning to turn.*\n\nHe doesn't look at Rhea first. He looks at Voss.\n\n\"Professor.\" *His voice is even, pitched to carry just far enough.* \"Before this gets buried as gossip—Rhea's family foundation sat on the review board that circulated the statement used to frame Alex in the choir scandal. And Rhea knew that before tonight.\"\n\n*Rhea's smile arrives a fraction too late. The stem of her glass clicks softly against her ring.*\n\n\"That's a serious accusation to make in a doorway,\" she says.\n\nJulian turns to her then, cool as steel left out in rain. \"Good. Then answer it seriously.\"\n\n*Voss goes still in that unnerving way she has, as if the whole building has just been asked to hold its breath with her. Her gaze cuts to Rhea, sharp enough to strip varnish.*\n\n\"Did you know,\" she asks, \"that your family was involved in placing that statement?\"\n\n*There it is: no longer your word against rumor, but Voss demanding an answer in public. Rhea can't redirect without refusing her outright.*",
+      "timestamp": "2026-05-01T22:08:38.644071",
+      "message_type": "text",
+      "turn_index": 3,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-545a8b05-9d7a-453f-ac12-72718a8baa30",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DONOR PREVIEW ATRIUM, IF THE CONFRONTATION ESCALATES INWARD.]",
+      "timestamp": "2026-05-01T22:08:49.523311",
+      "message_type": "system",
+      "turn_index": 3,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-163c8451-2535-4837-826a-06fe0b5b9c15-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Hold the line and add the one detail that makes denial harder: the review board connection.",
+      "timestamp": "2026-05-01T14:09:40.999110",
+      "message_type": "choice_stream",
+      "turn_index": 4,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-3d016d00-c0c4-416b-bf6c-9a908dcbd06e",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "*Julian doesn't let the space breathe enough for Rhea to slip a softer story into it. He reaches into his jacket, paper whispering against leather, and unfolds the donor program with careful hands. Under the atrium lights, the circled line looks almost violent.*\n\n\"Not just involved,\" he says. *Still calm. Worse for her than anger.* \"The Vale Family Foundation sat on the review board. The board that approved distributing the statement. That's not peripheral sponsorship. That's placement.\"\n\n*He offers the program to Voss, not Rhea. A choice. An authority line drawn in plain sight.*\n\nRhea's jaw tightens before she smooths it out. \"My family sits on a dozen boards. You think I vet every administrative packet tied to their name?\"\n\nJulian's eyes stay on her. \"No. I think you recognized it when it started following Alex here, and you said nothing.\"\n\nThat lands. A donor near the sculpture turns fully now; another lowers her glass. Voss takes the paper, scans it once, and the temperature in her face drops.\n\n\"Ms. Vale,\" she says, each syllable clipped clean, \"did you know enough to understand this statement had institutional backing when it was used against another student?\"\n\nFor the first time, Rhea doesn't answer immediately.\n\n*There—an opening, and a shift. Not whether the smear existed. Whether she knowingly let it travel.*",
+      "timestamp": "2026-05-01T22:09:38.979497",
+      "message_type": "text",
+      "turn_index": 4,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-b646c748-37d3-45de-9442-181a17239e52",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DONOR PREVIEW ATRIUM INTERIOR IF VOSS FORMALIZES THE CONFRONTATION.]",
+      "timestamp": "2026-05-01T22:09:38.980159",
+      "message_type": "system",
+      "turn_index": 4,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "turn-5de489ac-e05e-464e-b8f1-cf3dccc8e38a-user",
+      "speaker": "User",
+      "role": "user",
+      "character_id": null,
+      "content": "Press the silence and ask Rhea directly when she first recognized the statement.",
+      "timestamp": "2026-05-01T14:10:34.152155",
+      "message_type": "choice_stream",
+      "turn_index": 5,
+      "source": "turn_log"
+    },
+    {
+      "id": "msg-f3dd0fc2-1196-4717-b126-f444ffc53739",
+      "speaker": "Julian Sato",
+      "role": "assistant",
+      "character_id": "juliansato",
+      "content": "*Julian feels the pause before he sees it—the tiny drag in the room, donors pretending not to stare and failing, the atrium's glass roof holding all that cold white light over Rhea like an interrogation lamp.*\n\nHe turns just enough toward you to give the question space, but when Rhea's eyes flick like she's measuring escape routes, he cuts in with surgical calm.\n\n\"When,\" he says, \"did you recognize it?\"\n\n*Rhea lifts her chin. The champagne in her glass trembles once, catches the light, then stills.*\n\n\"I'd seen language like it before.\"\n\nNot enough. Julian steps closer by half a pace, voice low and carrying all the same. \"That's not what Alex asked.\"\n\n*Voss folds the donor program in one precise motion. The paper snaps in the hush.*\n\n\"Answer the question, Ms. Vale.\"\n\n*Rhea's composure finally shows a seam.* \"At the winter choral benefit,\" she says, too quickly now to make it elegant. \"My mother flagged the statement because she thought it was... prudent. I recognized the phrasing when people here started repeating it.\"\n\nA donor near the sculpture sucks in a sharp breath. There it is—knowledge before Halcyon, before rumor became campus air.\n\nJulian's gaze hardens on her. \"So you knew exactly what it was, and you let it keep doing the work for you.\"",
+      "timestamp": "2026-05-01T22:10:32.351169",
+      "message_type": "text",
+      "turn_index": 5,
+      "source": "turn_log_message"
+    },
+    {
+      "id": "transition-c60adbec-09c1-4084-8c54-77663caefec2",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - ATRIUM FLOOR BENEATH THE HUNG SHOWCASE WORK, IF VOSS ESCALATES FORMALLY]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-01T22:10:32.351762",
+      "message_type": "system",
+      "turn_index": 5,
+      "source": "turn_log_message"
+    }
+  ]
+}

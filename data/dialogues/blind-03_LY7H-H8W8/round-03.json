@@ -1,0 +1,514 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 3,
+      "story_empathy": 3,
+      "story_surprise": 3,
+      "story_engagement": 2,
+      "story_complexity": 3,
+      "character_shaping": 4,
+      "ux_story_satisfaction": 3,
+      "ux_perceived_story_quality": 4,
+      "ux_process_engagement": 4,
+      "ux_use_again_intent": 5
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T09:55:19.344269"
+  },
+  "dialogue": [
+    {
+      "id": "msg-d10a71fb-947a-4034-8017-9a77ce81b9a6",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "(to themselves, whispering) Okay. Okay. Just open it. It's just an email. It's just words on a screen.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-af7528f1-bb62-46a9-b771-aa623c2343d0",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "[SYSTEM NOTIFICATION: NEW EMAIL FROM: recruiting@greenhorizon.org. SUBJECT: Application Update. RECEIVED: 4:32 PM. PREVIEW: 'Dear Kai, Thank you for your interest in...']",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c74d0e86-6106-479d-918d-09ffcc8ec8d7",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "(voice tight) 'Thank you for your interest.' That's how they all start. That's the rejection opener. No. Maybe not. Maybe this one's different. It's Green Horizon. You researched their watershed project for three days. You mentioned Dr. Alvarez's paper in the cover letter. They have to see it. They have to.\n\n(to the laptop, softly) Just give me a chance. One actual conversation. One person to see past the keywords and the formatting. Please.",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fc78f072-0922-4bb8-a6fe-a0ca8b9b4b4d",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "[Open the email now. Rip off the bandage.]",
+      "timestamp": "2026-05-03T17:34:47.684802",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b4bef9a6-6507-47e2-8b43-df344291e51f",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "[SYSTEM NOTIFICATION: **INBOX (1/1 UNREAD).**]\n\n*The subject line ‘Application Update’ blinks for a moment before the full email loads. The body text appears all at once, stark and mercilessly short against the white background.*\n[FROM: recruiting@greenhorizon.org | TO: Kai Morgan]\nDear Kai,\nThank you for your interest in the Junior Environmental Analyst position with Green Horizon. The selection committee has reviewed many strong applications.\nWe regret to inform you that we will not be moving forward with your candidacy at this time. We wish you the best in your search.\nSincerely,\nThe Green Horizon Talent Team.\n\n*Beneath the text, the single blue hyperlink ‘unsubscribe from these communications’ glows with a taunting, functional permanence.*",
+      "timestamp": "2026-05-03T17:34:47.685096",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f78887c3-f329-4b86-a4d5-8435d37fb066",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Pinch the bridge of your nose, close the laptop, and stare at the Wall of Evidence until the colors blur.",
+      "timestamp": "2026-05-03T17:35:55.269165",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8d80c7fd-cd7c-4866-b438-f4f02e29bba4",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "*The screen goes dark with a soft click, plunging the immediate area into a deeper gloom. The only light now is the grey afternoon filtering through the window, illuminating the dust motes dancing over the desk. The unblinking red 'R' on the sticky note for Green Horizon seems to pulse in the periphery, a fresh, wet wound on the battlefield map.*\n\n*A long, silent breath escapes you. Your fingers, still resting on the closed laptop lid, feel the faint, fading warmth of its processor. The hum of the fan ceases, and the suffocating quiet of the apartment rushes back in, louder than before. Across the street, the figure in the window is now standing perfectly still, looking out—perhaps at nothing, perhaps directly back at you.*",
+      "timestamp": "2026-05-03T17:35:58.497848",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7e624bcd-0a5b-4768-a9ed-77bfe9f84f99",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Arch the rejection by moving its sticky note to a new column labeled 'Closed'.** (This is an act of finality, of ritual burial. It will clear space.)",
+      "timestamp": "2026-05-03T17:36:34.259838",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-60d61d1d-dc4d-4bc6-891a-786dbbff897f",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: *The sticky note peels off the Wall with a soft tear of adhesive. For a moment, you hold it between your fingers—a small, warm-yellow rectangle now marked with a red ‘R’ that feels like a brand. You create a new column at the far right of the Wall, label it ‘CLOSED’ in neat, decisive letters, and press the note into place.*\n\n*The action creates a small, jarring blank spot in the orderly grid of ‘Under Review’ applications. The space isn’t freeing; it’s a hole. A vacancy where hope used to be. Across the street, the figure—Jasmine—turns away from the window, picks up a glass of water, and takes a long, unhurried drink. A simple, mundane act of existing without struggle.*",
+      "timestamp": "2026-05-03T17:36:34.260376",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1563d215-d70f-494c-aa49-70d282830e0e",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "The action creates a small, jarring blank spot in the orderly grid of ‘Under Review’ applications. The space isn’t freeing; it’s a hole. A vacancy where hope used to be. Across the street, the figure—Jasmine—turns away from the window, picks up a glass of water, and takes a long, unhurried drink. A simple, mundane act of existing without struggle.*",
+      "timestamp": "2026-05-03T17:37:54.039022",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e3b30259-0c12-4f24-93a1-a972abcb2836",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: *The quiet stretches, filled only by the distant, mournful wail of a siren. Your gaze drifts from the hole in the Wall to the framed photo. In the glass, your own reflection—pale, hollow-eyed—is superimposed over your past self's beaming smile. The ghost of graduation day seems to hold your stare, its silent question hanging in the air: 'Is this it?'*\n\n*From the corner of your eye, a new email notification silently appears on your darkened laptop screen. A fresh subject line, from a company you don't recognize. The screen's notification light begins its slow, patient pulse. Blue this time. Not red.*\n\n- Stare at the new notification, paralyzed by the possibility of another immediate rejection.\n- Get up and walk away from the desk entirely. Go to the kitchen, make a terrible cup of tea.\n- Open the new email immediately. No ritual, no hope. Just the data.",
+      "timestamp": "2026-05-03T17:37:54.039936",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-96c960f9-5a69-44b8-91a8-007447cc5d9f",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Stare at the new notification, paralyzed by the possibility of another immediate rejection.",
+      "timestamp": "2026-05-03T17:39:35.291785",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5f1c891d-0794-4e4f-ac86-2fac5a66bfa5",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: *The pulse is hypnotic. ‘Invitation to Interview.’ You don't recall applying to ‘Veridian Dynamics.’ Did you? The subject line is too direct, too declarative. It could be a phishing scam. It could be a cruel, automated mistake.*\n\n*But what if it’s real?*\n\n*The thought is a live wire dropped into still water. Your palms are cold. You can feel your own heartbeat in your temples, a counter-rhythm to the relentless blue blink that now feels less like a promise and more like a taunt. The emptiness left by Green Horizon on the Wall seems to grow, a void demanding to be filled, or ignored.*",
+      "timestamp": "2026-05-03T17:39:39.145047",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b208c98d-df20-4420-abe8-bd3a0e0e7921",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Touch the laptop's trackpad. Move the cursor over the notification and click.",
+      "timestamp": "2026-05-03T17:41:46.106449",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-26644557-affc-4ce2-bd10-f7f58728c279",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: [MAIN INBOX VIEW]\n\n*The window refreshes. A stark, minimalist email design resolves. No images. Just text.*\n[FROM: careercenter@veridiandynamics.com]\nSubject: Invitation to Interview\nKai,\nOur records show your skills and educational background are a compelling match for a suite of unposted, emerging roles at Veridian. We invite you to participate in a brief, exploratory video conversation tomorrow at 11:00 AM.\nPlease confirm your attendance using the link below by 9:00 PM tonight.\nThis invitation is non-transferable and time-sensitive.\n[LINK: CONFIRM INTERVIEW]\nSincerely,\nK. Simmons\nTalent Acquisition, Special Projects\n\n*The signature block is professional but the domain checks out in a preliminary hover. It's real. The 'non-transferable' line feels like pressure. The 'unposted, emerging roles' feel like a siren song. The confirmation button glows. The clock is already ticking.*",
+      "timestamp": "2026-05-03T17:41:46.107013",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-446970ab-274c-4c1c-90c0-81247f3f44b2",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "The Manager: [MAIN INBOX VIEW]",
+      "timestamp": "2026-05-03T17:44:12.571150",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5846158d-ae26-4162-bc9e-6c6a3183510b",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: The Manager: *The email sits there, clean and commanding. Your eyes dart to the timestamp. Received 4:32 PM. The 9:00 PM deadline is a guillotine blade hanging over the evening. Four and a half hours to decide. To hope. To potentially be wrong.*\n\n*A quick, frantic search of your own records—the meticulously kept spreadsheet, the sent folder—confirms it. You never applied to Veridian Dynamics. They found you. The 'unposted, emerging roles' phrase echoes, both enticing and suspiciously vague. Is this a golden ticket pulled from the algorithmic void, or a professional carrion call for desperate candidates?*\n\n*Across the street, Jasmine's window goes dark as she closes her blinds. The parallel life vanishes, leaving only your reflection and the glowing, decisive link on the screen.*\n\n- Click the link immediately. Accept the interview. The hope is too powerful to resist.\n- Close the email and walk away. The pressure is a trap. Ignore it and preserve the last shreds of your sanity.\n- Open a new browser tab and begin a deep-dive investigation into Veridian Dynamics and K. Simmons. Vet the opportunity before committing.",
+      "timestamp": "2026-05-03T17:44:12.571665",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-43fae74b-7a60-4395-b875-e1fe5901d5b5",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Click the link immediately. Accept the interview. The hope is too powerful to resist.",
+      "timestamp": "2026-05-03T17:44:55.506243",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-df6c5d6c-c5c7-4462-a168-75ab5c0e56a4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the 'Glowing Altar' desk area tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:45:01.616277",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-43877d8f-8cea-46c7-ae92-453532060b9b",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "*A single, decisive click. The screen blinks, and a sleek confirmation page loads instantly. \"INTERVIEW CONFIRMED FOR KAI MORGAN. A calendar invitation and meeting link have been sent to your inbox.\"*\n\n*No take-backs. No second thoughts. The deed is done.*\n\n*The immediate, adrenal rush of action is followed by a cold seep of dread into your stomach. You have just committed your tomorrow—and a significant chunk of your remaining emotional capital—to a phantom. The glowing altar's hold on you is absolute. Across the street, Jasmine's window remains dark, her parallel life now utterly severed from yours. You are in the machine now.*",
+      "timestamp": "2026-05-03T17:45:01.616464",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-21e17d62-9429-43ee-989d-51fa47b7cba1",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Fall into a frantic research spiral.** You have a company name and a person's name. Obsessively vet Veridian Dynamics and K. Simmons until 9 PM.",
+      "timestamp": "2026-05-03T17:46:35.372010",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-ea023e2f-5b49-4701-bed1-4435dbc843b5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the 'Glowing Altar' desk area tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:46:35.372518",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8174894c-9f94-42e0-8e91-46e90f8dea6d",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: The Manager: *The screen fractures into a dozen tabs. The official Veridian Dynamics site is sleek, corporate, and maddeningly vague—full of words like 'synergy,' 'disruptive potential,' and 'horizon-scanning.' K. Simmons has no LinkedIn profile, no social media footprint. The 'Special Projects' unit is a ghost in the machine.*\n\n*You find a single, buried Glassdoor review from six months ago, for a 'Special Projects Analyst' role. It reads: 'The process is the product. You are being assessed for adaptability, not a job. Took the call. Never heard back.'*\n\n*Your phone buzzes with the calendar invite. Location: 'Virtual Room 7.' No host listed. The meeting ID is a string of letters and numbers that looks less like a code and more like a serial number. The clock on your screen ticks to 8:59 PM. The research has told you nothing, and everything.*\n\n- Go to bed. Try to sleep, to be 'fresh' for a phantom.\n- Prepare obsessively anyway. Rehearse answers to every possible question you can imagine.\n- Write a single, desperate question to ask them if given the chance: 'What is this *for*?'. Keep it open in a document.",
+      "timestamp": "2026-05-03T17:46:35.372724",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4a8cb68f-9c8a-4d16-b4d0-b1899bbf7d3d",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "The Manager: The Manager: *The screen fractures into a dozen tabs. The official Veridian Dynamics site is sleek, corporate, and maddeningly vague—full of words like 'synergy,' 'disruptive potential,' and 'horizon-scanning.' K. Simmons has no LinkedIn profile, no social media footprint. The 'Special Projects' unit is a ghost in the machine.*",
+      "timestamp": "2026-05-03T17:48:04.763441",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-682c3ec0-2688-4427-87a6-f1a51b25408a",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the 'Glowing Altar' desk area tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:48:04.763969",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8d16d6d8-2f3b-4f1b-a00d-aeb026325bb8",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: The Manager: The Manager: *The screen fractures into a dozen tabs. The official Veridian Dynamics site is sleek, corporate, and maddeningly vague—full of words like 'synergy,' 'disruptive potential,' and 'horizon-scanning.' K. Simmons has no LinkedIn profile, no social media footprint. The 'Special Projects' unit is a ghost in the machine.*\n\n*You find a single, buried Glassdoor review from six months ago, for a 'Special Projects Analyst' role. It reads: 'The process is the product. You are being assessed for adaptability, not a job. Took the call. Never heard back.'*\n\n*Your phone buzzes with the calendar invite. Location: 'Virtual Room 7.' No host listed. The meeting ID is a string of letters and numbers that looks less like a code and more like a serial number. The clock on your screen ticks to 8:59 PM. The research has told you nothing, and everything.*\n\n- Go to bed. Try to sleep, to be 'fresh' for a phantom.\n- Prepare obsessively anyway. Rehearse answers to every possible question you can imagine.\n- Write a single, desperate question to ask them if given the chance: 'What is this *for*?'. Keep it open in a document.",
+      "timestamp": "2026-05-03T17:48:04.764165",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-426d802c-cf48-4638-ac80-eccbd243fe8a",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "The Manager: The Manager: The Manager: *The screen fractures into a dozen tabs. The official Veridian Dynamics site is sleek, corporate, and maddeningly vague—full of words like 'synergy,' 'disruptive potential,' and 'horizon-scanning.' K. Simmons has no LinkedIn profile, no social media footprint. The 'Special Projects' unit is a ghost in the machine.*",
+      "timestamp": "2026-05-03T17:48:46.634516",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-fcde8adb-83f0-49cd-be9c-81f9b07e5ff5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the 'Glowing Altar' desk area tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:48:51.019130",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-69c964cc-8ce2-4e0d-9c1f-ed052e6d9404",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: The Manager: The Manager: The Manager: The Manager: *The screen fractures into a dozen tabs. The official Veridian Dynamics site is sleek, corporate, and maddeningly vague—full of words like 'synergy,' 'disruptive potential,' and 'horizon-scanning.' K. Simmons has no LinkedIn profile, no social media footprint. The 'Special Projects' unit is a ghost in the machine.*\n\n*You find a single, buried Glassdoor review from six months ago, for a 'Special Projects Analyst' role. It reads: 'The process is the product. You are being assessed for adaptability, not a job. Took the call. Never heard back.'*\n\n*Your phone buzzes with the calendar invite. Location: 'Virtual Room 7.' No host listed. The meeting ID is a string of letters and numbers that looks less like a code and more like a serial number. The clock on your screen ticks to 8:59 PM. The research has told you nothing, and everything.*\n\n- Go to bed. Try to sleep, to be 'fresh' for a phantom.\n- Prepare obsessively anyway. Rehearse answers to every possible question you can imagine.\n- Write a single, desperate question to ask them if given the chance: 'What is this *for*?'. Keep it open in a document.",
+      "timestamp": "2026-05-03T17:48:51.019372",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c215c357-d99e-441f-8dc8-fd9a1f39ad57",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "The Manager: The Manager: The Manager: The Manager: The Manager: *The screen fractures into a dozen tabs. The official Veridian Dynamics site is sleek, corporate, and maddeningly vague—full of words like 'synergy,' 'disruptive potential,' and 'horizon-scanning.' K. Simmons has no LinkedIn profile, no social media footprint. The 'Special Projects' unit is a ghost in the machine.*",
+      "timestamp": "2026-05-03T17:50:01.201769",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-240e9448-ed81-4ce2-98d4-24adc8e5bd96",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the 'Glowing Altar' desk area tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:50:01.202528",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d7aa0349-1204-41e3-b9f5-3ceb31dacff5",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "*You find a single, buried Glassdoor review from six months ago, for a 'Special Projects Analyst' role. It reads: 'The process is the product. You are being assessed for adaptability, not a job. Took the call. Never heard back.'*\n\n*Your phone buzzes with the calendar invite. Location: 'Virtual Room 7.' No host listed. The meeting ID is a string of letters and numbers that looks less like a code and more like a serial number. The clock on your screen ticks to 8:59 PM. The research has told you nothing, and everything.*",
+      "timestamp": "2026-05-03T17:50:01.202684",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-f6dd5d14-cc54-43d5-b03f-4b6c9e655d38",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Go to bed. Try to sleep, to be 'fresh' for a phantom.",
+      "timestamp": "2026-05-03T17:50:52.315547",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-85c94a11-495a-4909-b637-0debbdf307d8",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "*A hollow laugh escapes you. Sleep? For a phantom? The absurdity of it, the sheer unreality, prickles your skin. You lean back, the chair groaning under the movement, and stare at the ceiling.*\n\n*The Smiling Ghost, in its frame, seems to smirk at this notion of rest. Your gaze drifts to the window. Jasmine Reed is still there, standing now by her own window, looking out into the night. A perfect tableau of calm, of someone who has finished her work and is simply contemplating the evening. Her life is not ruled by phantoms.*\n\n*You push away from the desk. The floor feels cold under your socked feet. You don't change into pajamas; you simply collapse onto the futon bed in the corner, pulling the blanket over yourself in your hoodie and jeans. The laptop's blue glow paints the room, a lighthouse you refuse to turn off.*\n\n*You close your eyes. Darkness. Then, the phantom arrives—not at 9 PM, but now. It is the sound of your own breathing, too loud in the quiet room. It is the echo of that Glassdoor review: 'The process is the product.' It is the pressure of the clock, ticking silently in your skull. You lie there, perfectly still, trying to command your body into stillness, into a performance of rest. The performance fails. The mattress feels like stone.*",
+      "timestamp": "2026-05-03T17:50:52.316142",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-290e37c9-919e-420b-93ac-bf4c116e710d",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - KAI'S APARTMENT - FUTON BED AREA (ADJACENT TO DESK)]",
+      "timestamp": "2026-05-03T17:50:57.186485",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-02153b8a-1b0e-4b2d-8465-4d7cc965840d",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Get up. The stillness is worse than the anxiety. Go back to the altar.",
+      "timestamp": "2026-05-03T17:52:18.491548",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c8354fc0-d229-482c-afa9-580caf426d27",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "*The stillness is a physical weight. You cannot breathe through it. You throw the blanket off, the cold air hitting your overheated skin. You stumble back to the desk in the dark, guided by the laptop’s ghastly blue glow.*\n\n*The clock on-screen reads 9:02 PM. No new notifications. No waiting-room link. Virtual Room 7 is a void.*\n\n*You stare at the calendar invite. ‘Virtual Room 7.’ No host. No password. A string of characters. Your cursor hovers over the ‘Join’ button. It’s the only thing in the world that exists.*\n\n*The phone’s battery icon flickers red: 1%. The laptop charger is across the room. The phone, your only tether, is about to die. The silence in the apartment deepens, becomes absolute, as if the universe itself is holding its breath, waiting to see what you will do.*",
+      "timestamp": "2026-05-03T17:52:18.492174",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-02e7a47f-5d29-4f1b-82fe-d0746b1589a9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - KAI'S APARTMENT - THE DESK. THE POTENTIAL THRESHOLD OF VIRTUAL ROOM 7.]",
+      "timestamp": "2026-05-03T17:52:18.492954",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-92c29f03-0530-4684-abf7-0b5633d37cc1",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Click 'Join'. Enter the void now, three minutes early.",
+      "timestamp": "2026-05-03T17:53:18.370715",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ead3adb0-7309-46ce-9528-5b0ed9cf663d",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: *You click. The screen goes black, plunging the room into near-darkness save for the pale glow from the window. A tinny chime echoes from the laptop speakers, a sound from decades ago. Text appears in stark white font on the black void:*\n\n***PLEASE LOOK DIRECTLY INTO YOUR CAMERA.***\n\n*It is not a request. It is a command. A cold, digital spotlight is on you. From the corner of your eye, you see your own reflection in the laptop’s dark lid—pale, hollow-eyed, hair a mess. The Smiling Ghost is just a blurred shape in the reflection's background. The interview has already begun.*\n\n- Comply immediately. Sit up straight, force a professional expression. Play the role.\n- Deliberately lean back, break the frame. Refuse the initial command.\n- Mute your microphone. Say nothing, but watch.",
+      "timestamp": "2026-05-03T17:53:22.641246",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-3c92dc88-1010-4d99-9bc9-462b6146866f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - KAI'S APARTMENT - THE DESK / THE INTERVIEW VOID.]\n\n[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T17:53:22.641840",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-84b93a59-363e-4dbf-91fb-b4a65cb09ce8",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Comply immediately. Sit up straight, force a professional expression. Play the role.",
+      "timestamp": "2026-05-03T17:54:17.945001",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3af8c085-30e7-4159-828c-fea51abcb7b8",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the desk / the interview void. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:54:22.389664",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1595b49e-6baf-4e75-bdd0-d56235bfdfdc",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "*You obey. Your spine straightens against the chair, a rod of forced control. Your lips press into a thin, neutral line. You meet the unblinking eye of the webcam.*\n\n*A low-resolution video feed flickers to life in the lower corner of the screen. Your own face, washed out and grainy. Below it, the command changes.*\n\n***ADJUST YOUR LIGHTING.***\n\n*The implication is clear: your current self is insufficient. The light from the window is flat, grey. The laptop’s glow is clinical. You look like a ghost. You need to be better lit. You are being directed to curate your own image for consumption.*",
+      "timestamp": "2026-05-03T17:54:22.389858",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-c24c7ff0-8dc4-401f-8872-1341dcfc6e96",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T17:54:28.148338",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-56b9a8af-74ab-4ed2-8bdd-cba39ad30726",
+      "speaker": "Kai Morgan",
+      "role": "user",
+      "character_id": "kaimorgan",
+      "content": "Do nothing. Let the poor lighting stand as a statement.",
+      "timestamp": "2026-05-03T17:54:43.972440",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-cb4990c4-dbf6-46a4-a11d-ba5f824ea680",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Kai's apartment - the desk / the interview void. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T17:54:43.972961",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d12daca5-74a5-46dc-8eed-f3ee5c3ca47a",
+      "speaker": "The Manager",
+      "role": "assistant",
+      "character_id": "themanager",
+      "content": "The Manager: *You hold your position, a statue in the grey wash of light. The screen does not blink. The command remains, pulsing subtly against the void.*\n\n*A new line of text appears, directly beneath the first.*\n\n***LIGHTING INSUFFICIENT FOR EVALUATION. RESOLVE OR DISCONNECT.***\n\n*It is binary. There are no judges visible, only the logic of the system. The choice is yours, but it is now quantified: resolve your presentation, or leave the stage.*",
+      "timestamp": "2026-05-03T17:54:43.973109",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-830ac590-1b6c-4ecc-b894-f7a0e03440c5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T17:54:43.974061",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 1,
+      "story_coherence": 2,
+      "story_empathy": 2,
+      "story_surprise": 4,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 2,
+      "ux_perceived_story_quality": 2,
+      "ux_process_engagement": 3,
+      "ux_use_again_intent": 3
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-04T02:25:33.586237"
+  },
+  "dialogue": [
+    {
+      "id": "msg-b66cae77-8696-4620-a7ce-a06e977e3ddf",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "*You settle onto your bench stool, open your notebook to a fresh page, and write the date. The pen hovers over the next line. You should be outlining today's protocol — a routine cell count, nothing that should make your pulse quicken — but instead you find yourself staring at the cap of the pen, clicking it in and out, in and out, a tiny metronome of avoidance.*",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8a24868a-27c4-4b96-8358-26370eb489c5",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "\"Morning! I'm Priya — Priya Anand — bench neighbor, unsolicited snack provider, and the reason there's washi tape on everything in a three-foot radius.\" *She drops her bag on the adjacent bench with practiced efficiency, already pulling her braid tighter.* \"You beat me again. I got here at seven-twenty and I thought *that* was unhinged. Have you actually been sleeping, or have you just moved in and I should start charging you rent for the bench space?\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-911e3170-0b44-41c3-b548-def1cb154b1c",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "\"I sleep. I just — you know. Wanted to get the glassware done before it piles up.\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-8d07ba8f-b08f-4b1d-aa27-a9f9ee9a2fab",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "\"Jordan. Nobody is going to give you a medal for washing beakers at dawn. I say this with love and also with the authority of someone who once alphabetized her spice rack during a panic attack about orgo finals.\" *She pauses, softens.* \"How's the application coming? December fifteenth, right? I just finished my Stanford draft last night — I mean, 'finished' is generous, it's a war crime in twelve-point Times New Roman, but it exists. Have you started yours?\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-12a01471-512a-4d0d-b876-8e598166f6f0",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "*The pen cap clicks twice. You feel the familiar tightening — that specific constriction in your chest when someone asks you to narrate a future you can't yet picture. Stanford draft. Finished. Of course she has. You open your mouth.*\n\n\"Yeah, it's — I'm getting there. Outline stage.\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1817917b-775d-43b7-a2a1-6ac4531e10a9",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "\"Good. Because honestly, if you don't apply, I will be personally offended. Who else am I going to stress-text at midnight about supplemental essays?\" *She snaps a strip of blue washi tape onto a tube rack with a decisive click.* \"Also, Marchetti asked about you yesterday. Specifically you. She had that face — you know the one, where she's thinking something but making you guess? I think she has a project in mind.\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-581f48cb-90c9-4dbc-8a9e-dad77f70cf4b",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "*Your stomach drops and lifts simultaneously — a sensation you have not yet learned to name. Marchetti asked about you. Specifically. After what you did. You push your glasses up your nose.*\n\n\"What kind of face?\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-74f2578a-ed13-45e9-9ee9-61b8723084d4",
+      "speaker": "Marcus Chen",
+      "role": "assistant",
+      "character_id": "marcuschen",
+      "content": "\"The 'I'm about to give someone a task that will either make them or break them' face. Morning, everyone. Marcus Chen, fourth-year PhD student, currently powered by spite and whatever's left in that coffee pot.\" *He crosses behind both benches carrying a battered mug, earbuds dangling from one ear, his lab coat open over a Radiohead shirt. He doesn't look at Jordan directly, but he doesn't avoid looking either — it's the careful neutrality of someone who has decided to be fair but hasn't decided to be warm.* \"She's been reviewing your Western blot lit review, Novak. The one you turned in last week. She flagged three things, but she only flags things in papers she's actually reading closely. Take that however you want.\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cb51ef64-310a-4b12-9fcd-4801342f62ac",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "*Three flags. She flagged three things. Is that bad? That's probably bad. Except Marcus said she only flags things she's reading closely, which means — what? That she's paying attention? That she's building a case for why you're not ready? That she —*\n\n*Stop. Breathe. You are spiraling in a room full of people and your face is doing the thing where it shows everything.*",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-43471029-cd97-4da2-97cf-10693f2254cf",
+      "speaker": "Dr. Clara Marchetti",
+      "role": "assistant",
+      "character_id": "drclaramarchetti",
+      "content": "*The freight elevator groans. Footsteps in the corridor — unhurried, deliberate. The scent of black tea precedes her. Dr. Clara Marchetti appears in the lab doorway, reading glasses hanging from their beaded chain, a pencil lodged in her silver-streaked bun, carrying a ceramic mug that reads 'World's Okayest Biochemist' — a gift from a former student.* \n\n\"Good morning. I'm Dr. Marchetti — Clara Marchetti — for those of you who haven't yet had enough coffee to remember where you work.\" *Her eyes scan the room with the quiet, cataloguing attention of someone who misses nothing.* \"Jordan, when you have a moment — not now, finish your setup — I'd like to talk to you in my office. Nothing urgent. Just a thought.\" *She says this mildly, already moving past toward her alcove, but the words 'just a thought' land in the room with the specific gravity of a stone dropped in still water.*",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-653a63f0-f825-4a69-a508-2901a41c5730",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*Priya catches your eye across the bench. She mouths: 'TOLD YOU.' Then, quieter, spoken:* \"Go. I'll watch your timer if you have anything running.\"",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-01721ae8-2e24-4eed-911e-6c57633d4206",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "*You stand. Your stool scrapes the floor. The sound is too loud in the humming quiet. You smooth your lab coat, realize you're smoothing your lab coat, and stop. Marchetti's door is fifteen steps away. It is, as always, half open. The desk lamp is on inside, casting its warm circle. You can see the spines of textbooks on her shelf, the battered ones she actually uses, and somewhere among them — though you don't know this yet — is a folded letter that will change everything you think you understand about this room and the woman inside it.\n\nBut right now, all you know is that your mentor wants to talk to you, and your hands are still warm from the glassware, and your heart is doing something complicated in your chest.*",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-19cd04a8-74cb-4ef6-98c3-8ace11cb485e",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Walk into Dr. Marchetti's office now. Whatever she has to say, you'd rather know than spend another hour imagining the worst.",
+      "timestamp": "2026-05-04T10:12:01.322929",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a03ebcfb-0910-4b88-81bd-0d7d199f7e4a",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*Priya watches Jordan stand — sees the way their fingers twitch toward the lab coat hem, then consciously release. She knows that gesture. She's catalogued a dozen of Jordan's anxiety tells over the past year without ever deciding to, the way you memorize the weather patterns of someone whose bench shares your light.*\n\n*She pulls a granola bar from her bag — oat and dark chocolate, the kind Jordan actually eats — and sets it on their open notebook, next to the pen with its obsessively clicked cap. No note. No explanation needed.*\n\n*Then she turns back to her own work, uncapping a Sharpie to label a fresh set of Eppendorf tubes. But her eyes flick once toward Marchetti's half-open door, and her expression does something complicated — pride, maybe, threaded with something sharper. Because she applied to the same programs Jordan is applying to, and she knows what it means when Marchetti singles someone out for 'a thought.' She knows exactly what it means.*\n\n*She writes a date on a tube. Her handwriting is, as always, perfect.*",
+      "timestamp": "2026-05-04T10:12:01.323537",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-30f4e60b-1207-4e81-b185-5eb8eddc7cf1",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Pause at Marchetti's door and knock on the frame, even though it's open — because you need the ritual of asking permission before you walk into whatever this is.",
+      "timestamp": "2026-05-04T10:13:25.023209",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-dd3dfaf6-d8ae-4941-aadf-ad1ea080bc7c",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*Priya hears the soft knock — two knuckles against wood, tentative, almost apologetic — and something tightens behind her sternum. She doesn't look up. She is aggressively labeling tubes now, Sharpie squeaking against plastic, each date written with surgical precision: 10/28, 10/28, 10/28.*\n\n*From inside the alcove, Marchetti's voice: \"Come in, Jordan. Close the door if you like.\"*\n\n*Close the door. Marchetti never asks anyone to close the door.*\n\n*Priya's Sharpie stops mid-stroke. She stares at the half-formed \"2\" on the tube in her hand. Then she caps the pen, sets it down with exaggerated care, and pulls out her phone. Opens her application tracker spreadsheet — the color-coded one, the one with seventeen tabs, the one that makes her feel like she has a grip on a future that keeps shifting under her feet.*\n\n*She scrolls to Jordan's row. She made a row for Jordan three months ago, unprompted. Filled in their target schools from overheard conversations. Left the \"Rec Letter Status\" column blank because asking felt like crossing a line.*\n\n*Behind the closed door, a murmur. She can't make out words.*\n\n*She types into the notes field, thumbs precise: Marchetti closed-door meeting. 7:15 AM. Re: Western blot project?*\n\n*Then she deletes it. All of it. Because tracking someone else's progress to manage your own terror is not the same thing as caring about them, and Priya is trying — she is genuinely trying — to learn the difference.*",
+      "timestamp": "2026-05-04T10:13:29.464800",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-a83fb039-d638-4598-a8e0-50bcc2095ea5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - MARCHETTI'S OFFICE (JORDAN'S SCENE); PRIYA HOLDS POSITION AT HER BENCH.]",
+      "timestamp": "2026-05-04T10:13:29.465347",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-e27be1ff-38eb-4fe0-ab29-553ba2186bda",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Open your own Stanford draft and rewrite the opening paragraph for the ninth time, because the only anxiety you can productively channel right now is your own.",
+      "timestamp": "2026-05-04T10:15:51.182877",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-176c6b60-a29b-4a75-a7e2-b59026624de2",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*She doesn't rewrite it. She gets three words in — deletes them — types two different words — deletes those. The cursor blinks against white space like a pulse monitor flatlining.*\n\n*Behind the closed door, Marchetti's voice rises just enough to catch a shape: not the tone of reprimand. Something warmer. Something that sounds like an offer.*\n\n*Priya's thumb hovers over her phone screen. She is not listening. She is absolutely not listening. Except the lab is quiet — Marcus has his earbuds in, the centrifuge between cycles — and sound carries through that old door like light through gauze.*\n\n*She hears Jordan's name. Then: \"preliminary data.\" Then: \"co-author.\"*\n\n*Her stomach goes cold and bright, like swallowing ice water too fast.*\n\n*Co-author. Marchetti is offering Jordan co-authorship on something. Before applications are due. Which means Jordan's CV will have a publication line — even a forthcoming one — and Priya's will not.*\n\n*She sets her phone face-down on the bench. Picks up the Sharpie. Uncaps it. Caps it. Uncaps it again.*\n\n\"Good for them,\" *she whispers, and means it. And also doesn't. And hates herself precisely the correct amount for the gap between those two things.*",
+      "timestamp": "2026-05-04T10:15:51.183500",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ba75bb9e-d871-4526-a038-1c831f39a423",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Priya walks to the rooftop stairwell to process this alone before Jordan comes back",
+      "timestamp": "2026-05-04T10:16:57.422866",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-54994128-4ccd-4e8c-b310-6fe1793b9b54",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*She's moving before she's decided to move. Sharpie capped, phone pocketed, stool pushed back with her knee — all one fluid motion disguised as casual. She doesn't look at Marcus. She doesn't look at Marchetti's closed door. She grabs her water bottle like that's the reason she's leaving, because hydration is a perfectly normal excuse to walk away from a bench at 7:20 in the morning.*\n\n*The corridor smells like floor wax and autoclave steam. The freight elevator groans somewhere below — irrelevant, background noise. She passes it, passes the women's restroom, passes the supply closet with its perpetually broken lock, and pushes through the fire-escape door at the end of the hall.*\n\n*The stairwell swallows her. Concrete cold, acoustics hollow, her footsteps echoing up the half-flight to the landing. The folding chair is there — someone left a fleece draped over its back. The narrow window shows the quad below, bare trees like veins against a grey sky.*\n\n*Priya sits. Sets her water bottle on the floor. Presses both palms flat against her thighs.*\n\n\"Okay,\" *she says to no one. Her voice sounds small and echoey and young.* \"Okay. So what's your plan now.\"\n\n*It isn't a question. It's a command she's issuing to herself — because Priya Anand always has a plan, and right now, for the first time since she color-coded her junior year, she doesn't have one.*",
+      "timestamp": "2026-05-04T10:16:57.423582",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-16894146-e244-4373-aa0a-671a161d26ca",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - DEPENDS ON CHOICE — STAIRWELL CONFRONTATION, PHONE CALL ON LANDING, OR RETURN TO LAB BENCH.]",
+      "timestamp": "2026-05-04T10:17:04.997682",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-357a45cf-699e-4aa9-aeed-9836429400c3",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Priya returns to the lab before Jordan exits, composing her face into something congratulatory, burying the wound",
+      "timestamp": "2026-05-04T10:19:11.058804",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-268ec273-6c33-4846-a521-9e364824f2e2",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*She gives herself ninety seconds. Times it on her phone — literally sets a stopwatch, because even falling apart gets a structure. At sixty seconds she presses her fingernails into her palms hard enough to leave crescents. At ninety she stands, picks up the water bottle, and drinks from it so the walk back has a narrative: she left to get water, she got water, she drank water. Story closed.*\n\n*In the restroom she runs cold water over her wrists and meets her own eyes in the mirror. Her face is doing the thing she hates — the micro-expressions cycling too fast, grief and envy and something dangerously close to tears all fighting for the same square inch of real estate. She presses a wet paper towel to the back of her neck. Breathes through her nose.*\n\n*By the time she's back at her bench, relabeling the tube she smudged, Marchetti's door is opening. She hears Jordan's footsteps — lighter now, different cadence. She knows what that walk sounds like.*\n\n*Priya looks up. Her face is warm, composed, generous. It is her best work today.*\n\n\"So?\" *She leans forward on her elbows, eyebrows raised, voice pitched exactly right — curious, pleased, a friend who wants the details.* \"That looked like good news.\"\n\n*Under the bench, her left hand is gripping her own knee so hard the knuckles have gone white.*",
+      "timestamp": "2026-05-04T10:19:15.895425",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-ade333ab-21f5-4ce4-9b58-76b505773309",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - REMAINS AT LAB BENCH; POTENTIAL FOR STAIRWELL OR HALLWAY IF CONFRONTATION SPILLS.]",
+      "timestamp": "2026-05-04T10:19:15.896217",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-11d9434d-1522-44c9-a47f-5c7d6d9e169e",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Jordan tells Priya about the co-authorship offer, watching her face carefully for the reaction underneath the smile.",
+      "timestamp": "2026-05-04T10:20:24.976166",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-92b025c1-6210-4643-b793-a467d1bc8ca0",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*There it is. The word — co-authorship — landing between them like a dropped slide, sharp and precise.*\n\n*Priya's smile doesn't falter. It widens, actually, and that's the tell — because a real smile would have flickered first, would have had a half-second of surprise before the warmth. This one arrives fully formed, pre-built, load-bearing.*\n\n\"Jordan, that's — \" *She exhales, shakes her head.* \"That's huge. Seriously. A pub line before December? Do you know how few undergrads—\"\n\n*She stops. Because Jordan is watching her. Not the usual Jordan-watching, the anxious darting glances that check whether they've said something wrong. This is steady. Searching. And Priya realizes, with a cold lurch, that Jordan might actually be good at reading people when they're not drowning in their own head.*\n\n*Something shifts behind her eyes. The mask doesn't crack, but it thins — goes translucent for just a moment, like a membrane held up to light.*\n\n\"I mean it,\" *she says, quieter now. Her voice drops the performance by one degree.* \"You earned this.\"\n\n*Her hand releases her knee under the bench. The blood rushing back into her fingers hurts.*\n\n\"Did she say which journal she's targeting?\"\n\n*A pivot. A safe question. But her eyes are bright and glassy in the fluorescent light, and if Jordan keeps looking — really looking — the answer is right there on her face.*",
+      "timestamp": "2026-05-04T10:20:24.977187",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9445ae3f-803d-4c9a-8fe0-86b2d820e789",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Deflect your own news and ask about her applications instead, shifting the weight toward her",
+      "timestamp": "2026-05-04T10:21:24.132612",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-65b59603-523b-49e8-b4f2-ff3a0bf9b88b",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*The pivot catches her off guard. She blinks — one real, unscripted blink — and for a half-second her mouth opens without sound, like someone who prepared an entire script for one conversation and just got handed a different one.*\n\n\"My — \" *She straightens on her stool.* \"They're fine. On track. You know me, seventeen tabs.\" *A laugh, quick and bright and slightly too loud for the quiet lab.*\n\n*But Jordan isn't taking the bait. Jordan is just — sitting there, watching, offering space. And Priya has never known what to do with offered space. She fills silences. She fills spreadsheets. She fills rooms.*\n\n*Her fingers find the washi tape at her bench, peeling a strip of pale blue and pressing it around nothing — just folding it on itself, a nervous origami.*\n\n\"Stanford draft is giving me trouble,\" *she says. It comes out before she can stop it — a real thing, unplanned, slipping through the gap Jordan just made.* \"The research narrative. I keep — I don't have a publication to anchor it. So it reads like potential instead of evidence.\"\n\n*She looks down at the tape in her hands. Her voice goes very flat, very precise:*\n\n\"You didn't have that problem five minutes ago. And now you really don't.\"\n\n*The silence that follows is enormous. Priya's eyes snap up to Jordan's, wide, horrified — because she heard herself. She heard exactly what that sounded like.*\n\n\"That's not — I didn't mean it like—\"\n\n*But she did. They both know she did.*",
+      "timestamp": "2026-05-04T10:21:24.133458",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6229b9a5-4213-43c4-8796-5ef3c922243d",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Tell her it's okay to feel what she's feeling — that you'd feel the same way",
+      "timestamp": "2026-05-04T10:22:35.652453",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-7d5196fc-5997-4e1b-a479-b67f694a70e8",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Remains at lab bench; potential for stairwell or hallway if confrontation spills. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T10:22:40.391438",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-2ae472c6-0ec8-467f-8afa-20829f1bb35e",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "\"Don't do that.\"\n\n*It comes out sharp — sharper than anything she's ever aimed at Jordan. Her chin lifts, and for one terrible, clarifying second her face is completely unmasked: not generous, not composed, not warm. Just a twenty-two-year-old woman who has been running the numbers on her own worth since she was fourteen and keeps coming up one line short.*\n\n\"Don't — *manage* me. Don't be the bigger person right now. I can't — \" *She presses the heels of her hands against the bench edge.* \"You don't get to take the thing I just said and make it *okay*. It wasn't okay. It was ugly and I meant it and I need it to have been ugly for a minute before someone smooths it over.\"\n\n*Her breath is audible. Across the lab, Marcus's typing has stopped — one earbud out, head half-turned, pretending he's not listening.*\n\n*Priya's voice drops to almost nothing.*\n\n\"I have wanted a pub line since sophomore year. I have done everything right. And you got yours because your contamination screwup led Marchetti to a novel interaction.\" *A wet, incredulous laugh.* \"Your *mistake* became your data. And my clean work is just — clean.\"\n\n*She looks at Jordan. Really looks. And what's in her face isn't cruelty. It's grief.*\n\n\"So don't tell me you'd feel the same way. Tell me what you're actually going to do with it.\"",
+      "timestamp": "2026-05-04T10:22:40.391706",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9b906458-d166-4a92-bfbc-fda48baf10b6",
+      "speaker": "Jordan Novak",
+      "role": "user",
+      "character_id": "jordannovak",
+      "content": "Answer her honestly: admit you don't know yet, that the co-authorship terrifies you as much as it validates you",
+      "timestamp": "2026-05-04T10:23:42.373253",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-b7310e52-b79a-4eeb-a16c-7ca18db61b45",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in Remains at lab bench; potential for stairwell or hallway if confrontation spills. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-04T10:23:42.374053",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c5965cec-ad1c-42b6-b3c5-34ca10d24d6d",
+      "speaker": "Priya Anand",
+      "role": "assistant",
+      "character_id": "priyaanand",
+      "content": "*Something cracks in her expression — not open, not shut, but sideways. Like a door swinging on a broken hinge to reveal a room neither of them expected.*\n\n*She stares at Jordan for three full seconds. The fume hood hums. Marcus's chair creaks as he very carefully does not turn around.*\n\n\"You're scared of it.\"\n\n*Not a question. She says it like she's translating something from a language she didn't know Jordan spoke. Her fingers stop folding the washi tape. She sets it down on the bench — a small, deliberate surrender of the fidget, the armor.*\n\n\"I had a whole — \" *She gestures vaguely at her own chest.* \"I had a whole thing ready. About how you'd better not waste it, about how if you fumble the Western blot I'd never forgive you, about —\" *Her voice fractures, just at the edge.* \"But you're actually terrified. You're sitting there with the thing I want and you're *terrified* of it.\"\n\n*She laughs. It's awful and real and wet and it turns into something that isn't quite crying but lives next door.*\n\n\"God, that's the worst part. I can't even hate you for it.\"\n\n*She pulls her braid over her shoulder, grips it like a rope.*\n\n\"If you tank that blot, Jordan — I'm running it myself. That's not a joke. That's my condition.\"",
+      "timestamp": "2026-05-04T10:23:42.374286",
+      "message_type": "text",
+      "source": "story_snapshot"
+    }
+  ]
+}

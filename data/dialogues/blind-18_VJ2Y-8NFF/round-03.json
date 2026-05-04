@@ -1,0 +1,614 @@
+{
+  "score": {
+    "rating": 3,
+    "scores": {
+      "story_relevance": 3,
+      "story_coherence": 2,
+      "story_empathy": 2,
+      "story_surprise": 3,
+      "story_engagement": 3,
+      "story_complexity": 4,
+      "character_shaping": 3,
+      "ux_story_satisfaction": 2,
+      "ux_perceived_story_quality": 3,
+      "ux_process_engagement": 2,
+      "ux_use_again_intent": 3
+    },
+    "comment": null,
+    "feedback_type": "benchmark_session_end",
+    "form_version": "benchmark_emotional_human_v4",
+    "created_at": "2026-05-03T11:49:25.020738"
+  },
+  "dialogue": [
+    {
+      "id": "msg-262394e6-00e8-445f-8e77-c99189767a86",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "（对着手机屏幕，喃喃自语）还差2850……如果这个暑假能攒够——",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5693e3ea-0a50-4bcb-940d-b62310e9409b",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "默儿，出来吃口饭。明天……明天跟我去趟工地。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-b6dcf9db-247c-48b3-b9af-67bcceacf2d5",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "去工地？（停顿）……好。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-799ee105-1fcf-48c8-a2d7-738fe6d91314",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "工钱按天算，一天一百五。你跟我去，算小工，能攒点。\n（转身要走，又停下来，头也不回地说）\n你那个相机……我看了，五千差不多了吧。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-57e26afb-a5ec-4d39-974d-7f7262dda732",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "……爸。\n（声音很轻，几乎被风扇的嗡嗡声盖过）\n谢谢。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d962355d-7090-4faa-a94b-73623ebf09db",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "（脚步停顿了一下，没有回头）\n早些睡。明天五点起。",
+      "timestamp": null,
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-39f8e609-3044-4ec3-bc7e-685b6659b3fb",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "打开计算器，算一算需要多少天才能攒够那2850元",
+      "timestamp": "2026-05-03T19:35:15.754562",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7339afb4-8c07-44fd-94ea-d852b619b7a6",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*风扇叶片发出疲惫的咔哒声，像是在倒数什么。*\n\n陈默的手指在裂纹的屏幕上点着，计算器的数字跳动着——2850除以150，19天。整整19天，从天亮干到天黑，搬砖、和水泥、扛钢筋。\n\n*床那头传来窸窣的响动。父亲躺在凉席上，背对着他，月光从窗帘缝隙里切进来，照见那件领口松垮的T恤后背被汗水洇湿了一片。*\n\n\"儿子相机——存了3200。\"\n\n那行被汗水洇开又描深的字忽然浮现在脑海里。3200。父亲不知道攒了多久，一笔一笔记在烟盒纸上，每一笔都是少抽的烟、省下的饭钱、中午没吃的鸡腿。\n\n*陈默低头看着手机屏幕，计算器上的数字模糊了。*\n\n他想说点什么，但喉咙像是被什么东西堵住了。父亲翻了个身，凉席发出吱呀的响声，然后是一声很轻的叹息。\n\n\"睡吧。\"声音沙哑，带着困意，\"明天……累。\"\n\n- 把手机放下，盯着天花板，想着明天工地会是什么样子\n- 在备忘录里写下\"第1天\"，在后面标注：父亲的背影\n- 偷偷起身，走到父亲的小本子前，翻开那一页再看一眼",
+      "timestamp": "2026-05-03T19:35:15.754843",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d09b6e48-7581-4cb9-9883-3cc5238e51b2",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "把手机放下，盯着天花板，想着明天工地会是什么样子",
+      "timestamp": "2026-05-03T19:36:27.573440",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-d3344d2d-69ab-4f09-b6a0-7463a061078d",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*窗外的巷子里有野猫在翻垃圾桶，铁皮盖子咣当一声落地。父亲没有惊醒，只是眉头皱了皱，又松开。他打着轻微的鼾，呼吸沉重。*\n\n*陈默盯着天花板上一块剥落的墙皮。它像一片快要掉落的云。*\n\n明天。五点。天应该还没亮。父亲会骑着那辆二手电动车，载着他穿过三条街、两个红绿灯，来到那片十八栋烂尾楼矗立的地方。他会见到那些住在棚子里的甘肃焊工、扎钢筋的四川两口子、开运料车的中年人。他们会用各种口音的普通话问他\"学生娃来体验生活？\"\n\n*他下意识摸了摸手机屏幕上的裂纹。十九天。他要用这双手，去换按下快门的资格。*\n\n\"爸。\"他忽然开口，声音很轻。\n\n*父亲没有回应，只是呼吸节奏变了。装睡。*\n\n\"……我知道你存着钱呢。\"他说，喉咙发紧，\"那3200……你自己买双新鞋吧。你的鞋底都脱胶了。\"\n\n*凉席又吱呀了一声。父亲依然背对着他，但陈默看见那双布满老茧的手悄悄握成了拳。*\n\n\"……睡。\"\n\n*那声音闷在枕头里。*",
+      "timestamp": "2026-05-03T19:36:31.315318",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-867364dd-359c-41a7-ae98-8a5776c35576",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "轻手轻脚爬起来，翻开自己的备忘录，在\"镜头愿望清单\"第一行写下：父亲的账本",
+      "timestamp": "2026-05-03T19:37:11.055382",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6e3e2572-7776-49ad-b4a4-7ab0a55918a6",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*手机屏幕的微光在黑暗里划出一小片亮域。陈默的手指悬在裂纹的玻璃上方，打下了那几个字。*\n\n\"父亲的账本。\"\n\n*他盯着这行字看了很久。光标在末尾一闪一闪，像在等待什么。他想在后面写点什么——预估价格？拍摄时间？但手指僵在半空。*\n\n这和别的条目不一样。工地门口的早餐摊、老周的手、塔吊上的落日——那些都是\"风景\"，是可以被镜头裁切、构图、美化的事物。但这一条……\n\n*床那头传来父亲翻身的声音。凉席吱呀，然后是一声含混的梦呓，听不清说了什么。*\n\n*陈默关掉屏幕。黑暗重新压下来。*\n\n脑海里却开始自动构图——低角度，侧面光，那双变形的手翻开烟盒纸，指尖沾着白灰，焦距对准那行被汗水洇开又描深的字迹。\n\n*他攥紧拳头，又松开。*\n\n明天。",
+      "timestamp": "2026-05-03T19:37:11.055799",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-26676592-24c3-45c1-89a7-73a9b56ea3c8",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "又拿起手机，翻看社交账号上那几十个点赞，给自己打气",
+      "timestamp": "2026-05-03T19:38:08.392153",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-4146dfef-d02d-48e3-b951-27341147ad75",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*拇指划过屏幕。每一条通知都是陌生人的头像和名字——\"拍得有感觉\"\"这裂纹绝了\"\"博主还有吗\"。几十条点赞，分散在四张照片上。*\n\n第一张：工地围墙外的野草，逆光，裂纹让光线碎成金色的刀片。第二张：傍晚收工的人群，背影模糊。第三张：父亲的电动车后座，沾满泥点。第四张：一只流浪狗趴在水泥管上睡觉，耳朵缺了一角。\n\n*陈默的拇指停在那条评论上——*\n\n\"普通人拍普通事，这才是真实。\"\n\n*他胸口发紧。普通。真实。这四个字像一把钝刀，温柔地刮开心里的硬壳。他想起那些光鲜亮丽的博主，精致的滤镜、考究的构图、几百万的粉丝。而他只有这台裂了屏的旧手机，和一群在混凝土灰里讨生活的人。*\n\n*床那头，父亲的鼾声又响起来，沉重。*\n\n*陈默关掉屏幕，把手机贴在胸口。五点的闹钟已经设好。距离天亮还有四个小时。*",
+      "timestamp": "2026-05-03T19:38:08.392687",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a4d00d85-b315-4b5f-9703-c50145eb82cb",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "给那条\"普通人拍普通事\"的评论点个赞",
+      "timestamp": "2026-05-03T19:38:34.330112",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-160aed43-4d16-4d03-a1ff-6d5fb8bfe819",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*拇指悬在心形图标上方，停了一瞬。然后轻轻点下。*\n\n红心亮起。\n\n*屏幕上只剩下那个陌生人的头像和名字——没有简介，没有历史，只是一个普通的账号，像一个普通的人，在某个普通的时刻，留下了一句普通的话。*\n\n\"普通人拍普通事，这才是真实。\"\n\n*陈默盯着那条评论看了很久。他想回复点什么，手指在输入框里打了几个字，又删掉。打，删。打，删。最后什么也没发。*\n\n*窗外传来早班公交车的喇叭声，闷闷的，隔着几条街。*\n\n三点半了。\n\n*他关掉屏幕，把手机塞到枕头下。胸口砰砰跳动。明天他就要走进那片钢筋森林，用这双手去换按下快门的资格。而这条评论会留在那里，像一个来自陌生人的无声契约——*\n\n有人看见了。\n\n*床那头，父亲忽然咳嗽了两声。陈默屏住呼吸。*\n\n\"……闹钟。\"父亲的声音闷闷的，含着困意，\"设了没？\"\n\n\"设了。\"\n\n\"五点……别赖床。\"\n\n*凉席吱呀一声，鼾声又起。*",
+      "timestamp": "2026-05-03T19:38:39.225132",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-cc934e69-7b6f-4409-b5e2-6c3ec134fbbb",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "轻手轻脚爬起来，走到窗边透口气，看一眼凌晨的城中村",
+      "timestamp": "2026-05-03T19:39:31.179474",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-ba3ef706-f88a-4aa3-87d3-70ea47b25b65",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*窗框上的锈迹蹭在指尖，冰凉。陈默轻轻推开那扇变形的窗户，凌晨三点的空气涌进来——带着下水道的腥味、油炸摊残留的油烟味、还有远处混凝土扬起的灰尘气息。*\n\n*城中村在月光下像一堆随意堆叠的火柴盒。窄巷里没有灯，只有几户人家的窗透出昏黄的光。一只野狗趴在垃圾桶旁边，耳朵耷拉着，像是睡着了。更远处，未完工的楼盘黑黢黢地矗立着，脚手架的轮廓像巨大的兽骨。*\n\n*父亲的电动车就锁在楼下的铁栏杆上，后座的泥点在月光下泛着灰白。*\n\n明天，他会坐在那个后座上，被载进那片钢筋森林。\n\n*身后传来床板吱呀的响动。*\n\n\"……看什么？\"\n\n*父亲的声音含混，带着困意。他没有完全醒来，只是本能地察觉到儿子的动静。那只布满老茧的手在枕边摸索了两下，像是在确认什么。*\n\n*陈默没有回头。*\n\n\"没什么。\"他说，\"睡不着。\"\n\n\"……躺下。\"\n\n*父亲翻了个身，鼾声又起。但在那之前，陈默听见了一声很轻的叹息。*",
+      "timestamp": "2026-05-03T19:39:31.180020",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3ea03cc3-795b-4c31-8211-7b851f6a7393",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "轻声对父亲的背影说一句：\"爸，明天教我干活\"",
+      "timestamp": "2026-05-03T19:39:57.029630",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-38fd0209-1eb8-4dec-94a9-4bee3ae6af91",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*月光从窗帘缝隙里斜切进来，落在父亲蜷缩的背影上。那件领口松垮的旧T恤肩头有洗不掉的水泥灰渍。陈默站在窗边，呼吸混杂着凌晨的凉意与下水道的腥气。他张开嘴，喉咙发干。*\n\n\"爸。\"声音很轻，像是怕惊碎什么，\"明天教我干活。\"\n\n*凉席没有响动。父亲的呼吸顿了一瞬——只有一瞬——然后又恢复沉重的节奏。他没有转身，没有回应。那只布满老茧的手却从枕边滑落，掌心朝上，摊在凉席上，手指微微张开。像是在梦里，终于放下了什么。*\n\n*窗外的野狗汪汪叫了两声，又归于沉寂。*\n\n*陈默重新躺回床上，盯着天花板那片剥落的墙皮。胸口堵着的东西松动了。风扇叶片咔哒转动，五点的闹钟像一枚定时炸弹，压在枕头底下。距离天亮还有两个半小时。*",
+      "timestamp": "2026-05-03T19:39:57.030118",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3417a1da-69b5-4a9d-bb55-d87aeb1fd593",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "再拿起手机，把备忘录里\"父亲的账本\"那条改成\"父亲的背影\"",
+      "timestamp": "2026-05-03T19:40:51.971276",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-fdb08940-c81a-4d28-b02f-0d8ebcd5a832",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:40:56.492052",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1afc4adc-2f10-4dab-8a83-6f391bac821c",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *手机屏幕再次亮起，裂纹让光线碎成几道岔路。陈默找到那条刚写的条目，删除键按了三次。*\n\n\"父亲的账本\" → \"父亲的背\"。\n\n*他盯着这五个字。光标闪烁。窗外的月光和屏幕的蓝光混在一起，落在他的脸上。*\n\n*脑海里浮现出构图——低角度，侧面轮廓，那件洗得发白的旧T恤，肩头的水泥灰渍，脊椎骨在薄布料下微微凸起的弧度。不需要正面，不需要表情，只需要这一个姿势：蜷缩，背对，沉沉睡去。*\n\n*他忽然明白为什么刚才写\"账本\"时手指会僵住。*\n\n账本是证据。而背影是生活。\n\n*床那头，父亲的鼾声节奏变了，变得均匀。那只在凉席上摊开的手，掌心朝上，像是接住了什么。*\n\n*陈默关掉屏幕。胸口那块石头又松动了。*\n\n*五点的闹钟还压在枕头底下。两个小时。*\n\n- 闭上眼睛，试着睡一会\n- 把手机调成静音，再设一个四点五十的备用闹钟\n- 轻轻拉开窗帘一角，拍一张父亲背影的照片",
+      "timestamp": "2026-05-03T19:40:56.492241",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-fe2cd697-e3bc-4a55-9826-e48327b87e8b",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "把手机调成静音，再设一个四点五十的备用闹钟",
+      "timestamp": "2026-05-03T19:41:32.366706",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-8e57bc64-8024-4001-a183-fb01eb2c6b3f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:41:32.367239",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-c4048a31-989b-4f50-b7c3-9ea1aa970da6",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*拇指划过设置界面。静音模式开启，屏幕左上角的铃铛图标变成了一道划线的轮廓。*\n\n*然后是闹钟——新建，4:50，标签空白。陈默没有写\"工地\"两个字，只是把手机塞回枕头底下，贴着那个已经设好的5:00闹钟。两颗定时炸弹，间隔十分钟。备用。保险。他不想让父亲等。*\n\n*躺回凉席上，编织纹路硌着肩胛骨。风扇叶片咔哒转动，把闷热的空气搅成温吞的风。他闭上眼睛。黑暗里有无数画面闪过——老周变形的指节、塔吊上的落日、父亲蹲在墙角吃饭的侧影、烟盒纸上洇开又描深的数字。它们挤在一起，等着被他装进取景框。*\n\n*意识开始下沉。*\n\n……\n\n*不知过了多久，一声鸟鸣。*\n\n*然后是自行车铃声、远处早市的吆喝、有人用力咳嗽。城中村醒了。*\n\n*凉席吱呀响动。*\n\n*陈默睁开眼。房间里还是灰蒙蒙的，窗帘缝隙透进晨光。父亲的轮廓在床边弯腰，正在套那件荧光绿的工地背心。他动作很轻，像在刻意不发出声音。*\n\n*但陈默已经醒了。4:50的备用闹钟根本没派上用场。*\n\n\"起了。\"父亲的声音很低，\"五点。\"",
+      "timestamp": "2026-05-03T19:41:32.367396",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-9a717c38-5e7d-4ba4-8934-d6e7cd0502a5",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "立刻爬起来，不让自己有犹豫的余地",
+      "timestamp": "2026-05-03T19:42:18.996712",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-0dd97fc1-53ad-468d-9e91-e13eca282ac7",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:42:18.997270",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3a1fd76e-ac61-4cd6-b459-ccf785b0ae19",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *凉席吱呀一声。陈默翻身坐起，双腿在床沿悬了一瞬，脚底触到水泥地的凉意。他没给自己躺回去的时间，站着就开始穿那件洗得发白的校服短袖。*\n\n*父亲正在系安全帽的带子，下巴勒出一道红印。他抬眼看了一下儿子，目光停了半秒，又移开。*\n\n\"牙膏在窗台上。\"\n\n*陈默挤过父亲身边去拿那管卷得扁扁的牙膏。窗台上的牙缸只有一只，塑料的，边缘已经裂了一条缝。他挤出一截白色膏体，直接塞进嘴里干刷。薄荷味在舌根泛开，混着没睡够的苦涩。*\n\n*父亲已经走到门口，手搭在门把手上。*\n\n\"三分钟。\"他说，\"我在楼下等你。\"\n\n*门吱呀一声开了又关上。走廊里传来拖鞋踩在水泥台阶上的脚步声，越来越远。*\n\n*陈默对着窗玻璃上模糊的倒影，吐掉嘴里的泡沫，用袖口擦了一下嘴角。胃里空荡荡的，有一点饿。*\n\n- 随便吃两口昨晚剩的馒头，再下楼\n- 什么都不吃，直接下去\n- 拿上手机，检查一下镜头的裂纹",
+      "timestamp": "2026-05-03T19:42:18.997422",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6450ff1e-a87c-4654-89fd-011d17b4c433",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "父亲正在系安全帽的带子，下巴勒出一道红印。他抬眼看了一下儿子，目光停了半秒，又移开。*",
+      "timestamp": "2026-05-03T19:42:57.806131",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-df896e76-2aa1-4264-b0e0-c1ff0cbb9523",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:43:04.792516",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a3f88060-fe30-4bf7-b36f-d4a1b48ea884",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *那道目光很轻，像一片落叶擦过水面。*\n\n*陈默的喉结动了一下。他认得那种眼神——父亲每次从工地回来，站在门口换鞋时都会这样看他一眼。确认。确认他还在，确认他还在读书，确认这一切辛苦有\"值得\"两个字在尽头等着。*\n\n*但今天那目光里多了一样东西。*\n\n*父亲的视线从陈默脸上的黑眼圈滑到那件校服短袖，又落在窗台上那管卷得扁扁的牙膏。他的嘴唇动了动，像是要说什么，又咽回去。*\n\n\"……牙刷在牙缸后面。\"他最终只说了这句，声音比平时低，\"别落下。\"\n\n*然后他转身推开门，荧光绿的背心在昏暗的走廊里亮了一瞬，消失在楼梯转角。*\n\n*陈默站在原地。胸口有什么东西在往上涌——不是感动，是一种比感动更沉的东西。像工地上那些堆着的钢筋，冷硬，却有人把它们一根一根扛在肩上。*\n\n*他拿起手机，塞进裤兜。屏幕的裂纹贴着大腿，硬硬的，凉凉的。*\n\n- 下楼追上父亲，和他一起去工地\n- 先从窗台后面找到那把旧牙刷\n- 把昨晚没吃完的半个馒头塞进包里",
+      "timestamp": "2026-05-03T19:43:04.792692",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5e7dfacb-9309-44b0-bd43-6eed19ca4f6d",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "陈默的喉结动了一下。他认得那种眼神——父亲每次从工地回来，站在门口换鞋时都会这样看他一眼。确认。确认他还在，确认他还在读书，确认这一切辛苦有\"值得\"两个字在尽头等着。*",
+      "timestamp": "2026-05-03T19:43:53.042259",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-12ba6585-6122-4754-b57f-993628c93d33",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:43:53.042745",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-abba17c6-588f-41b6-82a7-0f653c5c5575",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *父亲的脚步声已经在楼梯间远了。三分钟的倒计时像一根无形的绳，勒在陈默的脚踝上。*\n\n*他抓起窗台后那把旧牙刷，毛已经有些秃了，手柄上刻着一个模糊的\"陈\"字——那是父亲用自己的牙刷改的，把原本的刻痕磨掉，用小刀歪歪斜斜地刻上儿子的姓。*\n\n*陈默把它塞进口袋。*\n\n*窗台角落还有半个馒头，用塑料袋松松地罩着。他犹豫了一秒，抓起来咬了一口，干硬的边缘刮过上颚。没时间细嚼，他边吃边推开门。*\n\n*走廊里弥漫着一股霉味和隔壁飘来的稀饭香气。楼梯间的声控灯坏了很久，只有尽头那扇小窗透进一点晨光。*\n\n*陈默跑下两级台阶，扶手的铁锈蹭在掌心。*\n\n*楼下的空地上，父亲那辆二手电动车已经推出来了。他正弯腰检查后座的绑带，荧光绿的背心在灰蒙蒙的晨色里像一盏昏暗的信号灯。*\n\n*陈默加快脚步。*\n\n*三分钟。他不想让父亲等。*\n\n- 坐上车，把半个馒头递给父亲\n- 坐上车，什么都不说\n- 问父亲：\"那个账本……你存了多少了？\"",
+      "timestamp": "2026-05-03T19:43:53.042907",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-a6b295f8-a8ac-43de-a142-917360c4a711",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "陈国华: *父亲的脚步声已经在楼梯间远了。三分钟的倒计时像一根无形的绳，勒在陈默的脚踝上。*",
+      "timestamp": "2026-05-03T19:44:28.632229",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-2035796d-7154-482b-95e5-ccb0c2d9b023",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:44:28.632741",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-1dd51dd9-ea89-4b51-a6a3-7247b656bc8b",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *陈默咬着最后一口馒头冲出楼道。晨气扑面而来，混着水泥尘和柴油味。*\n\n*父亲已经跨上电动车，右手拧着油门，引擎发出一声虚弱的嗡响。他没有回头，但也没动——就那样等着，后座的绑带松松垮垮地垂在两侧。*\n\n*陈默三步并作两步跨上去。*\n\n\"来了。\"\n\n\"嗯。\"\n\n*两个字，够用了。电动车晃了一下，然后稳稳地往前滑去。风开始灌进衣领，城中村的窄巷从两侧掠过——卖早点的阿婆正在支摊，蒸笼里冒出第一缕白气；隔壁楼有人在天台上晾衣服，床单被风吹得鼓成帆；一只黄狗趴在垃圾堆旁，抬眼看了他们一眼，又垂下头。*\n\n*陈默的裤兜里，手机屏幕的裂纹贴着大腿。他想起镜头愿望清单里第一条：工地门口早餐摊升起的第一缕蒸汽。*\n\n*现在就在他身后。*\n\n*而他正向前。*\n\n- 拿出手机，拍下此刻的父亲背影\n- 把手伸进裤兜，握住那部旧手机\n- 问父亲：\"今天做什么活？\"",
+      "timestamp": "2026-05-03T19:44:28.632882",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-31cad192-43a9-403e-9629-4ca0cdba6b9a",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "陈国华: *陈默咬着最后一口馒头冲出楼道。晨气扑面而来，混着水泥尘和柴油味。*",
+      "timestamp": "2026-05-03T19:44:55.884762",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-3cb01086-7eba-4e2f-ba03-73423cdcba44",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:45:03.929525",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5ed1454e-9fbf-45fa-8ead-9ab733eab30e",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: 陈国华: *电动车拐过一个弯，工地的大门出现在视野尽头。*\n\n*两根生锈的铁柱撑着一块歪斜的招牌——「锦绣家园」四个字已经褪成灰白，像一张洗了太多次的旧T恤。门口的早餐摊正冒着热气，蒸笼一层层叠起来，白雾在晨光里翻滚。*\n\n*陈默的手指在裤兜里收紧。手机就在那里，裂纹贴着掌心。*\n\n*父亲的车速慢了下来。*\n\n\"到了。\"\n\n*他停在大门旁边，单脚撑地，没有熄火。陈默跳下车，背包带勒着肩膀。他看了一眼早餐摊——摊主是个胖阿姨，正用夹子从蒸笼里夹出一个个肉包，油纸袋在手里哗啦作响。*\n\n*第一缕蒸汽。*\n\n*清单上的第一条。*\n\n*父亲的声音从身后传来：\"先进去打卡，我停好车。\"*\n\n*他没看陈默，目光越过工地大门，落在远处正在运转的塔吊上。那里有工人像蚂蚁一样在脚手架之间移动。*\n\n*陈默的手机还在兜里。他的手心全是汗。*\n\n- 拿出手机，拍下早餐摊的蒸汽\n- 点点头，直接走进工地大门\n- 转身对父亲说：\"爸，我拍张照片\"",
+      "timestamp": "2026-05-03T19:45:03.929695",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-525d41d0-d5fa-4396-900a-c1e984b211eb",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "两根生锈的铁柱撑着一块歪斜的招牌——「锦绣家园」四个字已经褪成灰白，像一张洗了太多次的旧T恤。门口的早餐摊正冒着热气，蒸笼一层层叠起来，白雾在晨光里翻滚。*",
+      "timestamp": "2026-05-03T19:45:27.789833",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-9b9e7f5d-af3d-4b49-84ea-8196417f414f",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 城中村出租屋 (Urban village rental apartment) — a cramped 15-square-meter room with peeling wallpaper, a single window overlooking a narrow alley, and the constant hum of a rusty electric fan. tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:45:27.790363",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5ea9d911-0ac4-4a54-b821-3519d714789e",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *陈默的右手在裤兜里颤抖。屏幕的裂纹硌着指腹，冰冷、粗糙。*\n\n*早餐摊的蒸汽在风中舒卷，一个穿蓝工装的男人正接过两袋包子，热气模糊了他的脸。胖阿姨的夹子敲在蒸笼边缘，叮叮两声。*\n\n*现在。拍就是现在。*\n\n*但父亲的背影正在远去——他推着电动车往侧边的棚子走，荧光绿的背心在晨雾里越来越淡。他没有回头。*\n\n*陈默的手指勾住手机边缘。*\n\n*一团蒸汽散了。蒸笼被盖回去。*\n\n*没了。*\n\n*他站在原地，手指僵在裤兜里。胸口堵着一块东西，酸涩、沉重。*\n\n*身后传来脚步声。父亲不知什么时候停下来了，站在三米外，手里捏着那顶额外的安全帽——陈默的。*\n\n\"戴着。\"\n\n*他把帽子递过来，目光落在陈默还插在裤兜里的那只手上，停顿了一秒。*\n\n*然后他转身走向大门。*\n\n\"跟上。\"\n\n- 把手机留在兜里，戴上安全帽跟上去\n- 父亲转身前抢拍一张\n- \"爸，等一下——\"",
+      "timestamp": "2026-05-03T19:45:27.790569",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-30b8dcd2-a799-46db-81c0-dd8abb34957c",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "早餐摊的蒸汽在风中舒卷，一个穿蓝工装的男人正接过两袋包子，热气模糊了他的脸。胖阿姨的夹子敲在蒸笼边缘，叮叮两声。*",
+      "timestamp": "2026-05-03T19:46:20.046784",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7e8c5398-13d4-4dff-985f-a17bee3ede10",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "*父亲的安全帽递到陈默面前。黄色塑料上沾着灰，帽带有些发硬。*\n\n*陈默的右手还卡在裤兜里。指尖抵着手机的边缘，那一道裂纹像一道沟。*\n\n*父亲的手悬在半空。*\n\n*一秒。两秒。*\n\n*蒸汽已经散了。那个瞬间像一条从指缝溜走的鱼，滑进早晨的喧嚣里。胖阿姨的吆喝声、搅拌机的轰鸣、远处有人喊着\"让开让开\"——所有的声音灌进耳朵，却像隔着一层玻璃。*\n\n*陈默喉头发紧。*\n\n*他把手机松开，手指从裤兜里抽出来。掌心全是汗。*\n\n*接过安全帽。*\n\n\"……嗯。\"\n\n*他把帽子扣在头上，帽带勒住下巴。视线被帽檐压低，脚手架、钢筋堆、搅拌车的轮廓都变得狭窄——像他自己那台旧手机的取景框，限制所见的一切。*\n\n*父亲已经转身走了。他脚步不快，但每一步都踩得很实。*\n\n*陈默跟上去。*\n\n*工地大门的阴影吞没了两个人。*",
+      "timestamp": "2026-05-03T19:46:20.047475",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "transition-b69b1e9f-2ee3-405a-8be3-9695ebae52d9",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[MOMENTS LATER - 打卡处/工棚区域]",
+      "timestamp": "2026-05-03T19:46:20.048194",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-56b44dfc-7677-47c4-9447-92371c8e795e",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "问父亲：\"爸，你存了多少了？\"",
+      "timestamp": "2026-05-03T19:46:58.850845",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-a8ebc731-9de9-4a02-acc5-ba3685064fcf",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 打卡处/工棚区域 tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:47:03.695988",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-5f2adf02-9146-460f-ae69-d426c66804b4",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *父亲的脚步顿了一下。*\n\n*他没有回头，但肩膀微微塌下去一点——像是被什么东西压了一瞬，又重新撑起来。*\n\n\"什么？\"\n\n*陈默盯着他后背那件荧光绿背心。边缘已经磨出毛边，肩膀处有一道干涸的水泥印。他想起那个被烟盒纸压平的小本子，最后一页折着的角，墨迹被汗水洇开又被描深的字。*\n\n*父亲没有问你怎么知道。没有问什么时候看见的。*\n\n*他只是继续往前走，安全鞋踩在碎石上，发出嘎吱嘎吱的声响。*\n\n\"够买半台。\"\n\n*他的声音很平，像在说今天天气不错。*\n\n*前面就是打卡处了。一台老式指纹机钉在工棚门口的木板上，旁边贴着泛黄的排班表，边角被风吹得翘起来。几个工人正排队按指纹，机器发出\"嘀——\"的机械音。*\n\n*父亲停下脚步，转向陈默。*\n\n*他的眼神平静得像口枯井，但眼角有细微的纹路在收紧。*\n\n\"你好好读书。钱的事不用想。\"\n\n*这是他第一次主动提起这件事。*\n\n- \"我想自己挣。\"\n- \"爸，那个本子我看见了。\"\n- 点点头，不说话",
+      "timestamp": "2026-05-03T19:47:03.696181",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-318e4bfb-19c3-43f7-b3e5-db6cca065ce5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T19:47:09.293603",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-3e0aa2dc-b96a-4650-981e-322f6450c031",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "他没有回头，但肩膀微微塌下去一点——像是被什么东西压了一瞬，又重新撑起来。*",
+      "timestamp": "2026-05-03T19:47:54.501668",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-14e7c27d-f027-40ff-b3a2-d03396078ca5",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 打卡处/工棚区域 tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:47:54.502125",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-7a4fad2d-6d8b-406a-bad2-3514468930fc",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *父亲的眼神闪了一下。*\n\n*那一瞬，枯井的表面有了波纹——不是被冒犯的恼怒，也不是被戳穿的窘迫。是另一种东西。像是一个人站了很久的岗，终于发现有人记得他还在那里。*\n\n*他嘴唇动了动，没发出声音。*\n\n*打卡机的嘀嘀声从工棚方向传来。有人在喊\"老陈，快点，要迟到了！\"——是四川口音，粗着嗓子。*\n\n*父亲没有应声。他看着陈默，目光第一次没有躲开。*\n\n\"看见了。\"\n\n*他的声音依然很轻。*\n\n\"那你怎么不说？\"\n\n*这不是责问。是困惑。像是一个人把自己最重的东西藏在床底下，以为没人知道，结果发现另一个人早就看见了，却什么都没讲。*\n\n*他把手伸进裤兜，摸出一包压扁的香烟，抽出一根，没有点燃。*\n\n\"半台。还差一千八。\"\n\n*他把烟夹在耳朵上，重新看向陈默。*\n\n\"你不用想这个。把书读好——\"\n\n*他顿住了。*\n\n*他没法说完那句话。因为他知道陈默不会听。*\n\n- \"我想自己挣那一千八。\"\n- \"为什么不说？因为我怕你连烟都省下来。\"\n- 沉默，然后走向打卡机\n\n- \"我想自己挣那一千八。\"\n- \"为什么不说？因为我怕你连烟都省下来。\"\n- 沉默，然后走向打卡机",
+      "timestamp": "2026-05-03T19:47:54.502483",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-5cd9fc72-a070-4295-a800-100245edb5c4",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]",
+      "timestamp": "2026-05-03T19:48:00.525655",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-57c605b9-6d48-417e-83fd-f01ceaf3c979",
+      "speaker": "陈默",
+      "role": "user",
+      "character_id": "chenmo",
+      "content": "\"我想自己挣那一千八。\"",
+      "timestamp": "2026-05-03T19:48:27.619150",
+      "message_type": "choice",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "scene-d4419073-82f1-43c4-9c9a-afc1b6db3812",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "The energy in 打卡处/工棚区域 tightens as attention locks onto the next truth waiting inside the same space.",
+      "timestamp": "2026-05-03T19:48:27.619616",
+      "message_type": "system",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "msg-6e293e5e-0ddf-487b-83f7-217478310a48",
+      "speaker": "陈国华",
+      "role": "assistant",
+      "character_id": "chenguohua",
+      "content": "陈国华: *父亲夹在耳朵上的烟掉了下来。*\n\n*它落进碎石缝里，白色纸卷沾了灰，没人去捡。*\n\n*父亲盯着陈默，眼角的纹路像是被什么撑开了——不是愤怒，不是欣慰。是一种更复杂的东西。像是一个人发现自己的拐杖被人抽走，才发现原来自己也能站直。*\n\n\"你才十七。\"\n\n*他的嗓音粗砺，被砂纸打磨过。*\n\n*远处工棚里有人探出头喊：\"老陈！今天打混凝土，再不来名额没了！\"*\n\n*父亲没理会。他往前迈了一步，近得陈默能闻到他身上水泥灰和汗水的味道。他的手掌抬起，落在陈默肩膀上。很重。手掌宽大，指节变形，虎口那道旧疤贴着布料。*\n\n\"你晓得一千八要搬多少砖？\"\n\n*他没有等回答。*\n\n\"三万块。一块砖一毛。\"\n\n*他的目光沉下去，像在掂量什么。然后他松开手，转身朝打卡机走去。*\n\n\"跟我来。\"\n\n*他在指纹机前停下，回头看了陈默一眼。*\n\n\"今天就让你晓得。\"\n\n- 跟着父亲去搬砖\n- \"爸，我不是来搬砖的——\"\n- 站在原地不动",
+      "timestamp": "2026-05-03T19:48:27.619782",
+      "message_type": "text",
+      "source": "story_snapshot"
+    },
+    {
+      "id": "sys-2d5d444c-7462-47b3-a3bf-961141038a61",
+      "speaker": "System",
+      "role": "system",
+      "character_id": "system",
+      "content": "[The narrative accelerates toward a resolution.]\n\n[THE STORY REACHES ITS CONCLUSION]",
+      "timestamp": "2026-05-03T19:48:27.620540",
+      "message_type": "system",
+      "source": "story_snapshot"
+    }
+  ]
+}

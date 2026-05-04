@@ -1,0 +1,338 @@
+[
+  {
+    "file": "blind-01_JUMF-TVDL/round-01.json",
+    "model": "openai/gpt-5.4",
+    "rating": 3,
+    "participant_id": "blind-01",
+    "round": 1,
+    "story_id": "ff04ff89-3d89-4dd1-8d82-9ed6648b78a1"
+  },
+  {
+    "file": "blind-01_JUMF-TVDL/round-02.json",
+    "model": "anthropic/claude-opus-4.6",
+    "rating": 3,
+    "participant_id": "blind-01",
+    "round": 2,
+    "story_id": "c9b809d9-6289-4219-a413-2fe31b6b35a8"
+  },
+  {
+    "file": "blind-01_JUMF-TVDL/round-03.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 3,
+    "participant_id": "blind-01",
+    "round": 3,
+    "story_id": "0a66737a-5d35-4fee-9860-99186a03092b"
+  },
+  {
+    "file": "blind-01_JUMF-TVDL/round-04.json",
+    "model": "google/gemini-3.1-pro-preview",
+    "rating": 3,
+    "participant_id": "blind-01",
+    "round": 4,
+    "story_id": "d77b241c-1443-4f16-9e8f-e3e2cf94e141"
+  },
+  {
+    "file": "blind-02_3C2B-LUWZ/round-01.json",
+    "model": "anthropic/claude-opus-4.6",
+    "rating": 4,
+    "participant_id": "blind-02",
+    "round": 1,
+    "story_id": "7dd2fd06-eda0-417c-8e57-317558f01d15"
+  },
+  {
+    "file": "blind-02_3C2B-LUWZ/round-02.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 3,
+    "participant_id": "blind-02",
+    "round": 2,
+    "story_id": "dfcc4f53-7e32-4358-b509-e2fa2424865f"
+  },
+  {
+    "file": "blind-02_3C2B-LUWZ/round-03.json",
+    "model": "google/gemini-3.1-pro-preview",
+    "rating": 3,
+    "participant_id": "blind-02",
+    "round": 3,
+    "story_id": "5ca3a497-aef7-4c7b-a7ed-71caae6d22c7"
+  },
+  {
+    "file": "blind-02_3C2B-LUWZ/round-04.json",
+    "model": "deepseek/deepseek-v3.2",
+    "rating": 3,
+    "participant_id": "blind-02",
+    "round": 4,
+    "story_id": "0ac3c617-0b01-4613-ae3c-7c8631559e4d"
+  },
+  {
+    "file": "blind-03_LY7H-H8W8/round-01.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 5,
+    "participant_id": "blind-03",
+    "round": 1,
+    "story_id": "e56d7da3-040e-42c5-917c-7efd4f0007b2"
+  },
+  {
+    "file": "blind-03_LY7H-H8W8/round-02.json",
+    "model": "google/gemini-3.1-pro-preview",
+    "rating": 3,
+    "participant_id": "blind-03",
+    "round": 2,
+    "story_id": "6cf0e19b-ff50-47d7-a258-95eab4182dd1"
+  },
+  {
+    "file": "blind-03_LY7H-H8W8/round-03.json",
+    "model": "deepseek/deepseek-v3.2",
+    "rating": 3,
+    "participant_id": "blind-03",
+    "round": 3,
+    "story_id": "529bbf18-0ea6-4094-b3a5-7d79120f7bb4"
+  },
+  {
+    "file": "blind-03_LY7H-H8W8/round-04.json",
+    "model": "z-ai/glm-5",
+    "rating": 3,
+    "participant_id": "blind-03",
+    "round": 4,
+    "story_id": "970e3feb-dd35-4e7e-9c6d-f22a7650f000"
+  },
+  {
+    "file": "blind-04_EJ22-XVL9/round-01.json",
+    "model": "google/gemini-3.1-pro-preview",
+    "rating": 3,
+    "participant_id": "blind-04",
+    "round": 1,
+    "story_id": "9da19dc9-9f71-4afb-a165-1ddb848e85c9"
+  },
+  {
+    "file": "blind-04_EJ22-XVL9/round-02.json",
+    "model": "deepseek/deepseek-v3.2",
+    "rating": 4,
+    "participant_id": "blind-04",
+    "round": 2,
+    "story_id": "6b85c65f-33e2-4bf1-92a1-f66022720d5e"
+  },
+  {
+    "file": "blind-04_EJ22-XVL9/round-03.json",
+    "model": "z-ai/glm-5",
+    "rating": 3,
+    "participant_id": "blind-04",
+    "round": 3,
+    "story_id": "9d219ddf-b02b-4307-ba63-1f729089846d"
+  },
+  {
+    "file": "blind-04_EJ22-XVL9/round-04.json",
+    "model": "qwen/qwen3.5-397b-a17b",
+    "rating": 3,
+    "participant_id": "blind-04",
+    "round": 4,
+    "story_id": "a843f461-17a4-4dfd-95b1-4da3d0ca19ce"
+  },
+  {
+    "file": "blind-05_X37W-4V2T/round-01.json",
+    "model": "deepseek/deepseek-v3.2",
+    "rating": 3,
+    "participant_id": "blind-05",
+    "round": 1,
+    "story_id": "2c8601e1-d8d0-40b4-baf4-d35cd6bd42eb"
+  },
+  {
+    "file": "blind-05_X37W-4V2T/round-02.json",
+    "model": "z-ai/glm-5",
+    "rating": 3,
+    "participant_id": "blind-05",
+    "round": 2,
+    "story_id": "59446c13-1d5c-44be-8921-34d0ef1ff9f6"
+  },
+  {
+    "file": "blind-05_X37W-4V2T/round-03.json",
+    "model": "qwen/qwen3.5-397b-a17b",
+    "rating": 3,
+    "participant_id": "blind-05",
+    "round": 3,
+    "story_id": "159c20de-57ab-4e6f-8608-2865654ae62f"
+  },
+  {
+    "file": "blind-05_X37W-4V2T/round-04.json",
+    "model": "doubao/seed-2.0-pro",
+    "rating": 3,
+    "participant_id": "blind-05",
+    "round": 4,
+    "story_id": "7a09eaac-1ce9-4f83-95f3-5486f5c185e8"
+  },
+  {
+    "file": "blind-07_NCN7-CV5X/round-01.json",
+    "model": "qwen/qwen3.5-397b-a17b",
+    "rating": 4,
+    "participant_id": "blind-07",
+    "round": 1,
+    "story_id": "15c266bc-6eaa-42eb-980c-884efcc73046"
+  },
+  {
+    "file": "blind-07_NCN7-CV5X/round-02.json",
+    "model": "doubao/seed-2.0-pro",
+    "rating": 4,
+    "participant_id": "blind-07",
+    "round": 2,
+    "story_id": "462c3e75-c05f-490c-994a-501fd5e8fd96"
+  },
+  {
+    "file": "blind-07_NCN7-CV5X/round-03.json",
+    "model": "openai/gpt-5.4",
+    "rating": 3,
+    "participant_id": "blind-07",
+    "round": 3,
+    "story_id": "300d1fc9-5fb3-45e5-8baf-e42a7ad66735"
+  },
+  {
+    "file": "blind-07_NCN7-CV5X/round-04.json",
+    "model": "anthropic/claude-opus-4.6",
+    "rating": 4,
+    "participant_id": "blind-07",
+    "round": 4,
+    "story_id": "e5dae9b9-9d8f-441b-9d57-6d9392251bc2"
+  },
+  {
+    "file": "blind-08_GHWA-RP7E/round-01.json",
+    "model": "doubao/seed-2.0-pro",
+    "rating": 4,
+    "participant_id": "blind-08",
+    "round": 1,
+    "story_id": "066ee5cc-a5dc-46ab-8383-086ff22fe2cb"
+  },
+  {
+    "file": "blind-08_GHWA-RP7E/round-02.json",
+    "model": "openai/gpt-5.4",
+    "rating": 4,
+    "participant_id": "blind-08",
+    "round": 2,
+    "story_id": "f26744c9-b0e7-47cf-8aa8-398fef753620"
+  },
+  {
+    "file": "blind-08_GHWA-RP7E/round-03.json",
+    "model": "anthropic/claude-opus-4.6",
+    "rating": 4,
+    "participant_id": "blind-08",
+    "round": 3,
+    "story_id": "105b9aa8-9546-4c0b-b25c-856ff759c0ca"
+  },
+  {
+    "file": "blind-08_GHWA-RP7E/round-04.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 4,
+    "participant_id": "blind-08",
+    "round": 4,
+    "story_id": "e34e8362-1fff-4900-8be8-58b667900a7d"
+  },
+  {
+    "file": "blind-09_U7UP-PH79/round-01.json",
+    "model": "openai/gpt-5.4",
+    "rating": 4,
+    "participant_id": "blind-09",
+    "round": 1,
+    "story_id": "1c548608-660c-478b-a8e7-d07a282bcd2f"
+  },
+  {
+    "file": "blind-09_U7UP-PH79/round-02.json",
+    "model": "anthropic/claude-opus-4.6",
+    "rating": 4,
+    "participant_id": "blind-09",
+    "round": 2,
+    "story_id": "a988ad9d-ef01-4503-ad24-192db57afc5d"
+  },
+  {
+    "file": "blind-09_U7UP-PH79/round-03.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 4,
+    "participant_id": "blind-09",
+    "round": 3,
+    "story_id": "3f7cff41-0bff-45eb-8dc0-a70a6cd28766"
+  },
+  {
+    "file": "blind-09_U7UP-PH79/round-04.json",
+    "model": "google/gemini-3.1-pro-preview",
+    "rating": 4,
+    "participant_id": "blind-09",
+    "round": 4,
+    "story_id": "1afaf356-3550-466f-902b-ddcd70bdb51b"
+  },
+  {
+    "file": "blind-10_R5FM-JJYF/round-01.json",
+    "model": "anthropic/claude-opus-4.6",
+    "rating": 4,
+    "participant_id": "blind-10",
+    "round": 1,
+    "story_id": "d2a8c1b2-c4c2-4342-b08c-f1eb5f7c124a"
+  },
+  {
+    "file": "blind-10_R5FM-JJYF/round-02.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 4,
+    "participant_id": "blind-10",
+    "round": 2,
+    "story_id": "d50a6581-fd8a-4bac-812b-8528c1be2465"
+  },
+  {
+    "file": "blind-10_R5FM-JJYF/round-03.json",
+    "model": "google/gemini-3.1-pro-preview",
+    "rating": 4,
+    "participant_id": "blind-10",
+    "round": 3,
+    "story_id": "b9c60d38-7b99-40a9-8064-4105e381c93f"
+  },
+  {
+    "file": "blind-10_R5FM-JJYF/round-04.json",
+    "model": "deepseek/deepseek-v3.2",
+    "rating": 4,
+    "participant_id": "blind-10",
+    "round": 4,
+    "story_id": "568ab4b0-93fe-4581-863b-e59d7bc296fc"
+  },
+  {
+    "file": "blind-14_48FD-86AY/round-01.json",
+    "model": "z-ai/glm-5",
+    "rating": 3,
+    "participant_id": "blind-14",
+    "round": 1,
+    "story_id": "7c8f8c5c-5959-4d85-8777-d4c1604432a3"
+  },
+  {
+    "file": "blind-14_48FD-86AY/round-03.json",
+    "model": "doubao/seed-2.0-pro",
+    "rating": 4,
+    "participant_id": "blind-14",
+    "round": 3,
+    "story_id": "07f7067f-9ce3-433f-b400-f9c969c89644"
+  },
+  {
+    "file": "blind-14_48FD-86AY/round-04.json",
+    "model": "openai/gpt-5.4",
+    "rating": 4,
+    "participant_id": "blind-14",
+    "round": 4,
+    "story_id": "44cb668d-1ecb-4f4b-aa88-3a81f24e75c4"
+  },
+  {
+    "file": "blind-17_33SE-2TQ6/round-02.json",
+    "model": "anthropic/claude-sonnet-4.6",
+    "rating": 3,
+    "participant_id": "blind-17",
+    "round": 2,
+    "story_id": "4e526c33-1173-428a-b7a8-5b325ccf4b7d"
+  },
+  {
+    "file": "blind-17_33SE-2TQ6/round-03.json",
+    "model": "deepseek/deepseek-v3.2",
+    "rating": 2,
+    "participant_id": "blind-17",
+    "round": 3,
+    "story_id": "785af1ff-1bd8-4608-987c-de080143aaef"
+  },
+  {
+    "file": "blind-17_33SE-2TQ6/round-04.json",
+    "model": "qwen/qwen3.5-397b-a17b",
+    "rating": 3,
+    "participant_id": "blind-17",
+    "round": 4,
+    "story_id": "3603f754-a3c2-47a7-8dc7-35db150af029"
+  }
+]
