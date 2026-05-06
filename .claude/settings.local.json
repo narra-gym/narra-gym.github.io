@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(mkdir -p /Users/howiehwong/Desktop/narra-gym.github.io/data/dialogues)",
+      "Bash(cp -R \"/Users/howiehwong/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_a1mugwzg3j4d22_7705/msg/file/2026-05/completed_invite_results_20260504_120610/.\" /Users/howiehwong/Desktop/narra-gym.github.io/data/dialogues/)",
+      "Bash(python3 -m http.server 8765 --bind 127.0.0.1)",
+      "Bash(echo \"Server: http://127.0.0.1:8765/compare.html \\(pid=$!\\)\")",
+      "Bash(lsof -ti:8765)",
+      "Bash(curl *)",
+      "Bash(awk '/^nav\\\\{/,/^}$/' /Users/howiehwong/Desktop/narra-gym.github.io/index.html)",
+      "Bash(awk '/^\\\\.nav-links/,/^}$/' /Users/howiehwong/Desktop/narra-gym.github.io/index.html)",
+      "Bash(awk '/^\\\\.mark/,/^}$/' /Users/howiehwong/Desktop/narra-gym.github.io/index.html)",
+      "Bash(awk '/^nav\\\\{/,/^}$/' /Users/howiehwong/Desktop/narra-gym.github.io/compare.html)",
+      "Bash(awk '/^\\\\.nav-links/,/^}$/' /Users/howiehwong/Desktop/narra-gym.github.io/compare.html)",
+      "Bash(awk '/^\\\\.mark/,/^}$/' /Users/howiehwong/Desktop/narra-gym.github.io/compare.html)",
+      "Bash(gh api *)"
+    ]
+  }
+}
