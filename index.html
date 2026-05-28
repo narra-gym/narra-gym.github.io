@@ -589,7 +589,32 @@ h2.section-title em{
   border-bottom:1px solid var(--paper-edge);
   font-family:'Inter',sans-serif;white-space:nowrap;
 }
-.lb-table th:last-child{text-align:right}
+.lb-table thead tr:first-child th{
+  font-size:.86rem;
+  letter-spacing:.16em;
+  padding-top:10px;
+  padding-bottom:8px;
+}
+.lb-table thead tr:nth-child(2) th{
+  padding-top:8px;
+}
+.lb-table th.group{
+  text-align:center;
+  position:relative;
+  padding-left:18px;
+}
+.lb-table th.model-col{
+  min-width:180px;
+}
+.lb-table thead tr:first-child th.group::before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:12px;
+  bottom:12px;
+  width:1px;
+  background:linear-gradient(180deg, transparent 0%, rgba(141,111,88,.42) 18%, rgba(141,111,88,.42) 82%, transparent 100%);
+}
 .lb-table th[data-tip]{position:relative;cursor:help}
 .lb-table th[data-tip]::after{
   content:attr(data-tip);
@@ -621,7 +646,18 @@ h2.section-title em{
   font-size:.95rem;color:var(--ink-muted);vertical-align:middle;
   font-variant-numeric:tabular-nums;white-space:nowrap;
 }
-.lb-table td:last-child{text-align:right}
+.lb-table td:not(.model-name){
+  text-align:center;
+}
+.lb-table thead tr:nth-child(2) th:nth-child(1),
+.lb-table thead tr:nth-child(2) th:nth-child(3),
+.lb-table thead tr:nth-child(2) th:nth-child(10),
+.lb-table tbody td:nth-child(2),
+.lb-table tbody td:nth-child(4),
+.lb-table tbody td:nth-child(11){
+  border-left:1px solid rgba(176,158,138,.34);
+  box-shadow:inset 12px 0 0 rgba(141,111,88,.05);
+}
 .lb-table tr:last-child td{border-bottom:none}
 .lb-table .model-name{
   font-family:'Fraunces',serif;color:var(--ink);font-weight:500;
@@ -635,10 +671,6 @@ h2.section-title em{
   object-fit:contain;background:var(--paper);
   border:1px solid var(--paper-edge);padding:2px;
   flex-shrink:0;
-}
-.lb-table .avg{
-  font-family:'Instrument Serif',serif;font-style:italic;
-  color:var(--terracotta);font-size:1.1rem;
 }
 .lb-table tbody tr:hover td{background:rgba(237,214,208,.12)}
 .rank-dot{
@@ -2190,80 +2222,69 @@ a:focus-visible,button:focus-visible{
       <table class="lb-table" aria-label="Narra-Gym Leaderboard — preliminary results">
         <thead>
           <tr>
-            <th style="width:56px">#</th>
-            <th>Model</th>
-            <th data-tip="Relevance">Rel.</th>
-            <th data-tip="Coherence">Coh.</th>
-            <th data-tip="Empathy">Emp.</th>
-            <th data-tip="Surprise">Sur.</th>
-            <th data-tip="Engagement">Eng.</th>
-            <th data-tip="Complexity">Cpx.</th>
-            <th data-tip="Character Shaping">Char.</th>
-            <th data-tip="Satisfaction">Sat.</th>
-            <th data-tip="Perceived Quality">P.Q.</th>
-            <th data-tip="Procedural Helpfulness">P.H.</th>
+            <th class="model-col" rowspan="2">Model</th>
+            <th class="group" colspan="2">Aggregates</th>
+            <th class="group" colspan="7">Story Dimensions</th>
+            <th class="group" colspan="4">User Experience</th>
+          </tr>
+          <tr>
+            <th data-tip="Story Quality">StoryQ</th>
+            <th data-tip="Overall User Experience">UX</th>
+            <th data-tip="Relevance">Rel</th>
+            <th data-tip="Coherence">Coh</th>
+            <th data-tip="Empathy">Emp</th>
+            <th data-tip="Surprise">Sur</th>
+            <th data-tip="Engagement">Eng</th>
+            <th data-tip="Complexity">Cpx</th>
+            <th data-tip="Character Shaping">Char</th>
+            <th data-tip="Satisfaction">Sat</th>
+            <th data-tip="Perceived Quality">PQual</th>
+            <th data-tip="Procedural Helpfulness">Help</th>
             <th data-tip="Reuse Intent">Reuse</th>
-            <th data-tip="Average across 11 dimensions">Avg</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><span class="rank-dot">1</span></td>
             <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/anthropic.png" alt="Anthropic">Claude Sonnet 4.6</span></td>
-            <td>1.99</td><td>2.13</td><td>3.22</td><td>1.58</td><td>1.93</td><td>2.53</td><td>1.78</td><td>1.73</td><td>2.38</td><td>0.80</td><td>2.39</td>
-            <td class="avg">2.04</td>
+            <td>1.83</td><td>1.83</td><td>1.99</td><td>2.13</td><td>1.21</td><td>1.23</td><td>1.93</td><td>2.53</td><td>1.78</td><td>1.73</td><td>2.38</td><td>0.80</td><td>2.39</td>
           </tr>
           <tr>
-            <td><span class="rank-dot">2</span></td>
             <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/anthropic.png" alt="Anthropic">Claude Opus 4.6</span></td>
-            <td>1.20</td><td>1.24</td><td>1.21</td><td>0.80</td><td>0.67</td><td>2.81</td><td>2.79</td><td>1.97</td><td>1.18</td><td>2.38</td><td>2.72</td>
-            <td class="avg">1.72</td>
+            <td>1.69</td><td>2.06</td><td>1.20</td><td>1.24</td><td>0.87</td><td>1.53</td><td>1.36</td><td>2.81</td><td>2.79</td><td>1.97</td><td>1.18</td><td>2.38</td><td>2.72</td>
           </tr>
           <tr>
-            <td><span class="rank-dot">3</span></td>
             <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/openai.png" alt="OpenAI">GPT-5.4</span></td>
-            <td>1.64</td><td>1.84</td><td>1.89</td><td>1.53</td><td>1.36</td><td>1.41</td><td>1.12</td><td>3.89</td><td>1.27</td><td>1.09</td><td>1.12</td>
-            <td class="avg">1.65</td>
+            <td>1.73</td><td>1.84</td><td>1.64</td><td>1.84</td><td>3.22</td><td>1.58</td><td>1.28</td><td>1.41</td><td>1.11</td><td>3.89</td><td>1.27</td><td>1.09</td><td>1.12</td>
           </tr>
           <tr>
-            <td><span class="rank-dot">4</span></td>
-            <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/gemini.png" alt="Google">Gemini 3.1 Pro</span></td>
-            <td>0.93</td><td>1.44</td><td>0.87</td><td>1.46</td><td>1.34</td><td>0.68</td><td>1.06</td><td>0.80</td><td>1.34</td><td>1.46</td><td>0.98</td>
-            <td class="avg">1.12</td>
-          </tr>
-          <tr>
-            <td><span class="rank-dot">5</span></td>
             <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/qwen.png" alt="Qwen">Qwen3.5-397B</span></td>
-            <td>0.62</td><td>0.41</td><td>0.50</td><td>0.62</td><td>1.19</td><td>0.31</td><td>1.11</td><td>0.99</td><td>1.37</td><td>1.22</td><td>1.06</td>
-            <td class="avg">0.85</td>
+            <td>1.02</td><td>1.16</td><td>0.62</td><td>1.44</td><td>0.68</td><td>1.46</td><td>1.19</td><td>0.68</td><td>1.06</td><td>0.99</td><td>1.37</td><td>1.22</td><td>1.06</td>
           </tr>
           <tr>
-            <td><span class="rank-dot">6</span></td>
-            <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/doubao.png" alt="Doubao">Doubao Seed 2.0</span></td>
-            <td>0.90</td><td>0.90</td><td>1.39</td><td>0.74</td><td>0.55</td><td>1.39</td><td>0.68</td><td>0.59</td><td>0.48</td><td>0.82</td><td>0.61</td>
-            <td class="avg">0.82</td>
+            <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/gemini.png" alt="Google">Gemini 3.1 Pro</span></td>
+            <td>0.83</td><td>1.15</td><td>0.93</td><td>0.52</td><td>0.72</td><td>0.62</td><td>1.34</td><td>0.55</td><td>1.12</td><td>0.80</td><td>1.34</td><td>1.46</td><td>0.98</td>
           </tr>
           <tr>
-            <td><span class="rank-dot">7</span></td>
+            <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/doubao.png" alt="Doubao">Doubao</span></td>
+            <td>0.99</td><td>0.63</td><td>0.90</td><td>0.76</td><td>1.89</td><td>0.74</td><td>0.55</td><td>1.39</td><td>0.68</td><td>0.59</td><td>0.48</td><td>0.82</td><td>0.61</td>
+          </tr>
+          <tr>
             <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/deepseek.png" alt="DeepSeek">DeepSeek V3.2</span></td>
-            <td>0.71</td><td>0.76</td><td>0.68</td><td>0.63</td><td>0.50</td><td>0.55</td><td>0.46</td><td>0.64</td><td>0.89</td><td>0.58</td><td>0.57</td>
-            <td class="avg">0.63</td>
+            <td>0.59</td><td>0.72</td><td>0.71</td><td>0.90</td><td>0.64</td><td>0.63</td><td>0.50</td><td>0.31</td><td>0.46</td><td>0.64</td><td>0.89</td><td>0.78</td><td>0.57</td>
           </tr>
           <tr>
-            <td><span class="rank-dot">8</span></td>
             <td class="model-name"><span class="model-cell"><img class="model-logo" src="images/zai.png" alt="Z.AI">GLM-5</span></td>
-            <td>0.69</td><td>0.52</td><td>0.64</td><td>0.62</td><td>0.67</td><td>0.62</td><td>0.49</td><td>0.25</td><td>0.35</td><td>0.42</td><td>0.38</td>
-            <td class="avg">0.51</td>
+            <td>0.60</td><td>0.35</td><td>0.69</td><td>0.41</td><td>0.50</td><td>0.80</td><td>0.67</td><td>0.62</td><td>0.49</td><td>0.25</td><td>0.35</td><td>0.42</td><td>0.38</td>
           </tr>
           <tr class="note-row">
-            <td colspan="14">— hover a column header to read its full name; ranking by 11-dimension average —</td>
+            <td colspan="14">hover a column header to read its full name; row order follows the 11-dimension overall average</td>
           </tr>
         </tbody>
       </table>
       </div>
 
       <div class="table-foot">
-        <span>Last updated &middot; <span style="color:var(--terracotta)">2026/05/07</span></span>
+        <span>Last updated &middot; <span style="color:var(--terracotta)">2026/05/28</span></span>
         <span class="hand">a first reading</span>
       </div>
     </div>
